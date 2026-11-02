@@ -1,12 +1,14 @@
 # Dashboard view-to-table map
 
-Step 2, prepared 2 November 2026 against the finalized `2026-11-02-local-v9` upload set. This is a source map, not a dashboard release or completed data export.
+Step 2 source map, updated with the [Step 3 first-release decisions](dashboard_scope.md) on 2 November 2026. The sources remain the finalized `2026-11-02-local-v9` upload set. Data export and dashboard implementation remain pending.
 
 The [machine-readable map](dashboard_view_map.json) records exact table IDs, source files and checksums, source column names, observed filter levels, and interpretation rules. Source-specific filter levels do not imply that every combination is available.
 
 All three packages and the frozen supplement remain byte-identical. `dashboard/` still contains only `.gitkeep`. The mapping documentation lives here so the dashboard folder stays empty.
 
 ## Readiness
+
+Scope is resolved: 25 mapped views are included in preparation; the observed institutional-period, training-linked employment and funding-band extensions are deferred. This does not assert that any view has been implemented.
 
 | View | Dataset family | Source readiness |
 |---|---|---|
@@ -16,8 +18,8 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 | [Saved fitted group profiles](#content-fitted) | `content_fitted` | mapped existing |
 | [Saved fitted pairwise contrasts](#content-fitted-contrasts) | `content_contrasts` | mapped existing |
 | [Saved temporal changes and continuing-institution sensitivity](#content-temporal-changes) | `content_contrasts` | mapped existing |
-| [Saved fitted institutional profiles](#institution-profiles) | `institution_profiles` | needs definition |
-| [Fixed equal-institution comparison benchmark](#institution-benchmark) | `institution_profiles` | needs definition |
+| [Saved fitted institutional profiles](#institution-profiles) | `institution_profiles` | mapped existing |
+| [Fixed equal-institution comparison benchmark](#institution-benchmark) | `institution_profiles` | mapped existing |
 | [Original mock-up: observed institutional profiles by period](#institution-observed-period-profiles) | `institution_profiles` | needs new aggregate |
 | [Identified funding-connection reach](#funding-reach) | `funding_connection` | mapped existing |
 | [Observed content by funding connection](#funding-content-profiles) | `funding_connection` | mapped existing |
@@ -230,7 +232,9 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 
 ## Saved fitted institutional profiles
 
-**Family:** `institution_profiles`. **Readiness:** needs definition.
+**First-release scope:** Included in preparation; not implemented.
+
+**Family:** `institution_profiles`. **Readiness:** mapped existing.
 
 **Sources**
 
@@ -258,17 +262,19 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 
 **Remaining work or limitation**
 
-- The synthetic mock-up assumes observed institutional profiles and a period selector. Use an explicitly labeled fitted-profile view for existing data; switching the interface definition is a Step 3 decision.
+- Step 3 adopts the saved fitted-profile view, with outcome, institution selection and category controls only. Earlier/later work counts are context. Adapter and interface implementation remain.
 
 <a id="institution-benchmark"></a>
 
 ## Fixed equal-institution comparison benchmark
 
-**Family:** `institution_profiles`. **Readiness:** needs definition.
+**First-release scope:** Included in preparation; not implemented.
+
+**Family:** `institution_profiles`. **Readiness:** mapped existing.
 
 **Sources**
 
-- [`DEP2_T10_institution_profiles`](../training_workforce_evidence/TABLES.html#table-dep2-t10-institution-profiles) — Candidate existing fitted-profile inputs; 2200 rows.
+- [`DEP2_T10_institution_profiles`](../training_workforce_evidence/TABLES.html#table-dep2-t10-institution-profiles) — Saved fitted-profile points for the defined reference; 2200 rows.
 - [`DEP2_T12_institution_support`](../training_workforce_evidence/TABLES.html#table-dep2-t12-institution-support) — Fixed institutional support roster; 200 rows.
 
 **Proposed controls and supported comparisons**
@@ -278,18 +284,22 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 
 **Interpretation and preparation**
 
-- The benchmark must remain invariant when users change the selected institutions; selected institutions remain in the fixed cohort.
-- For a benchmark of fitted profiles, average eligible institution estimates with equal institution weights. It has no pooled work numerator or denominator.
-- Do not average institution confidence bounds to invent a benchmark confidence interval.
-- The original observed period-specific benchmark cannot be obtained by relabeling these fitted inputs.
+- For each outcome and category, average the 50 supplied supported T10 estimates with weight 1/50, then multiply by 100 for percentage display.
+- Pin the T12 roster in dashboard_scope.json. Institution selection and category visibility never change the roster or weights; selected institutions remain included.
+- Use T10 unit_id to join T12 institution_id. Verify T12 profile_supported and T10 report_supported/finite estimate; missing profile intervals do not exclude valid points.
+- If any fixed member lacks a required supported point, mark that benchmark unavailable. Do not drop, impute zero, reselect or silently reweight institutions.
+- The benchmark is a descriptive mean of fitted profiles, with no confidence interval. Do not average profile bounds or manufacture institution-minus-benchmark inference.
+- No work-count weighting, refitting or observed-period relabeling is allowed. C8 categories remain nonexclusive.
 
 **Remaining work or limitation**
 
-- No standalone benchmark table is supplied. Step 3 must choose observed versus fitted estimand, define cohort/eligibility and specify missingness before deriving it.
+- Generate and validate the benchmark during the dataset-build step. The fixed roster, eligibility, formula and missing-input policy are in [dashboard_scope.json](dashboard_scope.json).
 
 <a id="institution-observed-period-profiles"></a>
 
 ## Original mock-up: observed institutional profiles by period
+
+**First-release scope:** Deferred.
 
 **Family:** `institution_profiles`. **Readiness:** needs new aggregate.
 
@@ -489,6 +499,8 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 <a id="funding-bands-extension"></a>
 
 ## Funding-band comparisons (deferred)
+
+**First-release scope:** Deferred.
 
 **Family:** `funding_connection`. **Readiness:** needs new aggregate.
 
@@ -734,6 +746,8 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 
 ## Employment roles by training field or content
 
+**First-release scope:** Deferred.
+
 **Family:** `employment_profiles`. **Readiness:** needs new aggregate.
 
 **Sources**
@@ -817,7 +831,7 @@ All three packages and the frozen supplement remain byte-identical. `dashboard/`
 
 ## Next step
 
-Settle the listed measure/display definitions, then implement the data contract and deterministic exports. This map does not generate the RC-RMI lookup, construct new employment intersections, calculate funding bands, or modify the prototype. Preserve the complete catalog as the download route for evidence not charted initially.
+The first-release definitions and deferrals are settled in [dashboard_scope.md](dashboard_scope.md). Next define the data contract, then implement deterministic exports for the included views. This map does not generate the RC-RMI lookup, construct new employment intersections, calculate funding bands, or modify the prototype. Preserve the complete catalog as the download route for evidence not charted initially.
 
 ## Mapping checks
 

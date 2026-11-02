@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "decision_date": "2026-11-02",
+  "status": "First-release scope resolved; implementation and numerical export pending",
+  "evidence_version": "2026-11-02-local-v9",
+  "record_doi": "10.5281/zenodo.23897503",
+  "scope": "Step 3 only; records definitions and deferrals without generating dashboard data or changing source packages.",
+  "institution_profiles": {
+    "view_id": "institution_profiles",
+    "first_release": "include",
+    "display_label": "Fitted institutional research-content profiles",
+    "period_label": "Period-standardized profiles, with equal weighting of 2010–2016 and 2017–2023",
+    "source_table": "DEP2_T10_institution_profiles",
+    "support_table": "DEP2_T12_institution_support",
+    "coverage_table": "DEP2_T14_institution_period_coverage",
+    "key": [
+      "outcome",
+      "unit_id",
+      "category"
+    ],
+    "institution_join": {
+      "left": [
+        "outcome",
+        "unit_id"
+      ],
+      "right": [
+        "outcome",
+        "institution_id"
+      ]
+    },
+    "allowed_controls": [
+      "outcome",
+      "institution_selection",
+      "category_visibility"
+    ],
+    "unsupported_controls": [
+      "period",
+      "degree",
+      "field",
+      "custom_year_range"
+    ],
+    "coverage_policy": "Display earlier/later work counts as context; do not apply their period as a profile filter or multiply profile rows through a one-to-many join.",
+    "point_policy": "Preserve supported finite estimates even when their reportable intervals are unavailable. Use unit_id rather than the partially blank embedded institution_id.",
+    "interval_policy": "Display only the saved reportable profile intervals; preserve their statuses. Diagnostic bounds do not fill missing bounds.",
+    "interpretation": "Period-standardized fitted profiles retain degree and field composition. They are not observed period-specific proportions, institutional quality rankings or causal effects."
+  },
+  "institution_benchmark": {
+    "view_id": "institution_benchmark",
+    "first_release": "include",
+    "benchmark_id": "fixed50_equal_institution_fitted_v9",
+    "display_label": "Average fitted profile (50 institutions, equal weights)",
+    "source_table": "DEP2_T10_institution_profiles",
+    "support_table": "DEP2_T12_institution_support",
+    "grouping": [
+      "outcome",
+      "category"
+    ],
+    "institution_key": "unit_id",
+    "cohort": {
+      "institution_ids": [
+        "U100663",
+        "U104151",
+        "U104179",
+        "U110468",
+        "U110583",
+        "U110592",
+        "U110653",
+        "U110662",
+        "U110680",
+        "U120698",
+        "U122409",
+        "U123961",
+        "U125231",
+        "U130794",
+        "U134097",
+        "U134130",
+        "U137351",
+        "U142832",
+        "U143978",
+        "U145600",
+        "U151351",
+        "U157085",
+        "U163259",
+        "U163286",
+        "U164988",
+        "U166027",
+        "U170976",
+        "U174066",
+        "U186380",
+        "U190150",
+        "U190576",
+        "U196060",
+        "U196079",
+        "U196088",
+        "U199120",
+        "U199847",
+        "U201885",
+        "U204796",
+        "U214777",
+        "U215293",
+        "U216339",
+        "U217484",
+        "U218663",
+        "U228796",
+        "U234030",
+        "U236939",
+        "U236948",
+        "U238032",
+        "U243780",
+        "U413413"
+      ],
+      "expected_count": 50,
+      "roster_sha256": "80b295204abf09e25a67dccfe32901be12929fbcb54c9efd0a81c419a136720b",
+      "fingerprint_encoding": "Sorted IDs, UTF-8, LF separators, terminal LF",
+      "membership": "The fixed T12 institutional roster selected before outcome-specific exclusions; identical for all four outcomes."
+    },
+    "eligibility_validation": [
+      "T12 profile_supported=1 for all 50 roster members within each outcome.",
+      "One T10 row per roster institution, outcome and category, with report_supported=1 and finite probability estimate.",
+      "Interval availability is not a point eligibility condition."
+    ],
+    "formula_probability": "sum(T10.estimate for the 50 fixed-roster institutions) / 50",
+    "formula_percent": "100 * formula_probability",
+    "weighting": "1/50 per institution; use supplied period-standardized estimates without refitting or reweighting by work counts.",
+    "invariance": "Institution selection and category visibility never change membership, weights or benchmark values; selected institutions remain in the reference.",
+    "interval_status": "not_computed_descriptive_reference",
+    "uncertainty_rule": "No benchmark confidence interval, significance test, or difference interval is supported by marginal profile intervals; do not average their endpoints.",
+    "missing_input_policy": "Mark the affected outcome/category benchmark unavailable if any fixed member lacks a valid supported point. Do not drop members, fill zero or silently reselect/reweight the cohort; require explicit scope/version revision.",
+    "multi_response_rule": "C8 categories are nonexclusive; do not renormalize their means to sum to 100%.",
+    "build_status": "Defined here; no benchmark values generated in step 3."
+  },
+  "deferred_views": {
+    "institution_observed_period_profiles": {
+      "reason": "The existing package has period-specific coverage but no institution-period-category numerator table. The first release uses saved fitted profiles instead.",
+      "reentry_requirements": [
+        "Prepare and review actual institution-period-category counts and eligible bases.",
+        "Define the observed estimand and fixed cohort explicitly before changing the fitted view."
+      ]
+    },
+    "employment_training_linked": {
+      "reason": "Released degree-role and research-content margins do not supply their joint cells.",
+      "reentry_requirements": [
+        "Construct reviewed joint aggregates for one broad field OR content subgroup.",
+        "Document observation/scoring bases, missingness, support and disclosure limits.",
+        "Do not infer intersections from marginal tables or enable combined field-and-content filters."
+      ]
+    },
+    "funding_bands_extension": {
+      "reason": "The funding measure, band boundaries and supported joint comparison populations have not been defined for this extension.",
+      "reentry_requirements": [
+        "Choose the measure, units, fiscal/completion windows and band boundaries.",
+        "Specify the joint population, treatment of zeros/missingness and any overlapping exposure.",
+        "Prepare and validate the required aggregates; keep project-count exposures distinct from dollar amounts."
+      ]
+    }
+  },
+  "interface_rules": [
+    "Do not expose deferred views as operational filters or allow their states through a shared URL.",
+    "Remove or disable institution period/degree/field controls only for the fitted institutional view; keep supported period controls in other mapped views.",
+    "Institution search changes visible selections, not the fixed cohort.",
+    "Keep the complete released table catalog available; deferral does not remove evidence downloads."
+  ],
+  "source_tables": {
+    "DEP2_T10_institution_profiles": {
+      "restored_table_sha256": "eef881d77a7aef18bc7a28c6d83e41f4cc26b0d6e8cb3c8e527e7d89fa23be3c",
+      "file": "training_workforce_evidence/data/rq2_estimates.csv",
+      "container_sha256": "7f58a8cd0007fc55a12e09008a787621722da8fa850236d94f1ec719ccaa0f62"
+    },
+    "DEP2_T12_institution_support": {
+      "restored_table_sha256": "d86897051e9fcb8afbedefbce1823eef7fbd3dc629077de1178e22d256926d09",
+      "file": "training_workforce_evidence/data/population.csv",
+      "container_sha256": "6c01a44a45f82543346e23eb72d8be9275f265c3abcd049cd155a709f9b5e0fe"
+    },
+    "DEP2_T14_institution_period_coverage": {
+      "restored_table_sha256": "b02bbc4d638f6bbb36a3de651d99d32596f9a7462d634b10a56163dba03b9993",
+      "file": "training_workforce_evidence/data/population.csv",
+      "container_sha256": "6c01a44a45f82543346e23eb72d8be9275f265c3abcd049cd155a709f9b5e0fe"
+    },
+    "DEP2_T16_category_labels": {
+      "restored_table_sha256": "8a42ed20e9368b1b1cf175fe58910b3e5b8b57ec030142bd0ba7f1eb4bbd3bbd",
+      "file": "training_workforce_evidence/data/population.csv",
+      "container_sha256": "6c01a44a45f82543346e23eb72d8be9275f265c3abcd049cd155a709f9b5e0fe"
+    }
+  },
+  "source_audit": {
+    "fixed_institutions": 50,
+    "outcome_institution_support_rows": 200,
+    "profile_rows": 2200,
+    "category_counts": {
+      "C3": 12,
+      "C4": 8,
+      "C5": 12,
+      "C8": 12
+    },
+    "valid_supported_points": 2200,
+    "missing_reportable_profile_intervals": 60,
+    "missing_embedded_institution_id_rows": 1000
+  }
+}

@@ -36,3 +36,5 @@ There is no blanket license over the repository. Original software is MIT licens
 Dashboard development will take place outside the three preserved component folders. No dashboard data, synthetic mock-up or application has been added yet.
 
 The [dashboard view-to-table map](docs/dashboard_view_map.md) identifies the released sources, supported filters, denominators and remaining definition/data gaps. Its [machine-readable companion](docs/dashboard_view_map.json) records exact fields and source checksums. These are preparation documents; the dashboard folder remains an empty placeholder.
+
+[First-release scope decisions](docs/dashboard_scope.md) adopt fitted institutional profiles and a fixed equal-institution reference, and defer the three extensions requiring new aggregates. Dataset and interface implementation remain pending.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "prepared_date": "2026-11-02",
-  "scope": "Step 2: source mapping only. No dashboard datasets or application generated.",
+  "scope": "Step 2 source mapping with Step 3 first-release decisions applied. No dashboard datasets or application generated.",
   "evidence_version": "2026-11-02-local-v9",
   "record_doi": "10.5281/zenodo.23897503",
   "source_components": [
@@ -93,7 +93,8 @@
           "degree_group",
           "field_code"
         ]
-      }
+      },
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "content_observed",
@@ -202,7 +203,8 @@
           "cardinality": "many-to-one",
           "verified_left_key_coverage": true
         }
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "content_observed_difference",
@@ -254,7 +256,8 @@
         "Do not pool groups or change the denominator when categories are selected."
       ],
       "gaps": [],
-      "row_selection_rules": []
+      "row_selection_rules": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "content_fitted",
@@ -343,7 +346,8 @@
           "cardinality": "many-to-one",
           "verified_left_key_coverage": true
         }
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "content_fitted_contrasts",
@@ -487,7 +491,8 @@
         "This family is for standardized fitted profile comparisons. Do not add a period or primary/continuing population selector that the source does not contain."
       ],
       "gaps": [],
-      "row_selection_rules": []
+      "row_selection_rules": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "content_temporal_changes",
@@ -584,13 +589,14 @@
         "The stacked estimate registry uses different support columns by outcome: C3/C5 use primary_* for T3/T8 and shared_* for T9; C4/C8 use the unprefixed early_eligible_works/late_eligible_works and early_institutions/late_institutions on the relevant source row. Preserve this source-specific mapping; blank prefixed fields do not mean zero support."
       ],
       "gaps": [],
-      "row_selection_rules": []
+      "row_selection_rules": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "institution_profiles",
       "family": "institution_profiles",
       "title": "Saved fitted institutional profiles",
-      "readiness": "needs_definition",
+      "readiness": "mapped_existing",
       "sources": [
         {
           "table_id": "DEP2_T10_institution_profiles",
@@ -653,7 +659,7 @@
         "Retain the fixed roster. Institution search changes visible selections, not cohort membership."
       ],
       "gaps": [
-        "The synthetic mock-up assumes observed institutional profiles and a period selector. Use an explicitly labeled fitted-profile view for existing data; switching the interface definition is a Step 3 decision."
+        "Definition resolved in dashboard_scope.json. Adapter and interface implementation remain; no institutional profile exports are generated here."
       ],
       "row_selection_rules": [],
       "joins": [
@@ -671,17 +677,19 @@
           "cardinality": "many-to-one",
           "verified_left_key_coverage": true
         }
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope",
+      "scope_decision": "Use the saved period-standardized fitted profiles; no period, degree or field filter on this view."
     },
     {
       "id": "institution_benchmark",
       "family": "institution_profiles",
       "title": "Fixed equal-institution comparison benchmark",
-      "readiness": "needs_definition",
+      "readiness": "mapped_existing",
       "sources": [
         {
           "table_id": "DEP2_T10_institution_profiles",
-          "role": "Candidate existing fitted-profile inputs"
+          "role": "Saved fitted-profile points for the defined fixed-50 reference"
         },
         {
           "table_id": "DEP2_T12_institution_support",
@@ -710,15 +718,19 @@
         ]
       },
       "rules": [
-        "The benchmark must remain invariant when users change the selected institutions; selected institutions remain in the fixed cohort.",
-        "For a benchmark of fitted profiles, average eligible institution estimates with equal institution weights. It has no pooled work numerator or denominator.",
-        "Do not average institution confidence bounds to invent a benchmark confidence interval.",
-        "The original observed period-specific benchmark cannot be obtained by relabeling these fitted inputs."
+        "For each outcome and category, average the 50 supplied supported T10 estimates with weight 1/50, then multiply by 100 for percentage display.",
+        "Pin the T12 roster in dashboard_scope.json. Institution selection and category visibility never change the roster or weights; selected institutions remain included.",
+        "Use T10 unit_id to join T12 institution_id. Verify T12 profile_supported and T10 report_supported/finite estimate; missing profile intervals do not exclude valid points.",
+        "If any fixed member lacks a required supported point, mark that benchmark unavailable. Do not drop, impute zero, reselect or silently reweight institutions.",
+        "The benchmark is a descriptive mean of fitted profiles, with no confidence interval. Do not average profile bounds or manufacture institution-minus-benchmark inference.",
+        "No work-count weighting, refitting or observed-period relabeling is allowed. C8 categories remain nonexclusive."
       ],
       "gaps": [
-        "No standalone benchmark table is supplied. Step 3 must choose observed versus fitted estimand, define cohort/eligibility and specify missingness before deriving it."
+        "Definition resolved in dashboard_scope.json. Generate and validate the derived reference during the dataset-build step."
       ],
-      "row_selection_rules": []
+      "row_selection_rules": [],
+      "first_release_scope": "included_in_preparation_scope",
+      "scope_decision": "Derive a descriptive mean of the 50 fixed-roster fitted profiles with equal institution weights; no interval."
     },
     {
       "id": "institution_observed_period_profiles",
@@ -757,7 +769,9 @@
       "gaps": [
         "No released institution-period-category count table was found in the current catalog. Retaining the original observed-period mock-up requires new reviewed aggregates; otherwise use the labeled fitted-profile alternative."
       ],
-      "row_selection_rules": []
+      "row_selection_rules": [],
+      "first_release_scope": "deferred",
+      "scope_decision": "The existing package has period-specific coverage but no institution-period-category numerator table. The first release uses saved fitted profiles instead."
     },
     {
       "id": "funding_reach",
@@ -809,7 +823,8 @@
         "No institution, flexible completion-year, field or dollar-band filter is present in this source. Separate released field-reach tables do not authorize cross-filtering this view.",
         "Do not substitute DEP3_cohort.connected: it means PI-only rather than the current combined connection."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "funding_content_profiles",
@@ -948,7 +963,8 @@
         "Observed content has no fitted model, sampling interval or significance test. Blank bounds remain blank.",
         "No field, institution or flexible-year filter is supported by these tables."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "institutional_count_association",
@@ -1014,7 +1030,8 @@
         "The saved target-to-fit route must follow code/compare_count_fits.py and the fit registry; do not join target rows to every fit having the same degree and ownership.",
         "No institution, category, flexible period, dollar band or alternative funding-contrast control is authorized by this saved-result view."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "within_pi_participation",
@@ -1065,7 +1082,8 @@
         "Preserve preceding_funding_window_FY (5 doctorate, 2 Masters) and completion_FY_excluded in explanatory metadata.",
         "Equal-PI content profiles are a different saved family and must not substitute for this participation summary."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "student_award_frame_coverage",
@@ -1115,7 +1133,8 @@
         "No degree, institution, research-content or flexible-year control is supported.",
         "No intervals are supplied in this disposition table; do not transfer capture intervals to inclusion shares."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "student_award_search_capture",
@@ -1171,7 +1190,8 @@
         "nonretrieval_share_of_noninclusion_percent uses the noninclusion base (linked_work_N minus included_work_n), not all linked works; preserve unavailable behavior for zero base.",
         "Use the same finite award-specific filter values as student_award_frame_coverage. Do not synchronize these period bins to the training/content two-period selector."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "funding_bands_extension",
@@ -1201,7 +1221,9 @@
       "gaps": [
         "No adopted band boundaries or band-specific population/denominator definition.",
         "No finalized joint band aggregates for the proposed comparisons."
-      ]
+      ],
+      "first_release_scope": "deferred",
+      "scope_decision": "The funding measure, band boundaries and supported joint comparison populations have not been defined for this extension."
     },
     {
       "id": "employment_roles",
@@ -1246,7 +1268,8 @@
         "Keep unscored distinct from unclassifiable (instrument U); the latter remains an instrument information state. Scored-only unscored percentages remain unavailable.",
         "All three specifications exist: inclusive, conservative, no_hospital_override."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "employment_occupations",
@@ -1300,7 +1323,8 @@
         "Join coverage many-to-one on exact degree_group. Keep unavailable and aggregate_residual rows in the denominator and display counts.",
         "Preserve reported competition_rank, count_tie_size and main_table_group. No scoring-specification or year filter exists for this occupation-only table."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "outside_destinations",
@@ -1365,7 +1389,8 @@
       "row_selection": [
         "destination_dimension = grouped",
         "specification = inclusive for destination-only totals"
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "outside_roles",
@@ -1441,7 +1466,8 @@
       "gaps": [],
       "row_selection": [
         "destination_dimension = grouped for destination-specific rows"
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "employment_connection_profiles",
@@ -1490,7 +1516,8 @@
       ],
       "gaps": [
         "The complete no_hospital_override six-state funding-connection profile is not supplied. Disable that specification for this view."
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "destination_connection",
@@ -1550,7 +1577,8 @@
         "Difference direction is connected minus no identified connection. Preserve saved Wilson and Newcombe limits and the original Holm family; do not recompute adjusted p-values after user filtering.",
         "Keep sparse_group_n_under_10 visible. No institution, field, employer or period cross-filter."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "destination_saved_contrasts",
@@ -1626,7 +1654,8 @@
         "Standardization retains its exact target: 189 known-industry research-doctorate pooled broad-sector distribution. No uncertainty fields are supplied for the standardized contrast.",
         "Industry comparison retains naics_groups=5417;3254;3345;3391 and threshold 3; do not turn individual constituent industries into supported filters."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "employment_sensitivities",
@@ -1694,7 +1723,8 @@
         "Specification transition directions use only supplied ordered pairs; degree grouping differs from the pooled outside-analysis degree grouping.",
         "Sensitivity definitions overlap; never add them into a population total. Preserve subset and observed-degree denominator distinctions."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "outside_occupation_breakdowns",
@@ -1773,7 +1803,8 @@
         "No joining separate marginals to produce new intersections. Detailed destination AND role is not supplied; the joint source supports grouped destinations only.",
         "Preserve occupation_row_type, soc_code as text, breakdown_n and outside_n; label which percentage is displayed."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "employment_training_linked",
@@ -1796,7 +1827,9 @@
       ],
       "gaps": [
         "Requires new joint aggregates and release review; no production dataset or enabled control in the first release."
-      ]
+      ],
+      "first_release_scope": "deferred",
+      "scope_decision": "Released degree-role and research-content margins do not supply their joint cells."
     },
     {
       "id": "rc_rmi_lookup",
@@ -1833,7 +1866,8 @@
         "rc_rmi_scorer/data/soc_crosswalk.csv",
         "rc_rmi_scorer/data/original_two_specifications.json",
         "rc_rmi_scorer/expected_domain_fingerprints.json"
-      ]
+      ],
+      "first_release_scope": "included_in_preparation_scope"
     },
     {
       "id": "table_catalog",
@@ -1861,7 +1895,8 @@
         "Keep NIH institution/funding rebuild inputs downloadable without requiring the dashboard to load them.",
         "The reader is a downloadable workflow component; it supplies no empirical dashboard observations."
       ],
-      "gaps": []
+      "gaps": [],
+      "first_release_scope": "included_in_preparation_scope"
     }
   ],
   "source_tables": {
@@ -6771,5 +6806,10 @@
     "entry_count": 246,
     "display_snapshot_count": 50,
     "all_entries_resolved_in_memory": true
+  },
+  "scope_decisions": {
+    "file": "dashboard_scope.json",
+    "version": 1,
+    "date": "2026-11-02"
   }
 }
