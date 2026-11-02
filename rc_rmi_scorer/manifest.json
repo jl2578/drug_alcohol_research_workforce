@@ -1,0 +1,31 @@
+{
+  "version": "rc-rmi-standalone-2026-10-30-local-v6",
+  "status": "prepared component of unpublished combined Zenodo draft",
+  "files": {
+    "CITATION.cff": "a35511dd904263d743bcdd4f961e40f0207b6aa6eabb8aaff991e04f967fec5d",
+    "data/combination_rules.csv": "fd9ac49eb92b16fdfa419a38df96dfb48c532142b511fa6b9988e921de347c03",
+    "data/constructs_and_scales.csv": "68ef4f71413442ca2d615513845559812f8865cb910b9ff4b386ccf07f716217",
+    "data/industry_decisions.csv": "a948fb676383a79dbdc029df113879ce77e3948d593d6f5c072d0a83aae67f9d",
+    "data/occupation_decisions.csv": "7c96f7775dfc0558621b6dc9e9d5446a9e93f9a7294d1051414909c9dfe2c6cb",
+    "data/original_two_specifications.json": "8e1203db0bb804949d0ae2e4131cc0d8be5209d6a1c5127dd18378824ff7beed",
+    "data/soc_crosswalk.csv": "4d7594c72e961b7d85b9665eebdef135ec5efade0c9d48c55ff57db3c3201bdd",
+    "DATA_DICTIONARY.md": "964a3b7aafa4bdd29ef77923f2a7e0c964849bc297b80511af9f568c7d499248",
+    "expected_domain_fingerprints.json": "ed3daef448ca1f1432778496fd7da4b5cd44cb28600e61c6d5da98c825e43b1b",
+    "fixtures/synthetic_pairs.csv": "3ef4b97efc7ace0d5abcc51b4acd94657237b1ad6251cbd869576112471d483e",
+    "instrument.py": "fa92ac44efb7e1e17ad11825ee1eb2aa8aedd7199671e5c41982193b17957038",
+    "LICENSE": "15c50af67d7988d291a7c94fc2b5ecde81ad4eb23ac0401cbd008284a151ae56",
+    "LICENSE-CC-BY-4.0.txt": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744",
+    "NOTICE.md": "924ee670665f8a0d8f822070ba048bdd6b49c10655a7b004881852d8e1f8f758",
+    "README.md": "282a66103a4a9b65ce5dc8c594d21c9d4545476fea20722a526c0712315b3455",
+    "REPRODUCTION.md": "c9da57f2706c07b76e98228228331b0bcd8620b24f365942745cb32a0a63f582",
+    "scorer.py": "fa27fac4d229de14132eef9746bd5d9355d257e1765e7bea71f0da5cb3484303",
+    "test_scorer.py": "a65577853cb3b758f9e271329394dff05ff4e1841f085d11f74bcb6fa715d1f3"
+  },
+  "archive": {
+    "doi": "10.5281/zenodo.23897503",
+    "doi_scope": "combined study-evidence record; not a component-specific DOI",
+    "publication_status": "reserved; unpublished",
+    "upload_filename": "rc_rmi_scorer.zip",
+    "extracted_folder": "rc_rmi_scorer"
+  }
+}

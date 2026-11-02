@@ -1,0 +1,59 @@
+{
+  "source": "Finalized combined Zenodo upload set",
+  "record_doi": "10.5281/zenodo.23897503",
+  "record_version": "2026-11-02-local-v9",
+  "prepared_date": "2026-11-02",
+  "source_upload_files": [
+    {
+      "file": "CITATION.cff",
+      "bytes": 1212,
+      "sha256": "ef2489bb6be1aca809a445dd0b59e6583e2426b65befdd288312cf80ec1e972a"
+    },
+    {
+      "file": "proquest_v5_reproducibility.zip",
+      "bytes": 168898,
+      "sha256": "b3f4e26aad5ebc713fe214aea41973f73ce2f00febf1725a047e4b055bd7ba49"
+    },
+    {
+      "file": "rc_rmi_scorer.zip",
+      "bytes": 51049,
+      "sha256": "8e34e6609aaeb312a6340345513f55fd9ce1437c6e52f94ac4f037309fd40f44"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5932,
+      "sha256": "a0057e92b1821ae39aea528e0d9342cce9879383cceec07943558d5cb6ca36d2"
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "bytes": 425,
+      "sha256": "8a44ed3088995038d50e4503ea073bf30fe72b963d116d79e56d5dab18642a2d"
+    },
+    {
+      "file": "study_evidence_v9.zip",
+      "bytes": 6519846,
+      "sha256": "0a9f7f991bcc8bb626c5b8dbe941682aa005f559b4e3938bffe6b97e330176d8"
+    }
+  ],
+  "components": [
+    {
+      "archive": "study_evidence_v9.zip",
+      "directory": "training_workforce_evidence",
+      "files": 110,
+      "sha256": "0a9f7f991bcc8bb626c5b8dbe941682aa005f559b4e3938bffe6b97e330176d8"
+    },
+    {
+      "archive": "proquest_v5_reproducibility.zip",
+      "directory": "proquest_v5_reproducibility",
+      "files": 41,
+      "sha256": "b3f4e26aad5ebc713fe214aea41973f73ce2f00febf1725a047e4b055bd7ba49"
+    },
+    {
+      "archive": "rc_rmi_scorer.zip",
+      "directory": "rc_rmi_scorer",
+      "files": 19,
+      "sha256": "8e34e6609aaeb312a6340345513f55fd9ce1437c6e52f94ac4f037309fd40f44"
+    }
+  ],
+  "note": "Source archive checksums describe the Zenodo upload files, not the expanded Git tree. Component contents are preserved byte for byte. Dashboard is an empty placeholder."
+}

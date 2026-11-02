@@ -1,0 +1,9 @@
+{
+  "scope": "Full potential-pair domain; original engine and retained two lookups checked privately. No empirical fingerprints.",
+  "pairs_per_specification": 20604,
+  "score_fingerprints": {
+    "inclusive": "8edf0ca772552a259c96fec6dd30e34245b88f822821eb31378215724067113a",
+    "no_hospital_override": "7c5d9f7c1624fcb39578e2f93f08d89491ebd1659e624afcd58fa9ffd8121e90",
+    "conservative": "417c4ec3e08e7a0c8951fd4dfdd6e483b8f666047ebf6ba8a48700bd5002a75a"
+  }
+}

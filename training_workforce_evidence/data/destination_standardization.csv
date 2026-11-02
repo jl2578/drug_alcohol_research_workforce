@@ -1,0 +1,4 @@
+specification,target,connected_standardized_pct,no_identified_connection_standardized_pct,standardized_difference_pp,crude_known_industry_difference_pp
+inclusive,189 known-industry RD pooled broad-sector distribution,68.14737290927768,49.594356261022924,18.553016648254754,25.056255625562557
+conservative,189 known-industry RD pooled broad-sector distribution,54.77062619919762,41.62005542957923,13.15057076961839,20.477047704770477
+no_hospital_override,189 known-industry RD pooled broad-sector distribution,61.79816656007132,47.213403880070544,14.584762680000779,23.481098109810976

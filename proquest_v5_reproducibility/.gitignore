@@ -1,0 +1,6 @@
+private/
+.env
+.token/
+__pycache__/
+.ipynb_checkpoints/
+*.log

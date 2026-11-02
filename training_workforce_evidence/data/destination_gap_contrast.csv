@@ -1,0 +1,4 @@
+specification,outside_gap_pp,college_gap_pp,outside_minus_college_gap_pp,hc3_se_pp,normal_approx_95_low_pp,normal_approx_95_high_pp,normal_approx_two_sided_p,n_known_industry,inference_scope
+inclusive,29.75113122171945,6.818181818181812,22.932949403537638,11.965621344689776,-0.5192374846980492,46.38513629177332,0.05529259822880417,189,"exploratory independent-record HC3 normal approximation, not design-based or causal"
+conservative,26.47058823529412,2.5252525252525193,23.9453357100416,14.291861613085851,-4.066198323637181,51.95686974372038,0.09384547725699066,189,"exploratory independent-record HC3 normal approximation, not design-based or causal"
+no_hospital_override,26.47058823529412,6.818181818181812,19.652406417112307,11.87921921392091,-3.6304354066288838,42.9352482408535,0.09805607554477935,189,"exploratory independent-record HC3 normal approximation, not design-based or causal"

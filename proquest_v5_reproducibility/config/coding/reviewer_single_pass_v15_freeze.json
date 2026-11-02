@@ -1,0 +1,54 @@
+{
+  "status": "frozen_reviewer_single_pass_v15",
+  "codebook_revision": 15,
+  "scope_arm": "scope_full",
+  "stage_models": {
+    "scope_full": "gpt_5_2025_08_07",
+    "content": "gpt_4o_2024_08_06"
+  },
+  "stage_profiles": {
+    "scope_full": {
+      "api_cap_field": "max_completion_tokens",
+      "output_cap": 12000,
+      "reasoning_effort": "low",
+      "seed": null,
+      "temperature": null
+    },
+    "content": {
+      "api_cap_field": "max_tokens",
+      "output_cap": 8000,
+      "temperature": 0,
+      "seed": null
+    }
+  },
+  "files_sha256": {
+    "config/coding/dissertation_codebook_v5_rev15_reproduction.md": "560e701919570ee57007e7c7d770762fe193f8d2967e7de10da54d8b71fa9bc9",
+    "config/coding/reviewer_single_pass_v15/content_prompt.md": "42dbc0687318add1030630e3a0be1d7d4720d0fb7092657bd4758ff09ec8cec8",
+    "config/coding/reviewer_single_pass_v15/content_schema.json": "02c968d5ccedb021bbc669b05511b3111cedddc3fe62055643bea7ff76b41c5c",
+    "config/coding/reviewer_single_pass_v15/scope_full_schema.json": "43325d0c1fb24c1896ca88b9bcce63249943a260972c44f8f6d69c20da6962b6",
+    "config/coding/reviewer_single_pass_v15/scope_prompt.md": "0dfa31df5358f9fad399b8be98d0ebcb73bf8f0acd6108747b59fc43d7def687",
+    "src/coding/build_v5_calibration_packages.py": "ac5e04cf9bec8e34b3d1cc14d5efd115948c6d42e3ce3e5d95374a3719b690ea",
+    "src/coding/extract_v5_rev13_pilot_from_xml.py": "16304b3790407dddfae48ea4b45826467bf21a07d441dafb788e57651d93937a",
+    "src/coding/extract_v5_rev14_production_from_xml.py": "615f7d2183f34ec454288e764ad82a7c4eca4f7cc56569ec11100b22f2d5b86a",
+    "src/coding/merge_v5_rev14_hybrid_production_exports.py": "3268bab2e115f94fb425333de17d49a6b23722efa3275050c3f465d45661db61",
+    "src/coding/normalize_v5_rev13.py": "046baae4e6ab69a47e767a0b5cc73639070ae8a027efe65501fccba1814171f6",
+    "src/coding/public_workflow.py": "d20f5cc1be6727ef8f0d578bbd19df391e69d8bb7e352f03f07862940c957873",
+    "src/coding/recover_v5_rev14_hybrid_checkpoint.py": "ae645b16cb1d084d5841c83f81d782042e829f62a45a1d42e506b7e6e281a031",
+    "src/coding/reviewer_scope_single_pass.py": "e782feca1db62a430e43641752ed78d01c6e5ccb48a7c77721a8d797ba6c8408",
+    "src/coding/run_v5_rev14_hybrid_production.py": "415dff0fabd8f061f5cf743b14830fd5fdf1a639869027c42e5fafb066384b9c",
+    "src/coding/run_v5_rev14_pilot.py": "4098041c8375a1ae4cf26048bb54dce71d731ac5d7ac79ab588ed4300062d189",
+    "src/coding/run_v5_rev14_scope_compare.py": "d938b0166fb578c77a709b303f017137a70a32544c3f35e673fa8d56d7ecf699",
+    "src/coding/validate_v5_rev14_pilot.py": "195d9fbae79d48847ccc19b5f94b48c0f286459ffb17b4135b177bcda6b144a0"
+  },
+  "run_name": "revision15_single_scope_reviewer_rerun_20261029",
+  "worker_count": "reader-selected positive count",
+  "roster_count": "new search-derived",
+  "assessable_count": "new search-derived",
+  "unassessable_count": "new search-derived",
+  "assignment": "new private reader plan; no historical GOID list bundled",
+  "model_retirement_note": "Verify requested model snapshots in the authorized TDM session before live processing.",
+  "workflow": "one_complete_scope_pass_then_fixed_target_content",
+  "scope_coding_passes": 1,
+  "content_contract": "C1-C9 only; all scope immutable",
+  "method_note": "One complete scope assessment per record, followed by C1\u2013C9 coding for the fixed qualifying targets."
+}

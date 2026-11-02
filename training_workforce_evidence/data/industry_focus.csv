@@ -1,0 +1,4 @@
+specification,naics_groups,research_score_threshold,total_observations,connected_observations,connected_likely_research,connected_percent,no_identified_connection_observations,no_identified_connection_likely_research,no_identified_connection_percent,difference_percentage_points
+inclusive,5417;3254;3345;3391,3,25,15,15,100,10,7,70,30
+conservative,5417;3254;3345;3391,3,25,15,15,100,10,7,70,30
+no_hospital_override,5417;3254;3345;3391,3,25,15,15,100,10,7,70,30

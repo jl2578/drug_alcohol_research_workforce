@@ -1,0 +1,9 @@
+Specification,Estimate pp,Pointwise 95% CI pp,Raw p,Works,Institutions
+Named-degree controls,+4.36,−1.33 to 10.04,0.132602,"4,814",395
+Complete advisor/committee fields,+3.94,−1.83 to 9.71,0.180478,"4,405",384
+Complete substance labels,+4.58,−1.44 to 10.59,0.135474,"4,690",395
+Institutions with both groups in both periods,−3.56,−10.71 to 3.59,0.324484,"2,278",72
+Comparison includes NIAAA-only works,+5.42,−0.07 to 10.91,0.053059,"5,179",398
+Preceding-funded PI connections only,+4.22,−1.49 to 9.94,0.147180,"4,790",395
+Degree and field effects vary post,+3.95,−2.67 to 10.58,0.241596,"4,814",395
+Institution-specific post shifts,−0.99,−7.96 to 5.98,0.780157,"4,814",395

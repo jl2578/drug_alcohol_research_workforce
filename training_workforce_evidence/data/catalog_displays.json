@@ -1,0 +1,1097 @@
+{
+  "schema_version": 1,
+  "tables": [
+    {
+      "id": "dep1-e01",
+      "display": "Extended Table DEP1-E01",
+      "title": "All-topic retrieval and dissertation accounting: source exports",
+      "snapshot_table": "DISPLAY_DEP1_E01",
+      "csv_file": "data/display_tables/DEP1-E01.csv",
+      "source_tables": [
+        "DEP1/methods/sm1_frame/frame_metadata.json"
+      ],
+      "preamble": "",
+      "notes": "Table note: In-scope, out-of-scope and undetermined records sum to 21,045; adding 28 not assessed gives 21,073. Completed assessment does not mean that every field has a determinate substantive code.\n\nSeparate all-topic ProQuest exports, not national completion counts. Publication export windows and completion-year eligibility are distinct. Table DEP1-E02 records processing and DEP1-E03 the topical roster representation. The broad all-topic doctoral frame includes professional doctorates; the current S3 institutional numerator/denominator use the adopted research-doctorate mapping (663,430 all-topic works) and master's mapping (327,528), before analysis-specific timing/funding restrictions. Other-credential, unresolved and unmapped-pair works remain explicit exclusions (supplement S1.3/S3.1 and DATA_NOTES). The single S3 timing hold applies to both compatible numerator and denominator.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "not machine-checked: saved values",
+      "original_numbers_matched": "7/8",
+      "original_map_note": "Partial number match; values may be derived or rounded differently",
+      "former_label": "SM1_native_02"
+    },
+    {
+      "id": "dep1-e02",
+      "display": "Extended Table DEP1-E02",
+      "title": "All-topic retrieval and dissertation accounting: processing the exports",
+      "snapshot_table": "DISPLAY_DEP1_E02",
+      "csv_file": "data/display_tables/DEP1-E02.csv",
+      "source_tables": [
+        "DEP1_frame_accounting"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "not machine-checked: saved values",
+      "original_numbers_matched": "14/14",
+      "original_map_note": "",
+      "former_label": "SM1_native_03"
+    },
+    {
+      "id": "dep1-e03",
+      "display": "Extended Table DEP1-E03",
+      "title": "All-topic retrieval and dissertation accounting: representation of the topical roster",
+      "snapshot_table": "DISPLAY_DEP1_E03",
+      "csv_file": "data/display_tables/DEP1-E03.csv",
+      "source_tables": [
+        "DEP1/methods/sm1_frame/roster_coverage.csv",
+        "DEP1/methods/sm1_frame/frame_metadata.json"
+      ],
+      "preamble": "",
+      "notes": "Table note: Degree removals comprised 765 specialist, two mixed-level and 333 unrecognized records; an unrecognized label does not establish out-of-scope status. The 19 topical-roster records outside the comparison comprise 17 specialist credentials, one mixed-level credential and one unresolved institution. The first five Panel C rows describe the candidate roster; the last row uses the adopted in-scope scientific-work mapping. Eight of the 13,227 adopted in-scope works remain outside this comparison. The linked count does not certify the final RQ3 panel; S1 applies narrower doctoral rules.\n\nA later degree review proposed 55 additions (52 master’s and three PhD dissertations), affecting 15 cells at nine institutions, and left 137 decisions unresolved. These corrections are not adopted, so these tables and the indexing figure keep the original counts.\n\nThe first export contained ten fewer records than its dashboard count; their identities and local effects are unknown, and revised retrieval could alter duplicate assignments, so the current total is not a guaranteed lower bound.\n\nWork counts do not directly count people: an author may produce more than one thesis or dissertation.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "not machine-checked: saved values",
+      "original_numbers_matched": "5/6",
+      "original_map_note": "",
+      "former_label": "SM1_native_04"
+    },
+    {
+      "id": "dep1-e04",
+      "display": "Extended Table DEP1-E04",
+      "title": "Indexed dissertations and degree awards: pooled counts at matched institutions",
+      "snapshot_table": "DISPLAY_DEP1_E04",
+      "csv_file": "data/display_tables/DEP1-E04.csv",
+      "source_tables": [
+        "DEP1_indexing_pooled_indexing",
+        "DEP1_indexing_national_award_coverage"
+      ],
+      "preamble": "",
+      "notes": "Table note: These bases overlap and are not successive exclusions. Population content profiles use their stated completed, applicable observations; uncertainty, structural inapplicability and incomplete processing remain separate. RQ1 measurement additionally distinguishes conditional agreement on jointly coded values from end-to-end correctness on reference-coded values, counting model nondelivery as nonmatches in the latter (S1).\n\nWe compared all-topic ProQuest dissertations and theses with degrees awarded to assess whether indexed research tracks university output over time. This helps interpret drug- and alcohol-related research counts, which may also change as ProQuest’s representation of university output changes. The comparison is independent of topical eligibility coding.\n\nIndexed dissertations per 100 degree awards = 100 × summed indexed dissertations and theses ÷ summed degree awards at matched institutions. We compared master’s theses with all master’s awards and flagged research-doctorate dissertations with research/scholarship doctoral awards. These ratios describe indexed research relative to awards; they are neither degree-type shares nor direct database-capture estimates.\n\nFrom 2010 to 2023, indexed research-doctorate dissertations increased by 8% while corresponding awards increased by 43%, reducing the ratio from 79.3 to 59.9 per 100 awards (Extended Table DEP1-E05). Master’s indexed theses and awards increased by 41% and 42%; their ratio was 3.1 at both endpoints, after rising to 4.2 in 2014 and then declining (DEP1 Figure F2).\n\nThe annual doctoral comparison expanded from 464 to 663 institutions. Among the same 411 institutions in all 14 years, indexed dissertations increased by 6% and awards by 32%, reducing the ratio from 80.8 to 65.2. Changing membership therefore cannot fully explain the decline. The prespecified RQ3 doctoral sensitivity uses this fixed institution group (S3). This fixed group is disproportionately NIH-supported: about 86% of its awards were at institutions supported in at least one relevant funding window, versus 53% outside the group (S3).\n\nWe matched dissertations to IPEDS institutions by year and counted each institution identifier once per award total. We required an approved match and available positive awards, retaining awards even when no dissertation was indexed. Extended Table DEP1-E04 reports pooled counts and matched institutions’ share of national awards; this share describes the award denominator, not dissertation capture. The supporting indexing tables give exclusions and ratios above 100, including the unresolved school/campus correspondence that required excluding the Chicago School.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "not machine-checked: saved values",
+      "original_numbers_matched": "18/19",
+      "original_map_note": "",
+      "former_label": "SM1_native_06"
+    },
+    {
+      "id": "dep1-e05",
+      "display": "Extended Table DEP1-E05",
+      "title": "Indexed dissertations and degree awards in 2010 and 2023",
+      "snapshot_table": "DISPLAY_DEP1_E05",
+      "csv_file": "data/display_tables/DEP1-E05.csv",
+      "source_tables": [
+        "DEP1_indexing_annual_indexing"
+      ],
+      "preamble": "",
+      "notes": "Table notes: We summed dissertations and awards before calculating ratios. National totals were 11,376,644 master’s and 981,947 research/scholarship doctoral awards. The stable group required positive doctoral awards and unchanged constituent IPEDS identifiers in all 14 years, without selecting on indexing ratios; it contributes 89.5% of matched doctoral awards. Panel B uses flagged research doctorates and whole-number percentage changes. Panel A’s upper doctoral counts add 4,302 unresolved classifications in matched comparisons; the endpoints reflect classification uncertainty, not confidence intervals or excluded degree cases.\n\nSources: ProQuest all-topic exports and 2010–2023 IPEDS Completions files downloaded 27 September 2026. We used cYYYY_a.csv, not _rv members, with first-major, all-fields totals (MAJORNUM=1, CIPCODE=99, CTOTALT) and award levels 7 (master’s) and 17 (research/scholarship doctoral). We matched July–June IPEDS reporting year to completion year without a shift, an approximate alignment.\n\nMaster’s awards include degrees without a thesis, and deposit/indexing practices may vary; indexed theses therefore do not represent all master’s graduates or support employment generalization to that population. ProQuest and IPEDS doctoral classifications, timing and institutional boundaries also differ, but we have not quantified their contributions to the discrepancies. Ratios above 100 account for 22.9% of matched flagged doctoral dissertations and reinforce why these are not capture percentages; some extreme comparisons remain unexplained. The declining doctoral ratio does not imply replacement by another doctorate type. We withheld a broader doctoral comparison because missing award rows could not reliably be distinguished from genuine zeros. These all-topic results raise a concern about representation over time but do not establish the size or direction of bias in drug- and alcohol-related research; we use neither adjustment factors nor funding covariates derived from these ratios.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "not machine-checked: saved values",
+      "original_numbers_matched": "18/22",
+      "original_map_note": "Partial number match; values may be derived or rounded differently",
+      "former_label": "SM1_native_07"
+    },
+    {
+      "id": "dep1-e06",
+      "display": "Extended Table DEP1-E06",
+      "title": "Raw original unit-field agreement on the random 50",
+      "snapshot_table": "DISPLAY_DEP1_E06",
+      "csv_file": "data/display_tables/DEP1-E06.csv",
+      "source_tables": [
+        "DEP1/measurement/aggregates/measurement/rq1_20261011/human_raw_unit_agreement.csv"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "13/13",
+      "original_map_note": "",
+      "former_label": "SM3_native_05"
+    },
+    {
+      "id": "dep1-e07",
+      "display": "Extended Table DEP1-E07",
+      "title": "Visible detailed-subset attention diagnostic",
+      "snapshot_table": "DISPLAY_DEP1_E07",
+      "csv_file": "data/display_tables/DEP1-E07.csv",
+      "source_tables": [
+        "DEP1_human_attention_diagnostic"
+      ],
+      "preamble": "",
+      "notes": "Tier 2 exact category agreement and nominal kappa use jointly coded pairs for single-select fields. C8 uses exact-set agreement and mean per-record Jaccard on jointly coded nonempty arrays, with per-label inclusion and order/confidence diagnostics separate. Table S1.6 transfers completed initial results; the bootstrap interval column applies to kappa or Jaccard, not to the exact-agreement proportion.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "9/9",
+      "original_map_note": "",
+      "former_label": "SM3_native_06"
+    },
+    {
+      "id": "dep1-e08",
+      "display": "Extended Table DEP1-E08",
+      "title": "Focus and in-scope substance domain performance",
+      "snapshot_table": "DISPLAY_DEP1_E08",
+      "csv_file": "data/display_tables/DEP1-E08.csv",
+      "source_tables": [
+        "DEP1_focus_domain_metrics"
+      ],
+      "preamble": "",
+      "notes": "Reference-assignment bounds are defined in Section S1 of the supplement.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "38/38",
+      "original_map_note": "",
+      "former_label": "SM3_native_10"
+    },
+    {
+      "id": "dep1-e09",
+      "display": "Extended Table DEP1-E09",
+      "title": "Focus and domain agreement: bootstrap intervals",
+      "snapshot_table": "DISPLAY_DEP1_E09",
+      "csv_file": "data/display_tables/DEP1-E09.csv",
+      "source_tables": [
+        "DEP1_human_content_agreement",
+        "DEP1_focus_domain_metrics"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "The focus/domain bootstrap limits and defined-replicate counts are saved display values with no separate aggregate export. Linked tables support point counts, not reconstruction of those bootstrap intervals.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "9/15",
+      "original_map_note": "Point counts only. These bootstrap intervals are printed here, with no separate data table.",
+      "former_label": "SM3_native_11"
+    },
+    {
+      "id": "dep1-e10",
+      "display": "Extended Table DEP1-E10",
+      "title": "Adjudicated content reference observability",
+      "snapshot_table": "DISPLAY_DEP1_E10",
+      "csv_file": "data/display_tables/DEP1-E10.csv",
+      "source_tables": [
+        "DEP1_reference_content_observability"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "34/34",
+      "original_map_note": "",
+      "former_label": "SM3_native_13"
+    },
+    {
+      "id": "dep1-e11",
+      "display": "Extended Table DEP1-E11",
+      "title": "Model status and structural-applicability correctness",
+      "snapshot_table": "DISPLAY_DEP1_E11",
+      "csv_file": "data/display_tables/DEP1-E11.csv",
+      "source_tables": [
+        "DEP1_content_metric_results"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "40/42",
+      "original_map_note": "",
+      "former_label": "SM3_native_14"
+    },
+    {
+      "id": "dep1-e12",
+      "display": "Extended Table DEP1-E12",
+      "title": "Data-type per-label inclusion cross-tabs",
+      "snapshot_table": "DISPLAY_DEP1_E12",
+      "csv_file": "data/display_tables/DEP1-E12.csv",
+      "source_tables": [
+        "DEP1_content_data_type_per_label_metrics"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "14/14",
+      "original_map_note": "",
+      "former_label": "SM3_native_15"
+    },
+    {
+      "id": "dep1-e13",
+      "display": "Extended Table DEP1-E13",
+      "title": "Data-type per-label precision and sensitivity",
+      "snapshot_table": "DISPLAY_DEP1_E13",
+      "csv_file": "data/display_tables/DEP1-E13.csv",
+      "source_tables": [
+        "DEP1_content_data_type_per_label_metrics"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "40/40",
+      "original_map_note": "",
+      "former_label": "SM3_native_16"
+    },
+    {
+      "id": "dep1-e14",
+      "display": "Extended Table DEP1-E14",
+      "title": "Data-type order diagnostics",
+      "snapshot_table": "DISPLAY_DEP1_E14",
+      "csv_file": "data/display_tables/DEP1-E14.csv",
+      "source_tables": [
+        "DEP1_content_data_type_order_diagnostics"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "9/9",
+      "original_map_note": "",
+      "former_label": "SM3_native_17"
+    },
+    {
+      "id": "dep1-e15",
+      "display": "Extended Table DEP1-E15",
+      "title": "Degree and baseline funding scope performance",
+      "snapshot_table": "DISPLAY_DEP1_E15",
+      "csv_file": "data/display_tables/DEP1-E15.csv",
+      "source_tables": [
+        "DEP1_subgroup_scope_metrics"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "39/39",
+      "original_map_note": "",
+      "former_label": "SM3_native_18"
+    },
+    {
+      "id": "dep1-e16",
+      "display": "Extended Table DEP1-E16",
+      "title": "Observed differences and staged explanatory review",
+      "snapshot_table": "DISPLAY_DEP1_E16",
+      "csv_file": "data/display_tables/DEP1-E16.csv",
+      "source_tables": [
+        "DEP1/measurement/aggregates/measurement/rq1_20261011/error_review_summary.csv"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "2/2",
+      "original_map_note": "",
+      "former_label": "SM3_native_19"
+    },
+    {
+      "id": "dep1-e17",
+      "display": "Extended Table DEP1-E17",
+      "title": "Content discrepancy and uncertainty accounting",
+      "snapshot_table": "DISPLAY_DEP1_E17",
+      "csv_file": "data/display_tables/DEP1-E17.csv",
+      "source_tables": [
+        "DEP1/measurement/aggregates/measurement/rq1_20261013/category_crosstabs.csv",
+        "DEP1/measurement/aggregates/measurement/rq1_20261013/status_crosstabs.csv"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "0/3",
+      "original_map_note": "Few numbers to match; link set by topic",
+      "former_label": "SM3_native_20"
+    },
+    {
+      "id": "dep1-e18",
+      "display": "Extended Table DEP1-E18",
+      "title": "Award/person relationship accounting, primary plus-three window",
+      "snapshot_table": "DISPLAY_DEP1_E18",
+      "csv_file": "data/display_tables/DEP1-E18.csv",
+      "source_tables": [],
+      "preamble": "",
+      "notes": "Search capture measures whether an identified award-associated work entered the candidate frame before abstract-assessability or inclusion-coding decisions. Final-inclusion coverage measures whether it subsequently entered the study population. All 820 primary matched works are indexed in the all-topic ProQuest frame. The primary base contains 786 doctoral and 34 master's works; 582 and 19, respectively, entered the population. Matching a work to an award holder does not establish that the award funded that particular degree. Works are counted once across repeated awards and mechanisms; the F30/F31 and R36 work bases overlap by two works. The clear-plus-possible base contains 829 doctoral and 39 master's works, of which 615 and 22 are included.\n\nThe topical search retrieved 598/775 F30/F31-associated works (77.2%) and 39/47 R36-associated works (83.0%) into the candidate frame. Final-inclusion coverage was 567/775 (73.2%; Wilson 95% CI 69.9–76.2%) for F30/F31 fellowships and 34/47 (72.3%; 58.2–83.1%) for R36 grants. The pooled union is a secondary accounting summary: 636/820 works were retrieved (77.6%) and 601/820 entered the population (73.3%).",
+      "source_limit": "Saved aggregate display only. The record-level award/person ledger is restricted and no separate aggregate table was supplied. This transcription permits reading and export, not independent reconstruction of the linkage.",
+      "original_check": "",
+      "original_numbers_matched": "0/28",
+      "original_map_note": "Printed here only. The record-level ledger is restricted and no aggregate table is supplied.",
+      "former_label": "SM3_native_21"
+    },
+    {
+      "id": "dep1-e19",
+      "display": "Extended Table DEP1-E19",
+      "title": "Timing and match-definition sensitivity, all mechanisms",
+      "snapshot_table": "DISPLAY_DEP1_E19",
+      "csv_file": "data/display_tables/DEP1-E19.csv",
+      "source_tables": [
+        "DEP1_search_capture_by_period_and_scenario"
+      ],
+      "preamble": "",
+      "notes": "Scientific-undetermined and incomplete-processing counts are zero in these matched-work bases; both remain separate dispositions in the supporting tables. In the primary clear base, 184 works were not retrieved (22.4% of 820), 32 were retrieved but excluded (3.9%) and three lacked usable abstracts (0.4%). Of the 636 retrieved works, 633 had assessable abstracts and 601 entered the population. The four disposition columns in Table S1.10 are mutually exclusive; the 32 exclusions are adopted inclusion decisions rather than independently established coding errors.\n\nNonretrieval accounts for 184 of the 219 pooled works not included (84.0% of nonentry), so the observed gap arises mainly at retrieval rather than classification after retrieval. Here, not retrieved means that a work present in the all-topic ProQuest frame was absent from the topical query results; it does not mean that the work was absent from ProQuest. This is a stage-of-nonentry description; the substantive scope of nonretrieved works is unknown.\n\nNon-retrieved works have title-only evidence here, so their substantive scope is unknown. An award is not proof that a dissertation meets this study's inclusion criteria. These estimates describe inclusion among identified, source-linked ProQuest works and remain conditional on identity-link validity while independent human validation is pending. They do not estimate coverage of all award recipients, degree completion, ProQuest indexing completeness or national search recall.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "15/15",
+      "original_map_note": "",
+      "former_label": "SM3_native_23"
+    },
+    {
+      "id": "dep1-e20",
+      "display": "Extended Table DEP1-E20",
+      "title": "Coverage by completion period, clear links and primary timing",
+      "snapshot_table": "DISPLAY_DEP1_E20",
+      "csv_file": "data/display_tables/DEP1-E20.csv",
+      "source_tables": [
+        "DEP1_search_capture_by_period_and_scenario"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "measurement: counts, proportions and Wilson intervals recomputed",
+      "original_numbers_matched": "20/22",
+      "original_map_note": "",
+      "former_label": "SM3_native_24"
+    },
+    {
+      "id": "dep3-e01",
+      "display": "Extended Table DEP3-E01",
+      "title": "Exact degree mapping in the all-topic indexed source",
+      "snapshot_table": "DISPLAY_DEP3_E01",
+      "csv_file": "data/display_tables/DEP3-E01.csv",
+      "source_tables": [
+        "DEP3_all_topic"
+      ],
+      "preamble": "",
+      "notes": "These denominators describe indexed works with the adopted credential mapping. They are not a comprehensive degree census or an estimate of retrieval recall. The single completion-year hold is removed from timing-dependent institutional numerator and denominator cells. Unresolved exposure is never set to zero.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "5/5",
+      "original_map_note": "",
+      "former_label": "SM4_native_02"
+    },
+    {
+      "id": "dep3-e02",
+      "display": "Extended Table DEP3-E02",
+      "title": "Alternative funding contrasts from the same fitted coefficient",
+      "snapshot_table": "DISPLAY_DEP3_E02",
+      "csv_file": "data/display_tables/DEP3-E02.csv",
+      "source_tables": [
+        "DEP3_count_primary_reference"
+      ],
+      "preamble": "Alternative contrasts are translations of the same fitted coefficient; they are not additional fits or independent estimates.",
+      "notes": "Exact common-reference membership and degree companion coefficients are source-indexed. A differing interval crossing 1 across degree-specific fits does not establish a degree difference. The compatible direct comparison remains inconclusive, with no equivalence claim.\n\nEvery check target is shown. Each numeric cell prints full ownership above / historical for-profit exclusion below. U denotes an unavailable point.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "count_fits: fitted fresh from the panel",
+      "original_numbers_matched": "8/14",
+      "original_map_note": "Derived from the same fitted coefficient by the translation stated with the table",
+      "former_label": "SM4_native_08"
+    },
+    {
+      "id": "dep3-e03",
+      "display": "Extended Table DEP3-E03",
+      "title": "All registered selective checks",
+      "snapshot_table": "DISPLAY_DEP3_E03",
+      "csv_file": "data/display_tables/DEP3-E03.csv",
+      "source_tables": [],
+      "preamble": "Every check target is shown. Each numeric cell prints full ownership above / historical for-profit exclusion below. U denotes an unavailable point.",
+      "notes": "Inference. Primary intervals are unavailable for all 36 new checks. Conditional HC3 method-transfer companions exist for 30 estimable targets and are separately indexed; they are nonadopted, not separately calibrated, and do not replace unavailable primary inference. Bonferroni 18 retains the complete registered family in each ownership population, including unavailable focus targets. None of these conditional family 18 tests is below .05.\n\nSpecificity. Both institute predictors enter each drug/alcohol count model jointly with logD and institution/year effects. Drug includes drug and both domains; alcohol includes alcohol and both. Unresolved domains are separate, not zeros. Own/other contrasts include coefficient covariance. Point estimates favor the corresponding institute, with substantial uncertainty.\n\nCapacity and rate. Overall mapped output D is the response in the capacity check; logD cannot also predict itself. The in-scope-rate check uses logD as an offset, distinct from the main estimated-logD count model. Indexed-output changes cannot distinguish institutional capacity from index capture or certify retrieval recall.\n\nTiming and focus. Later funding is strictly t+1 through t+w, excluding completion FY and requiring all source/ownership years resolved through FY 2023. The later association remains positive in both degrees, and the master's prior/later point ratio is below 1. The historical-only focus fields cannot define a current-scope-compatible restriction, leaving all six focus targets unavailable.",
+      "source_limit": "Saved selective-check display only. Source results are private. Primary intervals are unavailable; conditional diagnostic companions do not establish primary inference.",
+      "original_check": "",
+      "original_numbers_matched": "0/28",
+      "original_map_note": "Printed here only; no separate data table. The source results are private.",
+      "former_label": "SM4_native_09"
+    },
+    {
+      "id": "dep3-e04",
+      "display": "Extended Table DEP3-E04",
+      "title": "Institution-deletion sensitivity of the original counts",
+      "snapshot_table": "DISPLAY_DEP3_E04",
+      "csv_file": "data/display_tables/DEP3-E04.csv",
+      "source_tables": [],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Saved institution-deletion summary only. Underlying deletion results are private; these ranges are not recomputed by the public package.",
+      "original_check": "",
+      "original_numbers_matched": "0/9",
+      "original_map_note": "Printed here only; no separate data table. The deletion results are private.",
+      "former_label": "SM4_native_11"
+    },
+    {
+      "id": "dep3-e05",
+      "display": "Extended Table DEP3-E05",
+      "title": "Institutional content rate ratios: C3 study design",
+      "snapshot_table": "DISPLAY_DEP3_E05",
+      "csv_file": "data/display_tables/DEP3-E05.csv",
+      "source_tables": [
+        "DEP3_institutional_content_results"
+      ],
+      "preamble": "",
+      "notes": "Funding contrast: 1 to 4 annualized preceding funded application IDs/FY (RD 5 years; M 2 years). Each cell: full ownership first line / historical for-profit exclusion second. Point RRs; primary intervals unavailable.\n\nCount: category count PPML with institution/year effects, preceding funding and estimated log mapped-degree all-topic output. Share: category count with institution/year effects, funding and log eligible-outcome portfolio size as an offset. Increased category counts do not imply an increased portfolio share. Each M/RD contrast uses its own iterated common retained population; it is not the ratio of the two displayed full-sample points.\n\nAvailability: 144 registered targets on this page; 10 unavailable points are printed U. The exact failure reason, fit/sample base, reference ID and inference disposition for every cell are in tables `DEP3_institutional_content_results` and `DEP3_institutional_content_support`. Unavailable targets retain their original family membership. All 528 targets across four pages are preserved in the numerical companion.\n\nSingle-response categories exhaust the eligible portfolio. Share PPML rates are not automatically bounded/coherent. Primary institutional-content inference retains its content-specific unavailable disposition and does not inherit 03B count inference.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "97/98",
+      "original_map_note": "",
+      "former_label": "SM4_native_13"
+    },
+    {
+      "id": "dep3-e06",
+      "display": "Extended Table DEP3-E06",
+      "title": "Institutional content rate ratios: C4 level of analysis",
+      "snapshot_table": "DISPLAY_DEP3_E06",
+      "csv_file": "data/display_tables/DEP3-E06.csv",
+      "source_tables": [
+        "DEP3_institutional_content_results"
+      ],
+      "preamble": "",
+      "notes": "Availability: 96 registered targets on this page; 10 unavailable points are printed U. Unavailable targets retain their original family membership.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "62/62",
+      "original_map_note": "",
+      "former_label": "SM4_native_14"
+    },
+    {
+      "id": "dep3-e07",
+      "display": "Extended Table DEP3-E07",
+      "title": "Institutional content rate ratios: C5 research objective",
+      "snapshot_table": "DISPLAY_DEP3_E07",
+      "csv_file": "data/display_tables/DEP3-E07.csv",
+      "source_tables": [
+        "DEP3_institutional_content_results"
+      ],
+      "preamble": "",
+      "notes": "Availability: 144 registered targets on this page; 20 unavailable points are printed U. Unavailable targets retain their original family membership.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "97/97",
+      "original_map_note": "",
+      "former_label": "SM4_native_15"
+    },
+    {
+      "id": "dep3-e08",
+      "display": "Extended Table DEP3-E08",
+      "title": "Institutional content rate ratios: C8 data type",
+      "snapshot_table": "DISPLAY_DEP3_E08",
+      "csv_file": "data/display_tables/DEP3-E08.csv",
+      "source_tables": [
+        "DEP3_institutional_content_results"
+      ],
+      "preamble": "",
+      "notes": "Availability: 144 registered targets on this page; 0 unavailable points are printed U. Unavailable targets retain their original family membership.\n\nMulti-response: each valid unselected form is zero; missing/inapplicable/undetermined lists are excluded from eligible portfolios. Form percentages can sum above 100%. Share PPML uses a log rate and is not automatically bounded or compositionally coherent; saved bound diagnostics remain indexed.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "101/101",
+      "original_map_note": "",
+      "former_label": "SM4_native_16"
+    },
+    {
+      "id": "dep3-e09",
+      "display": "Extended Table DEP3-E09",
+      "title": "Master's minus doctorate reach differences by connection definition",
+      "snapshot_table": "DISPLAY_DEP3_E09",
+      "csv_file": "data/display_tables/DEP3-E09.csv",
+      "source_tables": [
+        "DEP3_degree_reach_differences"
+      ],
+      "preamble": "",
+      "notes": "The advisor/committee component includes works that also have an award association. The primary combined union admits clear award associations; the possible-award sensitivity also admits possible associations with the clear PI component fixed. No identified connection is not verified absence of funding. Ownership companions retain unknown ownership. All 616 primary content targets, complete alternate-definition profiles and eligible group counts are in the appendix and DEP3 Figure F2. No inferential intervals are supplied.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "6/6",
+      "original_map_note": "",
+      "former_label": "SM4_native_19"
+    },
+    {
+      "id": "dep3-e10",
+      "display": "Extended Table DEP3-E10",
+      "title": "Equal-investigator content profile: C3 study design",
+      "snapshot_table": "DISPLAY_DEP3_E10",
+      "csv_file": "data/display_tables/DEP3-E10.csv",
+      "source_tables": [
+        "DEP3_equal_pi_content_profiles"
+      ],
+      "preamble": "",
+      "notes": "Equal-PI mean percentage among outcome-eligible participations in each funding state. Research doctorate: 294 PIs; master's: 87 PIs. The same eligible PIs contribute to every category within this outcome. Difference is each PI's funded share minus their unfunded share, averaged in percentage points.\n\nA category absent from an eligible state is a valid zero. PIs with no eligible works in one state are excluded for this outcome. No pooled participation weighting or modeled adjustment is used. Single-response category percentages sum to 100% within state, subject to rounding.\n\nResearch doctorate: 296 PIs; master's: 88 PIs.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "29/29",
+      "original_map_note": "",
+      "former_label": "SM4_native_23"
+    },
+    {
+      "id": "dep3-e11",
+      "display": "Extended Table DEP3-E11",
+      "title": "Equal-investigator content profile: C4 level of analysis",
+      "snapshot_table": "DISPLAY_DEP3_E11",
+      "csv_file": "data/display_tables/DEP3-E11.csv",
+      "source_tables": [
+        "DEP3_equal_pi_content_profiles"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "24/24",
+      "original_map_note": "",
+      "former_label": "SM4_native_24"
+    },
+    {
+      "id": "dep3-e12",
+      "display": "Extended Table DEP3-E12",
+      "title": "Equal-investigator content profile: C5 research objective",
+      "snapshot_table": "DISPLAY_DEP3_E12",
+      "csv_file": "data/display_tables/DEP3-E12.csv",
+      "source_tables": [
+        "DEP3_equal_pi_content_profiles"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "35/35",
+      "original_map_note": "",
+      "former_label": "SM4_native_25"
+    },
+    {
+      "id": "dep3-e13",
+      "display": "Extended Table DEP3-E13",
+      "title": "Equal-investigator content profile: C8 data type",
+      "snapshot_table": "DISPLAY_DEP3_E13",
+      "csv_file": "data/display_tables/DEP3-E13.csv",
+      "source_tables": [
+        "DEP3_equal_pi_content_profiles"
+      ],
+      "preamble": "",
+      "notes": "Data type is multi-response, so form percentages can sum above 100%.\n\nDisplay terminology: in-scope works include all adopted credentials. Overall reach and objective-period tables retain all credentials; degree-specific content and institutional/same-investigator displays restrict to research-doctorate or master's works as stated. Content percentages use applicable, determinate codes or valid lists for the outcome, and printed n supplies that denominator.\n\nPrimary clear combined connections. Route columns partition connected works; institute columns overlap. Counts are distinct works.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "45/45",
+      "original_map_note": "",
+      "former_label": "SM4_native_26"
+    },
+    {
+      "id": "dep3-e14",
+      "display": "Extended Table DEP3-E14",
+      "title": "Connection route overlap, excluding institutions ever identified as for-profit",
+      "snapshot_table": "DISPLAY_DEP3_E14",
+      "csv_file": "data/display_tables/DEP3-E14.csv",
+      "source_tables": [
+        "DEP3_route_and_institute_overlap"
+      ],
+      "preamble": "",
+      "notes": "For-profit excluded",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "13/13",
+      "original_map_note": "",
+      "former_label": "SM4_native_29"
+    },
+    {
+      "id": "dep3-e15",
+      "display": "Extended Table DEP3-E15",
+      "title": "Institute overlap, excluding institutions ever identified as for-profit",
+      "snapshot_table": "DISPLAY_DEP3_E15",
+      "csv_file": "data/display_tables/DEP3-E15.csv",
+      "source_tables": [
+        "DEP3_observed_reach"
+      ],
+      "preamble": "",
+      "notes": "Actual funding institute determines each institute connection. Award evidence from one institute does not create a connection to the other. All credentials overlaps the degree subsets.\n\nCommon-support summaries retain fields with both connection groups within degree and outcome. Full raw descriptions retain every eligible work.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "13/16",
+      "original_map_note": "",
+      "former_label": "SM4_native_30"
+    },
+    {
+      "id": "dep3-e16",
+      "display": "Extended Table DEP3-E16",
+      "title": "Common-support coverage by degree and outcome",
+      "snapshot_table": "DISPLAY_DEP3_E16",
+      "csv_file": "data/display_tables/DEP3-E16.csv",
+      "source_tables": [
+        "DEP3_field_support_coverage"
+      ],
+      "preamble": "",
+      "notes": "Field-unavailable works remain a supported explicit stratum. All twelve doctorate strata have both groups. Master's education has no connected works and is omitted only from supported calculations: 33 C3, 35 C4, 35 C5 and 33 C8 remaining works. Exact pooled weights sum to one on the stated support. DEP3 Figure F3 and complete within-field tables distinguish crude, support-restricted crude and common-field-mix contrasts; no inferential or causal interpretation is supplied.\n\nAll credentials and substance domains with a usable C5 code. Arrows show 2010-2016 to 2017-2023, using usable-C5 denominators 5,816 and 7,410. Institute reach uses works within each category/period and the institute-specific clear combined indicator; institutes can overlap. This complete objective context is retained for comparison.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "17/17",
+      "original_map_note": "",
+      "former_label": "SM4_native_31"
+    },
+    {
+      "id": "dep3-e17",
+      "display": "Extended Table DEP3-E17",
+      "title": "Research objective portfolio and institute reach, 2010-2016 to 2017-2023",
+      "snapshot_table": "DISPLAY_DEP3_E17",
+      "csv_file": "data/display_tables/DEP3-E17.csv",
+      "source_tables": [
+        "DEP3_objective_period_institute_reach"
+      ],
+      "preamble": "",
+      "notes": "These are observed descriptions without significance tests or inferential intervals.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "78/78",
+      "original_map_note": "",
+      "former_label": "SM4_native_32"
+    },
+    {
+      "id": "dep3-e18",
+      "display": "Extended Table DEP3-E18",
+      "title": "Fixed-baseline period profiles: matched adjustment-eligible pair",
+      "snapshot_table": "DISPLAY_DEP3_E18",
+      "csv_file": "data/display_tables/DEP3-E18.csv",
+      "source_tables": [
+        "DEP3_opioid_fixed_baseline_period_profiles"
+      ],
+      "preamble": "",
+      "notes": "NIDA includes clear advisor/committee or individual-award connections, including dual NIDA/NIAAA connections. Comparison means no identified NIDA/NIAAA connection; it does not establish absence of funding. NIAAA-only connections are excluded from this pair.\n\nBaseline is 2014–2017 for every window. Post windows 2020–2023, 2021–2023 and 2022–2023 begin two, three and four years after the 2018 launch; award-to-completion intervals are not measured. The first is descriptive context; only the latter two have primary adjusted interaction tests.\n\nShares pool numerator and denominator within the stated period. Annualized counts divide totals by four, three or two years as appropriate; displayed annualized values are rounded, with exact values in CSV.\n\nThe adjustment-eligible pair requires approved institution, nonempty named-degree metadata, primary-eligible BF01–BF10 field and no completion-year hold. Full descriptive and adjustment-eligible denominators must remain distinct.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "39/39",
+      "original_map_note": "",
+      "former_label": "SM4_native_41"
+    },
+    {
+      "id": "dep3-e19",
+      "display": "Extended Table DEP3-E19",
+      "title": "Observed opioid-share changes relative to 2014-2017",
+      "snapshot_table": "DISPLAY_DEP3_E19",
+      "csv_file": "data/display_tables/DEP3-E19.csv",
+      "source_tables": [
+        "DEP3_opioid_fixed_baseline_share_contrasts"
+      ],
+      "preamble": "",
+      "notes": "These are unadjusted arithmetic changes in pooled shares, including the descriptive profiles of the adjustment-eligible samples. They are not the model-adjusted interaction estimates in Table S3.22. Positive differences indicate a larger observed NIDA increase.\n\nAnnualized opioid count growth is a separate quantity retained in `DEP3_opioid_fixed_baseline_share_contrasts`; it should not be substituted for a percentage-point share change.\n\nShare multiples, full descriptive pair (post-window share divided by the 2014–2017 share): NIDA 2.094, 2.176 and 2.272, and comparison 2.264, 2.182 and 2.170, for 2020–2023, 2021–2023 and 2022–2023. Equal multiples imply a positive absolute difference when baseline shares differ. These are descriptive arithmetic from `DEP3_opioid_fixed_baseline_share_contrasts`, not an adjusted relative-growth model.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "18/18",
+      "original_map_note": "",
+      "former_label": "SM4_native_42"
+    },
+    {
+      "id": "dep3-e20",
+      "display": "Extended Table DEP3-E20",
+      "title": "Sequential construction of the two primary adjusted samples",
+      "snapshot_table": "DISPLAY_DEP3_E20",
+      "csv_file": "data/display_tables/DEP3-E20.csv",
+      "source_tables": [
+        "DEP3_opioid_sequential_exclusion_ledger"
+      ],
+      "preamble": "",
+      "notes": "Window values 3 and 4 (canonical lag_years) denote the 2021–2023 and 2022–2023 windows; both use the 2014–2017 baseline.\n\nExclusions are mutually exclusive only in this stated sequence. The source's nonexclusive exclusion totals must not be added. Approved institution means the adopted RQ2 institutional identity; raw source school codes or funding-recipient IDs are not substituted.\n\nThe final samples are 5,722 works at 421 institutions and 4,814 works at 395 institutions. Unavailable fields and BF11 assignments pending review are excluded.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "26/27",
+      "original_map_note": "",
+      "former_label": "SM4_native_43"
+    },
+    {
+      "id": "dep3-e21",
+      "display": "Extended Table DEP3-E21",
+      "title": "Degree and field coverage across baseline and selected post years",
+      "snapshot_table": "DISPLAY_DEP3_E21",
+      "csv_file": "data/display_tables/DEP3-E21.csv",
+      "source_tables": [
+        "DEP3/other_rq3/opioid/data/degree_field_coverage.csv",
+        "DEP3_opioid_adjusted_lag_results"
+      ],
+      "preamble": "",
+      "notes": "Credential-family levels count observed fine categories in each stated sample; the primary model uses this category system rather than simply research doctorate/master's/other. Eligibility additionally requires nonempty adopted named-degree metadata. Named-degree groups replace credential families only in the labeled sensitivity.\n\nDescriptive field categories retain BF11 and unavailable field assignments; the adjusted samples use ten primary-inference-eligible categories.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "7/10",
+      "original_map_note": "Level counts follow from the coverage rows",
+      "former_label": "SM4_native_44"
+    },
+    {
+      "id": "dep3-e22",
+      "display": "Extended Table DEP3-E22",
+      "title": "Broad-field composition of the primary adjusted samples",
+      "snapshot_table": "DISPLAY_DEP3_E22",
+      "csv_file": "data/display_tables/DEP3-E22.csv",
+      "source_tables": [
+        "DEP3/other_rq3/opioid/data/degree_field_coverage.csv"
+      ],
+      "preamble": "",
+      "notes": "Counts pool both connection groups and baseline/post years within each primary sample. Denominators are 5,722 and 4,814. Field effects are controlled categorically; these are composition descriptions, not within-field funding estimates.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "18/38",
+      "original_map_note": "Broad-field shares follow from the coverage rows",
+      "former_label": "SM4_native_45"
+    },
+    {
+      "id": "dep3-e23",
+      "display": "Extended Table DEP3-E23",
+      "title": "Sensitivity models: 2021-2023 post period",
+      "snapshot_table": "DISPLAY_DEP3_E23",
+      "csv_file": "data/display_tables/DEP3-E23.csv",
+      "source_tables": [
+        "DEP3_opioid_adjusted_lag_results"
+      ],
+      "preamble": "",
+      "notes": "Baseline is 2014–2017. The NIDA×post coefficient times 100 is the adjusted difference in opioid-share changes, in percentage points. Positive estimates indicate an additional absolute increase among NIDA-connected works.\n\nControls are credential family, broad field, institution and completion year. Institution-cluster CR1 covariance uses actual full design rank and t reference with G−1 degrees of freedom. Pointwise intervals and two-sided raw p values accompany Holm adjustment across exactly these two primary completion-window tests.\n\nBoth pointwise intervals include zero and meaningful positive differences. These exploratory tests do not establish greater growth, equivalence, absence of an additional increase, or a causal funding effect. The two-test correction does not cover all exploratory decisions.\n\nAll models use the fixed 2014–2017 baseline. These are labeled sensitivity results, not additional primary tests; their raw p values have no primary two-test Holm adjustment.\n\nAll use the stated institution-cluster CR1/t inference. Alternate-comparator models include NIAAA-only works among all non-NIDA works; preceding-PI-only models exclude award-only positive connections while retaining the no-identified-NIDA/NIAAA comparator.\n\nThe four-cell restriction and institution-specific post shifts change the comparison structure. Their negative estimates do not establish a negative funding effect.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "42/42",
+      "original_map_note": "",
+      "former_label": "SM4_native_48"
+    },
+    {
+      "id": "dep3-e24",
+      "display": "Extended Table DEP3-E24",
+      "title": "Sensitivity models: 2022-2023 post period",
+      "snapshot_table": "DISPLAY_DEP3_E24",
+      "csv_file": "data/display_tables/DEP3-E24.csv",
+      "source_tables": [
+        "DEP3_opioid_adjusted_lag_results"
+      ],
+      "preamble": "",
+      "notes": "Negative four-cell and institution-by-post estimates illustrate sensitivity to institutional comparisons; they do not establish a negative funding effect. The alternative-comparator p=.053059 remains above .05 and is retained at six decimals.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "41/41",
+      "original_map_note": "",
+      "former_label": "SM4_native_49"
+    },
+    {
+      "id": "dep3-e25",
+      "display": "Extended Table DEP3-E25",
+      "title": "Largest-institution deletion refits: descriptive ranges",
+      "snapshot_table": "DISPLAY_DEP3_E25",
+      "csv_file": "data/display_tables/DEP3-E25.csv",
+      "source_tables": [
+        "DEP3_opioid_largest_institution_deletions"
+      ],
+      "preamble": "",
+      "notes": "The linear estimate is percentage points per year; the block estimate is percentage points. The annual joint test has no single percentage-point estimate or interval. All models use the same eligible 2010–2017 primary pair, credential-family, field, institution and completion-year controls, and institution-cluster CR1 inference.\n\nThe annual joint test rejects constant adjusted annual NIDA–comparison gaps. Nonsignificant linear and block summaries do not establish parallel pretrends. These exploratory diagnostics weaken attribution to a 2018 policy change.\n\npretrend_annual_terms.csv supplies all seven annual interaction contrasts using 2017 as reference, with pointwise intervals and p values. No Holm adjustment is applied to this separate diagnostic set.\n\nWithin each primary sample, the five largest institutions by work count were deleted one at a time. The baseline remains 2014–2017 and each window retains its stated post period; the five institutions are not deleted jointly.\n\nThese ranges summarize ten existing refits; they are not confidence intervals. Exact individual estimates, intervals, p values, retained institution counts and original deleted sizes remain in `DEP3_opioid_largest_institution_deletions`, with institution identifiers omitted from this aggregate projection.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "16/16",
+      "original_map_note": "",
+      "former_label": "SM4_native_51"
+    },
+    {
+      "id": "dep3-e26",
+      "display": "Extended Table DEP3-E26",
+      "title": "Institutional support and dependence diagnostics",
+      "snapshot_table": "DISPLAY_DEP3_E26",
+      "csv_file": "data/display_tables/DEP3-E26.csv",
+      "source_tables": [
+        "DEP3_opioid_adjusted_lag_results",
+        "DEP3_opioid_cluster_concentration",
+        "DEP3_opioid_primary_diagnostic_summary"
+      ],
+      "preamble": "",
+      "notes": "Size-effective counts are squared total size divided by the sum of squared cluster sizes. Identifying-mass-effective counts use squared residualized interaction values after nuisance and NIDA-main-effect projection. These summarize concentration; they do not certify a number of independent information units.\n\nInstitution-cluster inference assumes sufficient independence across institutions. The broader historical institution-plus-PI graph has a component containing approximately 54.5% of each sample and a size-effective count near 3.3. Its covariance calculations are a limited sensitivity, not an uncertainty certification or replacement primary inference.\n\nThe broader-component 2022–2023-window lower confidence limit is −0.0011 pp at the displayed precision; it includes zero. Its raw p=.050056 is not reported as .05 or as significance. Coding, linkage, retrieval and source-selection uncertainty remain outside these intervals.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "30/31",
+      "original_map_note": "",
+      "former_label": "SM4_native_52"
+    },
+    {
+      "id": "dep3-e27",
+      "display": "Extended Table DEP3-E27",
+      "title": "Fitted-value diagnostics from unchanged primary designs",
+      "snapshot_table": "DISPLAY_DEP3_E27",
+      "csv_file": "data/display_tables/DEP3-E27.csv",
+      "source_tables": [
+        "DEP3_opioid_primary_fitted_values_by_cell"
+      ],
+      "preamble": "",
+      "notes": "The original two primary designs were replayed only to obtain diagnostics. Coefficients, sample membership, standard errors, confidence intervals and p values reproduce the saved originals; no predictions were clipped or truncated.\n\nBounds are counted literally and with a 1×10⁻¹⁰ numerical tolerance. All twelve above-one values in the 2022–2023 fit are floating-point roundoff: maximum 1.0000000000000044. Substantive negative fitted values remain in both fits.\n\nThese linear models estimate conditional share contrasts, not calibrated individual probabilities.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "rq3_aggregates: arithmetic and saved-inference replay; no refit",
+      "original_numbers_matched": "17/20",
+      "original_map_note": "",
+      "former_label": "SM4_native_53"
+    },
+    {
+      "id": "dep4-e01",
+      "display": "Extended Table DEP4-E01",
+      "title": "Complete joint roles under all three specifications",
+      "snapshot_table": "DISPLAY_DEP4_E01",
+      "csv_file": "data/display_tables/DEP4-E01.csv",
+      "source_tables": [
+        "DEP4_degree_role_profiles"
+      ],
+      "preamble": "",
+      "notes": "Role cells are n (% of all observed records in that degree). Unscored remains in observed denominators and is excluded only from the separate scored-base companions. U is zero throughout. No-hospital-override changes research context only; the clinical axis is unchanged.",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "employment: percentages and bases recomputed",
+      "original_numbers_matched": "75/75",
+      "original_map_note": "",
+      "former_label": "SM5_native_07"
+    },
+    {
+      "id": "dep4-e02",
+      "display": "Extended Table DEP4-E02",
+      "title": "Industry context meanings",
+      "snapshot_table": "DISPLAY_DEP4_E02",
+      "csv_file": "data/display_tables/DEP4-E02.csv",
+      "source_tables": [],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Instrument definitions rather than empirical results. The same context constructs are documented in data/constructs_and_scales.csv in the separate scorer deposit.",
+      "original_check": "",
+      "original_numbers_matched": "no numbers",
+      "original_map_note": "Definitions. See data/constructs_and_scales.csv in the scorer deposit.",
+      "former_label": "SM5_native_11"
+    },
+    {
+      "id": "dep4-e03",
+      "display": "Extended Table DEP4-E03",
+      "title": "Research-score correspondence with SDR work activities",
+      "snapshot_table": "DISPLAY_DEP4_E03",
+      "csv_file": "data/display_tables/DEP4-E03.csv",
+      "source_tables": [
+        "DEP4/instrument/development_aggregate_evidence.json"
+      ],
+      "preamble": "",
+      "notes": "",
+      "source_limit": "Displayed strings retain the saved precision and formatting. The source tables below contain the underlying results or inputs; named checks retain their original scope.",
+      "original_check": "not machine-checked: saved values",
+      "original_numbers_matched": "59/59",
+      "original_map_note": "",
+      "former_label": "SM5_native_16"
+    }
+  ],
+  "figures": [
+    {
+      "id": "dep1-f1",
+      "display": "DEP1 Figure F1",
+      "title": "From retrieved records to the in-scope population",
+      "files": [],
+      "captions": [
+        "DEP1 Figure F1. From retrieved records to the in-scope population. The roster contains 13,229 in-scope records, 7,702 out-of-scope records, 114 undetermined records and 28 not assessed. All 13,229 current aim sets have completed content assessments; none is pending or has an unresolved processing failure. The 13,229 in-scope identifiers represent 13,227 distinct works. The dotted collection–roster link indicates confirmed membership; original stepwise removal counts could not be reconstructed."
+      ],
+      "note": "Caption/accounting only: no artwork file was supplied. See the population-accounting table; this entry does not imply that a missing diagram exists.",
+      "source_tables": [
+        "DEP1_population_accounting"
+      ]
+    },
+    {
+      "id": "dep1-f2",
+      "display": "DEP1 Figure F2",
+      "title": "Indexing figure",
+      "files": [
+        "figures/DEP1_F2_indexing.svg"
+      ],
+      "captions": [
+        "DEP1 Figure F2. ProQuest indexed dissertations relative to degree awards, 2010–2023. Panel A compares master’s theses with all master’s awards; B and C compare flagged research-doctorate dissertations with research/scholarship awards. B uses institutions matched each year; C holds 411 institutions constant. The vertical scales are 0–5 in A and 0–100 in B/C. Extended Table DEP1-E05 gives underlying count changes; unresolved doctoral classifications appear only in Extended Table DEP1-E04’s upper endpoints."
+      ],
+      "note": "",
+      "source_tables": [
+        "DEP1_indexing_annual_indexing"
+      ]
+    },
+    {
+      "id": "dep2-f1",
+      "display": "DEP2 Figure F1",
+      "title": "Complete group profiles",
+      "files": [
+        "figures/DEP2_F1_group_profiles.pdf"
+      ],
+      "captions": [
+        "DEP2 Figure F1. Complete combined research profiles for all 16 supported degree–field groups, with one page for each of C3, C5, C4 and C8. Cell labels and shading show fitted percentages averaged equally over 2010–2016 and 2017–2023. Labels report each group’s outcome-eligible distinct-work counts for the earlier/later periods. C3/C5/C4 classify works into exclusive categories; C8 marginal prevalences overlap. Available 95% pointwise intervals, contributing-institution counts and source identifiers are supplied in DEP2 Tables T3. All PsyD and DrPH profiles meeting support are included."
+      ],
+      "note": "",
+      "source_tables": [
+        "rq2_estimates"
+      ]
+    },
+    {
+      "id": "dep2-f2",
+      "display": "DEP2 Figure F2",
+      "title": "Complete institution profiles",
+      "files": [
+        "figures/DEP2_F2_institution_profiles.pdf"
+      ],
+      "captions": [
+        "DEP2 Figure F2. Complete period-standardized profiles for the fixed top 50 institutional contributors, in alphabetical order across two pages per outcome. Outcome-specific eligible earlier/later work counts accompany every institution. Asterisks mark points with unavailable reportable bounds; all known percentages remain displayed. C8 prevalences are nonexclusive. Complete 95% pointwise profile limits and reasons appear in DEP2 Table T10; support and coverage appear in DEP2 Tables T14. Portfolios retain degree and field composition, and no institutional ranking or causal effect is inferred."
+      ],
+      "note": "",
+      "source_tables": [
+        "rq2_estimates"
+      ]
+    },
+    {
+      "id": "dep2-f3",
+      "display": "DEP2 Figure F3",
+      "title": "C3 temporal change",
+      "files": [
+        "figures/DEP2_F3_C3_temporal.pdf"
+      ],
+      "captions": [
+        "DEP2 Figures F3 to F6. Complete earlier/later profile and change series for study design, research objective, level of analysis and data type, respectively. Each eight-page series covers every category/form for all 16 supported degree–field groups. Dots show fitted earlier/later percentages; changes and 95% conditional pointwise intervals use the directly estimated later-minus-earlier difference in percentage points. Primary and continuing-institution n and contributing-institution counts are shown separately. Unsupported continuing targets and unavailable bounds remain explicit. Complete primary/shared changes are indexed in DEP2 Tables T9. C8 indicators overlap and are not a partition of 100%. The figures compare cohorts of works, not changes within individual trainees."
+      ],
+      "note": "The shared caption describes the complete F3–F6 series.",
+      "source_tables": [
+        "rq2_estimates"
+      ]
+    },
+    {
+      "id": "dep2-f4",
+      "display": "DEP2 Figure F4",
+      "title": "C5 temporal change",
+      "files": [
+        "figures/DEP2_F4_C5_temporal.pdf"
+      ],
+      "captions": [
+        "DEP2 Figures F3 to F6. Complete earlier/later profile and change series for study design, research objective, level of analysis and data type, respectively. Each eight-page series covers every category/form for all 16 supported degree–field groups. Dots show fitted earlier/later percentages; changes and 95% conditional pointwise intervals use the directly estimated later-minus-earlier difference in percentage points. Primary and continuing-institution n and contributing-institution counts are shown separately. Unsupported continuing targets and unavailable bounds remain explicit. Complete primary/shared changes are indexed in DEP2 Tables T9. C8 indicators overlap and are not a partition of 100%. The figures compare cohorts of works, not changes within individual trainees."
+      ],
+      "note": "The shared caption describes the complete F3–F6 series.",
+      "source_tables": [
+        "rq2_estimates"
+      ]
+    },
+    {
+      "id": "dep2-f5",
+      "display": "DEP2 Figure F5",
+      "title": "C4 temporal change",
+      "files": [
+        "figures/DEP2_F5_C4_temporal.pdf"
+      ],
+      "captions": [
+        "DEP2 Figures F3 to F6. Complete earlier/later profile and change series for study design, research objective, level of analysis and data type, respectively. Each eight-page series covers every category/form for all 16 supported degree–field groups. Dots show fitted earlier/later percentages; changes and 95% conditional pointwise intervals use the directly estimated later-minus-earlier difference in percentage points. Primary and continuing-institution n and contributing-institution counts are shown separately. Unsupported continuing targets and unavailable bounds remain explicit. Complete primary/shared changes are indexed in DEP2 Tables T9. C8 indicators overlap and are not a partition of 100%. The figures compare cohorts of works, not changes within individual trainees."
+      ],
+      "note": "The shared caption describes the complete F3–F6 series.",
+      "source_tables": [
+        "rq2_estimates"
+      ]
+    },
+    {
+      "id": "dep2-f6",
+      "display": "DEP2 Figure F6",
+      "title": "C8 temporal change",
+      "files": [
+        "figures/DEP2_F6_C8_temporal.pdf"
+      ],
+      "captions": [
+        "DEP2 Figures F3 to F6. Complete earlier/later profile and change series for study design, research objective, level of analysis and data type, respectively. Each eight-page series covers every category/form for all 16 supported degree–field groups. Dots show fitted earlier/later percentages; changes and 95% conditional pointwise intervals use the directly estimated later-minus-earlier difference in percentage points. Primary and continuing-institution n and contributing-institution counts are shown separately. Unsupported continuing targets and unavailable bounds remain explicit. Complete primary/shared changes are indexed in DEP2 Tables T9. C8 indicators overlap and are not a partition of 100%. The figures compare cohorts of works, not changes within individual trainees."
+      ],
+      "note": "The shared caption describes the complete F3–F6 series.",
+      "source_tables": [
+        "rq2_estimates"
+      ]
+    },
+    {
+      "id": "dep3-f2",
+      "display": "DEP3 Figure F2",
+      "title": "Complete content plates",
+      "files": [
+        "figures/DEP3_F2_content_plates.pdf"
+      ],
+      "captions": [
+        "DEP3 Figure F2. Complete observed research-content profiles and connected-minus-remaining differences by degree under the identified NIDA/NIAAA funding-connection definition. Eight pages show all 44 categories across C3 study design, C4 level of analysis, C5 research objective and C8 data type, separately for research-doctorate dissertations and master's theses. Blue denotes works with a clear preceding-funded advisor/committee association or clear individual-award association, or both; orange denotes remaining works. A work is counted once. Filled circles show the full observed outcome-eligible groups. Open circles show the observed groups excluding whole institutions ever identified as for-profit; unknown ownership is retained. Group profiles are observed percentages; connected-minus-remaining contrasts are percentage points. Each page prints both group denominators for each ownership population. Profile scales are 0-100%; all contrast scales are -40 to +40 percentage points. Points are corpus descriptions; no intervals, covariate adjustment, prediction or overlap restriction are used. C3/C4/C5 categories are mutually exclusive within their coded outcome. C8 forms overlap and their shares can total above 100%. Missing, inapplicable and undetermined outcomes are excluded rather than zero-filled. The PI timing windows are five preceding fiscal years for research doctorates and two for master's, excluding completion FY; individual-award eligibility runs from the first observed funding FY through the last observed funding FY plus three, clipped to 2010-2023. No identified connection is not verified absence of support. The source-exact companion preserves all 616 observed targets, including 88 master's-minus-doctorate differences of the connected-minus-remaining contrasts. Those direct comparisons use four separate group denominators. Historical adjusted results are not included in this display.",
+        "Panel key: F2a/F2b study design; F2c/F2d level of analysis; F2e/F2f research objective; F2g/F2h data type. Within each pair, the first page shows research doctorates and the second master's works."
+      ],
+      "note": "",
+      "source_tables": [
+        "DEP3_F2_numeric_companion",
+        "DEP3_F2_denominators",
+        "DEP3_observed_content"
+      ],
+      "alt": "Eight portrait pages show the complete category vocabularies for study design, level of analysis, research objective and data type separately by degree. The left graph plots the observed percentage of eligible connected works in blue and remaining works in orange. Gray lines connect each group pair. The right graph plots the connected-minus-remaining percentage-point difference around a vertical zero line. Filled circles represent the full population and open circles the historical for-profit exclusion. All four group denominators appear above each graph. Small observed categories remain visible; all twelve overlapping data forms are retained. There are no interval bars. These are raw observed profiles, with field-composition checks supplied separately."
+    },
+    {
+      "id": "dep3-f3",
+      "display": "DEP3 Figure F3",
+      "title": "Field composition",
+      "files": [
+        "figures/DEP3_F3_field_composition.pdf"
+      ],
+      "captions": [
+        "**Caption.** Research-content contrasts before and after assigning a common field composition to works with and without an identified NIDA/NIAAA funding connection. Pages show research-doctorate and master's works separately. Each contrast is the connected-minus-remaining percentage-point difference for an outcome-specific usable-code population. Blue circles show the full crude contrast; open circles show the crude contrast restricted to fields having both connection groups; orange squares use the same pooled eligible field weights for both groups on that support. Connecting lines join alternative summaries and are not inferential intervals. The display retains the formerly highlighted eleven content categories and three doctoral research-objective examples, with master's counterparts; current main Figure 5C shows degree-field reach. Complete within-field category counts, group denominators, weights and profiles are in the numerical companions. Field-unavailable works remain a separate stratum. All twelve doctoral field strata are supported. Master's education has no connected works and is omitted from the common-support calculations, which retain approximately 99% of eligible works; full crude descriptions retain education. C8 data forms overlap. These observed and arithmetically reweighted descriptions do not establish a causal funding effect or adjust institution, period, or differences within broad fields. No inferential intervals are estimated."
+      ],
+      "note": "",
+      "source_tables": [
+        "DEP3_F3_numeric_companion",
+        "DEP3_common_field_mix_profiles"
+      ],
+      "alt": "**Alt text.** Two pages compare crude, common-support crude and common-field-mix contrasts for fourteen content categories per degree. Many research-doctorate contrasts shrink when field composition is equalized: nonrandomized experiments change from +33.4 to +13.6 points, molecular/cellular work from +9.3 to +0.4, nonhuman-organism work from +17.6 to +8.8, biological/physiological data from +26.2 to +9.2, and substance-action objectives from +7.9 to −0.1. Longitudinal observational work instead changes from +2.1 to +5.5 points. Master's nonrandomized-experiment and nonhuman-organism contrasts remain positive but smaller; small survey and service-objective contrasts change sign. Full crude and common-support crude values differ only for master's works because education lacks connected works. Every row supplies the three numerical contrasts; companion tables provide support and exact arithmetic."
+    },
+    {
+      "id": "dep3-f4",
+      "display": "DEP3 Figure F4",
+      "title": "Opioid trends and completion windows",
+      "files": [
+        "figures/DEP3_F4_opioid_trends.svg"
+      ],
+      "captions": [
+        "**Supplementary Figure F4. Opioid-topic trends by identified NIDA connection and adjusted completion-window comparisons.** (A) Annual observed opioid shares for the full descriptive pair: 3,161 NIDA-connected works, including dual NIDA/NIAAA connections, and 9,160 works with no identified connection to either institute, across 2010–2023. The 906 NIAAA-only works are excluded. The dashed line marks the 2018 NIH HEAL launch as historical context. A work is counted once when its adopted S4 substance-label union contains an opioid label; known positives among incomplete labels are retained. (B) NIDA-by-post interactions from the two primary linear probability models, multiplied by 100, with pointwise institution-cluster CR1 95% confidence intervals and a t reference with G−1 degrees of freedom. The baseline is 2014–2017; post windows are 2021–2023 (beginning three years after the launch; 5,722 works, 421 institutions) and 2022–2023 (beginning four years after; 4,814 works, 395 institutions). Models include fixed effects for fine credential family, BF01–BF10 broad field, institution and completion year. These predictor-eligible samples differ from the full descriptive population in A. Positive values denote a larger adjusted absolute (percentage-point) increase among NIDA-connected works. Both intervals include zero; raw and two-test Holm p values appear in T10. The connection measure does not identify HEAL awards, and completion windows neither measure award-to-completion intervals nor isolate a causal funding effect; completions after 2023 are not observed. See S3 and the accompanying numerical appendix."
+      ],
+      "note": "The same figure appears as Figure S3.2 in the supplement.",
+      "source_tables": [
+        "DEP3_opioid_annual_nida_groups",
+        "DEP3_opioid_adjusted_lag_results"
+      ],
+      "alt": "**Alternative text.** Two-panel figure. Panel A shows annual opioid-topic percentages from 2010 to 2023 for NIDA-connected works, including dual connections, and works with no identified NIDA/NIAAA connection. Both groups rise over the period; in 2023 the shares are 33.3% and 19.6%, respectively. A dashed line marks the 2018 HEAL launch. Panel B shows adjusted absolute differential increases of 2.90 percentage points for the 2021–2023 window (95% CI −1.98 to 7.78) and 4.31 points for the 2022–2023 window (−1.36 to 9.97). Both intervals cross zero."
+    },
+    {
+      "id": "dep4-paired-degree-roles",
+      "display": "DEP4 paired degree-roles figure",
+      "title": "Degree roles under paired specifications",
+      "files": [
+        "figures/DEP4_paired_degree_roles.pdf"
+      ],
+      "captions": [
+        "**Degree-specific roles under conservative and inclusive RC-RMI specifications.** Each panel presents the same degree group's observations under both specifications, using its full observed denominator. The total panel includes all 307 observations. The likely-role threshold is 3 on each axis; Other means neither axis reaches that threshold. Instrument U (zero observations) is distinct from unscored applicability (four observations). Clinical scores are unchanged across specifications. Research differences represent alternative instrument judgments and provide a plausible specification range, not a statistical confidence interval or calibrated bounds on individual duties. Percentages printed in readable segments are rounded; complete plot data retain exact counts and unrounded shares."
+      ],
+      "note": "The same paired-specification display appears as Figure S4.1 in the supplement.",
+      "source_tables": [
+        "DEP4_degree_role_profiles"
+      ]
+    },
+    {
+      "id": "dep4-paired-outside-destinations",
+      "display": "DEP4 paired outside-destinations figures",
+      "title": "Outside destinations under paired specifications",
+      "files": [
+        "figures/DEP4_paired_outside_masters.pdf",
+        "figures/DEP4_paired_outside_research_doctorate.pdf"
+      ],
+      "captions": [
+        "**Destinations and roles outside four-year colleges and universities, master's (n=57).** Conservative and inclusive specifications appear together within each destination, with Conservative above Inclusive. Every segment uses the full outside-college/university degree denominator, and each specification's destination rows sum to 100%. Numbers at right give unchanged destination counts. The shared horizontal scale is 0-25%. The subset requires known industry outside colleges, universities and professional schools; two-year colleges and other education can remain included. Hospital jobs remain included despite academic affiliation. Other means neither RC-RMI axis reaches the likely-role threshold of 3; Instrument U and unscored are distinct and both zero here. Clinical scores are unchanged between specifications. See the common outside-destinations caption and existing sensitivity tables for the industry-code boundary, affiliation rules and score interpretation.",
+        "**Destinations and roles outside four-year colleges and universities, research doctorate (n=120).** Conservative and inclusive specifications appear together within each destination, with Conservative above Inclusive. Every segment uses the full outside-college/university degree denominator, and each specification's destination rows sum to 100%. Numbers at right give unchanged destination counts. The shared horizontal scale is 0-25%. The subset requires known industry outside colleges, universities and professional schools; two-year colleges and other education can remain included. Hospital jobs remain included despite academic affiliation. Other means neither RC-RMI axis reaches the likely-role threshold of 3; Instrument U and unscored are distinct and both zero here. Clinical scores are unchanged between specifications. See the common outside-destinations caption and existing sensitivity tables for the industry-code boundary, affiliation rules and score interpretation.",
+        "Colors indicate likely research and clinical-care roles at threshold 3. Other means neither axis reaches 3; it does not establish absence of either function. Instrument U and unscored are distinct and both zero here. Clinical scores are identical across the two specifications. Industry is an instrument input, so these descriptions do not independently validate the role instrument."
+      ],
+      "note": "",
+      "source_tables": [
+        "DEP4_outside_destinations_paired_masters",
+        "DEP4_outside_destinations_paired_research_doctorate"
+      ]
+    },
+    {
+      "id": "dep4-roles-destinations-funding",
+      "display": "DEP4 roles, destinations and funding figure",
+      "title": "Roles by degree, funding connection and destination",
+      "files": [
+        "figures/DEP4_roles_destinations_funding.pdf"
+      ],
+      "captions": [
+        "Research and clinical-care roles by degree, identified funding connection and employment destination. Panel A has two labelled blocks. By degree shows five credential categories and ends with the bold All observations summary (n=307). By identified NIDA/NIAAA connection shows separate research-doctorate (PhD/ScD and equivalent; n=190) and pooled master's (general plus field-specific; 63 + 13 = 76) comparisons. Within research doctorates, 88 observations have an identified connection and 102 have no identified connection. Within pooled master's, the corresponding counts are 17 and 59. These four bars cover 266 observations. The group headers give full degree denominators and do not have bars. PsyD (n=24) and other named doctorate (n=17) observations remain in the degree block and the all-observation summary, but are not split by connection. Each bar uses its full printed observed denominator, including unscored observations. An identified connection means a in-scope NIDA/NIAAA-funded advisor or committee member, an individual-award association, or both under the adopted linkage and timing rules. No identified connection includes missing/unmatched roles and does not establish absence of support. Unscored counts are 0/1 for connected/no-identified-connection research doctorates and 1/2 for the corresponding master's groups. Panel B shows 120 of 190 research-doctorate and 57 of 76 pooled master's observations outside four-year colleges, universities and professional schools. Research doctorate (RD) is the upper bar and master's (M) the lower bar within each destination; numbers at right give destination counts. Segments use the full outside-degree denominator; destination rows sum to 100% for each degree. Two-year colleges and other education can remain included. Hospital jobs remain included despite academic affiliation. Unknown industry is excluded (one research-doctorate and three master's records).",
+        "Colors show the inclusive RC-RMI specification. Research only, Clinical care only and Both indicate which axes reach the likely-role threshold of 3; Other means neither does. Instrument U and unscored applicability are separate: Panel A has zero U and four unscored records; all Panel B records are scored. Printed percentages are rounded. The supplement pairs both specifications within each degree and supplies occupation composition and affiliation sensitivities.",
+        "Counts are unweighted linked observations, pending person reconciliation. Two approved later-PhD overrides preserve linked master's-thesis metadata; other records retain the linked-work degree basis. Industry is a scoring input."
+      ],
+      "note": "",
+      "source_tables": [
+        "DEP4_main_figure_plot_data"
+      ]
+    },
+    {
+      "id": "dep4-funding-connection-roles",
+      "display": "DEP4 funding-connection roles figure",
+      "title": "Roles by funding connection",
+      "files": [
+        "figures/DEP4_funding_connection_roles.pdf"
+      ],
+      "captions": [
+        "Research and clinical-care roles by identified NIDA/NIAAA funding connection, separately for research doctorates and master's degrees.",
+        "A: Research doctorates (PhD/ScD and equivalent; n=190), comparing 88 observations with an identified NIDA/NIAAA funding connection and 102 remaining observations. B: General and field-specific master's degrees pooled (n=76), comparing 17 connected and 59 remaining observations. Each stacked bar uses the full observed denominator printed beside that bar, including unscored records. PsyD (n=24) and other named doctorate (n=17) observations are outside this research-doctorate/master's comparison, leaving 266 of the 307 employment observations.",
+        "An identified connection is the adopted clear preceding-funded advisor/committee connection, clear individual-award association, or both, joined by scientific work key. Research-doctorate advisor/committee windows cover five preceding fiscal years; master's windows cover two, excluding completion fiscal year. Remaining observations have no identified connection under those rules, including missing or unmatched roles; this does not establish absence of support.",
+        "Colors and scores retain the existing inclusive RC-RMI specification and threshold of 3 on each role axis. Research only, Clinical care only and Both indicate which role axes reach that threshold; Other means neither does. Instrument U and unscored applicability are distinct. There are no U records. Unscored counts are 0/1 for connected/remaining research doctorates and 1/2 for connected/remaining master's observations. Counts are unweighted linked employment observations, pending person reconciliation. Printed percentages are rounded; exact values are in table `DEP4_funding_connection_roles`. These are descriptive observed comparisons, with no new models or inferential intervals."
+      ],
+      "note": "",
+      "source_tables": [
+        "DEP4_funding_connection_roles",
+        "DEP4_funding_role_profiles"
+      ]
+    }
+  ]
+}

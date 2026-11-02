@@ -1,0 +1,13 @@
+Label,Both present,Reference only,Model only,Both absent
+Survey/questionnaire,40,0,5,33
+Interview/observation,15,1,1,61
+Behavioral task,10,2,2,64
+Biological/physiological,14,2,3,59
+Neuroimaging/electrophysiology,2,1,0,75
+Genetic/genomic,3,0,0,75
+Chemical/analytical,3,0,3,72
+Health records,8,0,3,67
+Administrative records,0,2,1,75
+Documents/media/online,5,0,0,73
+Geospatial/market/environmental,0,0,0,78
+Simulated/model data,2,0,0,76

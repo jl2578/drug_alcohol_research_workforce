@@ -1,0 +1,5 @@
+# Tested fresh-refit stack: CPython 3.13.15, Windows x86-64.
+# The pinned SciPy distribution requires Python >=3.11.
+# A clean environment needs only these two third-party packages.
+numpy==2.2.6
+scipy==1.16.3

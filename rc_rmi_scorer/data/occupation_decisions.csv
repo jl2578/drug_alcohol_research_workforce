@@ -1,0 +1,304 @@
+soc_code_canonical,official_soc_title,research_final,clinical_final,directness_final
+11-1011.00,Chief Executives,1,0,no_clinical_care_function_identified
+11-1021.00,General and Operations Managers,0,0,no_clinical_care_function_identified
+11-2021.00,Marketing Managers,0,0,no_clinical_care_function_identified
+11-2022.00,Sales Managers,0,0,no_clinical_care_function_identified
+11-2032.00,Public Relations Managers,0,0,no_clinical_care_function_identified
+11-2033.00,Fundraising Managers,0,0,no_clinical_care_function_identified
+11-3012.00,Administrative Services Managers,0,0,no_clinical_care_function_identified
+11-3013.00,Facilities Managers,0,0,no_clinical_care_function_identified
+11-3021.00,Computer and Information Systems Managers,0,0,no_clinical_care_function_identified
+11-3031.00,Financial Managers,0,0,no_clinical_care_function_identified
+11-3061.00,Purchasing Managers,0,0,no_clinical_care_function_identified
+11-3111.00,Compensation and Benefits Managers,0,0,no_clinical_care_function_identified
+11-3121.00,Human Resources Managers,0,0,no_clinical_care_function_identified
+11-3131.00,Training and Development Managers,0,0,no_clinical_care_function_identified
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",0,0,no_clinical_care_function_identified
+11-9032.00,"Education Administrators, Kindergarten through Secondary",0,1,no_clinical_care_function_identified
+11-9033.00,"Education Administrators, Postsecondary",0,0,no_clinical_care_function_identified
+11-9039.00,"Education Administrators, All Other",U,U,unknown
+11-9051.00,Food Service Managers,0,0,no_clinical_care_function_identified
+11-9111.00,Medical and Health Services Managers,0,1,no_clinical_care_function_identified
+11-9121.00,Natural Sciences Managers,3,1,unknown
+11-9141.00,"Property, Real Estate, and Community Association Managers",0,0,no_clinical_care_function_identified
+11-9151.00,Social and Community Service Managers,0,1,no_clinical_care_function_identified
+11-9179.00,"Personal Service Managers, All Other",0,1,unknown
+11-9199.00,"Managers, All Other",U,U,unknown
+13-1020.00,Buyers and Purchasing Agents,0,0,no_clinical_care_function_identified
+13-1041.00,Compliance Officers,1,1,no_clinical_care_function_identified
+13-1071.00,Human Resources Specialists,0,0,no_clinical_care_function_identified
+13-1075.00,Labor Relations Specialists,0,0,no_clinical_care_function_identified
+13-1081.00,Logisticians,0,0,no_clinical_care_function_identified
+13-1082.00,Project Management Specialists,0,0,no_clinical_care_function_identified
+13-1111.00,Management Analysts,0,0,no_clinical_care_function_identified
+13-1121.00,"Meeting, Convention, and Event Planners",0,0,no_clinical_care_function_identified
+13-1131.00,Fundraisers,0,0,no_clinical_care_function_identified
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",1,0,no_clinical_care_function_identified
+13-1151.00,Training and Development Specialists,0,0,no_clinical_care_function_identified
+13-1161.00,Market Research Analysts and Marketing Specialists,2,0,no_clinical_care_function_identified
+13-1199.00,"Business Operations Specialists, All Other",0,0,no_clinical_care_function_identified
+13-2011.00,Accountants and Auditors,0,0,no_clinical_care_function_identified
+13-2031.00,Budget Analysts,0,0,no_clinical_care_function_identified
+13-2051.00,Financial and Investment Analysts,0,0,no_clinical_care_function_identified
+13-2052.00,Personal Financial Advisors,0,0,no_clinical_care_function_identified
+13-2071.00,Credit Counselors,0,0,no_clinical_care_function_identified
+13-2099.00,"Financial Specialists, All Other",2,0,no_clinical_care_function_identified
+15-1211.00,Computer Systems Analysts,1,1,no_clinical_care_function_identified
+15-1212.00,Information Security Analysts,0,0,no_clinical_care_function_identified
+15-1221.00,Computer and Information Research Scientists,4,0,no_clinical_care_function_identified
+15-1231.00,Computer Network Support Specialists,0,0,no_clinical_care_function_identified
+15-1232.00,Computer User Support Specialists,0,0,no_clinical_care_function_identified
+15-1241.00,Computer Network Architects,0,0,no_clinical_care_function_identified
+15-1242.00,Database Administrators,0,0,no_clinical_care_function_identified
+15-1243.00,Database Architects,0,0,no_clinical_care_function_identified
+15-1244.00,Network and Computer Systems Administrators,0,0,no_clinical_care_function_identified
+15-1251.00,Computer Programmers,1,0,no_clinical_care_function_identified
+15-1252.00,Software Developers,2,0,no_clinical_care_function_identified
+15-1253.00,Software Quality Assurance Analysts and Testers,0,0,no_clinical_care_function_identified
+15-1254.00,Web Developers,0,0,no_clinical_care_function_identified
+15-1255.00,Web and Digital Interface Designers,0,0,no_clinical_care_function_identified
+15-1299.00,"Computer Occupations, All Other",1,0,no_clinical_care_function_identified
+15-2031.00,Operations Research Analysts,2,0,no_clinical_care_function_identified
+15-2041.00,Statisticians,3,1,no_clinical_care_function_identified
+15-2051.00,Data Scientists,2,1,no_clinical_care_function_identified
+17-1021.00,Cartographers and Photogrammetrists,1,0,no_clinical_care_function_identified
+17-1022.00,Surveyors,1,0,no_clinical_care_function_identified
+17-3031.00,Surveying and Mapping Technicians,0,0,no_clinical_care_function_identified
+19-1023.00,Zoologists and Wildlife Biologists,3,0,no_clinical_care_function_identified
+19-1029.00,"Biological Scientists, All Other",3,1,direct_care
+19-1041.00,Epidemiologists,4,1,no_clinical_care_function_identified
+19-1042.00,"Medical Scientists, Except Epidemiologists",4,1,no_clinical_care_function_identified
+19-2031.00,Chemists,3,0,no_clinical_care_function_identified
+19-2041.00,"Environmental Scientists and Specialists, Including Health",3,0,no_clinical_care_function_identified
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",3,0,no_clinical_care_function_identified
+19-3011.00,Economists,3,0,no_clinical_care_function_identified
+19-3022.00,Survey Researchers,3,0,no_clinical_care_function_identified
+19-3032.00,Industrial-Organizational Psychologists,3,0,no_clinical_care_function_identified
+19-3033.00,Clinical and Counseling Psychologists,2,4,mixed_direct_indirect
+19-3034.00,School Psychologists,1,4,mixed_direct_indirect
+19-3039.00,"Psychologists, All Other",2,3,mixed_direct_indirect
+19-3041.00,Sociologists,4,0,no_clinical_care_function_identified
+19-3091.00,Anthropologists and Archeologists,4,1,no_clinical_care_function_identified
+19-3093.00,Historians,3,0,no_clinical_care_function_identified
+19-3094.00,Political Scientists,3,0,no_clinical_care_function_identified
+19-3099.00,"Social Scientists and Related Workers, All Other",2,1,no_clinical_care_function_identified
+19-4021.00,Biological Technicians,2,1,no_clinical_care_function_identified
+19-4042.00,"Environmental Science and Protection Technicians, Including Health",1,0,no_clinical_care_function_identified
+19-4061.00,Social Science Research Assistants,2,1,no_clinical_care_function_identified
+19-4071.00,Forest and Conservation Technicians,1,0,no_clinical_care_function_identified
+19-4092.00,Forensic Science Technicians,0,0,no_clinical_care_function_identified
+19-4099.00,"Life, Physical, and Social Science Technicians, All Other",2,0,no_clinical_care_function_identified
+19-5011.00,Occupational Health and Safety Specialists,0,0,no_clinical_care_function_identified
+21-1011.00,Substance Abuse and Behavioral Disorder Counselors,0,4,mixed_direct_indirect
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",0,2,direct_care
+21-1013.00,Marriage and Family Therapists,0,4,mixed_direct_indirect
+21-1014.00,Mental Health Counselors,0,4,mixed_direct_indirect
+21-1015.00,Rehabilitation Counselors,0,4,mixed_direct_indirect
+21-1018.00,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",0,4,mixed_direct_indirect
+21-1019.00,"Counselors, All Other",U,U,unknown
+21-1021.00,"Child, Family, and School Social Workers",1,3,mixed_direct_indirect
+21-1022.00,Healthcare Social Workers,1,4,mixed_direct_indirect
+21-1023.00,Mental Health and Substance Abuse Social Workers,1,4,mixed_direct_indirect
+21-1029.00,"Social Workers, All Other",U,U,unknown
+21-1091.00,Health Education Specialists,0,1,no_clinical_care_function_identified
+21-1092.00,Probation Officers and Correctional Treatment Specialists,0,2,indirect_patient_specific
+21-1093.00,Social and Human Service Assistants,0,2,indirect_patient_specific
+21-1094.00,Community Health Workers,0,3,mixed_direct_indirect
+21-1099.00,"Community and Social Service Specialists, All Other",U,U,unknown
+21-2011.00,Clergy,0,1,no_clinical_care_function_identified
+23-1011.00,Lawyers,0,0,no_clinical_care_function_identified
+23-2011.00,Paralegals and Legal Assistants,0,0,no_clinical_care_function_identified
+23-2093.00,"Title Examiners, Abstractors, and Searchers",0,0,no_clinical_care_function_identified
+25-1011.00,"Business Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1022.00,"Mathematical Science Teachers, Postsecondary",2,0,no_clinical_care_function_identified
+25-1042.00,"Biological Science Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1063.00,"Economics Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1065.00,"Political Science Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1066.00,"Psychology Teachers, Postsecondary",3,1,mixed_direct_indirect
+25-1067.00,"Sociology Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1071.00,"Health Specialties Teachers, Postsecondary",3,1,no_clinical_care_function_identified
+25-1072.00,"Nursing Instructors and Teachers, Postsecondary",2,3,mixed_direct_indirect
+25-1081.00,"Education Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",2,0,no_clinical_care_function_identified
+25-1112.00,"Law Teachers, Postsecondary",3,0,no_clinical_care_function_identified
+25-1113.00,"Social Work Teachers, Postsecondary",2,1,no_clinical_care_function_identified
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",2,0,no_clinical_care_function_identified
+25-1122.00,"Communications Teachers, Postsecondary",2,0,no_clinical_care_function_identified
+25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",3,1,no_clinical_care_function_identified
+25-1194.00,"Career/Technical Education Teachers, Postsecondary",0,0,no_clinical_care_function_identified
+25-1199.00,"Postsecondary Teachers, All Other",U,U,unknown
+25-2011.00,"Preschool Teachers, Except Special Education",0,1,no_clinical_care_function_identified
+25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education",0,1,no_clinical_care_function_identified
+25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",0,0,no_clinical_care_function_identified
+25-2052.00,"Special Education Teachers, Kindergarten and Elementary School",0,1,no_clinical_care_function_identified
+25-2057.00,"Special Education Teachers, Middle School",0,1,no_clinical_care_function_identified
+25-2058.00,"Special Education Teachers, Secondary School",0,1,no_clinical_care_function_identified
+25-2059.00,"Special Education Teachers, All Other",0,1,no_clinical_care_function_identified
+25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0,0,no_clinical_care_function_identified
+25-3021.00,Self-Enrichment Teachers,0,0,no_clinical_care_function_identified
+25-3031.00,"Substitute Teachers, Short-Term",0,0,no_clinical_care_function_identified
+25-3041.00,Tutors,0,0,no_clinical_care_function_identified
+25-3099.00,"Teachers and Instructors, All Other",U,U,unknown
+25-4011.00,Archivists,2,0,no_clinical_care_function_identified
+25-4012.00,Curators,2,0,no_clinical_care_function_identified
+25-4013.00,Museum Technicians and Conservators,2,0,no_clinical_care_function_identified
+25-4022.00,Librarians and Media Collections Specialists,0,0,no_clinical_care_function_identified
+25-9031.00,Instructional Coordinators,0,0,no_clinical_care_function_identified
+25-9044.00,"Teaching Assistants, Postsecondary",1,0,no_clinical_care_function_identified
+25-9045.00,"Teaching Assistants, Except Postsecondary",0,1,unknown
+25-9099.00,"Educational Instruction and Library Workers, All Other",U,U,unknown
+27-1011.00,Art Directors,0,0,no_clinical_care_function_identified
+27-1024.00,Graphic Designers,0,0,no_clinical_care_function_identified
+27-2012.00,Producers and Directors,0,0,no_clinical_care_function_identified
+27-3023.00,"News Analysts, Reporters, and Journalists",0,0,no_clinical_care_function_identified
+27-3031.00,Public Relations Specialists,0,0,no_clinical_care_function_identified
+27-3041.00,Editors,0,0,no_clinical_care_function_identified
+27-3042.00,Technical Writers,0,0,no_clinical_care_function_identified
+27-3043.00,Writers and Authors,0,0,no_clinical_care_function_identified
+27-3091.00,Interpreters and Translators,0,0,no_clinical_care_function_identified
+29-1021.00,"Dentists, General",0,4,mixed_direct_indirect
+29-1031.00,Dietitians and Nutritionists,2,4,mixed_direct_indirect
+29-1051.00,Pharmacists,0,4,mixed_direct_indirect
+29-1071.00,Physician Assistants,0,4,mixed_direct_indirect
+29-1122.00,Occupational Therapists,1,4,mixed_direct_indirect
+29-1123.00,Physical Therapists,1,4,mixed_direct_indirect
+29-1125.00,Recreational Therapists,0,4,mixed_direct_indirect
+29-1126.00,Respiratory Therapists,1,4,mixed_direct_indirect
+29-1127.00,Speech-Language Pathologists,1,4,mixed_direct_indirect
+29-1129.00,"Therapists, All Other",1,4,mixed_direct_indirect
+29-1131.00,Veterinarians,2,0,no_clinical_care_function_identified
+29-1141.00,Registered Nurses,1,4,mixed_direct_indirect
+29-1171.00,Nurse Practitioners,0,4,mixed_direct_indirect
+29-1211.00,Anesthesiologists,2,4,mixed_direct_indirect
+29-1213.00,Dermatologists,1,4,mixed_direct_indirect
+29-1214.00,Emergency Medicine Physicians,0,4,mixed_direct_indirect
+29-1215.00,Family Medicine Physicians,0,4,mixed_direct_indirect
+29-1216.00,General Internal Medicine Physicians,1,4,mixed_direct_indirect
+29-1217.00,Neurologists,2,4,mixed_direct_indirect
+29-1223.00,Psychiatrists,2,4,mixed_direct_indirect
+29-1224.00,Radiologists,1,4,mixed_direct_indirect
+29-1229.00,"Physicians, All Other",2,4,mixed_direct_indirect
+29-1292.00,Dental Hygienists,0,4,mixed_direct_indirect
+29-1299.00,"Healthcare Diagnosing or Treating Practitioners, All Other",1,4,mixed_direct_indirect
+29-2010.00,Clinical Laboratory Technologists and Technicians,1,3,mixed_direct_indirect
+29-2011.00,Medical and Clinical Laboratory Technologists,1,3,mixed_direct_indirect
+29-2034.00,Radiologic Technologists and Technicians,1,4,mixed_direct_indirect
+29-2042.00,Emergency Medical Technicians,0,4,mixed_direct_indirect
+29-2051.00,Dietetic Technicians,1,3,mixed_direct_indirect
+29-2052.00,Pharmacy Technicians,0,3,indirect_patient_specific
+29-2053.00,Psychiatric Technicians,0,4,mixed_direct_indirect
+29-2061.00,Licensed Practical and Licensed Vocational Nurses,0,4,mixed_direct_indirect
+29-2072.00,Medical Records Specialists,0,0,no_clinical_care_function_identified
+29-2099.00,"Health Technologists and Technicians, All Other",1,3,mixed_direct_indirect
+29-9021.00,Health Information Technologists and Medical Registrars,0,1,no_clinical_care_function_identified
+29-9099.00,"Healthcare Practitioners and Technical Workers, All Other",1,3,mixed_direct_indirect
+31-1120.00,Home Health and Personal Care Aides,0,4,mixed_direct_indirect
+31-1131.00,Nursing Assistants,0,4,direct_care
+31-1132.00,Orderlies,0,3,direct_care
+31-1133.00,Psychiatric Aides,0,4,direct_care
+31-2011.00,Occupational Therapy Assistants,0,4,mixed_direct_indirect
+31-2021.00,Physical Therapist Assistants,0,4,mixed_direct_indirect
+31-2022.00,Physical Therapist Aides,0,4,direct_care
+31-9011.00,Massage Therapists,0,4,mixed_direct_indirect
+31-9091.00,Dental Assistants,0,4,direct_care
+31-9092.00,Medical Assistants,0,4,direct_care
+31-9094.00,Medical Transcriptionists,0,0,no_clinical_care_function_identified
+31-9095.00,Pharmacy Aides,0,1,no_clinical_care_function_identified
+31-9097.00,Phlebotomists,1,4,direct_care
+31-9099.00,"Healthcare Support Workers, All Other",1,3,mixed_direct_indirect
+33-1011.00,First-Line Supervisors of Correctional Officers,0,1,no_clinical_care_function_identified
+33-1012.00,First-Line Supervisors of Police and Detectives,0,0,no_clinical_care_function_identified
+33-1091.00,First-Line Supervisors of Security Workers,0,0,no_clinical_care_function_identified
+33-1099.00,"First-Line Supervisors of Protective Service Workers, All Other",U,U,unknown
+33-3012.00,Correctional Officers and Jailers,0,1,unknown
+33-3021.00,Detectives and Criminal Investigators,0,0,no_clinical_care_function_identified
+33-3051.00,Police and Sheriff's Patrol Officers,0,1,no_clinical_care_function_identified
+33-9032.00,Security Guards,0,1,no_clinical_care_function_identified
+33-9099.00,"Protective Service Workers, All Other",0,0,no_clinical_care_function_identified
+35-1011.00,Chefs and Head Cooks,0,0,no_clinical_care_function_identified
+35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,0,1,indirect_patient_specific
+35-2012.00,"Cooks, Institution and Cafeteria",0,1,no_clinical_care_function_identified
+35-2019.00,"Cooks, All Other",U,U,unknown
+35-2021.00,Food Preparation Workers,0,0,no_clinical_care_function_identified
+35-3023.00,Fast Food and Counter Workers,0,0,no_clinical_care_function_identified
+35-3041.00,"Food Servers, Nonrestaurant",0,1,no_clinical_care_function_identified
+35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,0,0,no_clinical_care_function_identified
+35-9021.00,Dishwashers,0,0,no_clinical_care_function_identified
+35-9099.00,"Food Preparation and Serving Related Workers, All Other",U,U,unknown
+37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,0,0,no_clinical_care_function_identified
+37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0,0,no_clinical_care_function_identified
+37-2012.00,Maids and Housekeeping Cleaners,0,0,no_clinical_care_function_identified
+37-3011.00,Landscaping and Groundskeeping Workers,0,0,no_clinical_care_function_identified
+39-1014.00,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",0,0,no_clinical_care_function_identified
+39-1022.00,First-Line Supervisors of Personal Service Workers,0,0,no_clinical_care_function_identified
+39-2021.00,Animal Caretakers,0,0,no_clinical_care_function_identified
+39-5011.00,Barbers,0,0,no_clinical_care_function_identified
+39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",0,1,no_clinical_care_function_identified
+39-9011.00,Childcare Workers,0,1,no_clinical_care_function_identified
+39-9031.00,Exercise Trainers and Group Fitness Instructors,0,1,direct_care
+39-9032.00,Recreation Workers,0,2,mixed_direct_indirect
+39-9041.00,Residential Advisors,0,1,no_clinical_care_function_identified
+39-9099.00,"Personal Care and Service Workers, All Other",U,U,unknown
+41-1011.00,First-Line Supervisors of Retail Sales Workers,0,0,no_clinical_care_function_identified
+41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,0,0,no_clinical_care_function_identified
+41-2011.00,Cashiers,0,0,no_clinical_care_function_identified
+41-2031.00,Retail Salespersons,0,0,no_clinical_care_function_identified
+41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",0,0,no_clinical_care_function_identified
+41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0,0,no_clinical_care_function_identified
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,0,0,no_clinical_care_function_identified
+43-2011.00,"Switchboard Operators, Including Answering Service",0,0,no_clinical_care_function_identified
+43-2021.00,Telephone Operators,0,0,no_clinical_care_function_identified
+43-3011.00,Bill and Account Collectors,0,0,no_clinical_care_function_identified
+43-3021.00,Billing and Posting Clerks,0,0,no_clinical_care_function_identified
+43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",0,0,no_clinical_care_function_identified
+43-3051.00,Payroll and Timekeeping Clerks,0,0,no_clinical_care_function_identified
+43-3061.00,Procurement Clerks,0,0,no_clinical_care_function_identified
+43-4041.00,"Credit Authorizers, Checkers, and Clerks",0,0,no_clinical_care_function_identified
+43-4051.00,Customer Service Representatives,0,0,no_clinical_care_function_identified
+43-4061.00,"Eligibility Interviewers, Government Programs",0,0,no_clinical_care_function_identified
+43-4071.00,File Clerks,0,0,no_clinical_care_function_identified
+43-4111.00,"Interviewers, Except Eligibility and Loan",1,1,no_clinical_care_function_identified
+43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",0,0,no_clinical_care_function_identified
+43-4171.00,Receptionists and Information Clerks,0,0,no_clinical_care_function_identified
+43-4199.00,"Information and Record Clerks, All Other",U,U,unknown
+43-5021.00,Couriers and Messengers,0,0,no_clinical_care_function_identified
+43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",0,0,no_clinical_care_function_identified
+43-5061.00,"Production, Planning, and Expediting Clerks",0,0,no_clinical_care_function_identified
+43-5071.00,"Shipping, Receiving, and Inventory Clerks",0,0,no_clinical_care_function_identified
+43-6011.00,Executive Secretaries and Executive Administrative Assistants,0,0,no_clinical_care_function_identified
+43-6013.00,Medical Secretaries and Administrative Assistants,0,1,no_clinical_care_function_identified
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0,0,no_clinical_care_function_identified
+43-9021.00,Data Entry Keyers,0,0,no_clinical_care_function_identified
+43-9022.00,Word Processors and Typists,0,0,no_clinical_care_function_identified
+43-9041.00,Insurance Claims and Policy Processing Clerks,0,0,no_clinical_care_function_identified
+43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service",0,0,no_clinical_care_function_identified
+43-9061.00,"Office Clerks, General",0,0,no_clinical_care_function_identified
+43-9081.00,Proofreaders and Copy Markers,0,0,no_clinical_care_function_identified
+43-9199.00,"Office and Administrative Support Workers, All Other",U,U,unknown
+45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0,0,no_clinical_care_function_identified
+47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,0,0,no_clinical_care_function_identified
+47-2031.00,Carpenters,0,0,no_clinical_care_function_identified
+47-2111.00,Electricians,0,0,no_clinical_care_function_identified
+47-2141.00,"Painters, Construction and Maintenance",0,0,no_clinical_care_function_identified
+47-2152.00,"Plumbers, Pipefitters, and Steamfitters",0,0,no_clinical_care_function_identified
+49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",0,0,no_clinical_care_function_identified
+49-3023.00,Automotive Service Technicians and Mechanics,0,0,no_clinical_care_function_identified
+49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0,0,no_clinical_care_function_identified
+49-9062.00,Medical Equipment Repairers,0,0,no_clinical_care_function_identified
+49-9071.00,"Maintenance and Repair Workers, General",0,0,no_clinical_care_function_identified
+49-9094.00,Locksmiths and Safe Repairers,0,0,no_clinical_care_function_identified
+49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers",0,0,no_clinical_care_function_identified
+51-1011.00,First-Line Supervisors of Production and Operating Workers,1,0,no_clinical_care_function_identified
+51-6011.00,Laundry and Dry-Cleaning Workers,0,0,no_clinical_care_function_identified
+51-8013.00,Power Plant Operators,0,0,no_clinical_care_function_identified
+51-8021.00,Stationary Engineers and Boiler Operators,0,0,no_clinical_care_function_identified
+51-8031.00,Water and Wastewater Treatment Plant and System Operators,0,0,no_clinical_care_function_identified
+51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",0,0,no_clinical_care_function_identified
+53-1047.00,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling",0,0,no_clinical_care_function_identified
+53-3032.00,Heavy and Tractor-Trailer Truck Drivers,0,0,no_clinical_care_function_identified
+53-3033.00,Light Truck Drivers,0,0,no_clinical_care_function_identified
+53-3053.00,Shuttle Drivers and Chauffeurs,0,1,no_clinical_care_function_identified
+53-3099.00,"Motor Vehicle Operators, All Other",U,U,unknown
+53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",0,0,no_clinical_care_function_identified
+53-7065.00,Stockers and Order Fillers,0,0,no_clinical_care_function_identified

@@ -1,0 +1,18 @@
+# DOI identifies the combined record; component identity is retained separately.
+cff-version: "1.2.0"
+message: "Study-evidence component of the combined Zenodo record. Cite the combined record and identify component version 2026-11-02-local-v9. The record DOI was reserved during preparation; no separate component DOI is assigned."
+type: "dataset"
+title: "Linking research content, NIH funding, and employment broadens scientific workforce evaluation: An application to U.S. drug and alcohol research — Supplement and evidence"
+version: "2026-11-02-local-v9"
+authors:
+  - family-names: "Liss"
+    given-names: "Jesse"
+    affiliation: "Department of Sociology & Anthropology, Rutgers-Newark; Rutgers Addiction Research Center"
+  - family-names: "Davradou"
+    given-names: "Maria"
+    affiliation: "Department of Psychology, Rutgers-New Brunswick; Rutgers Addiction Research Center"
+abstract: "S1–S4 supplement, complete deposited tables and figures, aggregate evidence, institutional NIH inputs and count-model data, and code for numerical verification and table export. Reproduction and reuse scopes vary by material; see DATA_AVAILABILITY.md and REPRODUCTION.md."
+identifiers:
+  - type: "doi"
+    value: "10.5281/zenodo.23897503"
+    description: "Combined record containing study evidence, the ProQuest reader and RC-RMI scorer; not a component-specific DOI."

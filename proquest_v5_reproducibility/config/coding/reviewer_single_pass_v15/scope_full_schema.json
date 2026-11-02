@@ -1,0 +1,383 @@
+{
+  "name": "v15_single_pass_scope",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "record_id",
+      "scope_units",
+      "add_su_focus"
+    ],
+    "properties": {
+      "record_id": {
+        "type": "string"
+      },
+      "scope_units": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "aim_id",
+            "source_sentence_ids",
+            "substance_roles",
+            "unrelated_therapeutic_indication_tested",
+            "substance_all",
+            "substance_primary",
+            "substance_assignment_basis",
+            "stated_purposes"
+          ],
+          "properties": {
+            "aim_id": {
+              "type": "string"
+            },
+            "source_sentence_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "substance_roles": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "value",
+                "coding_status",
+                "confidence"
+              ],
+              "properties": {
+                "value": {
+                  "anyOf": [
+                    {
+                      "type": "null"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "object_of_study",
+                          "use_as_outcome",
+                          "use_as_exposure",
+                          "treatment_target",
+                          "substance_related_systems_responses",
+                          "therapeutic_agent",
+                          "context_only",
+                          "instrument_only",
+                          "endogenous_system_only",
+                          "behavioral_addiction",
+                          "none"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "coding_status": {
+                  "type": "string",
+                  "enum": [
+                    "coded",
+                    "cannot_determine",
+                    "not_applicable"
+                  ]
+                },
+                "confidence": {
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low",
+                    null
+                  ]
+                }
+              }
+            },
+            "unrelated_therapeutic_indication_tested": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "value",
+                "coding_status",
+                "confidence"
+              ],
+              "properties": {
+                "value": {
+                  "enum": [
+                    "yes",
+                    "no",
+                    null
+                  ]
+                },
+                "coding_status": {
+                  "type": "string",
+                  "enum": [
+                    "coded",
+                    "cannot_determine",
+                    "not_applicable"
+                  ]
+                },
+                "confidence": {
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low",
+                    null
+                  ]
+                }
+              }
+            },
+            "substance_all": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "value",
+                "coding_status",
+                "confidence"
+              ],
+              "properties": {
+                "value": {
+                  "anyOf": [
+                    {
+                      "type": "null"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "general_SUD_unspecified"
+                        ]
+                      },
+                      "minItems": 1,
+                      "maxItems": 1
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "alcohol",
+                          "general_drug_unspecified"
+                        ]
+                      },
+                      "minItems": 1,
+                      "maxItems": 2
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "alcohol",
+                          "cannabis",
+                          "opioids",
+                          "sedative_hypnotic_anxiolytic",
+                          "stimulant",
+                          "tobacco_nicotine",
+                          "hallucinogen_phencyclidine",
+                          "inhalant",
+                          "caffeine",
+                          "behavioral_addiction",
+                          "other_named_non_alcohol_drug",
+                          "substance_unidentified"
+                        ]
+                      },
+                      "minItems": 1
+                    }
+                  ]
+                },
+                "coding_status": {
+                  "type": "string",
+                  "enum": [
+                    "coded",
+                    "cannot_determine",
+                    "not_applicable"
+                  ]
+                },
+                "confidence": {
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low",
+                    null
+                  ]
+                }
+              }
+            },
+            "substance_primary": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "value",
+                "coding_status",
+                "confidence"
+              ],
+              "properties": {
+                "value": {
+                  "enum": [
+                    "alcohol",
+                    "cannabis",
+                    "opioids",
+                    "sedative_hypnotic_anxiolytic",
+                    "stimulant",
+                    "tobacco_nicotine",
+                    "hallucinogen_phencyclidine",
+                    "inhalant",
+                    "caffeine",
+                    "behavioral_addiction",
+                    "other_named_non_alcohol_drug",
+                    "substance_unidentified",
+                    "general_SUD_unspecified",
+                    "general_drug_unspecified",
+                    "none_dominant",
+                    null
+                  ]
+                },
+                "coding_status": {
+                  "type": "string",
+                  "enum": [
+                    "coded",
+                    "cannot_determine",
+                    "not_applicable"
+                  ]
+                },
+                "confidence": {
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low",
+                    null
+                  ]
+                }
+              }
+            },
+            "substance_assignment_basis": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "value",
+                "coding_status",
+                "confidence"
+              ],
+              "properties": {
+                "value": {
+                  "enum": [
+                    "named_focal_substance",
+                    "general_substance_construct",
+                    "target_system_mapping",
+                    null
+                  ]
+                },
+                "coding_status": {
+                  "type": "string",
+                  "enum": [
+                    "coded",
+                    "cannot_determine",
+                    "not_applicable"
+                  ]
+                },
+                "confidence": {
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low",
+                    null
+                  ]
+                }
+              }
+            },
+            "stated_purposes": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "value",
+                "coding_status",
+                "confidence"
+              ],
+              "properties": {
+                "value": {
+                  "anyOf": [
+                    {
+                      "type": "null"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "sud_treatment",
+                          "use_or_misuse",
+                          "abuse_liability_dependence_withdrawal",
+                          "effects_of_use_or_exposure",
+                          "mechanism_of_action",
+                          "substance_exposure",
+                          "substance_related_harm_care",
+                          "services_implementation",
+                          "policy_social_responses",
+                          "education_workforce",
+                          "measurement_methods",
+                          "none_stated",
+                          "outside_study_scope"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "coding_status": {
+                  "type": "string",
+                  "enum": [
+                    "coded",
+                    "cannot_determine",
+                    "not_applicable"
+                  ]
+                },
+                "confidence": {
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low",
+                    null
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "add_su_focus": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              1,
+              2,
+              3,
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      }
+    }
+  }
+}

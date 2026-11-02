@@ -1,0 +1,400 @@
+{
+  "name": "v15_single_pass_content",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "record_id",
+      "target_aim_ids",
+      "mixed_purpose",
+      "dissertation_type",
+      "study_design",
+      "level_of_analysis",
+      "research_objective",
+      "intervention_continuum",
+      "explanatory_domain",
+      "data_type",
+      "data_source_origin"
+    ],
+    "properties": {
+      "record_id": {
+        "type": "string"
+      },
+      "target_aim_ids": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "mixed_purpose": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "only_qualifying_described",
+              "qualifying_primary",
+              "coequal",
+              "nonqualifying_primary",
+              "mixed_prominence_unclear",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "dissertation_type": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "empirical_research",
+              "program_evaluation_qi",
+              "evidence_synthesis",
+              "conceptual_theoretical",
+              "practice_product",
+              "methods_development",
+              "multiple_no_dominant",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "study_design": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "mixed_methods",
+              "qualitative",
+              "single_case",
+              "computational_modeling",
+              "synthesis_characterization",
+              "experimental_randomized",
+              "experimental_nonrandomized",
+              "quasi_experimental",
+              "single_group_pre_post",
+              "longitudinal_observational",
+              "cross_sectional_observational",
+              "multiple_no_dominant",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "level_of_analysis": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "molecular_cellular",
+              "organism_nonhuman",
+              "individual_human",
+              "dyad_family_group",
+              "organization_program",
+              "community_jurisdiction_population",
+              "texts_media_discourse",
+              "multiple_no_dominant",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "research_objective": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "describe_distribution",
+              "explain_causes",
+              "consequences_of_use",
+              "characterize_substance_action",
+              "intervene",
+              "organize_deliver_services",
+              "law_policy_economics",
+              "meanings_attitudes",
+              "education_workforce",
+              "measurement",
+              "other_stated_objective",
+              "multiple_no_dominant",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "intervention_continuum": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "prevention",
+              "screening_early_intervention",
+              "treatment",
+              "recovery_harm_reduction",
+              "multiple_no_dominant",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "explanatory_domain": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "biological_neural",
+              "psychological_behavioral",
+              "social_environmental",
+              "multiple_no_dominant",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "data_type": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "survey_questionnaire",
+                    "interview_observation",
+                    "behavioral_task",
+                    "biological_physiological",
+                    "neuroimaging_electrophysiology",
+                    "genetic_genomic",
+                    "chemical_analytical",
+                    "health_records",
+                    "administrative_records",
+                    "documents_media_online",
+                    "geospatial_market_environmental",
+                    "simulated_model_data"
+                  ]
+                },
+                "maxItems": 3
+              }
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      },
+      "data_source_origin": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "coding_status",
+          "confidence"
+        ],
+        "properties": {
+          "value": {
+            "enum": [
+              "primary_generated",
+              "secondary_existing",
+              "mixed_primary_secondary",
+              "no_empirical_data",
+              null
+            ]
+          },
+          "coding_status": {
+            "type": "string",
+            "enum": [
+              "coded",
+              "cannot_determine",
+              "not_applicable"
+            ]
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      }
+    }
+  }
+}

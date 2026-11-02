@@ -1,0 +1,225 @@
+{
+  "version": "0.3.0-rc2",
+  "date": "2026-10-29",
+  "status": "prepared_for_combined_zenodo_draft",
+  "intended_reader_environment": "authorized ProQuest TDM Studio Workbench; local execution is maintainer QA only",
+  "license": "MIT AND CC-BY-4.0",
+  "license_scope": {
+    "software": "MIT",
+    "original_documentation_and_methods": "CC-BY-4.0",
+    "third_party_inputs": "not bundled; source terms apply"
+  },
+  "license_policy": "LICENSES/README.md",
+  "final_v5_population_counts": "Historical adopted counts are documented in SM1; a fresh search is not required to match them",
+  "production_model_availability": "not verified by authenticated calls for this package; check both snapshots in the authorized TDM environment",
+  "current_frozen_configuration": "config/coding/reviewer_single_pass_v15_freeze.json",
+  "scope_rules_revision": 15,
+  "runner_mode": "Search-derived integrated revision-15 scope assessment followed by fixed-target research-content coding",
+  "input_policy": "reviewer executes search and exports XML plus Extended Metadata CSV in the same Workbench; no prebuilt dataset or GOID list is distributed",
+  "search_export_policy": "result counts and missing values are recorded in the private audit, never enforced; preparation stops only for an absent required column or when no assessable record remains",
+  "http400_record_guard": "inlined into src/coding/run_v5_rev14_hybrid_production.py and called by both live stage invokers; no separate installation",
+  "current_codebook": "config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+  "scope_coding_passes": 1,
+  "workflow": "one_complete_scope_pass_then_fixed_target_content",
+  "content_contract": "C1-C9 and exact fixed IDs only; no scope/S4 outputs",
+  "rule_to_code": "manifest/rule_to_code.json",
+  "source_map": {
+    "search/topical_query.txt": {
+      "source": "docs/methods/sm1_search/topical_query.txt",
+      "sha256": "91c33d6f44cb3a5b51d30ebb92c8a9681f8bcbb176cd340ae10464e35030551f"
+    },
+    "search/REVIEWER_SEARCH.md": {
+      "source": "docs/methods/sm1_reproducibility/REVIEWER_SEARCH.md",
+      "sha256": "463dc6932be981ed0461a0835f41b7dab276e21b4253e8c3bbe0504d33aef56a"
+    },
+    "src/coding/run_v5_rev14_hybrid_production.py": {
+      "source": "src/coding/run_v5_rev14_hybrid_production.py",
+      "sha256": "3ad166986976c25c9f94153e3eeead9bee6736df1d5770ab0dc6a0eb1c55d5e3"
+    },
+    "src/coding/run_v5_rev14_pilot.py": {
+      "source": "src/coding/run_v5_rev14_pilot.py",
+      "sha256": "633123ecec83604c1468438942e44639a8d4acc113ca6a8055de63a261049742"
+    },
+    "src/coding/run_v5_rev14_scope_compare.py": {
+      "source": "src/coding/run_v5_rev14_scope_compare.py",
+      "sha256": "70b3930acfb7d8d5f708ded3e100ca24c469aaed51d7c1c7e071a0872b540a1b"
+    },
+    "src/coding/normalize_v5_rev13.py": {
+      "source": "src/coding/normalize_v5_rev13.py",
+      "sha256": "046baae4e6ab69a47e767a0b5cc73639070ae8a027efe65501fccba1814171f6"
+    },
+    "src/coding/validate_v5_rev14_pilot.py": {
+      "source": "src/coding/validate_v5_rev14_pilot.py",
+      "sha256": "aff534f5fced0480b9b0d88e259479a5619e39664260735bdc3595f3a3c9eec5"
+    },
+    "src/coding/extract_v5_rev14_production_from_xml.py": {
+      "source": "src/coding/extract_v5_rev14_production_from_xml.py",
+      "sha256": "615f7d2183f34ec454288e764ad82a7c4eca4f7cc56569ec11100b22f2d5b86a"
+    },
+    "src/coding/extract_v5_rev13_pilot_from_xml.py": {
+      "source": "src/coding/extract_v5_rev13_pilot_from_xml.py",
+      "sha256": "5a3d1c33d669d974d289ca6035ff628284409dda213660d72981de42219abfb5"
+    },
+    "src/coding/build_v5_calibration_packages.py": {
+      "source": "src/coding/build_v5_calibration_packages.py",
+      "sha256": "ac5e04cf9bec8e34b3d1cc14d5efd115948c6d42e3ce3e5d95374a3719b690ea"
+    },
+    "src/coding/merge_v5_rev14_hybrid_production_exports.py": {
+      "source": "src/coding/merge_v5_rev14_hybrid_production_exports.py",
+      "sha256": "cd4a69ea7f6249a4e2122cfc0a3964d730c9cb32f7313060c87b3f0719a7fdf7"
+    },
+    "src/coding/recover_v5_rev14_hybrid_checkpoint.py": {
+      "source": "src/coding/recover_v5_rev14_hybrid_checkpoint.py",
+      "sha256": "ae645b16cb1d084d5841c83f81d782042e829f62a45a1d42e506b7e6e281a031"
+    },
+    "src/coding/public_workflow.py": {
+      "source": "src/reproducibility/public_workflow.py",
+      "sha256": "bda22f122d327ee8acf096485a8ecf62ecc33728de9db0d9b6aac92d151c5a96"
+    },
+    "README.md": {
+      "source": "docs/methods/sm1_reproducibility/README.md",
+      "sha256": "5165b082b2bd63d337f8637b96e4eaf63a6a7ee86ec1f1b49a5802d5df77ad30"
+    },
+    "DATA_GUIDE.md": {
+      "source": "docs/methods/sm1_reproducibility/DATA_GUIDE.md",
+      "sha256": "ef148cad9364f1db65009ba079013524a4480fb3a8e2432c7db46dd380dde6eb"
+    },
+    "LICENSE": {
+      "source": "docs/methods/sm1_reproducibility/LICENSE",
+      "sha256": "15c50af67d7988d291a7c94fc2b5ecde81ad4eb23ac0401cbd008284a151ae56"
+    },
+    "CITATION.md": {
+      "source": "docs/methods/sm1_reproducibility/CITATION.md",
+      "sha256": "ef8a43d94904777be7f287a6e4026a01108d638ca4af4990d2aca40f99eb66ef"
+    },
+    "CHANGELOG.md": {
+      "source": "docs/methods/sm1_reproducibility/CHANGELOG.md",
+      "sha256": "9bda3fed2ff5595d74baf4afbcff49ba3f97a88b0b4f67f2814abbf0e5d62049"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "source": "docs/methods/sm1_reproducibility/THIRD_PARTY_NOTICES.md",
+      "sha256": "bb60c2838add87e505f03c11a4877baea0fbd722dbf4bc1b05f65dcdf50b71ad"
+    },
+    "requirements.txt": {
+      "source": "docs/methods/sm1_reproducibility/requirements.txt",
+      "sha256": "1c0cb4581fa6925cf615d1227124c20225e7cd62898d886fc6baa2e788756238"
+    },
+    "LICENSED_INPUTS.md": {
+      "source": "docs/methods/sm1_reproducibility/LICENSED_INPUTS.md",
+      "sha256": "426c5a757a882f27feb5cbb796638ee08c45aa39085b3f76fae8fa351c3e4348"
+    },
+    "LICENSES/README.md": {
+      "source": "docs/methods/sm1_reproducibility/LICENSES/README.md",
+      "sha256": "1fdeb9d6ee6d45ef9e08317a967030b39f97cbb110873e4a7cd19709ac8aa71a"
+    },
+    "LICENSES/CC-BY-4.0.txt": {
+      "source": "docs/methods/sm1_reproducibility/LICENSES/CC-BY-4.0.txt",
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    ".gitattributes": {
+      "source": ".gitattributes",
+      "sha256": "4bf85984838177c8869ab0ce1e119ef24ca5fb6497b837b715721792373937f2"
+    },
+    "tests/test_behavior.py": {
+      "source": "src/reproducibility/test_public_behavior.py",
+      "sha256": "67b5986d310dacc1260737a4d83fc6be04f4017843e3e89d40794377f3d0e7d9"
+    },
+    "config/coding/dissertation_codebook_v5_rev15_reproduction.md": {
+      "source": "config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+      "sha256": "f8d9234deeb59c60204957bbd0db6ea471ffc59fade386835352e66c33086ee2"
+    },
+    "src/coding/reviewer_scope_single_pass.py": {
+      "source": "src/reproducibility/reviewer_scope_single_pass.py",
+      "sha256": "e782feca1db62a430e43641752ed78d01c6e5ccb48a7c77721a8d797ba6c8408"
+    },
+    "config/coding/reviewer_single_pass_v15/scope_prompt.md": {
+      "source": "config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+      "sha256": "f8d9234deeb59c60204957bbd0db6ea471ffc59fade386835352e66c33086ee2",
+      "derivation": "Named operative sections, stage-specific A4a/A5/hard rules and request header from the integrated codebook."
+    },
+    "config/coding/reviewer_single_pass_v15/content_prompt.md": {
+      "source": "config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+      "sha256": "f8d9234deeb59c60204957bbd0db6ea471ffc59fade386835352e66c33086ee2",
+      "derivation": "Named operative sections, stage-specific A4a/A5/hard rules and request header from the integrated codebook."
+    },
+    "config/coding/reviewer_single_pass_v15/scope_full_schema.json": {
+      "source": "config/coding/v5_pilot_rev14/scope_full_schema.json",
+      "sha256": "be6b48ee9f0af8a0a42752459072c9ee31c2a1c469b8ff7c4860d5b9a73b093e",
+      "derivation": "Unchanged field vocabularies/strict full-scope or C1–C9-only contract; successor schema identity."
+    },
+    "config/coding/reviewer_single_pass_v15/content_schema.json": {
+      "source": "config/coding/v5_pilot_rev14/content_schema.json",
+      "sha256": "fe71e4d0419e9fada178929c587c7643ee5b9ca894f81bdf68be8b9b506b37c4",
+      "derivation": "Unchanged field vocabularies/strict full-scope or C1–C9-only contract; successor schema identity."
+    },
+    "tests/test_single_pass.py": {
+      "source": "src/reproducibility/test_public_single_pass.py",
+      "sha256": "e31c258685a9dbae8b83ede3a6b481e6296eb14286a1339593a553b7e54a0833"
+    }
+  },
+  "adaptations": {
+    "src/coding/extract_v5_rev13_pilot_from_xml.py": "plain_text() now closes its HTML parser after feeding text. Without this flush, text whose final segment contains an ampersand with no following space or semicolon (for example a title ending \"AT&T\" or an abstract ending \"Q&A\") was returned empty or truncated. Production inputs were unaffected: worker 1 records passed the XML evidence-hash check or used documented reference replacements, and worker 2 used the frozen reference.",
+    "src/coding/run_v5_rev14_hybrid_production.py": "Portable worker assignments and search-derived roster; integrated HTTP 400 record handling for both model invokers. One scope response evaluates every aim and S1–S5 field; content returns C1–C9 for its fixed targets. Full scope dependencies and the configuration identity are pinned.",
+    "src/coding/run_v5_rev14_scope_compare.py": "Live HTTP 400 handling now calls the inlined public production runner classifier before the unchanged original error branches; no separate adapter installation is needed.",
+    "src/coding/run_v5_rev14_pilot.py": "Live HTTP 400 handling now calls the inlined public production runner classifier before the unchanged original error branches; no separate adapter installation is needed.",
+    "src/coding/merge_v5_rev14_hybrid_production_exports.py": "Validate complete worker coverage, disjoint assignments, model/configuration identity, derived scope, ordered content targets and the complete frozen-scope dependency hash before merging.",
+    "src/coding/validate_v5_rev14_pilot.py": "Integrated revision-15 scope derivation, field applicability and strict C1–C9-only content validation.",
+    "src/coding/public_workflow.py": "Use the integrated codebook and frozen configuration for search-derived reader plans and merges."
+  },
+  "notebook_sources": [
+    {
+      "cell_type": "markdown",
+      "source": "# ProQuest v5: reviewer search and coding rerun\n\n**Step 0: run your own search first.** Reproduce `search/topical_query.txt` using `search/REVIEWER_SEARCH.md`; export **your new search's** XML and Extended Metadata CSV into this authorized TDM Studio Workbench. Record their paths, search time and interface filters; the displayed result count is optional provenance. The package contains scripts, configuration and instructions, with no raw TDM records or prebuilt GOID list. A fresh search creates a new rerun, not the historical evidence identity. Read README.md and LICENSED_INPUTS.md. All actions that process licensed records or call the model are disabled by default.\n\n**Integrated single scope pass:** use [the operative codebook](config/coding/dissertation_codebook_v5_rev15_reproduction.md). The first scope response assesses all aims and S1–S5, including endogenous S4. Supported uncertainty is final scope coding; content returns C1–C9 only for fixed targets. Use a private plan/output folder bound to this configuration.\n"
+    },
+    {
+      "cell_type": "code",
+      "source": "from pathlib import Path\nimport json, sys\nROOT = Path.cwd().resolve()\nassert (ROOT / 'manifest/files.json').is_file(), 'Open this notebook from the extracted package folder'\nsys.path.insert(0, str(ROOT / 'src/coding'))\nimport public_workflow as workflow\nfrom run_v5_rev14_hybrid_production import RUNNER_VERSION, _classify_http400_response\nassert RUNNER_VERSION == 'v5_rev15_single_scope_public_rerun_v1' and callable(_classify_http400_response)\nprint(workflow.verify_package())\n"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## 1. Prepare from your own replicated search\n\nSet both paths to **your new search's** files in this Workbench. Also record its execution time and exact interface filters. The displayed result count is optional provenance and is never compared with the exports. The Extended Metadata CSV must include GOID, Title, Authors/Author, Date, Degree Date, Language, School Location and Source Type. The script matches XML and metadata by GOID, applies the documented document, date, language and U.S. location rules, deduplicates by normalized title–author–year, freezes the private evidence and assignment, then runs a no-call preflight. Search results vary, so counts and missing values never stop preparation: a record without matching evidence, or without the metadata a rule needs, is excluded with a recorded reason, and title differences or missing authors are flagged. Preparation stops only if a required column is absent or no assessable record remains. Review `private/reviewer_rerun/search_audit_PRIVATE.json`, `search_removals_PRIVATE.csv`, `search_review_flags_PRIVATE.csv` and `source_partition/unassessable_goids.json` before paying for live coding. Keep all generated files inside TDM Studio.\n"
+    },
+    {
+      "cell_type": "code",
+      "source": "PREPARE_FROM_MY_SEARCH = False\nXML_DIR = None       # Replace with Path('/home/ec2-user/SageMaker/my_new_search/xml')\nMETADATA_CSV = None  # Replace with Path('/home/ec2-user/SageMaker/my_new_search/Extended_Metadata.csv')\nSEARCH_EXECUTED_AT = None  # Your search execution date/time, as shown by Studio\nINTERFACE_FILTERS = None  # All interface filters you selected; describe them exactly\nSEARCH_RESULT_COUNT = None  # Optional: count shown by Studio, kept as provenance only\nRERUN = ROOT / 'private/reviewer_rerun'\nWORKERS = 1\nWORKER_ID = 1\nif PREPARE_FROM_MY_SEARCH:\n    assert XML_DIR and METADATA_CSV and SEARCH_EXECUTED_AT and INTERFACE_FILTERS\n    if not RERUN.exists():\n        print(workflow.prepare_from_search(XML_DIR, METADATA_CSV, RERUN, workers=WORKERS,\n              search_executed_at=SEARCH_EXECUTED_AT, interface_filters=INTERFACE_FILTERS,\n              search_result_count=SEARCH_RESULT_COUNT))\n    workflow.extract(XML_DIR, RERUN, WORKER_ID)\n    workflow.run(RERUN, WORKER_ID, mode='preflight')\nelse:\n    print('Preparation disabled; run your own search first')\n"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## 2. Run scope, then content\n\nVerify access to both requested model snapshots in your authorized TDM Studio session before processing records. After the first few hundred scope responses, project cost from `usage_by_stage` in `worker_1_output/production_progress.json` (see README.md). Set RUN_LIVE=True for scope. After scope completes, inspect private progress and failures; set RELEASE_CONTENT=True and rerun this cell for content. The HTTP 400 record guard is built into both live stages. Confirmed policy refusals are explicitly deferred for later review; configuration failures still stop. Keep the same plan and checkpoint on resume. A deliberate one-pass failure retry is optional. See LICENSED_INPUTS.md.\n"
+    },
+    {
+      "cell_type": "code",
+      "source": "RUN_LIVE = False\nRELEASE_CONTENT = False\nRETRY_FAILURES_ONCE = False\nBASE_URL = None  # Authorized TDM proxy endpoint\nKEY_FILE = None  # Workbench private key-file path; never paste key text\nPACE_TPM = None  # Measured authorized pacing\nif RUN_LIVE:\n    workflow.run(RERUN, WORKER_ID, mode='live', release_content=RELEASE_CONTENT,\n                 base_url=BASE_URL, key_file=KEY_FILE, pace_tpm=PACE_TPM,\n                 retry_failures_once=RETRY_FAILURES_ONCE)\nelse:\n    print('Live model calls disabled')\n"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## 3. Reconcile the completed rerun\n\nEnable only after all workers finish. This creates private record-level accounting. Deferred failures remain failures and cannot be reported as coded undetermined records. A standard final merge requires complete, validated exports.\n"
+    },
+    {
+      "cell_type": "code",
+      "source": "MERGE_COMPLETE = False\nif MERGE_COMPLETE:\n    print(workflow.merge(RERUN, synthetic=False))\n    print(workflow.account(RERUN))\nelse:\n    print('Merge disabled until complete')\n"
+    }
+  ],
+  "tested_environment": {
+    "python": "3.12.14",
+    "core_dependencies": "standard library only",
+    "notebook": "Default cells executed sequentially using Python after extraction; Jupyter UI not tested",
+    "live_model_availability": "Not probed; no authenticated proxy or live calls used in package tests"
+  },
+  "archive": {
+    "record_scope": "Combined study-evidence, ProQuest reader and RC-RMI scorer record",
+    "record_doi": "10.5281/zenodo.23897503",
+    "doi_status": "reserved; unpublished",
+    "component": "ProQuest reader",
+    "component_version": "0.3.0-rc2",
+    "upload_filename": "proquest_v5_reproducibility.zip",
+    "extraction_root": "proquest_v5_reproducibility",
+    "citation": "CITATION.cff",
+    "creator_order": [
+      "Jesse Liss",
+      "Maria Davradou"
+    ],
+    "component_specific_doi": null,
+    "date_released": null
+  }
+}

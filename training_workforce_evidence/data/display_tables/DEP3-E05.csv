@@ -1,0 +1,13 @@
+Category,RD<br>count,RD<br>share,M<br>count,M<br>share,M / RD<br>count,M / RD<br>share
+Mixed methods,1.108<br>1.098,0.977<br>0.970,1.342<br>1.326,1.234<br>1.215,4.421<br>4.421,6.531<br>6.531
+Qualitative,0.917<br>0.864,0.667<br>0.651,1.200<br>1.213,1.006<br>1.008,0.758<br>0.811,0.213<br>0.205
+Single case,0.112<br>0.081,0.095<br>0.073,1.234<br>1.234,2.149<br>2.149,U<br>U,U<br>U
+Computational modeling,1.043<br>1.043,1.016<br>1.016,1.062<br>1.062,0.786<br>0.786,5.335<br>5.335,3.411<br>3.411
+Synthesis / characterization,0.907<br>0.907,0.703<br>0.703,1.594<br>1.594,0.912<br>0.912,U<br>U,4.57e−11<br>4.57e−11
+Randomized experiment,0.821<br>0.830,0.693<br>0.702,0.729<br>0.741,0.754<br>0.756,0.506<br>0.513,0.682<br>0.681
+Nonrandomized experiment,1.383<br>1.381,1.166<br>1.165,1.088<br>1.088,0.844<br>0.844,0.755<br>0.755,0.665<br>0.665
+Quasi-experimental,1.057<br>1.069,0.965<br>0.975,1.397<br>1.397,1.521<br>1.521,0.440<br>0.440,0.116<br>0.116
+Single-group pre/post,1.058<br>0.839,1.095<br>0.848,0.509<br>0.496,0.532<br>0.517,U<br>U,U<br>U
+Longitudinal observational,1.252<br>1.258,1.198<br>1.203,1.618<br>1.618,1.418<br>1.418,1.761<br>1.761,1.444<br>1.444
+Cross-sectional observational,1.093<br>1.090,0.993<br>0.993,1.277<br>1.279,1.159<br>1.159,1.411<br>1.420,1.506<br>1.505
+"Multiple, no dominant",0.755<br>0.758,0.590<br>0.592,0.506<br>0.506,0.757<br>0.757,0.798<br>0.798,2.394<br>2.394

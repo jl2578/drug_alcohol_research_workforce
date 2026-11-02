@@ -1,0 +1,5 @@
+Statistic,Comparable records,Estimate (bootstrap 95% CI),Defined replicates
+focus nominal kappa,199,0.877 (0.813–0.934),5000/5000
+focus linear weighted kappa,199,0.901 (0.843–0.948),5000/5000
+focus binary kappa,199,0.902 (0.832–0.958),5000/5000
+domain nominal kappa,112,0.963 (0.915–1.000),5000/5000

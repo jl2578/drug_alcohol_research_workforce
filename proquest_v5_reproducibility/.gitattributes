@@ -1,0 +1,3 @@
+# Checksum lists must work with Unix sha256sum after checkout on any platform.
+**/SHA256SUMS.txt text eol=lf
+*.sha256 text eol=lf

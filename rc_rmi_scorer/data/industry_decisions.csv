@@ -1,0 +1,69 @@
+naics_code_canonical,official_naics_title,research_final,clinical_final,research_reviewer_a,research_reviewer_b
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",R0,C0,R0,R0
+325412,Pharmaceutical Preparation Manufacturing,R0,C1,R0,R1
+325413,In-Vitro Diagnostic Substance Manufacturing,R0,C1,R1,R0
+334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,R0,C1,R1,R0
+334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",R0,C0,R0,R0
+339112,Surgical and Medical Instrument Manufacturing,R0,C1,R0,R0
+339113,Surgical Appliance and Supplies Manufacturing,R0,C1,R0,R0
+456110,Pharmacies and Drug Retailers,R0,C1,R0,R0
+513210,Software Publishers,R1,C0,R1,R1
+518210,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",R0,C0,R1,R0
+522110,Commercial Banking,R0,C0,R0,R0
+524114,Direct Health and Medical Insurance Carriers,R0,C1,R0,R0
+524210,Insurance Agencies and Brokerages,R0,C0,R0,R0
+541110,Offices of Lawyers,R0,C0,R0,R0
+541512,Computer Systems Design Services,R1,C0,R1,R1
+541611,Administrative Management and General Management Consulting Services,R0,C0,R0,R0
+541613,Marketing Consulting Services,R0,C0,R0,R0
+541618,Other Management Consulting Services,R0,C0,R0,R0
+541690,Other Scientific and Technical Consulting Services,R1,C0,R1,R1
+541714,Research and Development in Biotechnology (except Nanobiotechnology),R3,C1,R3,R3
+541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",R3,C1,R3,R3
+541720,Research and Development in the Social Sciences and Humanities,R3,C1,R3,R3
+541940,Veterinary Services,R0,C0,R0,R0
+541990,"All Other Professional, Scientific, and Technical Services",RU,CU,R0,RU
+561110,Office Administrative Services,R0,C0,R0,R0
+561311,Employment Placement Agencies,R0,C0,R0,R0
+611110,Elementary and Secondary Schools,R0,C0,R0,R0
+611210,Junior Colleges,R1,C0,R1,R1
+611310,"Colleges, Universities, and Professional Schools",R1,C1,R1,R1
+611430,Professional and Management Development Training,R0,C0,R0,R0
+611710,Educational Support Services,R0,C0,R0,R1
+621111,Offices of Physicians (except Mental Health Specialists),R0,C3,R0,R0
+621112,"Offices of Physicians, Mental Health Specialists",R0,C3,R0,R0
+621330,Offices of Mental Health Practitioners (except Physicians),R0,C3,R0,R0
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",R0,C3,R0,R0
+621399,Offices of All Other Miscellaneous Health Practitioners,R0,C3,R0,R0
+621420,Outpatient Mental Health and Substance Abuse Centers,R0,C3,R0,R0
+621498,All Other Outpatient Care Centers,R0,C3,R0,R0
+621511,Medical Laboratories,R0,C2,R0,R1
+621999,All Other Miscellaneous Ambulatory Health Care Services,R0,C2,R0,R0
+622110,General Medical and Surgical Hospitals,R0,C3,R0,R1
+622210,Psychiatric and Substance Abuse Hospitals,R0,C3,R0,R1
+622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,R1,C3,R0,R1
+623110,Nursing Care Facilities (Skilled Nursing Facilities),R0,C3,R0,R0
+623220,Residential Mental Health and Substance Abuse Facilities,R0,C3,R0,R0
+624190,Other Individual and Family Services,R0,C2,R0,R0
+624229,Other Community Housing Services,R0,C0,R0,R0
+711211,Sports Teams and Clubs,R0,C0,R0,R0
+711510,"Independent Artists, Writers, and Performers",R0,C0,R0,R0
+712130,Zoos and Botanical Gardens,R1,C0,R1,R1
+813110,Religious Organizations,R0,C0,R0,R0
+813212,Voluntary Health Organizations,R1,C1,R1,R1
+813219,Other Grantmaking and Giving Services,R0,C1,R1,R0
+813319,Other Social Advocacy Organizations,R0,C1,R0,R0
+813410,Civic and Social Organizations,R0,C0,R0,R0
+813910,Business Associations,R1,C0,R2,R1
+813920,Professional Organizations,R2,C1,R2,R2
+921110,Executive Offices,R0,C0,R0,R0
+921150,American Indian and Alaska Native Tribal Governments,R0,C0,R0,R0
+922110,Courts,R0,C0,R0,R0
+922120,Police Protection,R0,C0,R0,R0
+922140,Correctional Institutions,R0,C0,R0,R0
+922190,"Other Justice, Public Order, and Safety Activities",R1,C0,R0,R1
+923120,Administration of Public Health Programs,R0,C1,R0,R1
+923140,Administration of Veterans' Affairs,R0,C1,R0,R0
+926140,Regulation of Agricultural Marketing and Commodities,R0,C0,R0,R0
+928110,National Security,R0,C0,R0,R0
+928120,International Affairs,R0,C0,R0,R0

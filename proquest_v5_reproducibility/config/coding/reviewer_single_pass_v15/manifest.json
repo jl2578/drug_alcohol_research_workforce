@@ -1,0 +1,12 @@
+{
+  "status": "frozen_reviewer_single_pass_v15",
+  "codebook_revision": 15,
+  "workflow": "one_complete_scope_pass_then_fixed_target_content",
+  "codebook_sha256": "560e701919570ee57007e7c7d770762fe193f8d2967e7de10da54d8b71fa9bc9",
+  "file_sha256": {
+    "scope_prompt.md": "0dfa31df5358f9fad399b8be98d0ebcb73bf8f0acd6108747b59fc43d7def687",
+    "scope_full_schema.json": "43325d0c1fb24c1896ca88b9bcce63249943a260972c44f8f6d69c20da6962b6",
+    "content_prompt.md": "42dbc0687318add1030630e3a0be1d7d4720d0fb7092657bd4758ff09ec8cec8",
+    "content_schema.json": "02c968d5ccedb021bbc669b05511b3111cedddc3fe62055643bea7ff76b41c5c"
+  }
+}

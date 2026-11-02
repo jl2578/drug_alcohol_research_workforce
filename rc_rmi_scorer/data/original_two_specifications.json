@@ -1,0 +1,131 @@
+{
+  "schema_id": "rc_rmi_instrument_specifications",
+  "schema_version": "1.1",
+  "instrument_version": "rc_rmi_instrument_v1.1",
+  "combination_rule_version": "combination_matrix_v3.0",
+  "description": "The single active specification declaration. One instrument under two scoring specifications that differ only in the three components below. Both use the same evidence, reviewed records, combination engine, thresholds, and analysis code. Recorded reviewer values are never overwritten: a component selects or overrides an effective input, and every step is retained in the resolution output.",
+
+  "specifications": [
+    {"id": "conservative", "label": "Conservative", "constant_field_value": "conservative"},
+    {"id": "inclusive", "label": "Inclusive", "constant_field_value": "inclusive"}
+  ],
+
+  "application_order": [
+    "common_to_both_specifications.mathematics_faculty_erratum",
+    "common_to_both_specifications.withdrawn_teaching_overrides",
+    "components in declared order 1, 2, 3",
+    "clinical corroboration gate",
+    "combination lookup"
+  ],
+
+  "range_semantics": {
+    "reported_as": "specification range",
+    "is_not": [
+      "a confidence interval",
+      "a sampling interval",
+      "a measurement-error interval",
+      "an estimate of truth lying between the endpoints"
+    ],
+    "midpoint_reported": false,
+    "engine_never": ["averages the two specifications", "interpolates between them", "combines them"]
+  },
+
+  "components": [
+    {
+      "order": 1,
+      "id": "industry_dissent_rule",
+      "axis": "industry_research_context",
+      "applies_to": ["conservative", "inclusive"],
+      "kind": "reviewer_dissent_selection",
+      "derivation": {
+        "source_record": "inputs/instrument/industry_decisions.csv",
+        "key_field": "naics_code_canonical",
+        "compare_fields": ["research_reviewer_a", "research_reviewer_b"],
+        "predicate": "both compare_fields are in ordinal_values AND they are unequal",
+        "ordinal_values": ["R0", "R1", "R2", "R3"],
+        "ordinal_rank": {"R0": 0, "R1": 1, "R2": 2, "R3": 3},
+        "excluded_values": ["RU"],
+        "exclusion_reason": "RU is an information status rather than an ordinal score, so a comparison involving it is not a dissent in degree.",
+        "selection": {"conservative": "min_by_ordinal_rank", "inclusive": "max_by_ordinal_rank"},
+        "expected_record_count": 13,
+        "derived_not_enumerated": true
+      }
+    },
+    {
+      "order": 2,
+      "id": "establishment_heterogeneity",
+      "axis": "industry_research_context",
+      "applies_to": ["inclusive"],
+      "kind": "declared_override",
+      "override": {
+        "assigned_value": "R2",
+        "conservative_behaviour": "retain the value from industry_dissent_rule",
+        "grounds": "Heterogeneous categories can support plausible regular research; this does not assert that every establishment researches.",
+        "codes": [
+          {"naics_code_canonical": "611310", "official_naics_title": "Colleges, Universities, and Professional Schools"},
+          {"naics_code_canonical": "622110", "official_naics_title": "General Medical and Surgical Hospitals"},
+          {"naics_code_canonical": "622210", "official_naics_title": "Psychiatric and Substance Abuse Hospitals"},
+          {"naics_code_canonical": "622310", "official_naics_title": "Specialty Hospitals"}
+        ],
+        "expected_code_count": 4
+      }
+    },
+    {
+      "order": 3,
+      "id": "nursing_faculty_research_base",
+      "axis": "occupation_research_base",
+      "applies_to": ["conservative", "inclusive"],
+      "kind": "declared_override",
+      "override": {
+        "conservative_value": "2",
+        "inclusive_value": "3",
+        "grounds": "Distinguishes occupation-specific evidence from family-level inference. This is the only occupation research base that differs between the specifications; no family-wide harmonization is applied.",
+        "codes": [
+          {"soc_code_canonical": "25-1072.00", "official_soc_title": "Nursing Instructors and Teachers, Postsecondary"}
+        ],
+        "expected_code_count": 1
+      }
+    }
+  ],
+
+  "common_to_both_specifications": {
+    "note": "Operations applied identically under both specifications, before the three differing components resolve. No clinical-axis entry exists: every industry keeps the clinical context recorded in its reviewed decision.",
+    "mathematics_faculty_erratum": {
+      "correction_id": "mathematics_faculty_erratum",
+      "axis": "occupation_research_base",
+      "assigned_value": "3",
+      "applies_to": ["conservative", "inclusive"],
+      "grounds": "Construct consistency motivated the correction. SDR was examined during refinement, so this is criterion-exposed and must be disclosed as such rather than presented as independent prespecification.",
+      "original_record_preserved": true,
+      "codes": [
+        {"soc_code_canonical": "25-1022.00", "official_soc_title": "Mathematical Science Teachers, Postsecondary"}
+      ],
+      "expected_code_count": 1
+    },
+    "withdrawn_teaching_overrides": {
+      "axis": "occupation_research_base",
+      "assigned_value": "2",
+      "applies_to": ["conservative", "inclusive"],
+      "status": "withdrawn as specification-dependent; retained as a common value",
+      "grounds": "No family-wide harmonization. The recorded grounds for each occupation stand, and the criterion use behind the withdrawal is disclosed rather than presented as an independent judgment.",
+      "codes": [
+        {"soc_code_canonical": "25-1111.00", "official_soc_title": "Criminal Justice and Law Enforcement Teachers, Postsecondary"},
+        {"soc_code_canonical": "25-1113.00", "official_soc_title": "Social Work Teachers, Postsecondary"},
+        {"soc_code_canonical": "25-1121.00", "official_soc_title": "Art, Drama, and Music Teachers, Postsecondary"},
+        {"soc_code_canonical": "25-1122.00", "official_soc_title": "Communications Teachers, Postsecondary"}
+      ],
+      "expected_code_count": 4
+    }
+  },
+
+  "expected_counts": {
+    "specifications": 2,
+    "specification_dependent_components": 3,
+    "industry_dissent_records": 13,
+    "establishment_heterogeneity_codes": 4,
+    "nursing_faculty_research_base_codes": 1,
+    "mathematics_erratum_codes": 1,
+    "withdrawn_teaching_override_codes": 4,
+    "differing_occupation_bases": 1
+  }
+}

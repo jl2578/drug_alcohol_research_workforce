@@ -1,0 +1,18 @@
+# Parent Zenodo DOI describes the combined record; no component-specific DOI is assigned.
+cff-version: "1.2.0"
+message: "This is the ProQuest reader component of a combined Zenodo record. Cite the parent record and identify reader version 0.3.0-rc2. The record DOI is reserved for an unpublished draft; no component-specific DOI or publication date is asserted."
+type: "software"
+title: "ProQuest v5 reviewer reproducibility package"
+version: "0.3.0-rc2"
+authors:
+  - family-names: "Liss"
+    given-names: "Jesse"
+    affiliation: "Department of Sociology & Anthropology, Rutgers-Newark; Rutgers Addiction Research Center"
+  - family-names: "Davradou"
+    given-names: "Maria"
+    affiliation: "Department of Psychology, Rutgers-New Brunswick; Rutgers Addiction Research Center"
+identifiers:
+  - type: "doi"
+    value: "10.5281/zenodo.23897503"
+    description: "Parent combined record containing study evidence, the ProQuest reader and the RC-RMI scorer. This reserved DOI identifies the combined record, not a separate reader deposit."
+abstract: "Reader-run search and coding workflow for authorized ProQuest TDM Studio use. Includes the saved query, revision-15 codebook, prompts and response schemas, frozen configuration, notebook, processing scripts and synthetic tests. No licensed records, prebuilt roster, identifier list or credentials are included. This component supports a new search-derived method replication, not exact replay of historical records or model judgments."

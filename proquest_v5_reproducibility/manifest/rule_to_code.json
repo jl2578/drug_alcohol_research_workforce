@@ -1,0 +1,59 @@
+{
+  "codebook": "config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+  "codebook_sha256": "f8d9234deeb59c60204957bbd0db6ea471ffc59fade386835352e66c33086ee2",
+  "scope_passes": 1,
+  "rules": [
+    {
+      "sections": [
+        "A1",
+        "A2",
+        "A2a",
+        "A5",
+        "S1-S5"
+      ],
+      "implementation": [
+        "src/coding/run_v5_rev14_hybrid_production.py",
+        "src/coding/reviewer_scope_single_pass.py"
+      ],
+      "test": "tests/test_single_pass.py: one/two-worker invocation and complete-scope checks"
+    },
+    {
+      "sections": [
+        "A4a",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "implementation": [
+        "src/coding/reviewer_scope_single_pass.py:normalize_scope",
+        "src/coding/validate_v5_rev14_pilot.py:check_scope"
+      ],
+      "test": "tests/test_single_pass.py: known-answer normalization and raw/normalized validation"
+    },
+    {
+      "sections": [
+        "C.1",
+        "C.2"
+      ],
+      "implementation": [
+        "src/coding/reviewer_scope_single_pass.py:derive_unit",
+        "src/coding/validate_v5_rev14_pilot.py:check_scope"
+      ],
+      "test": "tests/test_single_pass.py: admission, exclusion, uncertainty and ordered target cases"
+    },
+    {
+      "sections": [
+        "A3",
+        "A5",
+        "A6"
+      ],
+      "implementation": [
+        "src/coding/run_v5_rev14_hybrid_production.py",
+        "src/coding/validate_v5_rev14_pilot.py:check_content",
+        "src/coding/merge_v5_rev14_hybrid_production_exports.py"
+      ],
+      "test": "tests/test_single_pass.py: frozen scope, no S4 outputs, failed-export and resume checks"
+    }
+  ],
+  "validation_contract": "Every assessable record supplies one complete scope response; content accepts only C1\u2013C9 and the fixed identity/target fields."
+}
