@@ -34,3 +34,5 @@ Licensed ProQuest source records/text, identifying linkage files and individual 
 There is no blanket license over the repository. Original software is MIT licensed; original documentation, codebooks, instrument judgments and display expression use CC BY 4.0 within the authors' stated rights. Empirical and third-party material retains its source-specific status. Consult each component's licenses, notices and manifests.
 
 Dashboard development will take place outside the three preserved component folders. No dashboard data, synthetic mock-up or application has been added yet.
+
+The [dashboard view-to-table map](docs/dashboard_view_map.md) identifies the released sources, supported filters, denominators and remaining definition/data gaps. Its [machine-readable companion](docs/dashboard_view_map.json) records exact fields and source checksums. These are preparation documents; the dashboard folder remains an empty placeholder.
