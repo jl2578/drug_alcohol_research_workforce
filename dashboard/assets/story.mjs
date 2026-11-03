@@ -337,7 +337,7 @@ async function funding() {
     return [barRows(order.map(([key, label]) => {
       const x = r[key], p = num(x.value);
       return {label, frac: Math.min(1, p / 50), value: `${f1(p)}% · ${whole(x.numerator)} of ${whole(x.denominator)}`, title: `${label}: ${whole(x.numerator)} of ${whole(x.denominator)} works (${f1(p)}%)`};
-    })), el('p', {class: 'note'}, 'Bars run from 0 to 50%. “Other credentials” are PsyD, DrPH, other named doctorates and unresolved credentials. A connection means an identified advisor or committee member with preceding NIDA/NIAAA funding, or a clear individual award. ',
+    })), el('p', {class: 'note'}, 'Bars run from 0 to 50%. “Other credentials” are PsyD, DrPH, other named doctorates and unresolved credentials. ',
       el('a', {href: 'data/funding_reach.csv', download: true}, 'Download (CSV)'))];
   });
 

@@ -62,6 +62,7 @@ test('content comparisons keep the saved paired interval and direction', async (
 test('funding page shows reach counts and the log-scale rate ratios', async ({page}) => {
   await page.goto('funding.html');
   await settled(page);
+  await expect(page.locator('#connection-definition')).toHaveText('A work had an identified NIDA/NIAAA funding connection if its dissertation or thesis advisor or a committee member was a principal investigator on a NIDA- or NIAAA-funded project before the work was completed, if its author held a linked NIDA/NIAAA fellowship or dissertation grant (F30, F31 or R36), or both.');
   await expect(page.locator('#reach')).toContainText('40.6% · 3,236 of 7,964');
   await expect(page.locator('#counts')).toContainText('1.155 (1.036 to 1.289)');
   await expect(page.locator('#counts')).toContainText('Master’s ÷ research doctorate');
