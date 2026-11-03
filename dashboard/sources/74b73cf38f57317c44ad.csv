@@ -1,0 +1,9 @@
+degree_target,outcome,ownership,full_connected_n,full_remaining_n,full_eligible_n,common_connected_n,common_remaining_n,common_eligible_n,coverage_percent,connected_coverage_percent,remaining_coverage_percent,fields_supported,fields_omitted,omitted_fields_json,field_unavailable_included
+Research doctorate,C3,full,3214,4492,7706,3214,4492,7706,100.0,100.0,100.0,12,0,[],1
+Research doctorate,C4,full,3235,4728,7963,3235,4728,7963,100.0,100.0,100.0,12,0,[],1
+Research doctorate,C5,full,3235,4728,7963,3235,4728,7963,100.0,100.0,100.0,12,0,[],1
+Research doctorate,C8,full,3230,4639,7869,3230,4639,7869,100.0,100.0,100.0,12,0,[],1
+Masters,C3,full,751,2398,3149,751,2365,3116,98.95204826929184,100.0,98.62385321100918,11,1,"[""BF08""]",1
+Masters,C4,full,758,2701,3459,758,2666,3424,98.98814686325528,100.0,98.70418363569048,11,1,"[""BF08""]",1
+Masters,C5,full,758,2702,3460,758,2667,3425,98.98843930635839,100.0,98.70466321243524,11,1,"[""BF08""]",1
+Masters,C8,full,756,2552,3308,756,2519,3275,99.00241837968561,100.0,98.70689655172414,11,1,"[""BF08""]",1

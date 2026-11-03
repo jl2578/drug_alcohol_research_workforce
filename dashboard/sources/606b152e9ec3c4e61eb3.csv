@@ -1,0 +1,105 @@
+activity,a3_group,classification_note
+D43,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+DP1,research,Research and development or research resource mechanism
+DP2,research,Research and development or research resource mechanism
+DP5,research,Research and development or research resource mechanism
+F30,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+F31,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+F32,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+F99,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+K00,career_development,"Career development, including K99 to R00 transition"
+K01,career_development,"Career development, including K99 to R00 transition"
+K02,career_development,"Career development, including K99 to R00 transition"
+K05,career_development,"Career development, including K99 to R00 transition"
+K07,career_development,"Career development, including K99 to R00 transition"
+K08,career_development,"Career development, including K99 to R00 transition"
+K12,career_development,"Career development, including K99 to R00 transition"
+K18,career_development,"Career development, including K99 to R00 transition"
+K22,career_development,"Career development, including K99 to R00 transition"
+K23,career_development,"Career development, including K99 to R00 transition"
+K24,career_development,"Career development, including K99 to R00 transition"
+K25,career_development,"Career development, including K99 to R00 transition"
+K30,career_development,"Career development, including K99 to R00 transition"
+K99,career_development,"Career development, including K99 to R00 transition"
+N01,excluded_contract,Contract; outside the three grant-mechanism contrasts
+N02,excluded_contract,Contract; outside the three grant-mechanism contrasts
+N03,excluded_contract,Contract; outside the three grant-mechanism contrasts
+N43,excluded_contract,Contract; outside the three grant-mechanism contrasts
+N44,excluded_contract,Contract; outside the three grant-mechanism contrasts
+OT2,excluded_other,"Other transaction, conference, or commercialization; outside three contrasts"
+P01,research,Research and development or research resource mechanism
+P20,research,Research and development or research resource mechanism
+P30,research,Research and development or research resource mechanism
+P40,research,Research and development or research resource mechanism
+P50,research,Research and development or research resource mechanism
+P60,research,Research and development or research resource mechanism
+PL1,research,Research and development or research resource mechanism
+R00,research,Independent research phase of K99/R00; NIH classifies R00 as research and development
+R01,research,Research and development or research resource mechanism
+R03,research,Research and development or research resource mechanism
+R13,excluded_other,"Other transaction, conference, or commercialization; outside three contrasts"
+R15,research,Research and development or research resource mechanism
+R21,research,Research and development or research resource mechanism
+R24,research,Research and development or research resource mechanism
+R25,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+R28,research,Research and development or research resource mechanism
+R33,research,Research and development or research resource mechanism
+R34,research,Research and development or research resource mechanism
+R36,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+R37,research,Research and development or research resource mechanism
+R41,research,Research and development or research resource mechanism
+R42,research,Research and development or research resource mechanism
+R43,research,Research and development or research resource mechanism
+R44,research,Research and development or research resource mechanism
+R56,research,Research and development or research resource mechanism
+R61,research,Research and development or research resource mechanism
+R90,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+RC1,research,Research and development or research resource mechanism
+RC2,research,Research and development or research resource mechanism
+RC3,research,Research and development or research resource mechanism
+RC4,research,Research and development or research resource mechanism
+RF1,research,Research and development or research resource mechanism
+RL1,research,Research and development or research resource mechanism
+RM1,research,Research and development or research resource mechanism
+S06,research,Research and development or research resource mechanism
+SB1,excluded_other,"Other transaction, conference, or commercialization; outside three contrasts"
+SC2,research,Research and development or research resource mechanism
+T15,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+T32,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+T34,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+T35,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+T90,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+U01,research,Research and development or research resource mechanism
+U09,research,Research and development or research resource mechanism
+U10,research,Research and development or research resource mechanism
+U13,excluded_other,"Other transaction, conference, or commercialization; outside three contrasts"
+U18,research,Research and development or research resource mechanism
+U19,research,Research and development or research resource mechanism
+U24,research,Research and development or research resource mechanism
+U2C,research,Research and development or research resource mechanism
+U2R,training_education_fellowship,International research training cooperative agreement
+U34,research,Research and development or research resource mechanism
+U41,research,Research and development or research resource mechanism
+U43,research,Research and development or research resource mechanism
+U44,research,Research and development or research resource mechanism
+U54,research,Research and development or research resource mechanism
+UC2,research,Research and development or research resource mechanism
+UE5,training_education_fellowship,"Fellowship, training, research education, or dissertation mechanism"
+UF1,research,Research and development or research resource mechanism
+UG1,research,Research and development or research resource mechanism
+UG3,research,Research and development or research resource mechanism
+UH2,research,Research and development or research resource mechanism
+UH3,research,Research and development or research resource mechanism
+UM1,research,Research and development or research resource mechanism
+UM2,research,Research and development or research resource mechanism
+UT1,research,"Small business research/cooperative agreement, not training"
+UT2,research,"Small business research/cooperative agreement, not training"
+Y01,excluded_contract,Contract; outside the three grant-mechanism contrasts
+Z01,excluded_intramural,Intramural; outside institutional award exposure
+Z02,excluded_intramural,Intramural; outside institutional award exposure
+ZIA,excluded_intramural,Intramural; outside institutional award exposure
+ZIC,excluded_intramural,Intramural; outside institutional award exposure
+ZID,excluded_intramural,Intramural; outside institutional award exposure
+ZIF,excluded_intramural,Intramural; outside institutional award exposure
+ZIG,excluded_intramural,Intramural; outside institutional award exposure
+ZIH,excluded_intramural,Intramural; outside institutional award exposure

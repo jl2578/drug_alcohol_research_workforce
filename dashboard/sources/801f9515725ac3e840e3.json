@@ -1,0 +1,422 @@
+{
+  "bootstrap": {
+    "resamples": 2000,
+    "seed": 20260907,
+    "interval": "Percentile 95%, using sorted positions int(.025*(n_valid-1)) and int(.975*(n_valid-1))",
+    "agreement_unit": "Reviewed occupation or industry among ordinal pairs",
+    "SDR_unit": "Reporting category, not SOC row",
+    "degenerate_draws": "EvaluationError draws omitted; code fails if fewer than half are valid"
+  },
+  "agreement": [
+    {
+      "axis": "clinical",
+      "unit_type": "occupation",
+      "measurement_level": "ordinal",
+      "n_reviewed_units": 303,
+      "all_pair_exact_numerator": 256,
+      "all_pair_exact_denominator": 303,
+      "all_pair_exact_share": 0.8448844884488449,
+      "ordinal_scale": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ordinal_pair_denominator": 287,
+      "excluded_nonordinal_pairs": 16,
+      "ordinal_exact_numerator": 241,
+      "ordinal_exact_share": 0.8397212543554007,
+      "within_one_numerator": 287,
+      "within_one_share": 1.0,
+      "linear_weighted_kappa": 0.8881603469892583,
+      "kappa_ci_low": 0.8530883858491639,
+      "kappa_ci_high": 0.9193250253413631,
+      "valid_bootstrap_resamples": 2000
+    },
+    {
+      "axis": "clinical_context",
+      "unit_type": "industry",
+      "measurement_level": "ordinal",
+      "n_reviewed_units": 68,
+      "all_pair_exact_numerator": 64,
+      "all_pair_exact_denominator": 68,
+      "all_pair_exact_share": 0.9411764705882353,
+      "ordinal_scale": [
+        "C0",
+        "C1",
+        "C2",
+        "C3"
+      ],
+      "ordinal_pair_denominator": 67,
+      "excluded_nonordinal_pairs": 1,
+      "ordinal_exact_numerator": 64,
+      "ordinal_exact_share": 0.9552238805970149,
+      "within_one_numerator": 67,
+      "within_one_share": 1.0,
+      "linear_weighted_kappa": 0.9613684412838747,
+      "kappa_ci_low": 0.9102392344497607,
+      "kappa_ci_high": 1.0,
+      "valid_bootstrap_resamples": 2000
+    },
+    {
+      "axis": "clinical_directness",
+      "unit_type": "occupation",
+      "measurement_level": "nominal",
+      "n_reviewed_units": 303,
+      "all_pair_exact_numerator": 272,
+      "all_pair_exact_denominator": 303,
+      "all_pair_exact_share": 0.8976897689768977,
+      "ordinal_statistics": "not applicable: nominal directness; exact agreement only"
+    },
+    {
+      "axis": "research",
+      "unit_type": "occupation",
+      "measurement_level": "ordinal",
+      "n_reviewed_units": 303,
+      "all_pair_exact_numerator": 192,
+      "all_pair_exact_denominator": 303,
+      "all_pair_exact_share": 0.6336633663366337,
+      "ordinal_scale": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ordinal_pair_denominator": 287,
+      "excluded_nonordinal_pairs": 16,
+      "ordinal_exact_numerator": 177,
+      "ordinal_exact_share": 0.6167247386759582,
+      "within_one_numerator": 283,
+      "within_one_share": 0.9860627177700348,
+      "linear_weighted_kappa": 0.6388502549837738,
+      "kappa_ci_low": 0.5714223428490457,
+      "kappa_ci_high": 0.6958310160652263,
+      "valid_bootstrap_resamples": 2000
+    },
+    {
+      "axis": "research_context",
+      "unit_type": "industry",
+      "measurement_level": "ordinal",
+      "n_reviewed_units": 68,
+      "all_pair_exact_numerator": 54,
+      "all_pair_exact_denominator": 68,
+      "all_pair_exact_share": 0.7941176470588235,
+      "ordinal_scale": [
+        "R0",
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "ordinal_pair_denominator": 67,
+      "excluded_nonordinal_pairs": 1,
+      "ordinal_exact_numerator": 54,
+      "ordinal_exact_share": 0.8059701492537313,
+      "within_one_numerator": 67,
+      "within_one_share": 1.0,
+      "linear_weighted_kappa": 0.6796616403089372,
+      "kappa_ci_low": 0.41363426992169505,
+      "kappa_ci_high": 0.8363858363858364,
+      "valid_bootstrap_resamples": 2000
+    }
+  ],
+  "agreement_checks": [
+    {
+      "axis": "clinical",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "axis": "clinical_context",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "axis": "clinical_directness",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "axis": "research",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "axis": "research_context",
+      "matches_baseline_at_saved_precision": true
+    }
+  ],
+  "SDR_sources": [
+    {
+      "criterion": "primary",
+      "table": "Table 45-2",
+      "title": "U.S. residing employed doctoral scientists and engineers, by occupation and primary work activity: 2023",
+      "measure": "Any R&D as the primary work activity",
+      "publication": "NCSES NSF 25-321; 2023 SDR; published 2025",
+      "ratio_columns": "Any R&D Number (column D) / All employed Number (column B); percentage"
+    },
+    {
+      "criterion": "primary_or_secondary",
+      "table": "Table 45-1",
+      "title": "U.S. residing employed doctoral scientists and engineers, by occupation and primary or secondary work activity: 2023",
+      "measure": "Any R&D as a primary or secondary work activity",
+      "publication": "NCSES NSF 25-321; 2023 SDR; published 2025",
+      "ratio_columns": "Any R&D Number (column D) / All employed Number (column B); percentage"
+    }
+  ],
+  "SDR_questionnaire": {
+    "url": "https://ncses.nsf.gov/424/assets/0/files/srvydoctoratework-2023.pdf",
+    "title": "2023 Survey of Doctorate Recipients questionnaire",
+    "accessed_date": "2026-10-11",
+    "location": "PDF page 6, printed page 4",
+    "A23": "Activities occupying at least 10% of a typical work week; items 2 basic research, 3 applied research, 4 development",
+    "A24": "Activity receiving the most hours (a) and second-most hours (b), drawn from A23; corresponding conceptual primary/secondary measures",
+    "limitation": "Official questionnaire matches retained table survey vintage, but retained files do not prove this exact PDF was consulted during original instrument construction."
+  },
+  "SDR_coverage": {
+    "crosswalk_rows": 93,
+    "crosswalk_unique_soc_keys": 93,
+    "instrument_occupations": 303,
+    "mapped_instrument_occupations": 89,
+    "numeric_mapped_occupations": 84,
+    "mapped_U_occupations": 5,
+    "reporting_categories": 27,
+    "crosswalk_occupations_outside_instrument": 4,
+    "review_decision_counts": {
+      "not_required_high_confidence_v1.0": 58,
+      "approve": 22,
+      "not_required_high_confidence_v1.2": 8,
+      "accepted_on_round_one_precedent": 4,
+      "modify": 1
+    },
+    "independent_human_review_claimed_counts": {
+      "0": 70,
+      "1": 23
+    },
+    "unit": "one observation per unique SDR reporting category; category score is unweighted mean of mapped numeric occupation bases",
+    "spearman_weighting": "equal reporting categories",
+    "slope_weighting": "All-employed counts weight least-squares slope; not equal-category weighting",
+    "U_handling": "excluded from category score means, retained in sufficiency counts",
+    "original_crosswalk_matches_reviewed_mapping_fields": true,
+    "interval_scope": "Resampling reporting categories describes variation across categories. Retained table estimates are treated as fixed; their published survey sampling SEs are not propagated."
+  },
+  "SDR_estimates": [
+    {
+      "score_arm": "conservative",
+      "criterion": "primary",
+      "n_categories": 27,
+      "spearman_rho": 0.6016915926640427,
+      "rho_ci_low": 0.2769085537142146,
+      "rho_ci_high": 0.7985492908796054,
+      "weighted_slope": 9.513623457167878,
+      "slope_ci_low": 3.7936763658411543,
+      "slope_ci_high": 14.539748435657879
+    },
+    {
+      "score_arm": "conservative",
+      "criterion": "primary_or_secondary",
+      "n_categories": 27,
+      "spearman_rho": 0.7786224713064414,
+      "rho_ci_low": 0.5719315256854449,
+      "rho_ci_high": 0.8847346132385115,
+      "weighted_slope": 11.235317907710387,
+      "slope_ci_low": 6.36897114763738,
+      "slope_ci_high": 16.871247714386616
+    },
+    {
+      "score_arm": "inclusive",
+      "criterion": "primary",
+      "n_categories": 27,
+      "spearman_rho": 0.5990546194073851,
+      "rho_ci_low": 0.272156619448995,
+      "rho_ci_high": 0.7946408153280871,
+      "weighted_slope": 9.301533296401532,
+      "slope_ci_low": 3.694569977017395,
+      "slope_ci_high": 14.370027726098158
+    },
+    {
+      "score_arm": "inclusive",
+      "criterion": "primary_or_secondary",
+      "n_categories": 27,
+      "spearman_rho": 0.754815217192434,
+      "rho_ci_low": 0.5153737124017111,
+      "rho_ci_high": 0.872029655869343,
+      "weighted_slope": 11.026087581968387,
+      "slope_ci_low": 6.209521351509791,
+      "slope_ci_high": 16.609966908417235
+    },
+    {
+      "score_arm": "reviewer_a",
+      "criterion": "primary",
+      "n_categories": 27,
+      "spearman_rho": 0.7424437407728884,
+      "rho_ci_low": 0.4689759211845231,
+      "rho_ci_high": 0.8943378200518319,
+      "weighted_slope": 10.75600053801732,
+      "slope_ci_low": 4.975401948186433,
+      "slope_ci_high": 15.682622922428575
+    },
+    {
+      "score_arm": "reviewer_a",
+      "criterion": "primary_or_secondary",
+      "n_categories": 27,
+      "spearman_rho": 0.8596883776000198,
+      "rho_ci_low": 0.7167263318050121,
+      "rho_ci_high": 0.9336160120308007,
+      "weighted_slope": 12.435431187669709,
+      "slope_ci_low": 7.486363448611626,
+      "slope_ci_high": 17.828561841838436
+    },
+    {
+      "score_arm": "reviewer_b",
+      "criterion": "primary",
+      "n_categories": 27,
+      "spearman_rho": 0.6468369160131291,
+      "rho_ci_low": 0.3276172484685635,
+      "rho_ci_high": 0.8245149050587318,
+      "weighted_slope": 13.178132975081201,
+      "slope_ci_low": 6.1415739931179,
+      "slope_ci_high": 17.945318489721792
+    },
+    {
+      "score_arm": "reviewer_b",
+      "criterion": "primary_or_secondary",
+      "n_categories": 27,
+      "spearman_rho": 0.8069761525018164,
+      "rho_ci_low": 0.5984072506883955,
+      "rho_ci_high": 0.9047958693027118,
+      "weighted_slope": 15.218680306289034,
+      "slope_ci_low": 10.076744102893366,
+      "slope_ci_high": 20.89846199435795
+    },
+    {
+      "score_arm": "adjudicated_recorded",
+      "criterion": "primary",
+      "n_categories": 27,
+      "spearman_rho": 0.6035485688071613,
+      "rho_ci_low": 0.2769085537142146,
+      "rho_ci_high": 0.8007222376398901,
+      "weighted_slope": 9.839000063056437,
+      "slope_ci_low": 4.002281722466322,
+      "slope_ci_high": 14.898601839392343
+    },
+    {
+      "score_arm": "adjudicated_recorded",
+      "criterion": "primary_or_secondary",
+      "n_categories": 27,
+      "spearman_rho": 0.7895695154301586,
+      "rho_ci_low": 0.5893573387507465,
+      "rho_ci_high": 0.8922332551043265,
+      "weighted_slope": 11.443056490954715,
+      "slope_ci_low": 6.607178086208435,
+      "slope_ci_high": 17.2993287290067
+    }
+  ],
+  "SDR_checks": [
+    {
+      "score_arm": "conservative",
+      "criterion": "primary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "conservative",
+      "criterion": "primary_or_secondary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "inclusive",
+      "criterion": "primary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "inclusive",
+      "criterion": "primary_or_secondary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "reviewer_a",
+      "criterion": "primary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "reviewer_a",
+      "criterion": "primary_or_secondary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "reviewer_b",
+      "criterion": "primary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "reviewer_b",
+      "criterion": "primary_or_secondary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "adjudicated_recorded",
+      "criterion": "primary",
+      "matches_baseline_at_saved_precision": true
+    },
+    {
+      "score_arm": "adjudicated_recorded",
+      "criterion": "primary_or_secondary",
+      "matches_baseline_at_saved_precision": true
+    }
+  ],
+  "clinical": {
+    "specification": "frozen inclusive",
+    "pair_population": 20604,
+    "gate_applied_pairs": 3555,
+    "gate_changed_score_pairs": 615,
+    "changed_and_also_within_no_care_ceiling": 555,
+    "changed_independently_of_no_care_ceiling": 60,
+    "occupations_affected_independently": 4,
+    "clinical_score_counts": {
+      "0": 13883,
+      "1": 1565,
+      "U": 1020,
+      "2": 132,
+      "4": 3272,
+      "3": 732
+    },
+    "no_care_occupation_final_base_counts": {
+      "0": 181,
+      "1": 37
+    },
+    "no_care_ceiling_violations": 0,
+    "interpretation": "mechanical scale-functioning over possible occupation-industry pairs; not worker counts, prevalence, independent clinical validity or person-level scoring application"
+  },
+  "remaining_discrepancies": [
+    {
+      "issue": "O*NET construction vintage",
+      "finding": "Actual local task statements and task ratings are named 30.3; unversioned occupation descriptions cannot be assigned a unique release. Candidate sources.csv declares 31.0, August 2026; no O*NET 31.0 cache exists locally. Do not resolve historical use by downloading a new release."
+    },
+    {
+      "issue": "Reviewer expertise",
+      "finding": "Initial A/B and adjudication evidence are available; reviewer qualifications/expertise are not established by the inspected files. Author confirmation remains needed."
+    },
+    {
+      "issue": "SDR construct-source citation mismatch",
+      "finding": "construct_sources.csv SRC02 cites a 2021 InfoBrief about 2019 SDR, while its prose names the 2023 Table 45 materials actually retained. Use matching 2023 SDR/NSF 25-321 source citations for the reproduced comparison; preserve original register."
+    },
+    {
+      "issue": "SDR development exposure",
+      "finding": "SDR aggregates informed selected research-axis corrections. Independently collected responses do not make the final-instrument comparison held-out validation."
+    },
+    {
+      "issue": "SDR reviewer scope",
+      "finding": "Crosswalk contains 93 rows, of which 23 claim independent human review; 8 new high-confidence and 4 precedent-accepted rows do not. Do not claim all mappings were independently double-reviewed."
+    },
+    {
+      "issue": "SDR weighting language",
+      "finding": "Spearman uses one equally weighted category observation; the descriptive least-squares slope is weighted by All-employed counts. Blanket equal-weight language for both statistics would misdescribe the code."
+    },
+    {
+      "issue": "Machine benchmark provenance",
+      "finding": "configuration.json embeds a 231-occupation total versus 303 final instrument occupations. It records 10 usable/12 recorded runs and 1,151 responses but response-level payloads are unavailable. Machine aggregates must remain historical and cannot be represented as recomputed response-level evidence."
+    },
+    {
+      "issue": "Current application",
+      "finding": "These aggregate checks do not certify current employment person counts, scores, no-hospital-override application or role profiles."
+    }
+  ],
+  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability."
+}

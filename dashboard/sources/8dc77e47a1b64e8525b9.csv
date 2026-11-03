@@ -1,0 +1,19 @@
+﻿stage,label,unit,count,status,definition
+historical_preroster,Deduplicated English-language retrieval before U.S. restriction,record,27980,historical_documented_not_recounted,Archived v4 manuscript; original pass files unavailable
+input_roster,Candidate-dissertation roster,record,21073,verified_input,Fixed roster
+assessable,Assessable abstract,record,21045,verified_input,Present abstract; not completed response count
+not_assessed,Not assessed,record,28,verified_input,8 blank + 20 placeholder abstracts; no model call
+qualifying,Adopted in-scope records,record,13229,current_rules_verified,At least one substance-related or endogenous-system aim is in scope.
+excluded,Adopted out-of-scope records,record,7702,current_rules_verified,No in-scope or unresolved aim.
+undetermined,Undetermined records,record,114,current_rules_verified,No in-scope aim and at least one unresolved aim.
+scope_unfinished_failed,Original model failures without an adopted scope disposition,record,0,author_dispositions_complete_original_model_failures_preserved,All 19 original failures were human-disposed as 3 in scope and 16 out; original model outcomes remain failures
+content_completed,Adopted in-scope records with a completed content assessment,record,13229,completed,All current fixed-target content assessments are completed; field-specific uncertainty remains explicit.
+roster_outside_comparison_frame,Roster records outside the all-topic comparison frame,record,19,verified_cross_cutting_linkage_category,Candidate-roster linkage category crossing eligibility outcomes; not 19 additional eligibility exclusions or eight adopted topical-only works
+roster_to_nonroster_survivor,Roster records linked to retained identifiers outside the roster,record,15,verified_cross_cutting_linkage_category,Candidate-roster linkage category; adopted scope labels and provenance are carried by current scientific-work keys; final comparison certification remains separate
+duplicate_consolidations,Extra in-scope record identifiers consolidated into another scientific work,record,2,current_adopted_work_mapping_checked,2 two-record groups plus 13225 singleton groups; current record and work key sets match exactly.
+other_work_dispositions,Other record losses or unresolved work assignments in the adopted mapping,record,0,current_adopted_work_mapping_checked,All 13229 adopted in-scope records map to retained work keys; separate institutional/frame/certification checks remain
+qualifying_works,Adopted in-scope dissertations and theses,work,13227,current_rules_verified,Distinct scientific works after consolidating two extra identifiers.
+qualifying_works_linked_to_comparison,Adopted in-scope works represented in the all-topic comparison,work,13219,current_rules_verified,13219 linked scientific works; eight are outside the retained comparison.
+qualifying_works_outside_comparison,Adopted in-scope works outside the retained all-topic comparison,work,8,current_adopted_work_mapping_checked_not_final_panel_certification,Eight of 13227 adopted scientific works remain outside the common frame; they retain in-scope scientific status
+content_pending,In-scope records with content assessment pending,record,0,no_current_assessment_pending,All adopted records have current-target assessments; this is not a claim that all scientific values are resolved.
+content_failed,In-scope records without a completed current-target assessment,record,0,no_unresolved_current_delivery_failures,No in-scope records lack a completed current-target content assessment.

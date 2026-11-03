@@ -1,0 +1,4 @@
+outcome,institutions,early_eligible_works,late_eligible_works,distinct_evaluation_works_per_repeat,equal_institution_gain,work_weighted_gain,negative_institution_scores,uncertainty
+C3,50,2594,3230,5824,0.159880947277187,0.204886184364352,8,Descriptive point only; no calibrated interval
+C5,50,2711,3394,6105,0.0496134491789082,0.0677075133626176,17,Descriptive point only; no calibrated interval
+C4,50,2711,3394,6105,0.107313198115542,0.119789306755752,12,Descriptive point only; no calibrated interval

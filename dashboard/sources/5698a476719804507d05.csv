@@ -1,0 +1,589 @@
+degree_group,destination_dimension,destination,destination_label,specification,state,state_label,occupation_row_type,soc_code,occupation_title,n,breakdown_n,outside_n,pct_breakdown,pct_outside
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,research_likely_only,Research only,named,19-1042.00,"Medical Scientists, Except Epidemiologists",10,16,120,62.5,8.333333
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,16,120,37.5,5.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,16,120,0.0,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,neither,Other,unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,research_likely_only,Research only,named,19-1042.00,"Medical Scientists, Except Epidemiologists",10,16,120,62.5,8.333333
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,16,120,37.5,5.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,16,120,0.0,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,research_likely_only,Research only,named,19-1042.00,"Medical Scientists, Except Epidemiologists",10,16,120,62.5,8.333333
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,16,120,37.5,5.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,16,120,0.0,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,neither,Other,unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,scientific_rd,Scientific R&D services,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,120,100.0,4.166667
+Research doctorate,grouped,hospitals,Hospitals,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,5,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,hospitals,Hospitals,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,both,Both,named,19-3033.00,Clinical and Counseling Psychologists,5,6,120,83.333333,4.166667
+Research doctorate,grouped,hospitals,Hospitals,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),1,6,120,16.666667,0.833333
+Research doctorate,grouped,hospitals,Hospitals,inclusive,both,Both,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,hospitals,Hospitals,inclusive,neither,Other,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,5,7,120,71.428571,4.166667
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,7,120,28.571429,1.666667
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,7,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,hospitals,Hospitals,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,5,7,120,71.428571,4.166667
+Research doctorate,grouped,hospitals,Hospitals,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,7,120,28.571429,1.666667
+Research doctorate,grouped,hospitals,Hospitals,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,7,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,grouped,hospitals,Hospitals,conservative,neither,Other,unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,hospitals,Hospitals,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,12,23,120,52.173913,10.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,clinical_likely_only,Clinical care only,named,21-1014.00,Mental Health Counselors,7,23,120,30.434783,5.833333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,23,120,17.391304,3.333333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,23,120,0.0,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,neither,Other,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,12,23,120,52.173913,10.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,clinical_likely_only,Clinical care only,named,21-1014.00,Mental Health Counselors,7,23,120,30.434783,5.833333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,23,120,17.391304,3.333333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,23,120,0.0,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,12,23,120,52.173913,10.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,clinical_likely_only,Clinical care only,named,21-1014.00,Mental Health Counselors,7,23,120,30.434783,5.833333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,23,120,17.391304,3.333333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,23,120,0.0,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,neither,Other,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,neither,Other,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,neither,Other,unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,120,100.0,6.666667
+Research doctorate,grouped,government,Government and public programs,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,8,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,government,Government and public programs,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),10,10,120,100.0,8.333333
+Research doctorate,grouped,government,Government and public programs,inclusive,neither,Other,unavailable,,Occupation unavailable,0,10,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,120,100.0,6.666667
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,8,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),10,10,120,100.0,8.333333
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,10,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,120,100.0,6.666667
+Research doctorate,grouped,government,Government and public programs,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,8,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,government,Government and public programs,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),10,10,120,100.0,8.333333
+Research doctorate,grouped,government,Government and public programs,conservative,neither,Other,unavailable,,Occupation unavailable,0,10,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,government,Government and public programs,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),7,7,120,100.0,5.833333
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,neither,Other,unavailable,,Occupation unavailable,0,7,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),7,7,120,100.0,5.833333
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,7,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),7,7,120,100.0,5.833333
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,neither,Other,unavailable,,Occupation unavailable,0,7,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,neither,Other,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,neither,Other,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,other_industries,Other industries,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),13,13,120,100.0,10.833333
+Research doctorate,grouped,other_industries,Other industries,inclusive,neither,Other,unavailable,,Occupation unavailable,0,13,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),13,13,120,100.0,10.833333
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,13,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,other_industries,Other industries,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,120,100.0,0.833333
+Research doctorate,grouped,other_industries,Other industries,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),13,13,120,100.0,10.833333
+Research doctorate,grouped,other_industries,Other industries,conservative,neither,Other,unavailable,,Occupation unavailable,0,13,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,grouped,other_industries,Other industries,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,neither,Other,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,neither,Other,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,hospitals,Hospitals,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,hospitals,Hospitals,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,57,100.0,10.526316
+Master's,grouped,hospitals,Hospitals,inclusive,both,Both,unavailable,,Occupation unavailable,0,6,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,hospitals,Hospitals,inclusive,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,hospitals,Hospitals,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,57,100.0,14.035088
+Master's,grouped,hospitals,Hospitals,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,8,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,57,100.0,5.263158
+Master's,grouped,hospitals,Hospitals,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,3,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,hospitals,Hospitals,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,57,100.0,14.035088
+Master's,grouped,hospitals,Hospitals,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,8,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,57,100.0,5.263158
+Master's,grouped,hospitals,Hospitals,conservative,neither,Other,unavailable,,Occupation unavailable,0,3,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,hospitals,Hospitals,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,neither,Other,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,neither,Other,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,other_health_social,Other health and social care,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,other_health_social,Other health and social care,inclusive,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,other_health_social,Other health and social care,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,other_health_social,Other health and social care,conservative,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_health_social,Other health and social care,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,government,Government and public programs,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,government,Government and public programs,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,government,Government and public programs,inclusive,neither,Other,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,government,Government and public programs,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,government,Government and public programs,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,government,Government and public programs,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,government,Government and public programs,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,government,Government and public programs,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,grouped,government,Government and public programs,conservative,neither,Other,unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,grouped,government,Government and public programs,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,government,Government and public programs,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,professional_services,Consulting and other professional services,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,professional_services,Consulting and other professional services,conservative,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,professional_services,Consulting and other professional services,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,neither,Other,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,other_industries,Other industries,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,other_industries,Other industries,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,inclusive,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,57,100.0,14.035088
+Master's,grouped,other_industries,Other industries,inclusive,neither,Other,unavailable,,Occupation unavailable,0,8,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,other_industries,Other industries,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,other_industries,Other industries,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,57,100.0,14.035088
+Master's,grouped,other_industries,Other industries,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,8,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,other_industries,Other industries,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,grouped,other_industries,Other industries,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,57,100.0,14.035088
+Master's,grouped,other_industries,Other industries,conservative,neither,Other,unavailable,,Occupation unavailable,0,8,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,grouped,other_industries,Other industries,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0

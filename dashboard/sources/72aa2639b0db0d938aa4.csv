@@ -1,0 +1,4 @@
+diagnostic,description,n_works,institutions,design_rank,estimate_pp,estimand,se_pp,ci95_low_pp,ci95_high_pp,test_statistic,test_reference,df_num,df_denom,p_two_sided_or_joint,holm_p,source_reference
+linear_slope,Linear NIDA differential trend 2010-2017,5076,367,426,-0.77386497727012,differential_linear_pretrend_pp_per_year,0.5713136266571778,-1.897334212192885,0.34960425765264486,-1.3545361797128728,t,,366,0.17640096613978207,,NA94
+early_late_block,Early/late NIDA differential change 2010-2013 versus 2014-2017,5076,367,426,-2.9852074024354565,adjusted_differential_opioid_share_change_pp,2.3937307585899834,-7.692399281788105,1.7219844769171921,-1.2470940567241906,t,,366,0.21316044760868064,,NA94
+joint_annual_interactions,"Joint annual adjusted NIDA gap contrasts, 2010-2016 versus 2017",5076,367,432,,Joint null of seven annual adjusted gap contrasts equal to zero,,,,2.7493369308351254,F,7,366,0.008559424746591646,,NA94

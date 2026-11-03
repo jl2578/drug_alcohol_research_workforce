@@ -1,0 +1,253 @@
+degree_group,definition,specification,state,state_label,n,subset_n,pct_subset,observed_degree_n,pct_observed_degree
+Research doctorate,all_observed,inclusive,research_likely_only,Research only,100,190,52.631579,190,52.631579
+Research doctorate,all_observed,inclusive,clinical_likely_only,Clinical care only,33,190,17.368421,190,17.368421
+Research doctorate,all_observed,inclusive,both,Both,10,190,5.263158,190,5.263158
+Research doctorate,all_observed,inclusive,neither,Other,46,190,24.210526,190,24.210526
+Research doctorate,all_observed,inclusive,unclassifiable,Instrument U,0,190,0.0,190,0.0
+Research doctorate,all_observed,inclusive,unscored,Unscored,1,190,0.526316,190,0.526316
+Research doctorate,all_observed,no_hospital_override,research_likely_only,Research only,99,190,52.105263,190,52.105263
+Research doctorate,all_observed,no_hospital_override,clinical_likely_only,Clinical care only,39,190,20.526316,190,20.526316
+Research doctorate,all_observed,no_hospital_override,both,Both,4,190,2.105263,190,2.105263
+Research doctorate,all_observed,no_hospital_override,neither,Other,47,190,24.736842,190,24.736842
+Research doctorate,all_observed,no_hospital_override,unclassifiable,Instrument U,0,190,0.0,190,0.0
+Research doctorate,all_observed,no_hospital_override,unscored,Unscored,1,190,0.526316,190,0.526316
+Research doctorate,all_observed,conservative,research_likely_only,Research only,91,190,47.894737,190,47.894737
+Research doctorate,all_observed,conservative,clinical_likely_only,Clinical care only,43,190,22.631579,190,22.631579
+Research doctorate,all_observed,conservative,both,Both,0,190,0.0,190,0.0
+Research doctorate,all_observed,conservative,neither,Other,55,190,28.947368,190,28.947368
+Research doctorate,all_observed,conservative,unclassifiable,Instrument U,0,190,0.0,190,0.0
+Research doctorate,all_observed,conservative,unscored,Unscored,1,190,0.526316,190,0.526316
+Research doctorate,outside_university,inclusive,research_likely_only,Research only,43,120,35.833333,190,22.631579
+Research doctorate,outside_university,inclusive,clinical_likely_only,Clinical care only,32,120,26.666667,190,16.842105
+Research doctorate,outside_university,inclusive,both,Both,6,120,5.0,190,3.157895
+Research doctorate,outside_university,inclusive,neither,Other,39,120,32.5,190,20.526316
+Research doctorate,outside_university,inclusive,unclassifiable,Instrument U,0,120,0.0,190,0.0
+Research doctorate,outside_university,inclusive,unscored,Unscored,0,120,0.0,190,0.0
+Research doctorate,outside_university,no_hospital_override,research_likely_only,Research only,42,120,35.0,190,22.105263
+Research doctorate,outside_university,no_hospital_override,clinical_likely_only,Clinical care only,38,120,31.666667,190,20.0
+Research doctorate,outside_university,no_hospital_override,both,Both,0,120,0.0,190,0.0
+Research doctorate,outside_university,no_hospital_override,neither,Other,40,120,33.333333,190,21.052632
+Research doctorate,outside_university,no_hospital_override,unclassifiable,Instrument U,0,120,0.0,190,0.0
+Research doctorate,outside_university,no_hospital_override,unscored,Unscored,0,120,0.0,190,0.0
+Research doctorate,outside_university,conservative,research_likely_only,Research only,42,120,35.0,190,22.105263
+Research doctorate,outside_university,conservative,clinical_likely_only,Clinical care only,38,120,31.666667,190,20.0
+Research doctorate,outside_university,conservative,both,Both,0,120,0.0,190,0.0
+Research doctorate,outside_university,conservative,neither,Other,40,120,33.333333,190,21.052632
+Research doctorate,outside_university,conservative,unclassifiable,Instrument U,0,120,0.0,190,0.0
+Research doctorate,outside_university,conservative,unscored,Unscored,0,120,0.0,190,0.0
+Research doctorate,archived_no_visible,inclusive,research_likely_only,Research only,31,82,37.804878,190,16.315789
+Research doctorate,archived_no_visible,inclusive,clinical_likely_only,Clinical care only,26,82,31.707317,190,13.684211
+Research doctorate,archived_no_visible,inclusive,both,Both,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,inclusive,neither,Other,25,82,30.487805,190,13.157895
+Research doctorate,archived_no_visible,inclusive,unclassifiable,Instrument U,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,inclusive,unscored,Unscored,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,no_hospital_override,research_likely_only,Research only,31,82,37.804878,190,16.315789
+Research doctorate,archived_no_visible,no_hospital_override,clinical_likely_only,Clinical care only,26,82,31.707317,190,13.684211
+Research doctorate,archived_no_visible,no_hospital_override,both,Both,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,no_hospital_override,neither,Other,25,82,30.487805,190,13.157895
+Research doctorate,archived_no_visible,no_hospital_override,unclassifiable,Instrument U,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,no_hospital_override,unscored,Unscored,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,conservative,research_likely_only,Research only,31,82,37.804878,190,16.315789
+Research doctorate,archived_no_visible,conservative,clinical_likely_only,Clinical care only,26,82,31.707317,190,13.684211
+Research doctorate,archived_no_visible,conservative,both,Both,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,conservative,neither,Other,25,82,30.487805,190,13.157895
+Research doctorate,archived_no_visible,conservative,unclassifiable,Instrument U,0,82,0.0,190,0.0
+Research doctorate,archived_no_visible,conservative,unscored,Unscored,0,82,0.0,190,0.0
+Research doctorate,explicit_negative,inclusive,research_likely_only,Research only,29,80,36.25,190,15.263158
+Research doctorate,explicit_negative,inclusive,clinical_likely_only,Clinical care only,26,80,32.5,190,13.684211
+Research doctorate,explicit_negative,inclusive,both,Both,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,inclusive,neither,Other,25,80,31.25,190,13.157895
+Research doctorate,explicit_negative,inclusive,unclassifiable,Instrument U,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,inclusive,unscored,Unscored,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,no_hospital_override,research_likely_only,Research only,29,80,36.25,190,15.263158
+Research doctorate,explicit_negative,no_hospital_override,clinical_likely_only,Clinical care only,26,80,32.5,190,13.684211
+Research doctorate,explicit_negative,no_hospital_override,both,Both,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,no_hospital_override,neither,Other,25,80,31.25,190,13.157895
+Research doctorate,explicit_negative,no_hospital_override,unclassifiable,Instrument U,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,no_hospital_override,unscored,Unscored,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,conservative,research_likely_only,Research only,29,80,36.25,190,15.263158
+Research doctorate,explicit_negative,conservative,clinical_likely_only,Clinical care only,26,80,32.5,190,13.684211
+Research doctorate,explicit_negative,conservative,both,Both,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,conservative,neither,Other,25,80,31.25,190,13.157895
+Research doctorate,explicit_negative,conservative,unclassifiable,Instrument U,0,80,0.0,190,0.0
+Research doctorate,explicit_negative,conservative,unscored,Unscored,0,80,0.0,190,0.0
+Research doctorate,outside_and_archived,inclusive,research_likely_only,Research only,31,82,37.804878,190,16.315789
+Research doctorate,outside_and_archived,inclusive,clinical_likely_only,Clinical care only,26,82,31.707317,190,13.684211
+Research doctorate,outside_and_archived,inclusive,both,Both,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,inclusive,neither,Other,25,82,30.487805,190,13.157895
+Research doctorate,outside_and_archived,inclusive,unclassifiable,Instrument U,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,inclusive,unscored,Unscored,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,no_hospital_override,research_likely_only,Research only,31,82,37.804878,190,16.315789
+Research doctorate,outside_and_archived,no_hospital_override,clinical_likely_only,Clinical care only,26,82,31.707317,190,13.684211
+Research doctorate,outside_and_archived,no_hospital_override,both,Both,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,no_hospital_override,neither,Other,25,82,30.487805,190,13.157895
+Research doctorate,outside_and_archived,no_hospital_override,unclassifiable,Instrument U,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,no_hospital_override,unscored,Unscored,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,conservative,research_likely_only,Research only,31,82,37.804878,190,16.315789
+Research doctorate,outside_and_archived,conservative,clinical_likely_only,Clinical care only,26,82,31.707317,190,13.684211
+Research doctorate,outside_and_archived,conservative,both,Both,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,conservative,neither,Other,25,82,30.487805,190,13.157895
+Research doctorate,outside_and_archived,conservative,unclassifiable,Instrument U,0,82,0.0,190,0.0
+Research doctorate,outside_and_archived,conservative,unscored,Unscored,0,82,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,inclusive,research_likely_only,Research only,29,80,36.25,190,15.263158
+Research doctorate,outside_and_explicit_negative,inclusive,clinical_likely_only,Clinical care only,26,80,32.5,190,13.684211
+Research doctorate,outside_and_explicit_negative,inclusive,both,Both,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,inclusive,neither,Other,25,80,31.25,190,13.157895
+Research doctorate,outside_and_explicit_negative,inclusive,unclassifiable,Instrument U,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,inclusive,unscored,Unscored,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,no_hospital_override,research_likely_only,Research only,29,80,36.25,190,15.263158
+Research doctorate,outside_and_explicit_negative,no_hospital_override,clinical_likely_only,Clinical care only,26,80,32.5,190,13.684211
+Research doctorate,outside_and_explicit_negative,no_hospital_override,both,Both,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,no_hospital_override,neither,Other,25,80,31.25,190,13.157895
+Research doctorate,outside_and_explicit_negative,no_hospital_override,unclassifiable,Instrument U,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,no_hospital_override,unscored,Unscored,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,conservative,research_likely_only,Research only,29,80,36.25,190,15.263158
+Research doctorate,outside_and_explicit_negative,conservative,clinical_likely_only,Clinical care only,26,80,32.5,190,13.684211
+Research doctorate,outside_and_explicit_negative,conservative,both,Both,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,conservative,neither,Other,25,80,31.25,190,13.157895
+Research doctorate,outside_and_explicit_negative,conservative,unclassifiable,Instrument U,0,80,0.0,190,0.0
+Research doctorate,outside_and_explicit_negative,conservative,unscored,Unscored,0,80,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,inclusive,research_likely_only,Research only,43,119,36.134454,190,22.631579
+Research doctorate,outside_excluding_junior_colleges,inclusive,clinical_likely_only,Clinical care only,32,119,26.890756,190,16.842105
+Research doctorate,outside_excluding_junior_colleges,inclusive,both,Both,6,119,5.042017,190,3.157895
+Research doctorate,outside_excluding_junior_colleges,inclusive,neither,Other,38,119,31.932773,190,20.0
+Research doctorate,outside_excluding_junior_colleges,inclusive,unclassifiable,Instrument U,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,inclusive,unscored,Unscored,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,no_hospital_override,research_likely_only,Research only,42,119,35.294118,190,22.105263
+Research doctorate,outside_excluding_junior_colleges,no_hospital_override,clinical_likely_only,Clinical care only,38,119,31.932773,190,20.0
+Research doctorate,outside_excluding_junior_colleges,no_hospital_override,both,Both,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,no_hospital_override,neither,Other,39,119,32.773109,190,20.526316
+Research doctorate,outside_excluding_junior_colleges,no_hospital_override,unclassifiable,Instrument U,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,no_hospital_override,unscored,Unscored,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,conservative,research_likely_only,Research only,42,119,35.294118,190,22.105263
+Research doctorate,outside_excluding_junior_colleges,conservative,clinical_likely_only,Clinical care only,38,119,31.932773,190,20.0
+Research doctorate,outside_excluding_junior_colleges,conservative,both,Both,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,conservative,neither,Other,39,119,32.773109,190,20.526316
+Research doctorate,outside_excluding_junior_colleges,conservative,unclassifiable,Instrument U,0,119,0.0,190,0.0
+Research doctorate,outside_excluding_junior_colleges,conservative,unscored,Unscored,0,119,0.0,190,0.0
+Master's,all_observed,inclusive,research_likely_only,Research only,24,76,31.578947,76,31.578947
+Master's,all_observed,inclusive,clinical_likely_only,Clinical care only,20,76,26.315789,76,26.315789
+Master's,all_observed,inclusive,both,Both,6,76,7.894737,76,7.894737
+Master's,all_observed,inclusive,neither,Other,23,76,30.263158,76,30.263158
+Master's,all_observed,inclusive,unclassifiable,Instrument U,0,76,0.0,76,0.0
+Master's,all_observed,inclusive,unscored,Unscored,3,76,3.947368,76,3.947368
+Master's,all_observed,no_hospital_override,research_likely_only,Research only,23,76,30.263158,76,30.263158
+Master's,all_observed,no_hospital_override,clinical_likely_only,Clinical care only,26,76,34.210526,76,34.210526
+Master's,all_observed,no_hospital_override,both,Both,0,76,0.0,76,0.0
+Master's,all_observed,no_hospital_override,neither,Other,24,76,31.578947,76,31.578947
+Master's,all_observed,no_hospital_override,unclassifiable,Instrument U,0,76,0.0,76,0.0
+Master's,all_observed,no_hospital_override,unscored,Unscored,3,76,3.947368,76,3.947368
+Master's,all_observed,conservative,research_likely_only,Research only,20,76,26.315789,76,26.315789
+Master's,all_observed,conservative,clinical_likely_only,Clinical care only,26,76,34.210526,76,34.210526
+Master's,all_observed,conservative,both,Both,0,76,0.0,76,0.0
+Master's,all_observed,conservative,neither,Other,27,76,35.526316,76,35.526316
+Master's,all_observed,conservative,unclassifiable,Instrument U,0,76,0.0,76,0.0
+Master's,all_observed,conservative,unscored,Unscored,3,76,3.947368,76,3.947368
+Master's,outside_university,inclusive,research_likely_only,Research only,10,57,17.54386,76,13.157895
+Master's,outside_university,inclusive,clinical_likely_only,Clinical care only,19,57,33.333333,76,25.0
+Master's,outside_university,inclusive,both,Both,6,57,10.526316,76,7.894737
+Master's,outside_university,inclusive,neither,Other,22,57,38.596491,76,28.947368
+Master's,outside_university,inclusive,unclassifiable,Instrument U,0,57,0.0,76,0.0
+Master's,outside_university,inclusive,unscored,Unscored,0,57,0.0,76,0.0
+Master's,outside_university,no_hospital_override,research_likely_only,Research only,9,57,15.789474,76,11.842105
+Master's,outside_university,no_hospital_override,clinical_likely_only,Clinical care only,25,57,43.859649,76,32.894737
+Master's,outside_university,no_hospital_override,both,Both,0,57,0.0,76,0.0
+Master's,outside_university,no_hospital_override,neither,Other,23,57,40.350877,76,30.263158
+Master's,outside_university,no_hospital_override,unclassifiable,Instrument U,0,57,0.0,76,0.0
+Master's,outside_university,no_hospital_override,unscored,Unscored,0,57,0.0,76,0.0
+Master's,outside_university,conservative,research_likely_only,Research only,9,57,15.789474,76,11.842105
+Master's,outside_university,conservative,clinical_likely_only,Clinical care only,25,57,43.859649,76,32.894737
+Master's,outside_university,conservative,both,Both,0,57,0.0,76,0.0
+Master's,outside_university,conservative,neither,Other,23,57,40.350877,76,30.263158
+Master's,outside_university,conservative,unclassifiable,Instrument U,0,57,0.0,76,0.0
+Master's,outside_university,conservative,unscored,Unscored,0,57,0.0,76,0.0
+Master's,archived_no_visible,inclusive,research_likely_only,Research only,6,41,14.634146,76,7.894737
+Master's,archived_no_visible,inclusive,clinical_likely_only,Clinical care only,16,41,39.02439,76,21.052632
+Master's,archived_no_visible,inclusive,both,Both,2,41,4.878049,76,2.631579
+Master's,archived_no_visible,inclusive,neither,Other,17,41,41.463415,76,22.368421
+Master's,archived_no_visible,inclusive,unclassifiable,Instrument U,0,41,0.0,76,0.0
+Master's,archived_no_visible,inclusive,unscored,Unscored,0,41,0.0,76,0.0
+Master's,archived_no_visible,no_hospital_override,research_likely_only,Research only,6,41,14.634146,76,7.894737
+Master's,archived_no_visible,no_hospital_override,clinical_likely_only,Clinical care only,18,41,43.902439,76,23.684211
+Master's,archived_no_visible,no_hospital_override,both,Both,0,41,0.0,76,0.0
+Master's,archived_no_visible,no_hospital_override,neither,Other,17,41,41.463415,76,22.368421
+Master's,archived_no_visible,no_hospital_override,unclassifiable,Instrument U,0,41,0.0,76,0.0
+Master's,archived_no_visible,no_hospital_override,unscored,Unscored,0,41,0.0,76,0.0
+Master's,archived_no_visible,conservative,research_likely_only,Research only,6,41,14.634146,76,7.894737
+Master's,archived_no_visible,conservative,clinical_likely_only,Clinical care only,18,41,43.902439,76,23.684211
+Master's,archived_no_visible,conservative,both,Both,0,41,0.0,76,0.0
+Master's,archived_no_visible,conservative,neither,Other,17,41,41.463415,76,22.368421
+Master's,archived_no_visible,conservative,unclassifiable,Instrument U,0,41,0.0,76,0.0
+Master's,archived_no_visible,conservative,unscored,Unscored,0,41,0.0,76,0.0
+Master's,explicit_negative,inclusive,research_likely_only,Research only,6,40,15.0,76,7.894737
+Master's,explicit_negative,inclusive,clinical_likely_only,Clinical care only,16,40,40.0,76,21.052632
+Master's,explicit_negative,inclusive,both,Both,1,40,2.5,76,1.315789
+Master's,explicit_negative,inclusive,neither,Other,17,40,42.5,76,22.368421
+Master's,explicit_negative,inclusive,unclassifiable,Instrument U,0,40,0.0,76,0.0
+Master's,explicit_negative,inclusive,unscored,Unscored,0,40,0.0,76,0.0
+Master's,explicit_negative,no_hospital_override,research_likely_only,Research only,6,40,15.0,76,7.894737
+Master's,explicit_negative,no_hospital_override,clinical_likely_only,Clinical care only,17,40,42.5,76,22.368421
+Master's,explicit_negative,no_hospital_override,both,Both,0,40,0.0,76,0.0
+Master's,explicit_negative,no_hospital_override,neither,Other,17,40,42.5,76,22.368421
+Master's,explicit_negative,no_hospital_override,unclassifiable,Instrument U,0,40,0.0,76,0.0
+Master's,explicit_negative,no_hospital_override,unscored,Unscored,0,40,0.0,76,0.0
+Master's,explicit_negative,conservative,research_likely_only,Research only,6,40,15.0,76,7.894737
+Master's,explicit_negative,conservative,clinical_likely_only,Clinical care only,17,40,42.5,76,22.368421
+Master's,explicit_negative,conservative,both,Both,0,40,0.0,76,0.0
+Master's,explicit_negative,conservative,neither,Other,17,40,42.5,76,22.368421
+Master's,explicit_negative,conservative,unclassifiable,Instrument U,0,40,0.0,76,0.0
+Master's,explicit_negative,conservative,unscored,Unscored,0,40,0.0,76,0.0
+Master's,outside_and_archived,inclusive,research_likely_only,Research only,6,41,14.634146,76,7.894737
+Master's,outside_and_archived,inclusive,clinical_likely_only,Clinical care only,16,41,39.02439,76,21.052632
+Master's,outside_and_archived,inclusive,both,Both,2,41,4.878049,76,2.631579
+Master's,outside_and_archived,inclusive,neither,Other,17,41,41.463415,76,22.368421
+Master's,outside_and_archived,inclusive,unclassifiable,Instrument U,0,41,0.0,76,0.0
+Master's,outside_and_archived,inclusive,unscored,Unscored,0,41,0.0,76,0.0
+Master's,outside_and_archived,no_hospital_override,research_likely_only,Research only,6,41,14.634146,76,7.894737
+Master's,outside_and_archived,no_hospital_override,clinical_likely_only,Clinical care only,18,41,43.902439,76,23.684211
+Master's,outside_and_archived,no_hospital_override,both,Both,0,41,0.0,76,0.0
+Master's,outside_and_archived,no_hospital_override,neither,Other,17,41,41.463415,76,22.368421
+Master's,outside_and_archived,no_hospital_override,unclassifiable,Instrument U,0,41,0.0,76,0.0
+Master's,outside_and_archived,no_hospital_override,unscored,Unscored,0,41,0.0,76,0.0
+Master's,outside_and_archived,conservative,research_likely_only,Research only,6,41,14.634146,76,7.894737
+Master's,outside_and_archived,conservative,clinical_likely_only,Clinical care only,18,41,43.902439,76,23.684211
+Master's,outside_and_archived,conservative,both,Both,0,41,0.0,76,0.0
+Master's,outside_and_archived,conservative,neither,Other,17,41,41.463415,76,22.368421
+Master's,outside_and_archived,conservative,unclassifiable,Instrument U,0,41,0.0,76,0.0
+Master's,outside_and_archived,conservative,unscored,Unscored,0,41,0.0,76,0.0
+Master's,outside_and_explicit_negative,inclusive,research_likely_only,Research only,6,40,15.0,76,7.894737
+Master's,outside_and_explicit_negative,inclusive,clinical_likely_only,Clinical care only,16,40,40.0,76,21.052632
+Master's,outside_and_explicit_negative,inclusive,both,Both,1,40,2.5,76,1.315789
+Master's,outside_and_explicit_negative,inclusive,neither,Other,17,40,42.5,76,22.368421
+Master's,outside_and_explicit_negative,inclusive,unclassifiable,Instrument U,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,inclusive,unscored,Unscored,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,no_hospital_override,research_likely_only,Research only,6,40,15.0,76,7.894737
+Master's,outside_and_explicit_negative,no_hospital_override,clinical_likely_only,Clinical care only,17,40,42.5,76,22.368421
+Master's,outside_and_explicit_negative,no_hospital_override,both,Both,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,no_hospital_override,neither,Other,17,40,42.5,76,22.368421
+Master's,outside_and_explicit_negative,no_hospital_override,unclassifiable,Instrument U,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,no_hospital_override,unscored,Unscored,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,conservative,research_likely_only,Research only,6,40,15.0,76,7.894737
+Master's,outside_and_explicit_negative,conservative,clinical_likely_only,Clinical care only,17,40,42.5,76,22.368421
+Master's,outside_and_explicit_negative,conservative,both,Both,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,conservative,neither,Other,17,40,42.5,76,22.368421
+Master's,outside_and_explicit_negative,conservative,unclassifiable,Instrument U,0,40,0.0,76,0.0
+Master's,outside_and_explicit_negative,conservative,unscored,Unscored,0,40,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,inclusive,research_likely_only,Research only,9,56,16.071429,76,11.842105
+Master's,outside_excluding_junior_colleges,inclusive,clinical_likely_only,Clinical care only,19,56,33.928571,76,25.0
+Master's,outside_excluding_junior_colleges,inclusive,both,Both,6,56,10.714286,76,7.894737
+Master's,outside_excluding_junior_colleges,inclusive,neither,Other,22,56,39.285714,76,28.947368
+Master's,outside_excluding_junior_colleges,inclusive,unclassifiable,Instrument U,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,inclusive,unscored,Unscored,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,no_hospital_override,research_likely_only,Research only,8,56,14.285714,76,10.526316
+Master's,outside_excluding_junior_colleges,no_hospital_override,clinical_likely_only,Clinical care only,25,56,44.642857,76,32.894737
+Master's,outside_excluding_junior_colleges,no_hospital_override,both,Both,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,no_hospital_override,neither,Other,23,56,41.071429,76,30.263158
+Master's,outside_excluding_junior_colleges,no_hospital_override,unclassifiable,Instrument U,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,no_hospital_override,unscored,Unscored,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,conservative,research_likely_only,Research only,8,56,14.285714,76,10.526316
+Master's,outside_excluding_junior_colleges,conservative,clinical_likely_only,Clinical care only,25,56,44.642857,76,32.894737
+Master's,outside_excluding_junior_colleges,conservative,both,Both,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,conservative,neither,Other,23,56,41.071429,76,30.263158
+Master's,outside_excluding_junior_colleges,conservative,unclassifiable,Instrument U,0,56,0.0,76,0.0
+Master's,outside_excluding_junior_colleges,conservative,unscored,Unscored,0,56,0.0,76,0.0

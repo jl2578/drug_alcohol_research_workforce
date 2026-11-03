@@ -1,0 +1,8 @@
+Comparison,Observed disposition,Events,Distinct records
+domain category,coded category disagreement,3,3
+domain status,downstream scope status difference,11,11
+record focus,coded category disagreement,15,15
+record focus,status disagreement,1,1
+record scope,false inclusion,6,6
+record scope,model uncertainty reference out,1,1
+record scope,reference uncertainty model definite,4,4

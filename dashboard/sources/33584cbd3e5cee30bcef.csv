@@ -1,0 +1,7 @@
+measure,count,unit,status
+raw_roster_identifiers,21073,records,verified
+roster_identifiers_mapped_to_retained_works,21054,records,verified
+distinct_retained_works_represented_by_roster,21051,works,verified
+roster_comparison_exclusions,19,records,verified
+roster_identifiers_to_nonroster_survivors,15,records,verified_linkage_pending_v5_reconciliation
+v5_qualifying_comparison_works,,works,pending_v5_reconciliation

@@ -1,0 +1,3 @@
+﻿metric,numerator_n,denominator_n,estimate,ci95_lower,ci95_upper,interval_method,base_rule,status,sparse_base_under_20
+ordered_array_exact_diagnostic,55,78,0.7051282051282052,0.596242057603573,0.7947578153350141,Wilson,C8 jointly coded; original label order retained; not primary correctness,estimated,False
+order_only_discordance_among_set_equal,6,61,0.09836065573770492,0.04586457581547049,0.19844607216825946,Wilson,C8 unordered sets already equal; order-only diagnostic,estimated,False

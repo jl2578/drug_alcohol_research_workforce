@@ -1,0 +1,15 @@
+degree_group,definition,definition_label,subset_n,observed_degree_n,pct_observed_degree,scored_n,outside_n,university_n,unknown_industry_n,affiliation_affirmative_n,affiliation_negative_n,affiliation_missing_n,affiliation_unrecognized_n,academic_employer_signal_n
+Research doctorate,all_observed,All observations in degree group,190,190,100.0,189,120,69,1,97,91,2,0,89
+Research doctorate,outside_university,Outside university industry (main),120,190,63.157895,120,120,0,0,28,90,2,0,19
+Research doctorate,archived_no_visible,Archived no-visible-academic-context rule (scored),82,190,43.157895,82,82,0,0,0,80,2,0,0
+Research doctorate,explicit_negative,Explicit-negative-affiliation variant (scored),80,190,42.105263,80,80,0,0,0,80,0,0,0
+Research doctorate,outside_and_archived,Outside university AND archived rule,82,190,43.157895,82,82,0,0,0,80,2,0,0
+Research doctorate,outside_and_explicit_negative,Outside university AND explicit-negative variant,80,190,42.105263,80,80,0,0,0,80,0,0,0
+Research doctorate,outside_excluding_junior_colleges,Outside NAICS 611310 excluding junior colleges (611210),119,190,62.631579,119,119,0,0,27,90,2,0,18
+Master's,all_observed,All observations in degree group,76,76,100.0,73,57,16,3,29,44,3,0,28
+Master's,outside_university,Outside university industry (main),57,76,75.0,57,57,0,0,12,44,1,0,10
+Master's,archived_no_visible,Archived no-visible-academic-context rule (scored),41,76,53.947368,41,41,0,0,0,40,1,0,0
+Master's,explicit_negative,Explicit-negative-affiliation variant (scored),40,76,52.631579,40,40,0,0,0,40,0,0,0
+Master's,outside_and_archived,Outside university AND archived rule,41,76,53.947368,41,41,0,0,0,40,1,0,0
+Master's,outside_and_explicit_negative,Outside university AND explicit-negative variant,40,76,52.631579,40,40,0,0,0,40,0,0,0
+Master's,outside_excluding_junior_colleges,Outside NAICS 611310 excluding junior colleges (611210),56,76,73.684211,56,56,0,0,11,44,1,0,9

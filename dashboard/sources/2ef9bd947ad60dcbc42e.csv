@@ -1,0 +1,101 @@
+degree_group,destination_dimension,destination,destination_label,occupation_row_type,soc_code,occupation_title,n,breakdown_n,outside_n,pct_breakdown,pct_outside
+Research doctorate,grouped,scientific_rd,Scientific R&D services,named,19-1042.00,"Medical Scientists, Except Epidemiologists",10,19,120,52.631579,8.333333
+Research doctorate,grouped,scientific_rd,Scientific R&D services,pooled_small,,Other occupations (each n < 5 in this breakdown),9,19,120,47.368421,7.5
+Research doctorate,grouped,scientific_rd,Scientific R&D services,unavailable,,Occupation unavailable,0,19,120,0.0,0.0
+Research doctorate,grouped,hospitals,Hospitals,named,19-3033.00,Clinical and Counseling Psychologists,5,14,120,35.714286,4.166667
+Research doctorate,grouped,hospitals,Hospitals,pooled_small,,Other occupations (each n < 5 in this breakdown),9,14,120,64.285714,7.5
+Research doctorate,grouped,hospitals,Hospitals,unavailable,,Occupation unavailable,0,14,120,0.0,0.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,named,19-3033.00,Clinical and Counseling Psychologists,12,23,120,52.173913,10.0
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,named,21-1014.00,Mental Health Counselors,7,23,120,30.434783,5.833333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,pooled_small,,Other occupations (each n < 5 in this breakdown),4,23,120,17.391304,3.333333
+Research doctorate,grouped,health_practitioners,Offices of health practitioners,unavailable,,Occupation unavailable,0,23,120,0.0,0.0
+Research doctorate,grouped,other_health_social,Other health and social care,pooled_small,,Other occupations (each n < 5 in this breakdown),8,8,120,100.0,6.666667
+Research doctorate,grouped,other_health_social,Other health and social care,unavailable,,Occupation unavailable,0,8,120,0.0,0.0
+Research doctorate,grouped,government,Government and public programs,pooled_small,,Other occupations (each n < 5 in this breakdown),20,20,120,100.0,16.666667
+Research doctorate,grouped,government,Government and public programs,unavailable,,Occupation unavailable,0,20,120,0.0,0.0
+Research doctorate,grouped,professional_services,Consulting and other professional services,pooled_small,,Other occupations (each n < 5 in this breakdown),10,10,120,100.0,8.333333
+Research doctorate,grouped,professional_services,Consulting and other professional services,unavailable,,Occupation unavailable,0,10,120,0.0,0.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,grouped,other_industries,Other industries,pooled_small,,Other occupations (each n < 5 in this breakdown),20,20,120,100.0,16.666667
+Research doctorate,grouped,other_industries,Other industries,unavailable,,Occupation unavailable,0,20,120,0.0,0.0
+Research doctorate,detailed,Other educational services,Other educational services,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,120,100.0,4.166667
+Research doctorate,detailed,Other educational services,Other educational services,unavailable,,Occupation unavailable,0,5,120,0.0,0.0
+Research doctorate,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,named,19-3033.00,Clinical and Counseling Psychologists,12,23,120,52.173913,10.0
+Research doctorate,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,named,21-1014.00,Mental Health Counselors,7,23,120,30.434783,5.833333
+Research doctorate,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,pooled_small,,Other occupations (each n < 5 in this breakdown),4,23,120,17.391304,3.333333
+Research doctorate,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unavailable,,Occupation unavailable,0,23,120,0.0,0.0
+Research doctorate,detailed,Outpatient care centers,Outpatient care centers,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,120,100.0,4.166667
+Research doctorate,detailed,Outpatient care centers,Outpatient care centers,unavailable,,Occupation unavailable,0,5,120,0.0,0.0
+Research doctorate,detailed,Hospitals,Hospitals,named,19-3033.00,Clinical and Counseling Psychologists,5,14,120,35.714286,4.166667
+Research doctorate,detailed,Hospitals,Hospitals,pooled_small,,Other occupations (each n < 5 in this breakdown),9,14,120,64.285714,7.5
+Research doctorate,detailed,Hospitals,Hospitals,unavailable,,Occupation unavailable,0,14,120,0.0,0.0
+Research doctorate,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,detailed,Scientific research and development services,Scientific research and development services,named,19-1042.00,"Medical Scientists, Except Epidemiologists",10,19,120,52.631579,8.333333
+Research doctorate,detailed,Scientific research and development services,Scientific research and development services,pooled_small,,Other occupations (each n < 5 in this breakdown),9,19,120,47.368421,7.5
+Research doctorate,detailed,Scientific research and development services,Scientific research and development services,unavailable,,Occupation unavailable,0,19,120,0.0,0.0
+Research doctorate,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",pooled_small,,Other occupations (each n < 5 in this breakdown),7,7,120,100.0,5.833333
+Research doctorate,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unavailable,,Occupation unavailable,0,7,120,0.0,0.0
+Research doctorate,detailed,Other professional services,Other professional services,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,120,100.0,2.5
+Research doctorate,detailed,Other professional services,Other professional services,unavailable,,Occupation unavailable,0,3,120,0.0,0.0
+Research doctorate,detailed,Public health and other human resource programs,Public health and other human resource programs,pooled_small,,Other occupations (each n < 5 in this breakdown),13,13,120,100.0,10.833333
+Research doctorate,detailed,Public health and other human resource programs,Public health and other human resource programs,unavailable,,Occupation unavailable,0,13,120,0.0,0.0
+Research doctorate,detailed,"Justice, public order and safety","Justice, public order and safety",pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,120,100.0,1.666667
+Research doctorate,detailed,"Justice, public order and safety","Justice, public order and safety",unavailable,,Occupation unavailable,0,2,120,0.0,0.0
+Research doctorate,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,120,100.0,4.166667
+Research doctorate,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unavailable,,Occupation unavailable,0,5,120,0.0,0.0
+Research doctorate,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,120,100.0,3.333333
+Research doctorate,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unavailable,,Occupation unavailable,0,4,120,0.0,0.0
+Research doctorate,detailed,"Information, finance and insurance","Information, finance and insurance",pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,120,100.0,5.0
+Research doctorate,detailed,"Information, finance and insurance","Information, finance and insurance",unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,detailed,All other industries,All other industries,pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,120,100.0,4.166667
+Research doctorate,detailed,All other industries,All other industries,unavailable,,Occupation unavailable,0,5,120,0.0,0.0
+Master's,grouped,scientific_rd,Scientific R&D services,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,57,100.0,10.526316
+Master's,grouped,scientific_rd,Scientific R&D services,unavailable,,Occupation unavailable,0,6,57,0.0,0.0
+Master's,grouped,hospitals,Hospitals,pooled_small,,Other occupations (each n < 5 in this breakdown),12,12,57,100.0,21.052632
+Master's,grouped,hospitals,Hospitals,unavailable,,Occupation unavailable,0,12,57,0.0,0.0
+Master's,grouped,health_practitioners,Offices of health practitioners,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,grouped,health_practitioners,Offices of health practitioners,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,grouped,other_health_social,Other health and social care,pooled_small,,Other occupations (each n < 5 in this breakdown),7,7,57,100.0,12.280702
+Master's,grouped,other_health_social,Other health and social care,unavailable,,Occupation unavailable,0,7,57,0.0,0.0
+Master's,grouped,government,Government and public programs,pooled_small,,Other occupations (each n < 5 in this breakdown),7,7,57,100.0,12.280702
+Master's,grouped,government,Government and public programs,unavailable,,Occupation unavailable,0,7,57,0.0,0.0
+Master's,grouped,professional_services,Consulting and other professional services,pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,57,100.0,5.263158
+Master's,grouped,professional_services,Consulting and other professional services,unavailable,,Occupation unavailable,0,3,57,0.0,0.0
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,57,100.0,5.263158
+Master's,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unavailable,,Occupation unavailable,0,3,57,0.0,0.0
+Master's,grouped,other_industries,Other industries,pooled_small,,Other occupations (each n < 5 in this breakdown),10,10,57,100.0,17.54386
+Master's,grouped,other_industries,Other industries,unavailable,,Occupation unavailable,0,10,57,0.0,0.0
+Master's,detailed,Other educational services,Other educational services,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,detailed,Other educational services,Other educational services,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,detailed,Outpatient care centers,Outpatient care centers,pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,detailed,Outpatient care centers,Outpatient care centers,unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,detailed,Hospitals,Hospitals,pooled_small,,Other occupations (each n < 5 in this breakdown),12,12,57,100.0,21.052632
+Master's,detailed,Hospitals,Hospitals,unavailable,,Occupation unavailable,0,12,57,0.0,0.0
+Master's,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,detailed,Scientific research and development services,Scientific research and development services,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,57,100.0,10.526316
+Master's,detailed,Scientific research and development services,Scientific research and development services,unavailable,,Occupation unavailable,0,6,57,0.0,0.0
+Master's,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",pooled_small,,Other occupations (each n < 5 in this breakdown),2,2,57,100.0,3.508772
+Master's,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unavailable,,Occupation unavailable,0,2,57,0.0,0.0
+Master's,detailed,Other professional services,Other professional services,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,detailed,Other professional services,Other professional services,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,detailed,Public health and other human resource programs,Public health and other human resource programs,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,detailed,Public health and other human resource programs,Public health and other human resource programs,unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,detailed,"Justice, public order and safety","Justice, public order and safety",pooled_small,,Other occupations (each n < 5 in this breakdown),5,5,57,100.0,8.77193
+Master's,detailed,"Justice, public order and safety","Justice, public order and safety",unavailable,,Occupation unavailable,0,5,57,0.0,0.0
+Master's,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unavailable,,Occupation unavailable,0,1,57,0.0,0.0
+Master's,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,57,100.0,5.263158
+Master's,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unavailable,,Occupation unavailable,0,3,57,0.0,0.0
+Master's,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",pooled_small,,Other occupations (each n < 5 in this breakdown),4,4,57,100.0,7.017544
+Master's,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unavailable,,Occupation unavailable,0,4,57,0.0,0.0
+Master's,detailed,"Information, finance and insurance","Information, finance and insurance",pooled_small,,Other occupations (each n < 5 in this breakdown),3,3,57,100.0,5.263158
+Master's,detailed,"Information, finance and insurance","Information, finance and insurance",unavailable,,Occupation unavailable,0,3,57,0.0,0.0
+Master's,detailed,All other industries,All other industries,pooled_small,,Other occupations (each n < 5 in this breakdown),1,1,57,100.0,1.754386
+Master's,detailed,All other industries,All other industries,unavailable,,Occupation unavailable,0,1,57,0.0,0.0

@@ -1,0 +1,49 @@
+ownership,degree_group,outcome,stage,funding_state,PI_years,PIs,institutions,qualifying_PI_work_participations,outcome_eligible_PI_work_participations,known_inapplicable_participations,undetermined_participations,zero_qualifying_years,zero_all_topic_years,internal_no_clear_appearance_years
+full,Research doctorate,count,primary_before_both_state_requirement,0,8955,2065,186,1195,,,,7905,2814,2266
+full,Research doctorate,count,primary_before_both_state_requirement,1,12848,2789,184,3863,,,,9873,3775,3116
+full,Research doctorate,count,both_state_count_sample,0,6855,1500,161,910,,,,6062,2129,1702
+full,Research doctorate,count,both_state_count_sample,1,6971,1500,161,1418,,,,5821,2087,1740
+full,Research doctorate,C3,both_state_positive_eligible_portfolios,0,1414,294,105,596,596,0,0,905,350,275
+full,Research doctorate,C3,both_state_positive_eligible_portfolios,1,1598,294,105,852,850,2,0,946,378,300
+full,Research doctorate,C4,both_state_positive_eligible_portfolios,0,1424,296,105,599,599,0,0,912,350,275
+full,Research doctorate,C4,both_state_positive_eligible_portfolios,1,1605,296,105,854,854,0,0,951,379,301
+full,Research doctorate,C5,both_state_positive_eligible_portfolios,0,1424,296,105,599,599,0,0,912,350,275
+full,Research doctorate,C5,both_state_positive_eligible_portfolios,1,1605,296,105,854,854,0,0,951,379,301
+full,Research doctorate,C8,both_state_positive_eligible_portfolios,0,1424,296,105,599,599,0,0,912,350,275
+full,Research doctorate,C8,both_state_positive_eligible_portfolios,1,1605,296,105,854,854,0,0,951,379,301
+full,Masters,count,primary_before_both_state_requirement,0,5026,922,135,415,,,,4674,3126,1068
+full,Masters,count,primary_before_both_state_requirement,1,3539,854,114,694,,,,2993,2144,647
+full,Masters,count,both_state_count_sample,0,3693,647,103,306,,,,3436,2354,784
+full,Masters,count,both_state_count_sample,1,2508,647,103,438,,,,2162,1546,472
+full,Masters,C3,both_state_positive_eligible_portfolios,0,438,87,42,195,195,0,0,283,165,68
+full,Masters,C3,both_state_positive_eligible_portfolios,1,421,87,42,243,242,0,1,235,143,59
+full,Masters,C4,both_state_positive_eligible_portfolios,0,445,88,42,196,196,0,0,289,171,73
+full,Masters,C4,both_state_positive_eligible_portfolios,1,423,88,42,244,244,0,0,236,144,59
+full,Masters,C5,both_state_positive_eligible_portfolios,0,445,88,42,196,196,0,0,289,171,73
+full,Masters,C5,both_state_positive_eligible_portfolios,1,423,88,42,244,244,0,0,236,144,59
+full,Masters,C8,both_state_positive_eligible_portfolios,0,445,88,42,196,196,0,0,289,171,73
+full,Masters,C8,both_state_positive_eligible_portfolios,1,423,88,42,244,244,0,0,236,144,59
+exclude_ever_for_profit,Research doctorate,count,primary_before_both_state_requirement,0,8955,2065,186,1195,,,,7905,2814,2266
+exclude_ever_for_profit,Research doctorate,count,primary_before_both_state_requirement,1,12848,2789,184,3863,,,,9873,3775,3116
+exclude_ever_for_profit,Research doctorate,count,both_state_count_sample,0,6855,1500,161,910,,,,6062,2129,1702
+exclude_ever_for_profit,Research doctorate,count,both_state_count_sample,1,6971,1500,161,1418,,,,5821,2087,1740
+exclude_ever_for_profit,Research doctorate,C3,both_state_positive_eligible_portfolios,0,1414,294,105,596,596,0,0,905,350,275
+exclude_ever_for_profit,Research doctorate,C3,both_state_positive_eligible_portfolios,1,1598,294,105,852,850,2,0,946,378,300
+exclude_ever_for_profit,Research doctorate,C4,both_state_positive_eligible_portfolios,0,1424,296,105,599,599,0,0,912,350,275
+exclude_ever_for_profit,Research doctorate,C4,both_state_positive_eligible_portfolios,1,1605,296,105,854,854,0,0,951,379,301
+exclude_ever_for_profit,Research doctorate,C5,both_state_positive_eligible_portfolios,0,1424,296,105,599,599,0,0,912,350,275
+exclude_ever_for_profit,Research doctorate,C5,both_state_positive_eligible_portfolios,1,1605,296,105,854,854,0,0,951,379,301
+exclude_ever_for_profit,Research doctorate,C8,both_state_positive_eligible_portfolios,0,1424,296,105,599,599,0,0,912,350,275
+exclude_ever_for_profit,Research doctorate,C8,both_state_positive_eligible_portfolios,1,1605,296,105,854,854,0,0,951,379,301
+exclude_ever_for_profit,Masters,count,primary_before_both_state_requirement,0,5026,922,135,415,,,,4674,3126,1068
+exclude_ever_for_profit,Masters,count,primary_before_both_state_requirement,1,3539,854,114,694,,,,2993,2144,647
+exclude_ever_for_profit,Masters,count,both_state_count_sample,0,3693,647,103,306,,,,3436,2354,784
+exclude_ever_for_profit,Masters,count,both_state_count_sample,1,2508,647,103,438,,,,2162,1546,472
+exclude_ever_for_profit,Masters,C3,both_state_positive_eligible_portfolios,0,438,87,42,195,195,0,0,283,165,68
+exclude_ever_for_profit,Masters,C3,both_state_positive_eligible_portfolios,1,421,87,42,243,242,0,1,235,143,59
+exclude_ever_for_profit,Masters,C4,both_state_positive_eligible_portfolios,0,445,88,42,196,196,0,0,289,171,73
+exclude_ever_for_profit,Masters,C4,both_state_positive_eligible_portfolios,1,423,88,42,244,244,0,0,236,144,59
+exclude_ever_for_profit,Masters,C5,both_state_positive_eligible_portfolios,0,445,88,42,196,196,0,0,289,171,73
+exclude_ever_for_profit,Masters,C5,both_state_positive_eligible_portfolios,1,423,88,42,244,244,0,0,236,144,59
+exclude_ever_for_profit,Masters,C8,both_state_positive_eligible_portfolios,0,445,88,42,196,196,0,0,289,171,73
+exclude_ever_for_profit,Masters,C8,both_state_positive_eligible_portfolios,1,423,88,42,244,244,0,0,236,144,59

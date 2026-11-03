@@ -1,0 +1,12 @@
+label,both,a_only,b_only,neither,jointly_coded_n
+administrative_records,2,1,1,70,74
+behavioral_task,12,0,0,62,74
+biological_physiological,12,3,1,58,74
+chemical_analytical,3,0,0,71,74
+documents_media_online,5,1,0,68,74
+genetic_genomic,3,0,0,71,74
+health_records,8,1,0,65,74
+interview_observation,11,1,1,61,74
+neuroimaging_electrophysiology,3,0,0,71,74
+simulated_model_data,2,0,0,72,74
+survey_questionnaire,39,1,1,33,74

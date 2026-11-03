@@ -1,0 +1,4 @@
+target,rate_ratio,ci_lower,ci_upper,adjusted_pvalue,authority
+RD,1.278,1.158,1.410,0.0074,SM4.T4c
+M,1.784,1.362,2.337,0.0220,SM4.T4c
+M_over_RD,1.388,0.338,5.705,1.0000,SM4.T4c

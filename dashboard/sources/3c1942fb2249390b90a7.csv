@@ -1,0 +1,11 @@
+step,records,removed,interpretation
+raw combined exports,1295931,0,
+non_english,1295903,28,
+completion_year_outside_2010_2023,1145879,150024,
+non_us_school_location,1145879,0,
+outside_masters_doctoral_levels,1144779,1100,765 specialist; 2 mixed-level; 333 unrecognized (not established ineligible)
+approved_unresolved_ownership,1144698,81,
+approved_post_closure_exclusion,1144692,6,
+missing_ownership_decision,1144692,0,
+duplicate_work_key_same_unit_year_level,1143095,1597,
+duplicate_author_related_title_same_unit_year_level,1142707,388,

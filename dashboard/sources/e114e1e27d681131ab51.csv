@@ -1,0 +1,9 @@
+Degree,Outcome,Full eligible N,Common-support N,Coverage %,Supported fields,Omitted fields
+Doctorate,C3,"7,706","7,706",100.00,12,0
+Doctorate,C4,"7,963","7,963",100.00,12,0
+Doctorate,C5,"7,963","7,963",100.00,12,0
+Doctorate,C8,"7,869","7,869",100.00,12,0
+Master's,C3,"3,149","3,116",98.95,11,1
+Master's,C4,"3,459","3,424",98.99,11,1
+Master's,C5,"3,460","3,425",98.99,11,1
+Master's,C8,"3,308","3,275",99.00,11,1

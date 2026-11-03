@@ -1,0 +1,19 @@
+from_specification,to_specification,degree_group,degree_label,observed_n,paired_scored_n,joint_state_unchanged_n,joint_state_changed_n,pct_observed_joint_state_changed,research_score_changed_n,clinical_score_changed_n,unscored_both_n
+inclusive,no_hospital_override,PhD/ScD and equivalent,Research doctorate,190,189,183,7,3.684210526,8,0,1
+inclusive,conservative,PhD/ScD and equivalent,Research doctorate,190,189,171,19,10.0,23,0,1
+no_hospital_override,conservative,PhD/ScD and equivalent,Research doctorate,190,189,178,12,6.315789474,23,0,1
+inclusive,no_hospital_override,General master's,General master's,63,61,56,7,11.111111111,8,0,2
+inclusive,conservative,General master's,General master's,63,61,53,10,15.873015873,13,0,2
+no_hospital_override,conservative,General master's,General master's,63,61,60,3,4.761904762,13,0,2
+inclusive,no_hospital_override,PsyD,PsyD,24,24,24,0,0.0,0,0,0
+inclusive,conservative,PsyD,PsyD,24,24,24,0,0.0,0,0,0
+no_hospital_override,conservative,PsyD,PsyD,24,24,24,0,0.0,0,0,0
+inclusive,no_hospital_override,Other named doctorate,Other named doctorate,17,17,17,0,0.0,0,0,0
+inclusive,conservative,Other named doctorate,Other named doctorate,17,17,14,3,17.647058824,3,0,0
+no_hospital_override,conservative,Other named doctorate,Other named doctorate,17,17,14,3,17.647058824,3,0,0
+inclusive,no_hospital_override,Field-specific master's,Field-specific master's,13,12,13,0,0.0,0,0,1
+inclusive,conservative,Field-specific master's,Field-specific master's,13,12,13,0,0.0,1,0,1
+no_hospital_override,conservative,Field-specific master's,Field-specific master's,13,12,13,0,0.0,1,0,1
+inclusive,no_hospital_override,all_observations,All observations,307,303,293,14,4.560260586,16,0,4
+inclusive,conservative,all_observations,All observations,307,303,275,32,10.423452769,40,0,4
+no_hospital_override,conservative,all_observations,All observations,307,303,289,18,5.863192182,40,0,4

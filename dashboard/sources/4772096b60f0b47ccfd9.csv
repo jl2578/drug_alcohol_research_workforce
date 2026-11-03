@@ -1,0 +1,46 @@
+outcome,category_order,category,display_label,definition
+C3,1,mixed_methods,Mixed methods,Explicit integration of qualitative and quantitative components
+C3,2,qualitative,Qualitative,"Interviews, focus groups, ethnography, qualitative document or media analysis, whether at one time point or several"
+C3,3,single_case,Single subject / case study,Single-subject or case-study designs
+C3,4,computational_modeling,Computational modeling,"Simulation, in silico, pharmacometric or systems models whose output is the main result"
+C3,5,synthesis_characterization,"Chemical synthesis /
+characterization","Chemical synthesis, structural or analytical characterization of compounds or materials, with no experimental comparison"
+C3,6,experimental_randomized,Randomized experiment,"Conditions assigned at random by the investigator: RCTs, randomized laboratory or vignette experiments"
+C3,7,experimental_nonrandomized,Nonrandomized experiment,"Investigator manipulates exposure or treatment with a comparison, randomization not stated: most animal, in vitro and dose–response work"
+C3,8,quasi_experimental,Quasi-experiment,"Treatment not assigned by the investigator, analyzed with a comparison built for causal inference: natural experiments, difference-in-differences, interrupted time series, regression discontinuity, synthetic control"
+C3,9,single_group_pre_post,Single-group pre/post,"One group measured before and after an intervention, no comparison"
+C3,10,longitudinal_observational,Longitudinal observational,"Repeated measures on the same units, no manipulation"
+C3,11,cross_sectional_observational,Cross-sectional observational,"One time point, associational or descriptive"
+C3,12,multiple_no_dominant,Multiple / no dominant,"Two or more designs, none carrying the main qualifying aim"
+C5,1,describe_distribution,Describe distribution,"How much, where, in whom, over time: prevalence, incidence, trends, disparities"
+C5,2,explain_causes,Explain causes,"Why use, misuse or addiction occurs: risk and protective factors, etiology, processes producing addiction phenomena. Substance use is the **outcome**"
+C5,3,consequences_of_use,Consequences of use,"What substance use or exposure does: physiological, organ, developmental, cognitive, psychiatric, behavioral, social, academic, occupational or justice outcomes. Substance use is the **exposure**"
+C5,4,characterize_substance_action,Characterize substance action,"How a substance or compound acts: binding, selectivity, potency, pharmacokinetics, structure–activity, characterized toward understanding or development"
+C5,5,intervene,Intervene,"Developing or testing an intervention to prevent, detect, treat, or support recovery from substance use/SUD or explicitly substance-related harms and conditions"
+C5,6,organize_deliver_services,Organize / deliver services,"How care or programs are organized, delivered, staffed, financed, accessed, adopted or scaled, including organizational policy"
+C5,7,law_policy_economics,Law / policy / economics,"Laws, regulation, enforcement, markets, prices or economic conditions as causes or objects"
+C5,8,meanings_attitudes,Meanings / attitudes,"Stigma, discourse, identity, norms, or public and professional attitudes as the principal object or outcome"
+C5,9,education_workforce,Education / workforce,"Training, curricula, competencies or professional preparation as the object"
+C5,10,measurement,Measurement,"Developing or evaluating a measure, assay, method, platform or paradigm where its performance is primary"
+C5,11,other_stated_objective,Other stated objective,The objective is clear but no listed category fits; review each use
+C5,12,multiple_no_dominant,Multiple / no dominant,Different qualifying objectives carry the aims equally
+C4,1,molecular_cellular,Molecular / cellular,"Molecules, receptors, compounds, cells, tissue, or biospecimens studied as material"
+C4,2,organism_nonhuman,Nonhuman organism,Whole living non-human organisms
+C4,3,individual_human,Human individual,"Individual people, including their brains, physiology and behavior"
+C4,4,dyad_family_group,Dyad / family / group,"Couples, parent–child dyads, families, peer or therapy groups as units"
+C4,5,organization_program,Organization / program,"Clinics, treatment programs, schools, agencies, workplaces, provider organizations"
+C4,6,community_jurisdiction_population,Community / jurisdiction / population,"Neighborhoods, counties, states, countries, or population aggregates"
+C4,7,texts_media_discourse,Texts / media / discourse,"Documents, media, policies or online content as units"
+C4,8,multiple_no_dominant,Multiple / no dominant,Two or more levels carry the conclusions equally
+C8,1,survey_questionnaire,Survey / questionnaire,"Self-report instruments, questionnaires, rating scales, vignette responses, whether author-administered or from an existing survey"
+C8,2,interview_observation,Interview / observation,"Interviews, focus groups, field notes, observation, open-ended text from participants"
+C8,3,behavioral_task,Behavioral task,"Laboratory tasks, cognitive or neuropsychological tests, observed or recorded behavior, self-administration"
+C8,4,biological_physiological,Biological / physiological,"Biospecimens, biomarkers, physiology, toxicology, clinical measurements"
+C8,5,neuroimaging_electrophysiology,Neuroimaging / electrophysiology,"MRI, PET, EEG, electrophysiology, other brain measures"
+C8,6,genetic_genomic,Genetic / genomic,"Genotypes, sequencing, gene expression, epigenetics"
+C8,7,chemical_analytical,Chemical / analytical,"Compound synthesis, binding and functional assays, analytical or forensic chemistry"
+C8,8,health_records,Health records,"Electronic health records, claims, prescription or treatment records, registries, vital statistics, poison-center reports"
+C8,9,administrative_records,Administrative records,"Justice, education, social service or program operations records"
+C8,10,documents_media_online,Documents / media / online,"Policies, laws, media, social media, websites, published literature"
+C8,11,geospatial_market_environmental,Geospatial / market / environmental,"Geographic, outlet-density, price, market or environmental data"
+C8,12,simulated_model_data,Simulated / model data,Data generated by simulation or models

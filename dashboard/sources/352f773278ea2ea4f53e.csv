@@ -1,0 +1,5 @@
+degree,sample,distinct_works,shared_works,percent_shared,participations,participations_on_shared_works,excess_participations,max_investigators_per_work
+Research doctorate,paired_descriptive,1754,472,26.909920182440136,2328,1046,574,4
+Research doctorate,supplementary_count_model,2683,1442,53.7458069325382,5058,3817,2375,6
+Masters,paired_descriptive,542,166,30.627306273062732,744,368,202,4
+Masters,supplementary_count_model,715,298,41.67832167832168,1109,692,394,5

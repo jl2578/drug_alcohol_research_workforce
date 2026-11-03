@@ -1,0 +1,829 @@
+degree_group,specification,destination_dimension,destination,destination_label,state,state_label,n,outside_n,destination_n,outside_scored_n,destination_scored_n,pct_outside,destination_pct_outside,pct_within_destination,pct_scored_outside,pct_scored_within_destination
+Research doctorate,inclusive,grouped,scientific_rd,Scientific R&D services,research_likely_only,Research only,16,120,19,120,19,13.333333,15.833333,84.210526,13.333333,84.210526
+Research doctorate,inclusive,grouped,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,scientific_rd,Scientific R&D services,both,Both,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,scientific_rd,Scientific R&D services,neither,Other,3,120,19,120,19,2.5,15.833333,15.789474,2.5,15.789474
+Research doctorate,inclusive,grouped,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,scientific_rd,Scientific R&D services,unscored,Unscored,0,120,19,120,19,0.0,15.833333,0.0,,
+Research doctorate,no_hospital_override,grouped,scientific_rd,Scientific R&D services,research_likely_only,Research only,16,120,19,120,19,13.333333,15.833333,84.210526,13.333333,84.210526
+Research doctorate,no_hospital_override,grouped,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,scientific_rd,Scientific R&D services,both,Both,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,scientific_rd,Scientific R&D services,neither,Other,3,120,19,120,19,2.5,15.833333,15.789474,2.5,15.789474
+Research doctorate,no_hospital_override,grouped,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,scientific_rd,Scientific R&D services,unscored,Unscored,0,120,19,120,19,0.0,15.833333,0.0,,
+Research doctorate,conservative,grouped,scientific_rd,Scientific R&D services,research_likely_only,Research only,16,120,19,120,19,13.333333,15.833333,84.210526,13.333333,84.210526
+Research doctorate,conservative,grouped,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,conservative,grouped,scientific_rd,Scientific R&D services,both,Both,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,conservative,grouped,scientific_rd,Scientific R&D services,neither,Other,3,120,19,120,19,2.5,15.833333,15.789474,2.5,15.789474
+Research doctorate,conservative,grouped,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,conservative,grouped,scientific_rd,Scientific R&D services,unscored,Unscored,0,120,19,120,19,0.0,15.833333,0.0,,
+Research doctorate,inclusive,grouped,hospitals,Hospitals,research_likely_only,Research only,5,120,14,120,14,4.166667,11.666667,35.714286,4.166667,35.714286
+Research doctorate,inclusive,grouped,hospitals,Hospitals,clinical_likely_only,Clinical care only,1,120,14,120,14,0.833333,11.666667,7.142857,0.833333,7.142857
+Research doctorate,inclusive,grouped,hospitals,Hospitals,both,Both,6,120,14,120,14,5.0,11.666667,42.857143,5.0,42.857143
+Research doctorate,inclusive,grouped,hospitals,Hospitals,neither,Other,2,120,14,120,14,1.666667,11.666667,14.285714,1.666667,14.285714
+Research doctorate,inclusive,grouped,hospitals,Hospitals,unclassifiable,Instrument U,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,hospitals,Hospitals,unscored,Unscored,0,120,14,120,14,0.0,11.666667,0.0,,
+Research doctorate,no_hospital_override,grouped,hospitals,Hospitals,research_likely_only,Research only,4,120,14,120,14,3.333333,11.666667,28.571429,3.333333,28.571429
+Research doctorate,no_hospital_override,grouped,hospitals,Hospitals,clinical_likely_only,Clinical care only,7,120,14,120,14,5.833333,11.666667,50.0,5.833333,50.0
+Research doctorate,no_hospital_override,grouped,hospitals,Hospitals,both,Both,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,hospitals,Hospitals,neither,Other,3,120,14,120,14,2.5,11.666667,21.428571,2.5,21.428571
+Research doctorate,no_hospital_override,grouped,hospitals,Hospitals,unclassifiable,Instrument U,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,hospitals,Hospitals,unscored,Unscored,0,120,14,120,14,0.0,11.666667,0.0,,
+Research doctorate,conservative,grouped,hospitals,Hospitals,research_likely_only,Research only,4,120,14,120,14,3.333333,11.666667,28.571429,3.333333,28.571429
+Research doctorate,conservative,grouped,hospitals,Hospitals,clinical_likely_only,Clinical care only,7,120,14,120,14,5.833333,11.666667,50.0,5.833333,50.0
+Research doctorate,conservative,grouped,hospitals,Hospitals,both,Both,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,hospitals,Hospitals,neither,Other,3,120,14,120,14,2.5,11.666667,21.428571,2.5,21.428571
+Research doctorate,conservative,grouped,hospitals,Hospitals,unclassifiable,Instrument U,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,hospitals,Hospitals,unscored,Unscored,0,120,14,120,14,0.0,11.666667,0.0,,
+Research doctorate,inclusive,grouped,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,23,120,23,120,23,19.166667,19.166667,100.0,19.166667,100.0
+Research doctorate,inclusive,grouped,health_practitioners,Offices of health practitioners,both,Both,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,health_practitioners,Offices of health practitioners,neither,Other,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,health_practitioners,Offices of health practitioners,unscored,Unscored,0,120,23,120,23,0.0,19.166667,0.0,,
+Research doctorate,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,23,120,23,120,23,19.166667,19.166667,100.0,19.166667,100.0
+Research doctorate,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,both,Both,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,neither,Other,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,unscored,Unscored,0,120,23,120,23,0.0,19.166667,0.0,,
+Research doctorate,conservative,grouped,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,23,120,23,120,23,19.166667,19.166667,100.0,19.166667,100.0
+Research doctorate,conservative,grouped,health_practitioners,Offices of health practitioners,both,Both,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,health_practitioners,Offices of health practitioners,neither,Other,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,health_practitioners,Offices of health practitioners,unscored,Unscored,0,120,23,120,23,0.0,19.166667,0.0,,
+Research doctorate,inclusive,grouped,other_health_social,Other health and social care,research_likely_only,Research only,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,4,120,8,120,8,3.333333,6.666667,50.0,3.333333,50.0
+Research doctorate,inclusive,grouped,other_health_social,Other health and social care,both,Both,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,other_health_social,Other health and social care,neither,Other,4,120,8,120,8,3.333333,6.666667,50.0,3.333333,50.0
+Research doctorate,inclusive,grouped,other_health_social,Other health and social care,unclassifiable,Instrument U,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,other_health_social,Other health and social care,unscored,Unscored,0,120,8,120,8,0.0,6.666667,0.0,,
+Research doctorate,no_hospital_override,grouped,other_health_social,Other health and social care,research_likely_only,Research only,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,4,120,8,120,8,3.333333,6.666667,50.0,3.333333,50.0
+Research doctorate,no_hospital_override,grouped,other_health_social,Other health and social care,both,Both,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,other_health_social,Other health and social care,neither,Other,4,120,8,120,8,3.333333,6.666667,50.0,3.333333,50.0
+Research doctorate,no_hospital_override,grouped,other_health_social,Other health and social care,unclassifiable,Instrument U,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,other_health_social,Other health and social care,unscored,Unscored,0,120,8,120,8,0.0,6.666667,0.0,,
+Research doctorate,conservative,grouped,other_health_social,Other health and social care,research_likely_only,Research only,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,4,120,8,120,8,3.333333,6.666667,50.0,3.333333,50.0
+Research doctorate,conservative,grouped,other_health_social,Other health and social care,both,Both,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,other_health_social,Other health and social care,neither,Other,4,120,8,120,8,3.333333,6.666667,50.0,3.333333,50.0
+Research doctorate,conservative,grouped,other_health_social,Other health and social care,unclassifiable,Instrument U,0,120,8,120,8,0.0,6.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,other_health_social,Other health and social care,unscored,Unscored,0,120,8,120,8,0.0,6.666667,0.0,,
+Research doctorate,inclusive,grouped,government,Government and public programs,research_likely_only,Research only,8,120,20,120,20,6.666667,16.666667,40.0,6.666667,40.0
+Research doctorate,inclusive,grouped,government,Government and public programs,clinical_likely_only,Clinical care only,2,120,20,120,20,1.666667,16.666667,10.0,1.666667,10.0
+Research doctorate,inclusive,grouped,government,Government and public programs,both,Both,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,government,Government and public programs,neither,Other,10,120,20,120,20,8.333333,16.666667,50.0,8.333333,50.0
+Research doctorate,inclusive,grouped,government,Government and public programs,unclassifiable,Instrument U,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,government,Government and public programs,unscored,Unscored,0,120,20,120,20,0.0,16.666667,0.0,,
+Research doctorate,no_hospital_override,grouped,government,Government and public programs,research_likely_only,Research only,8,120,20,120,20,6.666667,16.666667,40.0,6.666667,40.0
+Research doctorate,no_hospital_override,grouped,government,Government and public programs,clinical_likely_only,Clinical care only,2,120,20,120,20,1.666667,16.666667,10.0,1.666667,10.0
+Research doctorate,no_hospital_override,grouped,government,Government and public programs,both,Both,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,government,Government and public programs,neither,Other,10,120,20,120,20,8.333333,16.666667,50.0,8.333333,50.0
+Research doctorate,no_hospital_override,grouped,government,Government and public programs,unclassifiable,Instrument U,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,government,Government and public programs,unscored,Unscored,0,120,20,120,20,0.0,16.666667,0.0,,
+Research doctorate,conservative,grouped,government,Government and public programs,research_likely_only,Research only,8,120,20,120,20,6.666667,16.666667,40.0,6.666667,40.0
+Research doctorate,conservative,grouped,government,Government and public programs,clinical_likely_only,Clinical care only,2,120,20,120,20,1.666667,16.666667,10.0,1.666667,10.0
+Research doctorate,conservative,grouped,government,Government and public programs,both,Both,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,government,Government and public programs,neither,Other,10,120,20,120,20,8.333333,16.666667,50.0,8.333333,50.0
+Research doctorate,conservative,grouped,government,Government and public programs,unclassifiable,Instrument U,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,government,Government and public programs,unscored,Unscored,0,120,20,120,20,0.0,16.666667,0.0,,
+Research doctorate,inclusive,grouped,professional_services,Consulting and other professional services,research_likely_only,Research only,2,120,10,120,10,1.666667,8.333333,20.0,1.666667,20.0
+Research doctorate,inclusive,grouped,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,1,120,10,120,10,0.833333,8.333333,10.0,0.833333,10.0
+Research doctorate,inclusive,grouped,professional_services,Consulting and other professional services,both,Both,0,120,10,120,10,0.0,8.333333,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,professional_services,Consulting and other professional services,neither,Other,7,120,10,120,10,5.833333,8.333333,70.0,5.833333,70.0
+Research doctorate,inclusive,grouped,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,120,10,120,10,0.0,8.333333,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,professional_services,Consulting and other professional services,unscored,Unscored,0,120,10,120,10,0.0,8.333333,0.0,,
+Research doctorate,no_hospital_override,grouped,professional_services,Consulting and other professional services,research_likely_only,Research only,2,120,10,120,10,1.666667,8.333333,20.0,1.666667,20.0
+Research doctorate,no_hospital_override,grouped,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,1,120,10,120,10,0.833333,8.333333,10.0,0.833333,10.0
+Research doctorate,no_hospital_override,grouped,professional_services,Consulting and other professional services,both,Both,0,120,10,120,10,0.0,8.333333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,professional_services,Consulting and other professional services,neither,Other,7,120,10,120,10,5.833333,8.333333,70.0,5.833333,70.0
+Research doctorate,no_hospital_override,grouped,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,120,10,120,10,0.0,8.333333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,professional_services,Consulting and other professional services,unscored,Unscored,0,120,10,120,10,0.0,8.333333,0.0,,
+Research doctorate,conservative,grouped,professional_services,Consulting and other professional services,research_likely_only,Research only,2,120,10,120,10,1.666667,8.333333,20.0,1.666667,20.0
+Research doctorate,conservative,grouped,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,1,120,10,120,10,0.833333,8.333333,10.0,0.833333,10.0
+Research doctorate,conservative,grouped,professional_services,Consulting and other professional services,both,Both,0,120,10,120,10,0.0,8.333333,0.0,0.0,0.0
+Research doctorate,conservative,grouped,professional_services,Consulting and other professional services,neither,Other,7,120,10,120,10,5.833333,8.333333,70.0,5.833333,70.0
+Research doctorate,conservative,grouped,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,120,10,120,10,0.0,8.333333,0.0,0.0,0.0
+Research doctorate,conservative,grouped,professional_services,Consulting and other professional services,unscored,Unscored,0,120,10,120,10,0.0,8.333333,0.0,,
+Research doctorate,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,6,120,6,120,6,5.0,5.0,100.0,5.0,100.0
+Research doctorate,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,6,120,6,120,6,5.0,5.0,100.0,5.0,100.0
+Research doctorate,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,6,120,6,120,6,5.0,5.0,100.0,5.0,100.0
+Research doctorate,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,inclusive,grouped,other_industries,Other industries,research_likely_only,Research only,6,120,20,120,20,5.0,16.666667,30.0,5.0,30.0
+Research doctorate,inclusive,grouped,other_industries,Other industries,clinical_likely_only,Clinical care only,1,120,20,120,20,0.833333,16.666667,5.0,0.833333,5.0
+Research doctorate,inclusive,grouped,other_industries,Other industries,both,Both,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,other_industries,Other industries,neither,Other,13,120,20,120,20,10.833333,16.666667,65.0,10.833333,65.0
+Research doctorate,inclusive,grouped,other_industries,Other industries,unclassifiable,Instrument U,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,inclusive,grouped,other_industries,Other industries,unscored,Unscored,0,120,20,120,20,0.0,16.666667,0.0,,
+Research doctorate,no_hospital_override,grouped,other_industries,Other industries,research_likely_only,Research only,6,120,20,120,20,5.0,16.666667,30.0,5.0,30.0
+Research doctorate,no_hospital_override,grouped,other_industries,Other industries,clinical_likely_only,Clinical care only,1,120,20,120,20,0.833333,16.666667,5.0,0.833333,5.0
+Research doctorate,no_hospital_override,grouped,other_industries,Other industries,both,Both,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,other_industries,Other industries,neither,Other,13,120,20,120,20,10.833333,16.666667,65.0,10.833333,65.0
+Research doctorate,no_hospital_override,grouped,other_industries,Other industries,unclassifiable,Instrument U,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,grouped,other_industries,Other industries,unscored,Unscored,0,120,20,120,20,0.0,16.666667,0.0,,
+Research doctorate,conservative,grouped,other_industries,Other industries,research_likely_only,Research only,6,120,20,120,20,5.0,16.666667,30.0,5.0,30.0
+Research doctorate,conservative,grouped,other_industries,Other industries,clinical_likely_only,Clinical care only,1,120,20,120,20,0.833333,16.666667,5.0,0.833333,5.0
+Research doctorate,conservative,grouped,other_industries,Other industries,both,Both,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,other_industries,Other industries,neither,Other,13,120,20,120,20,10.833333,16.666667,65.0,10.833333,65.0
+Research doctorate,conservative,grouped,other_industries,Other industries,unclassifiable,Instrument U,0,120,20,120,20,0.0,16.666667,0.0,0.0,0.0
+Research doctorate,conservative,grouped,other_industries,Other industries,unscored,Unscored,0,120,20,120,20,0.0,16.666667,0.0,,
+Research doctorate,inclusive,detailed,Other educational services,Other educational services,research_likely_only,Research only,1,120,5,120,5,0.833333,4.166667,20.0,0.833333,20.0
+Research doctorate,inclusive,detailed,Other educational services,Other educational services,clinical_likely_only,Clinical care only,1,120,5,120,5,0.833333,4.166667,20.0,0.833333,20.0
+Research doctorate,inclusive,detailed,Other educational services,Other educational services,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Other educational services,Other educational services,neither,Other,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,inclusive,detailed,Other educational services,Other educational services,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Other educational services,Other educational services,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,no_hospital_override,detailed,Other educational services,Other educational services,research_likely_only,Research only,1,120,5,120,5,0.833333,4.166667,20.0,0.833333,20.0
+Research doctorate,no_hospital_override,detailed,Other educational services,Other educational services,clinical_likely_only,Clinical care only,1,120,5,120,5,0.833333,4.166667,20.0,0.833333,20.0
+Research doctorate,no_hospital_override,detailed,Other educational services,Other educational services,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Other educational services,Other educational services,neither,Other,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,no_hospital_override,detailed,Other educational services,Other educational services,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Other educational services,Other educational services,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,conservative,detailed,Other educational services,Other educational services,research_likely_only,Research only,1,120,5,120,5,0.833333,4.166667,20.0,0.833333,20.0
+Research doctorate,conservative,detailed,Other educational services,Other educational services,clinical_likely_only,Clinical care only,1,120,5,120,5,0.833333,4.166667,20.0,0.833333,20.0
+Research doctorate,conservative,detailed,Other educational services,Other educational services,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Other educational services,Other educational services,neither,Other,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,conservative,detailed,Other educational services,Other educational services,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Other educational services,Other educational services,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,research_likely_only,Research only,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,clinical_likely_only,Clinical care only,23,120,23,120,23,19.166667,19.166667,100.0,19.166667,100.0
+Research doctorate,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,both,Both,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,neither,Other,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unclassifiable,Instrument U,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unscored,Unscored,0,120,23,120,23,0.0,19.166667,0.0,,
+Research doctorate,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,research_likely_only,Research only,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,clinical_likely_only,Clinical care only,23,120,23,120,23,19.166667,19.166667,100.0,19.166667,100.0
+Research doctorate,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,both,Both,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,neither,Other,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unclassifiable,Instrument U,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unscored,Unscored,0,120,23,120,23,0.0,19.166667,0.0,,
+Research doctorate,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,research_likely_only,Research only,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,clinical_likely_only,Clinical care only,23,120,23,120,23,19.166667,19.166667,100.0,19.166667,100.0
+Research doctorate,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,both,Both,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,neither,Other,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unclassifiable,Instrument U,0,120,23,120,23,0.0,19.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unscored,Unscored,0,120,23,120,23,0.0,19.166667,0.0,,
+Research doctorate,inclusive,detailed,Outpatient care centers,Outpatient care centers,research_likely_only,Research only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Outpatient care centers,Outpatient care centers,clinical_likely_only,Clinical care only,2,120,5,120,5,1.666667,4.166667,40.0,1.666667,40.0
+Research doctorate,inclusive,detailed,Outpatient care centers,Outpatient care centers,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Outpatient care centers,Outpatient care centers,neither,Other,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,inclusive,detailed,Outpatient care centers,Outpatient care centers,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Outpatient care centers,Outpatient care centers,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,research_likely_only,Research only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,clinical_likely_only,Clinical care only,2,120,5,120,5,1.666667,4.166667,40.0,1.666667,40.0
+Research doctorate,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,neither,Other,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,conservative,detailed,Outpatient care centers,Outpatient care centers,research_likely_only,Research only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Outpatient care centers,Outpatient care centers,clinical_likely_only,Clinical care only,2,120,5,120,5,1.666667,4.166667,40.0,1.666667,40.0
+Research doctorate,conservative,detailed,Outpatient care centers,Outpatient care centers,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Outpatient care centers,Outpatient care centers,neither,Other,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,conservative,detailed,Outpatient care centers,Outpatient care centers,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Outpatient care centers,Outpatient care centers,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,inclusive,detailed,Hospitals,Hospitals,research_likely_only,Research only,5,120,14,120,14,4.166667,11.666667,35.714286,4.166667,35.714286
+Research doctorate,inclusive,detailed,Hospitals,Hospitals,clinical_likely_only,Clinical care only,1,120,14,120,14,0.833333,11.666667,7.142857,0.833333,7.142857
+Research doctorate,inclusive,detailed,Hospitals,Hospitals,both,Both,6,120,14,120,14,5.0,11.666667,42.857143,5.0,42.857143
+Research doctorate,inclusive,detailed,Hospitals,Hospitals,neither,Other,2,120,14,120,14,1.666667,11.666667,14.285714,1.666667,14.285714
+Research doctorate,inclusive,detailed,Hospitals,Hospitals,unclassifiable,Instrument U,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Hospitals,Hospitals,unscored,Unscored,0,120,14,120,14,0.0,11.666667,0.0,,
+Research doctorate,no_hospital_override,detailed,Hospitals,Hospitals,research_likely_only,Research only,4,120,14,120,14,3.333333,11.666667,28.571429,3.333333,28.571429
+Research doctorate,no_hospital_override,detailed,Hospitals,Hospitals,clinical_likely_only,Clinical care only,7,120,14,120,14,5.833333,11.666667,50.0,5.833333,50.0
+Research doctorate,no_hospital_override,detailed,Hospitals,Hospitals,both,Both,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Hospitals,Hospitals,neither,Other,3,120,14,120,14,2.5,11.666667,21.428571,2.5,21.428571
+Research doctorate,no_hospital_override,detailed,Hospitals,Hospitals,unclassifiable,Instrument U,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Hospitals,Hospitals,unscored,Unscored,0,120,14,120,14,0.0,11.666667,0.0,,
+Research doctorate,conservative,detailed,Hospitals,Hospitals,research_likely_only,Research only,4,120,14,120,14,3.333333,11.666667,28.571429,3.333333,28.571429
+Research doctorate,conservative,detailed,Hospitals,Hospitals,clinical_likely_only,Clinical care only,7,120,14,120,14,5.833333,11.666667,50.0,5.833333,50.0
+Research doctorate,conservative,detailed,Hospitals,Hospitals,both,Both,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Hospitals,Hospitals,neither,Other,3,120,14,120,14,2.5,11.666667,21.428571,2.5,21.428571
+Research doctorate,conservative,detailed,Hospitals,Hospitals,unclassifiable,Instrument U,0,120,14,120,14,0.0,11.666667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Hospitals,Hospitals,unscored,Unscored,0,120,14,120,14,0.0,11.666667,0.0,,
+Research doctorate,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",research_likely_only,Research only,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",clinical_likely_only,Clinical care only,2,120,3,120,3,1.666667,2.5,66.666667,1.666667,66.666667
+Research doctorate,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",both,Both,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",neither,Other,1,120,3,120,3,0.833333,2.5,33.333333,0.833333,33.333333
+Research doctorate,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unclassifiable,Instrument U,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unscored,Unscored,0,120,3,120,3,0.0,2.5,0.0,,
+Research doctorate,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",research_likely_only,Research only,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",clinical_likely_only,Clinical care only,2,120,3,120,3,1.666667,2.5,66.666667,1.666667,66.666667
+Research doctorate,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",both,Both,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",neither,Other,1,120,3,120,3,0.833333,2.5,33.333333,0.833333,33.333333
+Research doctorate,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unclassifiable,Instrument U,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unscored,Unscored,0,120,3,120,3,0.0,2.5,0.0,,
+Research doctorate,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",research_likely_only,Research only,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",clinical_likely_only,Clinical care only,2,120,3,120,3,1.666667,2.5,66.666667,1.666667,66.666667
+Research doctorate,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",both,Both,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",neither,Other,1,120,3,120,3,0.833333,2.5,33.333333,0.833333,33.333333
+Research doctorate,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unclassifiable,Instrument U,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unscored,Unscored,0,120,3,120,3,0.0,2.5,0.0,,
+Research doctorate,inclusive,detailed,Scientific research and development services,Scientific research and development services,research_likely_only,Research only,16,120,19,120,19,13.333333,15.833333,84.210526,13.333333,84.210526
+Research doctorate,inclusive,detailed,Scientific research and development services,Scientific research and development services,clinical_likely_only,Clinical care only,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Scientific research and development services,Scientific research and development services,both,Both,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Scientific research and development services,Scientific research and development services,neither,Other,3,120,19,120,19,2.5,15.833333,15.789474,2.5,15.789474
+Research doctorate,inclusive,detailed,Scientific research and development services,Scientific research and development services,unclassifiable,Instrument U,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Scientific research and development services,Scientific research and development services,unscored,Unscored,0,120,19,120,19,0.0,15.833333,0.0,,
+Research doctorate,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,research_likely_only,Research only,16,120,19,120,19,13.333333,15.833333,84.210526,13.333333,84.210526
+Research doctorate,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,clinical_likely_only,Clinical care only,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,both,Both,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,neither,Other,3,120,19,120,19,2.5,15.833333,15.789474,2.5,15.789474
+Research doctorate,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,unclassifiable,Instrument U,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,unscored,Unscored,0,120,19,120,19,0.0,15.833333,0.0,,
+Research doctorate,conservative,detailed,Scientific research and development services,Scientific research and development services,research_likely_only,Research only,16,120,19,120,19,13.333333,15.833333,84.210526,13.333333,84.210526
+Research doctorate,conservative,detailed,Scientific research and development services,Scientific research and development services,clinical_likely_only,Clinical care only,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Scientific research and development services,Scientific research and development services,both,Both,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Scientific research and development services,Scientific research and development services,neither,Other,3,120,19,120,19,2.5,15.833333,15.789474,2.5,15.789474
+Research doctorate,conservative,detailed,Scientific research and development services,Scientific research and development services,unclassifiable,Instrument U,0,120,19,120,19,0.0,15.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Scientific research and development services,Scientific research and development services,unscored,Unscored,0,120,19,120,19,0.0,15.833333,0.0,,
+Research doctorate,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",research_likely_only,Research only,2,120,7,120,7,1.666667,5.833333,28.571429,1.666667,28.571429
+Research doctorate,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",clinical_likely_only,Clinical care only,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",both,Both,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",neither,Other,5,120,7,120,7,4.166667,5.833333,71.428571,4.166667,71.428571
+Research doctorate,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unclassifiable,Instrument U,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unscored,Unscored,0,120,7,120,7,0.0,5.833333,0.0,,
+Research doctorate,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",research_likely_only,Research only,2,120,7,120,7,1.666667,5.833333,28.571429,1.666667,28.571429
+Research doctorate,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",clinical_likely_only,Clinical care only,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",both,Both,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",neither,Other,5,120,7,120,7,4.166667,5.833333,71.428571,4.166667,71.428571
+Research doctorate,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unclassifiable,Instrument U,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unscored,Unscored,0,120,7,120,7,0.0,5.833333,0.0,,
+Research doctorate,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",research_likely_only,Research only,2,120,7,120,7,1.666667,5.833333,28.571429,1.666667,28.571429
+Research doctorate,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",clinical_likely_only,Clinical care only,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",both,Both,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",neither,Other,5,120,7,120,7,4.166667,5.833333,71.428571,4.166667,71.428571
+Research doctorate,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unclassifiable,Instrument U,0,120,7,120,7,0.0,5.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unscored,Unscored,0,120,7,120,7,0.0,5.833333,0.0,,
+Research doctorate,inclusive,detailed,Other professional services,Other professional services,research_likely_only,Research only,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Other professional services,Other professional services,clinical_likely_only,Clinical care only,1,120,3,120,3,0.833333,2.5,33.333333,0.833333,33.333333
+Research doctorate,inclusive,detailed,Other professional services,Other professional services,both,Both,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Other professional services,Other professional services,neither,Other,2,120,3,120,3,1.666667,2.5,66.666667,1.666667,66.666667
+Research doctorate,inclusive,detailed,Other professional services,Other professional services,unclassifiable,Instrument U,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Other professional services,Other professional services,unscored,Unscored,0,120,3,120,3,0.0,2.5,0.0,,
+Research doctorate,no_hospital_override,detailed,Other professional services,Other professional services,research_likely_only,Research only,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Other professional services,Other professional services,clinical_likely_only,Clinical care only,1,120,3,120,3,0.833333,2.5,33.333333,0.833333,33.333333
+Research doctorate,no_hospital_override,detailed,Other professional services,Other professional services,both,Both,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Other professional services,Other professional services,neither,Other,2,120,3,120,3,1.666667,2.5,66.666667,1.666667,66.666667
+Research doctorate,no_hospital_override,detailed,Other professional services,Other professional services,unclassifiable,Instrument U,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Other professional services,Other professional services,unscored,Unscored,0,120,3,120,3,0.0,2.5,0.0,,
+Research doctorate,conservative,detailed,Other professional services,Other professional services,research_likely_only,Research only,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Other professional services,Other professional services,clinical_likely_only,Clinical care only,1,120,3,120,3,0.833333,2.5,33.333333,0.833333,33.333333
+Research doctorate,conservative,detailed,Other professional services,Other professional services,both,Both,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Other professional services,Other professional services,neither,Other,2,120,3,120,3,1.666667,2.5,66.666667,1.666667,66.666667
+Research doctorate,conservative,detailed,Other professional services,Other professional services,unclassifiable,Instrument U,0,120,3,120,3,0.0,2.5,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Other professional services,Other professional services,unscored,Unscored,0,120,3,120,3,0.0,2.5,0.0,,
+Research doctorate,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,research_likely_only,Research only,5,120,13,120,13,4.166667,10.833333,38.461538,4.166667,38.461538
+Research doctorate,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,clinical_likely_only,Clinical care only,2,120,13,120,13,1.666667,10.833333,15.384615,1.666667,15.384615
+Research doctorate,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,both,Both,0,120,13,120,13,0.0,10.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,neither,Other,6,120,13,120,13,5.0,10.833333,46.153846,5.0,46.153846
+Research doctorate,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,unclassifiable,Instrument U,0,120,13,120,13,0.0,10.833333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,unscored,Unscored,0,120,13,120,13,0.0,10.833333,0.0,,
+Research doctorate,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,research_likely_only,Research only,5,120,13,120,13,4.166667,10.833333,38.461538,4.166667,38.461538
+Research doctorate,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,clinical_likely_only,Clinical care only,2,120,13,120,13,1.666667,10.833333,15.384615,1.666667,15.384615
+Research doctorate,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,both,Both,0,120,13,120,13,0.0,10.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,neither,Other,6,120,13,120,13,5.0,10.833333,46.153846,5.0,46.153846
+Research doctorate,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,unclassifiable,Instrument U,0,120,13,120,13,0.0,10.833333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,unscored,Unscored,0,120,13,120,13,0.0,10.833333,0.0,,
+Research doctorate,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,research_likely_only,Research only,5,120,13,120,13,4.166667,10.833333,38.461538,4.166667,38.461538
+Research doctorate,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,clinical_likely_only,Clinical care only,2,120,13,120,13,1.666667,10.833333,15.384615,1.666667,15.384615
+Research doctorate,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,both,Both,0,120,13,120,13,0.0,10.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,neither,Other,6,120,13,120,13,5.0,10.833333,46.153846,5.0,46.153846
+Research doctorate,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,unclassifiable,Instrument U,0,120,13,120,13,0.0,10.833333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,unscored,Unscored,0,120,13,120,13,0.0,10.833333,0.0,,
+Research doctorate,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",research_likely_only,Research only,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",clinical_likely_only,Clinical care only,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",both,Both,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",neither,Other,2,120,2,120,2,1.666667,1.666667,100.0,1.666667,100.0
+Research doctorate,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",unclassifiable,Instrument U,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",unscored,Unscored,0,120,2,120,2,0.0,1.666667,0.0,,
+Research doctorate,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",research_likely_only,Research only,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",clinical_likely_only,Clinical care only,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",both,Both,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",neither,Other,2,120,2,120,2,1.666667,1.666667,100.0,1.666667,100.0
+Research doctorate,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",unclassifiable,Instrument U,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",unscored,Unscored,0,120,2,120,2,0.0,1.666667,0.0,,
+Research doctorate,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",research_likely_only,Research only,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",clinical_likely_only,Clinical care only,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",both,Both,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",neither,Other,2,120,2,120,2,1.666667,1.666667,100.0,1.666667,100.0
+Research doctorate,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",unclassifiable,Instrument U,0,120,2,120,2,0.0,1.666667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",unscored,Unscored,0,120,2,120,2,0.0,1.666667,0.0,,
+Research doctorate,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",research_likely_only,Research only,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",clinical_likely_only,Clinical care only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",neither,Other,2,120,5,120,5,1.666667,4.166667,40.0,1.666667,40.0
+Research doctorate,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",research_likely_only,Research only,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",clinical_likely_only,Clinical care only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",neither,Other,2,120,5,120,5,1.666667,4.166667,40.0,1.666667,40.0
+Research doctorate,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",research_likely_only,Research only,3,120,5,120,5,2.5,4.166667,60.0,2.5,60.0
+Research doctorate,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",clinical_likely_only,Clinical care only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",neither,Other,2,120,5,120,5,1.666667,4.166667,40.0,1.666667,40.0
+Research doctorate,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",research_likely_only,Research only,6,120,6,120,6,5.0,5.0,100.0,5.0,100.0
+Research doctorate,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",neither,Other,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",research_likely_only,Research only,6,120,6,120,6,5.0,5.0,100.0,5.0,100.0
+Research doctorate,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",neither,Other,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",research_likely_only,Research only,6,120,6,120,6,5.0,5.0,100.0,5.0,100.0
+Research doctorate,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",neither,Other,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",research_likely_only,Research only,2,120,4,120,4,1.666667,3.333333,50.0,1.666667,50.0
+Research doctorate,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",clinical_likely_only,Clinical care only,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",both,Both,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",neither,Other,2,120,4,120,4,1.666667,3.333333,50.0,1.666667,50.0
+Research doctorate,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unclassifiable,Instrument U,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unscored,Unscored,0,120,4,120,4,0.0,3.333333,0.0,,
+Research doctorate,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",research_likely_only,Research only,2,120,4,120,4,1.666667,3.333333,50.0,1.666667,50.0
+Research doctorate,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",clinical_likely_only,Clinical care only,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",both,Both,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",neither,Other,2,120,4,120,4,1.666667,3.333333,50.0,1.666667,50.0
+Research doctorate,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unclassifiable,Instrument U,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unscored,Unscored,0,120,4,120,4,0.0,3.333333,0.0,,
+Research doctorate,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",research_likely_only,Research only,2,120,4,120,4,1.666667,3.333333,50.0,1.666667,50.0
+Research doctorate,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",clinical_likely_only,Clinical care only,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",both,Both,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",neither,Other,2,120,4,120,4,1.666667,3.333333,50.0,1.666667,50.0
+Research doctorate,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unclassifiable,Instrument U,0,120,4,120,4,0.0,3.333333,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unscored,Unscored,0,120,4,120,4,0.0,3.333333,0.0,,
+Research doctorate,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",research_likely_only,Research only,3,120,6,120,6,2.5,5.0,50.0,2.5,50.0
+Research doctorate,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",neither,Other,3,120,6,120,6,2.5,5.0,50.0,2.5,50.0
+Research doctorate,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",research_likely_only,Research only,3,120,6,120,6,2.5,5.0,50.0,2.5,50.0
+Research doctorate,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",neither,Other,3,120,6,120,6,2.5,5.0,50.0,2.5,50.0
+Research doctorate,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",research_likely_only,Research only,3,120,6,120,6,2.5,5.0,50.0,2.5,50.0
+Research doctorate,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",clinical_likely_only,Clinical care only,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",both,Both,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",neither,Other,3,120,6,120,6,2.5,5.0,50.0,2.5,50.0
+Research doctorate,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",unclassifiable,Instrument U,0,120,6,120,6,0.0,5.0,0.0,0.0,0.0
+Research doctorate,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",unscored,Unscored,0,120,6,120,6,0.0,5.0,0.0,,
+Research doctorate,inclusive,detailed,All other industries,All other industries,research_likely_only,Research only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,All other industries,All other industries,clinical_likely_only,Clinical care only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,All other industries,All other industries,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,All other industries,All other industries,neither,Other,5,120,5,120,5,4.166667,4.166667,100.0,4.166667,100.0
+Research doctorate,inclusive,detailed,All other industries,All other industries,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,inclusive,detailed,All other industries,All other industries,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,no_hospital_override,detailed,All other industries,All other industries,research_likely_only,Research only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,All other industries,All other industries,clinical_likely_only,Clinical care only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,All other industries,All other industries,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,All other industries,All other industries,neither,Other,5,120,5,120,5,4.166667,4.166667,100.0,4.166667,100.0
+Research doctorate,no_hospital_override,detailed,All other industries,All other industries,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,no_hospital_override,detailed,All other industries,All other industries,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Research doctorate,conservative,detailed,All other industries,All other industries,research_likely_only,Research only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,All other industries,All other industries,clinical_likely_only,Clinical care only,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,All other industries,All other industries,both,Both,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,All other industries,All other industries,neither,Other,5,120,5,120,5,4.166667,4.166667,100.0,4.166667,100.0
+Research doctorate,conservative,detailed,All other industries,All other industries,unclassifiable,Instrument U,0,120,5,120,5,0.0,4.166667,0.0,0.0,0.0
+Research doctorate,conservative,detailed,All other industries,All other industries,unscored,Unscored,0,120,5,120,5,0.0,4.166667,0.0,,
+Master's,inclusive,grouped,scientific_rd,Scientific R&D services,research_likely_only,Research only,5,57,6,57,6,8.77193,10.526316,83.333333,8.77193,83.333333
+Master's,inclusive,grouped,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,inclusive,grouped,scientific_rd,Scientific R&D services,both,Both,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,inclusive,grouped,scientific_rd,Scientific R&D services,neither,Other,1,57,6,57,6,1.754386,10.526316,16.666667,1.754386,16.666667
+Master's,inclusive,grouped,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,inclusive,grouped,scientific_rd,Scientific R&D services,unscored,Unscored,0,57,6,57,6,0.0,10.526316,0.0,,
+Master's,no_hospital_override,grouped,scientific_rd,Scientific R&D services,research_likely_only,Research only,5,57,6,57,6,8.77193,10.526316,83.333333,8.77193,83.333333
+Master's,no_hospital_override,grouped,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,scientific_rd,Scientific R&D services,both,Both,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,scientific_rd,Scientific R&D services,neither,Other,1,57,6,57,6,1.754386,10.526316,16.666667,1.754386,16.666667
+Master's,no_hospital_override,grouped,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,scientific_rd,Scientific R&D services,unscored,Unscored,0,57,6,57,6,0.0,10.526316,0.0,,
+Master's,conservative,grouped,scientific_rd,Scientific R&D services,research_likely_only,Research only,5,57,6,57,6,8.77193,10.526316,83.333333,8.77193,83.333333
+Master's,conservative,grouped,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,conservative,grouped,scientific_rd,Scientific R&D services,both,Both,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,conservative,grouped,scientific_rd,Scientific R&D services,neither,Other,1,57,6,57,6,1.754386,10.526316,16.666667,1.754386,16.666667
+Master's,conservative,grouped,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,conservative,grouped,scientific_rd,Scientific R&D services,unscored,Unscored,0,57,6,57,6,0.0,10.526316,0.0,,
+Master's,inclusive,grouped,hospitals,Hospitals,research_likely_only,Research only,2,57,12,57,12,3.508772,21.052632,16.666667,3.508772,16.666667
+Master's,inclusive,grouped,hospitals,Hospitals,clinical_likely_only,Clinical care only,2,57,12,57,12,3.508772,21.052632,16.666667,3.508772,16.666667
+Master's,inclusive,grouped,hospitals,Hospitals,both,Both,6,57,12,57,12,10.526316,21.052632,50.0,10.526316,50.0
+Master's,inclusive,grouped,hospitals,Hospitals,neither,Other,2,57,12,57,12,3.508772,21.052632,16.666667,3.508772,16.666667
+Master's,inclusive,grouped,hospitals,Hospitals,unclassifiable,Instrument U,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,inclusive,grouped,hospitals,Hospitals,unscored,Unscored,0,57,12,57,12,0.0,21.052632,0.0,,
+Master's,no_hospital_override,grouped,hospitals,Hospitals,research_likely_only,Research only,1,57,12,57,12,1.754386,21.052632,8.333333,1.754386,8.333333
+Master's,no_hospital_override,grouped,hospitals,Hospitals,clinical_likely_only,Clinical care only,8,57,12,57,12,14.035088,21.052632,66.666667,14.035088,66.666667
+Master's,no_hospital_override,grouped,hospitals,Hospitals,both,Both,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,hospitals,Hospitals,neither,Other,3,57,12,57,12,5.263158,21.052632,25.0,5.263158,25.0
+Master's,no_hospital_override,grouped,hospitals,Hospitals,unclassifiable,Instrument U,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,hospitals,Hospitals,unscored,Unscored,0,57,12,57,12,0.0,21.052632,0.0,,
+Master's,conservative,grouped,hospitals,Hospitals,research_likely_only,Research only,1,57,12,57,12,1.754386,21.052632,8.333333,1.754386,8.333333
+Master's,conservative,grouped,hospitals,Hospitals,clinical_likely_only,Clinical care only,8,57,12,57,12,14.035088,21.052632,66.666667,14.035088,66.666667
+Master's,conservative,grouped,hospitals,Hospitals,both,Both,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,conservative,grouped,hospitals,Hospitals,neither,Other,3,57,12,57,12,5.263158,21.052632,25.0,5.263158,25.0
+Master's,conservative,grouped,hospitals,Hospitals,unclassifiable,Instrument U,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,conservative,grouped,hospitals,Hospitals,unscored,Unscored,0,57,12,57,12,0.0,21.052632,0.0,,
+Master's,inclusive,grouped,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,grouped,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,9,57,9,57,9,15.789474,15.789474,100.0,15.789474,100.0
+Master's,inclusive,grouped,health_practitioners,Offices of health practitioners,both,Both,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,grouped,health_practitioners,Offices of health practitioners,neither,Other,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,grouped,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,grouped,health_practitioners,Offices of health practitioners,unscored,Unscored,0,57,9,57,9,0.0,15.789474,0.0,,
+Master's,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,9,57,9,57,9,15.789474,15.789474,100.0,15.789474,100.0
+Master's,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,both,Both,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,neither,Other,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,health_practitioners,Offices of health practitioners,unscored,Unscored,0,57,9,57,9,0.0,15.789474,0.0,,
+Master's,conservative,grouped,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,grouped,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,9,57,9,57,9,15.789474,15.789474,100.0,15.789474,100.0
+Master's,conservative,grouped,health_practitioners,Offices of health practitioners,both,Both,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,grouped,health_practitioners,Offices of health practitioners,neither,Other,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,grouped,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,grouped,health_practitioners,Offices of health practitioners,unscored,Unscored,0,57,9,57,9,0.0,15.789474,0.0,,
+Master's,inclusive,grouped,other_health_social,Other health and social care,research_likely_only,Research only,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,inclusive,grouped,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,5,57,7,57,7,8.77193,12.280702,71.428571,8.77193,71.428571
+Master's,inclusive,grouped,other_health_social,Other health and social care,both,Both,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,inclusive,grouped,other_health_social,Other health and social care,neither,Other,2,57,7,57,7,3.508772,12.280702,28.571429,3.508772,28.571429
+Master's,inclusive,grouped,other_health_social,Other health and social care,unclassifiable,Instrument U,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,inclusive,grouped,other_health_social,Other health and social care,unscored,Unscored,0,57,7,57,7,0.0,12.280702,0.0,,
+Master's,no_hospital_override,grouped,other_health_social,Other health and social care,research_likely_only,Research only,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,5,57,7,57,7,8.77193,12.280702,71.428571,8.77193,71.428571
+Master's,no_hospital_override,grouped,other_health_social,Other health and social care,both,Both,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,other_health_social,Other health and social care,neither,Other,2,57,7,57,7,3.508772,12.280702,28.571429,3.508772,28.571429
+Master's,no_hospital_override,grouped,other_health_social,Other health and social care,unclassifiable,Instrument U,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,other_health_social,Other health and social care,unscored,Unscored,0,57,7,57,7,0.0,12.280702,0.0,,
+Master's,conservative,grouped,other_health_social,Other health and social care,research_likely_only,Research only,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,conservative,grouped,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,5,57,7,57,7,8.77193,12.280702,71.428571,8.77193,71.428571
+Master's,conservative,grouped,other_health_social,Other health and social care,both,Both,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,conservative,grouped,other_health_social,Other health and social care,neither,Other,2,57,7,57,7,3.508772,12.280702,28.571429,3.508772,28.571429
+Master's,conservative,grouped,other_health_social,Other health and social care,unclassifiable,Instrument U,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,conservative,grouped,other_health_social,Other health and social care,unscored,Unscored,0,57,7,57,7,0.0,12.280702,0.0,,
+Master's,inclusive,grouped,government,Government and public programs,research_likely_only,Research only,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,inclusive,grouped,government,Government and public programs,clinical_likely_only,Clinical care only,2,57,7,57,7,3.508772,12.280702,28.571429,3.508772,28.571429
+Master's,inclusive,grouped,government,Government and public programs,both,Both,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,inclusive,grouped,government,Government and public programs,neither,Other,5,57,7,57,7,8.77193,12.280702,71.428571,8.77193,71.428571
+Master's,inclusive,grouped,government,Government and public programs,unclassifiable,Instrument U,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,inclusive,grouped,government,Government and public programs,unscored,Unscored,0,57,7,57,7,0.0,12.280702,0.0,,
+Master's,no_hospital_override,grouped,government,Government and public programs,research_likely_only,Research only,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,government,Government and public programs,clinical_likely_only,Clinical care only,2,57,7,57,7,3.508772,12.280702,28.571429,3.508772,28.571429
+Master's,no_hospital_override,grouped,government,Government and public programs,both,Both,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,government,Government and public programs,neither,Other,5,57,7,57,7,8.77193,12.280702,71.428571,8.77193,71.428571
+Master's,no_hospital_override,grouped,government,Government and public programs,unclassifiable,Instrument U,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,government,Government and public programs,unscored,Unscored,0,57,7,57,7,0.0,12.280702,0.0,,
+Master's,conservative,grouped,government,Government and public programs,research_likely_only,Research only,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,conservative,grouped,government,Government and public programs,clinical_likely_only,Clinical care only,2,57,7,57,7,3.508772,12.280702,28.571429,3.508772,28.571429
+Master's,conservative,grouped,government,Government and public programs,both,Both,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,conservative,grouped,government,Government and public programs,neither,Other,5,57,7,57,7,8.77193,12.280702,71.428571,8.77193,71.428571
+Master's,conservative,grouped,government,Government and public programs,unclassifiable,Instrument U,0,57,7,57,7,0.0,12.280702,0.0,0.0,0.0
+Master's,conservative,grouped,government,Government and public programs,unscored,Unscored,0,57,7,57,7,0.0,12.280702,0.0,,
+Master's,inclusive,grouped,professional_services,Consulting and other professional services,research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,inclusive,grouped,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,grouped,professional_services,Consulting and other professional services,both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,grouped,professional_services,Consulting and other professional services,neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,inclusive,grouped,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,grouped,professional_services,Consulting and other professional services,unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,no_hospital_override,grouped,professional_services,Consulting and other professional services,research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,no_hospital_override,grouped,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,professional_services,Consulting and other professional services,both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,professional_services,Consulting and other professional services,neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,no_hospital_override,grouped,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,professional_services,Consulting and other professional services,unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,conservative,grouped,professional_services,Consulting and other professional services,research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,conservative,grouped,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,grouped,professional_services,Consulting and other professional services,both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,grouped,professional_services,Consulting and other professional services,neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,conservative,grouped,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,grouped,professional_services,Consulting and other professional services,unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,grouped,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,inclusive,grouped,other_industries,Other industries,research_likely_only,Research only,1,57,10,57,10,1.754386,17.54386,10.0,1.754386,10.0
+Master's,inclusive,grouped,other_industries,Other industries,clinical_likely_only,Clinical care only,1,57,10,57,10,1.754386,17.54386,10.0,1.754386,10.0
+Master's,inclusive,grouped,other_industries,Other industries,both,Both,0,57,10,57,10,0.0,17.54386,0.0,0.0,0.0
+Master's,inclusive,grouped,other_industries,Other industries,neither,Other,8,57,10,57,10,14.035088,17.54386,80.0,14.035088,80.0
+Master's,inclusive,grouped,other_industries,Other industries,unclassifiable,Instrument U,0,57,10,57,10,0.0,17.54386,0.0,0.0,0.0
+Master's,inclusive,grouped,other_industries,Other industries,unscored,Unscored,0,57,10,57,10,0.0,17.54386,0.0,,
+Master's,no_hospital_override,grouped,other_industries,Other industries,research_likely_only,Research only,1,57,10,57,10,1.754386,17.54386,10.0,1.754386,10.0
+Master's,no_hospital_override,grouped,other_industries,Other industries,clinical_likely_only,Clinical care only,1,57,10,57,10,1.754386,17.54386,10.0,1.754386,10.0
+Master's,no_hospital_override,grouped,other_industries,Other industries,both,Both,0,57,10,57,10,0.0,17.54386,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,other_industries,Other industries,neither,Other,8,57,10,57,10,14.035088,17.54386,80.0,14.035088,80.0
+Master's,no_hospital_override,grouped,other_industries,Other industries,unclassifiable,Instrument U,0,57,10,57,10,0.0,17.54386,0.0,0.0,0.0
+Master's,no_hospital_override,grouped,other_industries,Other industries,unscored,Unscored,0,57,10,57,10,0.0,17.54386,0.0,,
+Master's,conservative,grouped,other_industries,Other industries,research_likely_only,Research only,1,57,10,57,10,1.754386,17.54386,10.0,1.754386,10.0
+Master's,conservative,grouped,other_industries,Other industries,clinical_likely_only,Clinical care only,1,57,10,57,10,1.754386,17.54386,10.0,1.754386,10.0
+Master's,conservative,grouped,other_industries,Other industries,both,Both,0,57,10,57,10,0.0,17.54386,0.0,0.0,0.0
+Master's,conservative,grouped,other_industries,Other industries,neither,Other,8,57,10,57,10,14.035088,17.54386,80.0,14.035088,80.0
+Master's,conservative,grouped,other_industries,Other industries,unclassifiable,Instrument U,0,57,10,57,10,0.0,17.54386,0.0,0.0,0.0
+Master's,conservative,grouped,other_industries,Other industries,unscored,Unscored,0,57,10,57,10,0.0,17.54386,0.0,,
+Master's,inclusive,detailed,Other educational services,Other educational services,research_likely_only,Research only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,inclusive,detailed,Other educational services,Other educational services,clinical_likely_only,Clinical care only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,inclusive,detailed,Other educational services,Other educational services,both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Other educational services,Other educational services,neither,Other,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Other educational services,Other educational services,unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Other educational services,Other educational services,unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,no_hospital_override,detailed,Other educational services,Other educational services,research_likely_only,Research only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,no_hospital_override,detailed,Other educational services,Other educational services,clinical_likely_only,Clinical care only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,no_hospital_override,detailed,Other educational services,Other educational services,both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other educational services,Other educational services,neither,Other,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other educational services,Other educational services,unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other educational services,Other educational services,unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,conservative,detailed,Other educational services,Other educational services,research_likely_only,Research only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,conservative,detailed,Other educational services,Other educational services,clinical_likely_only,Clinical care only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,conservative,detailed,Other educational services,Other educational services,both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Other educational services,Other educational services,neither,Other,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Other educational services,Other educational services,unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Other educational services,Other educational services,unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,research_likely_only,Research only,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,clinical_likely_only,Clinical care only,9,57,9,57,9,15.789474,15.789474,100.0,15.789474,100.0
+Master's,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,both,Both,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,neither,Other,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unclassifiable,Instrument U,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,inclusive,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unscored,Unscored,0,57,9,57,9,0.0,15.789474,0.0,,
+Master's,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,research_likely_only,Research only,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,clinical_likely_only,Clinical care only,9,57,9,57,9,15.789474,15.789474,100.0,15.789474,100.0
+Master's,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,both,Both,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,neither,Other,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unclassifiable,Instrument U,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unscored,Unscored,0,57,9,57,9,0.0,15.789474,0.0,,
+Master's,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,research_likely_only,Research only,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,clinical_likely_only,Clinical care only,9,57,9,57,9,15.789474,15.789474,100.0,15.789474,100.0
+Master's,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,both,Both,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,neither,Other,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unclassifiable,Instrument U,0,57,9,57,9,0.0,15.789474,0.0,0.0,0.0
+Master's,conservative,detailed,Offices of physicians and other health practitioners,Offices of physicians and other health practitioners,unscored,Unscored,0,57,9,57,9,0.0,15.789474,0.0,,
+Master's,inclusive,detailed,Outpatient care centers,Outpatient care centers,research_likely_only,Research only,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Outpatient care centers,Outpatient care centers,clinical_likely_only,Clinical care only,2,57,2,57,2,3.508772,3.508772,100.0,3.508772,100.0
+Master's,inclusive,detailed,Outpatient care centers,Outpatient care centers,both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Outpatient care centers,Outpatient care centers,neither,Other,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Outpatient care centers,Outpatient care centers,unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,Outpatient care centers,Outpatient care centers,unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,research_likely_only,Research only,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,clinical_likely_only,Clinical care only,2,57,2,57,2,3.508772,3.508772,100.0,3.508772,100.0
+Master's,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,neither,Other,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Outpatient care centers,Outpatient care centers,unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,conservative,detailed,Outpatient care centers,Outpatient care centers,research_likely_only,Research only,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Outpatient care centers,Outpatient care centers,clinical_likely_only,Clinical care only,2,57,2,57,2,3.508772,3.508772,100.0,3.508772,100.0
+Master's,conservative,detailed,Outpatient care centers,Outpatient care centers,both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Outpatient care centers,Outpatient care centers,neither,Other,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Outpatient care centers,Outpatient care centers,unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,Outpatient care centers,Outpatient care centers,unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,inclusive,detailed,Hospitals,Hospitals,research_likely_only,Research only,2,57,12,57,12,3.508772,21.052632,16.666667,3.508772,16.666667
+Master's,inclusive,detailed,Hospitals,Hospitals,clinical_likely_only,Clinical care only,2,57,12,57,12,3.508772,21.052632,16.666667,3.508772,16.666667
+Master's,inclusive,detailed,Hospitals,Hospitals,both,Both,6,57,12,57,12,10.526316,21.052632,50.0,10.526316,50.0
+Master's,inclusive,detailed,Hospitals,Hospitals,neither,Other,2,57,12,57,12,3.508772,21.052632,16.666667,3.508772,16.666667
+Master's,inclusive,detailed,Hospitals,Hospitals,unclassifiable,Instrument U,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,inclusive,detailed,Hospitals,Hospitals,unscored,Unscored,0,57,12,57,12,0.0,21.052632,0.0,,
+Master's,no_hospital_override,detailed,Hospitals,Hospitals,research_likely_only,Research only,1,57,12,57,12,1.754386,21.052632,8.333333,1.754386,8.333333
+Master's,no_hospital_override,detailed,Hospitals,Hospitals,clinical_likely_only,Clinical care only,8,57,12,57,12,14.035088,21.052632,66.666667,14.035088,66.666667
+Master's,no_hospital_override,detailed,Hospitals,Hospitals,both,Both,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Hospitals,Hospitals,neither,Other,3,57,12,57,12,5.263158,21.052632,25.0,5.263158,25.0
+Master's,no_hospital_override,detailed,Hospitals,Hospitals,unclassifiable,Instrument U,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Hospitals,Hospitals,unscored,Unscored,0,57,12,57,12,0.0,21.052632,0.0,,
+Master's,conservative,detailed,Hospitals,Hospitals,research_likely_only,Research only,1,57,12,57,12,1.754386,21.052632,8.333333,1.754386,8.333333
+Master's,conservative,detailed,Hospitals,Hospitals,clinical_likely_only,Clinical care only,8,57,12,57,12,14.035088,21.052632,66.666667,14.035088,66.666667
+Master's,conservative,detailed,Hospitals,Hospitals,both,Both,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,conservative,detailed,Hospitals,Hospitals,neither,Other,3,57,12,57,12,5.263158,21.052632,25.0,5.263158,25.0
+Master's,conservative,detailed,Hospitals,Hospitals,unclassifiable,Instrument U,0,57,12,57,12,0.0,21.052632,0.0,0.0,0.0
+Master's,conservative,detailed,Hospitals,Hospitals,unscored,Unscored,0,57,12,57,12,0.0,21.052632,0.0,,
+Master's,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",research_likely_only,Research only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",clinical_likely_only,Clinical care only,3,57,5,57,5,5.263158,8.77193,60.0,5.263158,60.0
+Master's,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",both,Both,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",neither,Other,2,57,5,57,5,3.508772,8.77193,40.0,3.508772,40.0
+Master's,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unclassifiable,Instrument U,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unscored,Unscored,0,57,5,57,5,0.0,8.77193,0.0,,
+Master's,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",research_likely_only,Research only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",clinical_likely_only,Clinical care only,3,57,5,57,5,5.263158,8.77193,60.0,5.263158,60.0
+Master's,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",both,Both,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",neither,Other,2,57,5,57,5,3.508772,8.77193,40.0,3.508772,40.0
+Master's,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unclassifiable,Instrument U,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unscored,Unscored,0,57,5,57,5,0.0,8.77193,0.0,,
+Master's,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",research_likely_only,Research only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",clinical_likely_only,Clinical care only,3,57,5,57,5,5.263158,8.77193,60.0,5.263158,60.0
+Master's,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",both,Both,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",neither,Other,2,57,5,57,5,3.508772,8.77193,40.0,3.508772,40.0
+Master's,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unclassifiable,Instrument U,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Other ambulatory, residential care and social assistance","Other ambulatory, residential care and social assistance",unscored,Unscored,0,57,5,57,5,0.0,8.77193,0.0,,
+Master's,inclusive,detailed,Scientific research and development services,Scientific research and development services,research_likely_only,Research only,5,57,6,57,6,8.77193,10.526316,83.333333,8.77193,83.333333
+Master's,inclusive,detailed,Scientific research and development services,Scientific research and development services,clinical_likely_only,Clinical care only,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,inclusive,detailed,Scientific research and development services,Scientific research and development services,both,Both,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,inclusive,detailed,Scientific research and development services,Scientific research and development services,neither,Other,1,57,6,57,6,1.754386,10.526316,16.666667,1.754386,16.666667
+Master's,inclusive,detailed,Scientific research and development services,Scientific research and development services,unclassifiable,Instrument U,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,inclusive,detailed,Scientific research and development services,Scientific research and development services,unscored,Unscored,0,57,6,57,6,0.0,10.526316,0.0,,
+Master's,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,research_likely_only,Research only,5,57,6,57,6,8.77193,10.526316,83.333333,8.77193,83.333333
+Master's,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,clinical_likely_only,Clinical care only,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,both,Both,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,neither,Other,1,57,6,57,6,1.754386,10.526316,16.666667,1.754386,16.666667
+Master's,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,unclassifiable,Instrument U,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Scientific research and development services,Scientific research and development services,unscored,Unscored,0,57,6,57,6,0.0,10.526316,0.0,,
+Master's,conservative,detailed,Scientific research and development services,Scientific research and development services,research_likely_only,Research only,5,57,6,57,6,8.77193,10.526316,83.333333,8.77193,83.333333
+Master's,conservative,detailed,Scientific research and development services,Scientific research and development services,clinical_likely_only,Clinical care only,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,conservative,detailed,Scientific research and development services,Scientific research and development services,both,Both,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,conservative,detailed,Scientific research and development services,Scientific research and development services,neither,Other,1,57,6,57,6,1.754386,10.526316,16.666667,1.754386,16.666667
+Master's,conservative,detailed,Scientific research and development services,Scientific research and development services,unclassifiable,Instrument U,0,57,6,57,6,0.0,10.526316,0.0,0.0,0.0
+Master's,conservative,detailed,Scientific research and development services,Scientific research and development services,unscored,Unscored,0,57,6,57,6,0.0,10.526316,0.0,,
+Master's,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",research_likely_only,Research only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",clinical_likely_only,Clinical care only,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",neither,Other,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,inclusive,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",research_likely_only,Research only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",clinical_likely_only,Clinical care only,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",neither,Other,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",research_likely_only,Research only,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",clinical_likely_only,Clinical care only,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",both,Both,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",neither,Other,1,57,2,57,2,1.754386,3.508772,50.0,1.754386,50.0
+Master's,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unclassifiable,Instrument U,0,57,2,57,2,0.0,3.508772,0.0,0.0,0.0
+Master's,conservative,detailed,"Management, scientific and technical consulting","Management, scientific and technical consulting",unscored,Unscored,0,57,2,57,2,0.0,3.508772,0.0,,
+Master's,inclusive,detailed,Other professional services,Other professional services,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Other professional services,Other professional services,clinical_likely_only,Clinical care only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Other professional services,Other professional services,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Other professional services,Other professional services,neither,Other,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,inclusive,detailed,Other professional services,Other professional services,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Other professional services,Other professional services,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,no_hospital_override,detailed,Other professional services,Other professional services,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other professional services,Other professional services,clinical_likely_only,Clinical care only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other professional services,Other professional services,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other professional services,Other professional services,neither,Other,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,no_hospital_override,detailed,Other professional services,Other professional services,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Other professional services,Other professional services,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,conservative,detailed,Other professional services,Other professional services,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Other professional services,Other professional services,clinical_likely_only,Clinical care only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Other professional services,Other professional services,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Other professional services,Other professional services,neither,Other,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,conservative,detailed,Other professional services,Other professional services,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Other professional services,Other professional services,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,clinical_likely_only,Clinical care only,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,neither,Other,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,Public health and other human resource programs,Public health and other human resource programs,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,clinical_likely_only,Clinical care only,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,neither,Other,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,Public health and other human resource programs,Public health and other human resource programs,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,clinical_likely_only,Clinical care only,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,neither,Other,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,Public health and other human resource programs,Public health and other human resource programs,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",research_likely_only,Research only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",clinical_likely_only,Clinical care only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",both,Both,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",neither,Other,5,57,5,57,5,8.77193,8.77193,100.0,8.77193,100.0
+Master's,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",unclassifiable,Instrument U,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,inclusive,detailed,"Justice, public order and safety","Justice, public order and safety",unscored,Unscored,0,57,5,57,5,0.0,8.77193,0.0,,
+Master's,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",research_likely_only,Research only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",clinical_likely_only,Clinical care only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",both,Both,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",neither,Other,5,57,5,57,5,8.77193,8.77193,100.0,8.77193,100.0
+Master's,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",unclassifiable,Instrument U,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Justice, public order and safety","Justice, public order and safety",unscored,Unscored,0,57,5,57,5,0.0,8.77193,0.0,,
+Master's,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",research_likely_only,Research only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",clinical_likely_only,Clinical care only,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",both,Both,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",neither,Other,5,57,5,57,5,8.77193,8.77193,100.0,8.77193,100.0
+Master's,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",unclassifiable,Instrument U,0,57,5,57,5,0.0,8.77193,0.0,0.0,0.0
+Master's,conservative,detailed,"Justice, public order and safety","Justice, public order and safety",unscored,Unscored,0,57,5,57,5,0.0,8.77193,0.0,,
+Master's,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",clinical_likely_only,Clinical care only,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",neither,Other,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",clinical_likely_only,Clinical care only,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",neither,Other,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",clinical_likely_only,Clinical care only,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",neither,Other,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,"Other government (general, economic, national security)","Other government (general, economic, national security)",unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",research_likely_only,Research only,1,57,3,57,3,1.754386,5.263158,33.333333,1.754386,33.333333
+Master's,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",neither,Other,2,57,3,57,3,3.508772,5.263158,66.666667,3.508772,66.666667
+Master's,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Pharmaceutical, medical device and instrument manufacturing","Pharmaceutical, medical device and instrument manufacturing",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",research_likely_only,Research only,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",clinical_likely_only,Clinical care only,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",both,Both,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",neither,Other,4,57,4,57,4,7.017544,7.017544,100.0,7.017544,100.0
+Master's,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unclassifiable,Instrument U,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,inclusive,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unscored,Unscored,0,57,4,57,4,0.0,7.017544,0.0,,
+Master's,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",research_likely_only,Research only,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",clinical_likely_only,Clinical care only,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",both,Both,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",neither,Other,4,57,4,57,4,7.017544,7.017544,100.0,7.017544,100.0
+Master's,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unclassifiable,Instrument U,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unscored,Unscored,0,57,4,57,4,0.0,7.017544,0.0,,
+Master's,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",research_likely_only,Research only,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",clinical_likely_only,Clinical care only,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",both,Both,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",neither,Other,4,57,4,57,4,7.017544,7.017544,100.0,7.017544,100.0
+Master's,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unclassifiable,Instrument U,0,57,4,57,4,0.0,7.017544,0.0,0.0,0.0
+Master's,conservative,detailed,"Religious, grantmaking, civic and professional organizations","Religious, grantmaking, civic and professional organizations",unscored,Unscored,0,57,4,57,4,0.0,7.017544,0.0,,
+Master's,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",research_likely_only,Research only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",neither,Other,3,57,3,57,3,5.263158,5.263158,100.0,5.263158,100.0
+Master's,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,inclusive,detailed,"Information, finance and insurance","Information, finance and insurance",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",research_likely_only,Research only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",neither,Other,3,57,3,57,3,5.263158,5.263158,100.0,5.263158,100.0
+Master's,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,"Information, finance and insurance","Information, finance and insurance",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",research_likely_only,Research only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",clinical_likely_only,Clinical care only,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",both,Both,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",neither,Other,3,57,3,57,3,5.263158,5.263158,100.0,5.263158,100.0
+Master's,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",unclassifiable,Instrument U,0,57,3,57,3,0.0,5.263158,0.0,0.0,0.0
+Master's,conservative,detailed,"Information, finance and insurance","Information, finance and insurance",unscored,Unscored,0,57,3,57,3,0.0,5.263158,0.0,,
+Master's,inclusive,detailed,All other industries,All other industries,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,All other industries,All other industries,clinical_likely_only,Clinical care only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,All other industries,All other industries,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,All other industries,All other industries,neither,Other,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,inclusive,detailed,All other industries,All other industries,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,inclusive,detailed,All other industries,All other industries,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,no_hospital_override,detailed,All other industries,All other industries,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,All other industries,All other industries,clinical_likely_only,Clinical care only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,All other industries,All other industries,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,All other industries,All other industries,neither,Other,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,no_hospital_override,detailed,All other industries,All other industries,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,no_hospital_override,detailed,All other industries,All other industries,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,
+Master's,conservative,detailed,All other industries,All other industries,research_likely_only,Research only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,All other industries,All other industries,clinical_likely_only,Clinical care only,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,All other industries,All other industries,both,Both,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,All other industries,All other industries,neither,Other,1,57,1,57,1,1.754386,1.754386,100.0,1.754386,100.0
+Master's,conservative,detailed,All other industries,All other industries,unclassifiable,Instrument U,0,57,1,57,1,0.0,1.754386,0.0,0.0,0.0
+Master's,conservative,detailed,All other industries,All other industries,unscored,Unscored,0,57,1,57,1,0.0,1.754386,0.0,,

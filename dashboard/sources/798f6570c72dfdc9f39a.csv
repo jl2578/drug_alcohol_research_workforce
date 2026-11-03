@@ -1,0 +1,177 @@
+ownership,degree_group,outcome,category,timing_resolved_in_frame_numerator,timing_resolved_outcome_eligible_denominator,finite_corpus_category_share,is_multi_response
+full,Research doctorate,C3,mixed_methods,347,7705,0.04503569110966905,0
+full,Research doctorate,C3,qualitative,574,7705,0.07449707981829981,0
+full,Research doctorate,C3,single_case,30,7705,0.003893575600259572,0
+full,Research doctorate,C3,computational_modeling,158,7705,0.020506164828033743,0
+full,Research doctorate,C3,synthesis_characterization,65,7705,0.008436080467229072,0
+full,Research doctorate,C3,experimental_randomized,410,7705,0.053212199870214145,0
+full,Research doctorate,C3,experimental_nonrandomized,2667,7705,0.34613887086307593,0
+full,Research doctorate,C3,quasi_experimental,250,7705,0.03244646333549643,0
+full,Research doctorate,C3,single_group_pre_post,43,7705,0.005580791693705386,0
+full,Research doctorate,C3,longitudinal_observational,729,7705,0.0946138870863076,0
+full,Research doctorate,C3,cross_sectional_observational,1928,7705,0.2502271252433485,0
+full,Research doctorate,C3,multiple_no_dominant,504,7705,0.0654120700843608,0
+full,Research doctorate,C4,molecular_cellular,1054,7962,0.13237879929665913,0
+full,Research doctorate,C4,organism_nonhuman,1067,7962,0.1340115548857071,0
+full,Research doctorate,C4,individual_human,4788,7962,0.6013564431047476,0
+full,Research doctorate,C4,dyad_family_group,193,7962,0.024240140668173826,0
+full,Research doctorate,C4,organization_program,247,7962,0.03102235619191158,0
+full,Research doctorate,C4,community_jurisdiction_population,407,7962,0.051117809595579,0
+full,Research doctorate,C4,texts_media_discourse,147,7962,0.01846269781461944,0
+full,Research doctorate,C4,multiple_no_dominant,59,7962,0.007410198442602361,0
+full,Research doctorate,C5,describe_distribution,48,7962,0.006028636021100226,0
+full,Research doctorate,C5,explain_causes,2632,7962,0.3305702084903291,0
+full,Research doctorate,C5,consequences_of_use,1788,7962,0.22456669178598343,0
+full,Research doctorate,C5,characterize_substance_action,922,7962,0.1158000502386335,0
+full,Research doctorate,C5,intervene,908,7962,0.11404169806581262,0
+full,Research doctorate,C5,organize_deliver_services,581,7962,0.07297161517206732,0
+full,Research doctorate,C5,law_policy_economics,233,7962,0.02926400401909068,0
+full,Research doctorate,C5,meanings_attitudes,268,7962,0.03365988445114293,0
+full,Research doctorate,C5,education_workforce,89,7962,0.011178095955790002,0
+full,Research doctorate,C5,measurement,232,7962,0.02913840743531776,0
+full,Research doctorate,C5,other_stated_objective,2,7962,0.00025119316754584274,0
+full,Research doctorate,C5,multiple_no_dominant,259,7962,0.03252951519718664,0
+full,Research doctorate,C8,survey_questionnaire,3896,7868,0.49517031011692936,1
+full,Research doctorate,C8,interview_observation,1135,7868,0.14425521098118962,1
+full,Research doctorate,C8,behavioral_task,1480,7868,0.18810371123538383,1
+full,Research doctorate,C8,biological_physiological,2153,7868,0.27364006100660904,1
+full,Research doctorate,C8,neuroimaging_electrophysiology,470,7868,0.05973563802745297,1
+full,Research doctorate,C8,genetic_genomic,316,7868,0.04016268429079817,1
+full,Research doctorate,C8,chemical_analytical,1386,7868,0.17615658362989323,1
+full,Research doctorate,C8,health_records,743,7868,0.09443314692425013,1
+full,Research doctorate,C8,administrative_records,211,7868,0.026817488561260802,1
+full,Research doctorate,C8,documents_media_online,402,7868,0.051093035078800204,1
+full,Research doctorate,C8,geospatial_market_environmental,207,7868,0.026309100152516522,1
+full,Research doctorate,C8,simulated_model_data,225,7868,0.028596847991865786,1
+full,Masters,C3,mixed_methods,70,3149,0.022229279136233723,0
+full,Masters,C3,qualitative,281,3149,0.08923467767545253,0
+full,Masters,C3,single_case,8,3149,0.0025404890441409972,0
+full,Masters,C3,computational_modeling,56,3149,0.01778342330898698,0
+full,Masters,C3,synthesis_characterization,62,3149,0.019688790092092727,0
+full,Masters,C3,experimental_randomized,137,3149,0.04350587488091458,0
+full,Masters,C3,experimental_nonrandomized,906,3149,0.28771038424896794,0
+full,Masters,C3,quasi_experimental,42,3149,0.013337567481740234,0
+full,Masters,C3,single_group_pre_post,49,3149,0.015560495395363607,0
+full,Masters,C3,longitudinal_observational,207,3149,0.0657351540171483,0
+full,Masters,C3,cross_sectional_observational,1294,3149,0.4109241028898063,0
+full,Masters,C3,multiple_no_dominant,37,3149,0.011749761829152112,0
+full,Masters,C4,molecular_cellular,358,3459,0.10349812084417462,0
+full,Masters,C4,organism_nonhuman,435,3459,0.12575888985255854,0
+full,Masters,C4,individual_human,2104,3459,0.6082682856316854,0
+full,Masters,C4,dyad_family_group,73,3459,0.021104365423532813,0
+full,Masters,C4,organization_program,166,3459,0.047990748771321194,0
+full,Masters,C4,community_jurisdiction_population,210,3459,0.060711188204683436,0
+full,Masters,C4,texts_media_discourse,108,3459,0.031222896790980052,0
+full,Masters,C4,multiple_no_dominant,5,3459,0.0014455044810638912,0
+full,Masters,C5,describe_distribution,49,3460,0.014161849710982659,0
+full,Masters,C5,explain_causes,1107,3460,0.3199421965317919,0
+full,Masters,C5,consequences_of_use,864,3460,0.24971098265895952,0
+full,Masters,C5,characterize_substance_action,228,3460,0.06589595375722543,0
+full,Masters,C5,intervene,374,3460,0.10809248554913295,0
+full,Masters,C5,organize_deliver_services,245,3460,0.0708092485549133,0
+full,Masters,C5,law_policy_economics,108,3460,0.03121387283236994,0
+full,Masters,C5,meanings_attitudes,192,3460,0.055491329479768786,0
+full,Masters,C5,education_workforce,43,3460,0.012427745664739885,0
+full,Masters,C5,measurement,195,3460,0.05635838150289017,0
+full,Masters,C5,other_stated_objective,2,3460,0.0005780346820809249,0
+full,Masters,C5,multiple_no_dominant,53,3460,0.015317919075144508,0
+full,Masters,C8,survey_questionnaire,1653,3308,0.4996977025392987,1
+full,Masters,C8,interview_observation,354,3308,0.10701330108827085,1
+full,Masters,C8,behavioral_task,493,3308,0.14903264812575576,1
+full,Masters,C8,biological_physiological,615,3308,0.18591293833131803,1
+full,Masters,C8,neuroimaging_electrophysiology,106,3308,0.03204353083434099,1
+full,Masters,C8,genetic_genomic,58,3308,0.017533252720677146,1
+full,Masters,C8,chemical_analytical,434,3308,0.13119709794437726,1
+full,Masters,C8,health_records,209,3308,0.06318016928657799,1
+full,Masters,C8,administrative_records,57,3308,0.017230955259975818,1
+full,Masters,C8,documents_media_online,332,3308,0.1003627569528416,1
+full,Masters,C8,geospatial_market_environmental,57,3308,0.017230955259975818,1
+full,Masters,C8,simulated_model_data,37,3308,0.011185006045949214,1
+exclude_ever_for_profit,Research doctorate,C3,mixed_methods,331,7152,0.04628076062639821,0
+exclude_ever_for_profit,Research doctorate,C3,qualitative,374,7152,0.05229306487695749,0
+exclude_ever_for_profit,Research doctorate,C3,single_case,19,7152,0.002656599552572707,0
+exclude_ever_for_profit,Research doctorate,C3,computational_modeling,158,7152,0.0220917225950783,0
+exclude_ever_for_profit,Research doctorate,C3,synthesis_characterization,65,7152,0.009088366890380313,0
+exclude_ever_for_profit,Research doctorate,C3,experimental_randomized,399,7152,0.05578859060402685,0
+exclude_ever_for_profit,Research doctorate,C3,experimental_nonrandomized,2654,7152,0.3710850111856823,0
+exclude_ever_for_profit,Research doctorate,C3,quasi_experimental,237,7152,0.03313758389261745,0
+exclude_ever_for_profit,Research doctorate,C3,single_group_pre_post,34,7152,0.0047539149888143175,0
+exclude_ever_for_profit,Research doctorate,C3,longitudinal_observational,724,7152,0.10123042505592841,0
+exclude_ever_for_profit,Research doctorate,C3,cross_sectional_observational,1655,7152,0.23140380313199105,0
+exclude_ever_for_profit,Research doctorate,C3,multiple_no_dominant,502,7152,0.07019015659955258,0
+exclude_ever_for_profit,Research doctorate,C4,molecular_cellular,1054,7387,0.14268309191823475,0
+exclude_ever_for_profit,Research doctorate,C4,organism_nonhuman,1064,7387,0.14403682144307567,0
+exclude_ever_for_profit,Research doctorate,C4,individual_human,4305,7387,0.5827805604440233,0
+exclude_ever_for_profit,Research doctorate,C4,dyad_family_group,173,7387,0.023419520779748206,0
+exclude_ever_for_profit,Research doctorate,C4,organization_program,203,7387,0.027480709354271018,0
+exclude_ever_for_profit,Research doctorate,C4,community_jurisdiction_population,389,7387,0.05266007851631244,0
+exclude_ever_for_profit,Research doctorate,C4,texts_media_discourse,140,7387,0.018952213347773115,0
+exclude_ever_for_profit,Research doctorate,C4,multiple_no_dominant,59,7387,0.007987004196561526,0
+exclude_ever_for_profit,Research doctorate,C5,describe_distribution,47,7387,0.006362528766752403,0
+exclude_ever_for_profit,Research doctorate,C5,explain_causes,2450,7387,0.3316637335860295,0
+exclude_ever_for_profit,Research doctorate,C5,consequences_of_use,1682,7387,0.22769730607824556,0
+exclude_ever_for_profit,Research doctorate,C5,characterize_substance_action,922,7387,0.12481386219033437,0
+exclude_ever_for_profit,Research doctorate,C5,intervene,799,7387,0.10816298903479085,0
+exclude_ever_for_profit,Research doctorate,C5,organize_deliver_services,482,7387,0.06524976309733316,0
+exclude_ever_for_profit,Research doctorate,C5,law_policy_economics,218,7387,0.029511303641532424,0
+exclude_ever_for_profit,Research doctorate,C5,meanings_attitudes,237,7387,0.0320833897387302,0
+exclude_ever_for_profit,Research doctorate,C5,education_workforce,69,7387,0.009340733721402464,0
+exclude_ever_for_profit,Research doctorate,C5,measurement,227,7387,0.030729660213889266,0
+exclude_ever_for_profit,Research doctorate,C5,other_stated_objective,2,7387,0.0002707459049681874,0
+exclude_ever_for_profit,Research doctorate,C5,multiple_no_dominant,252,7387,0.034113984025991605,0
+exclude_ever_for_profit,Research doctorate,C8,survey_questionnaire,3613,7298,0.49506714168265276,1
+exclude_ever_for_profit,Research doctorate,C8,interview_observation,908,7298,0.12441764867086873,1
+exclude_ever_for_profit,Research doctorate,C8,behavioral_task,1473,7298,0.20183611948479036,1
+exclude_ever_for_profit,Research doctorate,C8,biological_physiological,2147,7298,0.2941901890929022,1
+exclude_ever_for_profit,Research doctorate,C8,neuroimaging_electrophysiology,469,7298,0.06426418196766237,1
+exclude_ever_for_profit,Research doctorate,C8,genetic_genomic,314,7298,0.043025486434639625,1
+exclude_ever_for_profit,Research doctorate,C8,chemical_analytical,1386,7298,0.18991504521786792,1
+exclude_ever_for_profit,Research doctorate,C8,health_records,673,7298,0.09221704576596328,1
+exclude_ever_for_profit,Research doctorate,C8,administrative_records,196,7298,0.026856673061112633,1
+exclude_ever_for_profit,Research doctorate,C8,documents_media_online,380,7298,0.05206906001644286,1
+exclude_ever_for_profit,Research doctorate,C8,geospatial_market_environmental,205,7298,0.028089887640449437,1
+exclude_ever_for_profit,Research doctorate,C8,simulated_model_data,225,7298,0.030830364483420115,1
+exclude_ever_for_profit,Masters,C3,mixed_methods,69,3115,0.022150882825040127,0
+exclude_ever_for_profit,Masters,C3,qualitative,273,3115,0.08764044943820225,0
+exclude_ever_for_profit,Masters,C3,single_case,8,3115,0.002568218298555377,0
+exclude_ever_for_profit,Masters,C3,computational_modeling,56,3115,0.017977528089887642,0
+exclude_ever_for_profit,Masters,C3,synthesis_characterization,62,3115,0.019903691813804174,0
+exclude_ever_for_profit,Masters,C3,experimental_randomized,136,3115,0.043659711075441414,0
+exclude_ever_for_profit,Masters,C3,experimental_nonrandomized,906,3115,0.29085072231139647,0
+exclude_ever_for_profit,Masters,C3,quasi_experimental,42,3115,0.01348314606741573,0
+exclude_ever_for_profit,Masters,C3,single_group_pre_post,48,3115,0.015409309791332263,0
+exclude_ever_for_profit,Masters,C3,longitudinal_observational,207,3115,0.06645264847512039,0
+exclude_ever_for_profit,Masters,C3,cross_sectional_observational,1271,3115,0.40802568218298557,0
+exclude_ever_for_profit,Masters,C3,multiple_no_dominant,37,3115,0.01187800963081862,0
+exclude_ever_for_profit,Masters,C4,molecular_cellular,358,3390,0.1056047197640118,0
+exclude_ever_for_profit,Masters,C4,organism_nonhuman,435,3390,0.12831858407079647,0
+exclude_ever_for_profit,Masters,C4,individual_human,2043,3390,0.6026548672566372,0
+exclude_ever_for_profit,Masters,C4,dyad_family_group,69,3390,0.020353982300884955,0
+exclude_ever_for_profit,Masters,C4,organization_program,166,3390,0.04896755162241888,0
+exclude_ever_for_profit,Masters,C4,community_jurisdiction_population,209,3390,0.06165191740412979,0
+exclude_ever_for_profit,Masters,C4,texts_media_discourse,105,3390,0.030973451327433628,0
+exclude_ever_for_profit,Masters,C4,multiple_no_dominant,5,3390,0.0014749262536873156,0
+exclude_ever_for_profit,Masters,C5,describe_distribution,49,3391,0.014450014744913005,0
+exclude_ever_for_profit,Masters,C5,explain_causes,1087,3391,0.3205544087289885,0
+exclude_ever_for_profit,Masters,C5,consequences_of_use,859,3391,0.25331760542612797,0
+exclude_ever_for_profit,Masters,C5,characterize_substance_action,228,3391,0.06723680330286051,0
+exclude_ever_for_profit,Masters,C5,intervene,342,3391,0.10085520495429078,0
+exclude_ever_for_profit,Masters,C5,organize_deliver_services,240,3391,0.0707755824240637,0
+exclude_ever_for_profit,Masters,C5,law_policy_economics,108,3391,0.03184901209082867,0
+exclude_ever_for_profit,Masters,C5,meanings_attitudes,186,3391,0.05485107637864937,0
+exclude_ever_for_profit,Masters,C5,education_workforce,43,3391,0.012680625184311413,0
+exclude_ever_for_profit,Masters,C5,measurement,195,3391,0.05750516071955176,0
+exclude_ever_for_profit,Masters,C5,other_stated_objective,2,3391,0.0005897965202005308,0
+exclude_ever_for_profit,Masters,C5,multiple_no_dominant,52,3391,0.015334709525213801,0
+exclude_ever_for_profit,Masters,C8,survey_questionnaire,1628,3263,0.4989273674532639,1
+exclude_ever_for_profit,Masters,C8,interview_observation,337,3263,0.10327919092859332,1
+exclude_ever_for_profit,Masters,C8,behavioral_task,493,3263,0.15108795586883236,1
+exclude_ever_for_profit,Masters,C8,biological_physiological,614,3263,0.1881703953417101,1
+exclude_ever_for_profit,Masters,C8,neuroimaging_electrophysiology,105,3263,0.032178976402083975,1
+exclude_ever_for_profit,Masters,C8,genetic_genomic,58,3263,0.017775053631627336,1
+exclude_ever_for_profit,Masters,C8,chemical_analytical,434,3263,0.1330064357952804,1
+exclude_ever_for_profit,Masters,C8,health_records,209,3263,0.06405148636224334,1
+exclude_ever_for_profit,Masters,C8,administrative_records,57,3263,0.017468587189702726,1
+exclude_ever_for_profit,Masters,C8,documents_media_online,324,3263,0.0992951271835734,1
+exclude_ever_for_profit,Masters,C8,geospatial_market_environmental,57,3263,0.017468587189702726,1
+exclude_ever_for_profit,Masters,C8,simulated_model_data,37,3263,0.011339258351210543,1

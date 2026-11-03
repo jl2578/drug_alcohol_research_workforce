@@ -1,0 +1,92 @@
+{
+  "documentation_version": "2026-11-02",
+  "result_status": "adopted_scope_and_completed_current_content",
+  "codebook_revision": 15,
+  "codebook_file": "../../reader/config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+  "adoption_note": "Aim-level substance-related and endogenous-system inclusion rules.",
+  "stage_models": {
+    "scope_full": "gpt_5_2025_08_07",
+    "content": "gpt_4o_2024_08_06"
+  },
+  "stage_profiles": {
+    "scope_full": {
+      "api_cap_field": "max_completion_tokens",
+      "output_cap": 12000,
+      "reasoning_effort": "low",
+      "seed": null,
+      "temperature": null
+    },
+    "content": {
+      "api_cap_field": "max_tokens",
+      "output_cap": 5000,
+      "temperature": 0,
+      "seed": null
+    }
+  },
+  "verified_input_counts": {
+    "roster": 21073,
+    "assessable": 21045,
+    "blank": 8,
+    "placeholder": 20,
+    "not_assessed": 28
+  },
+  "evidence": "Title and abstract only; source sentence identifiers link in-scope aims to content targets",
+  "eligibility": "Derived by versioned codebook rules from validated scope fields; not an independent model-generated verdict",
+  "status_reporting_map": {
+    "in_scope": "in scope",
+    "out_of_scope": "out of scope",
+    "undetermined": "undetermined",
+    "not_assessable": "not assessed",
+    "not_assessed": "not assessed"
+  },
+  "scope_partition_requirement": "13229 in scope + 7702 out of scope + 114 undetermined = 21045; plus 28 not assessed = 21073.",
+  "content_requirement": "13229 complete current aim sets; 0 pending; 0 unresolved processing failures; scientific uncertainty remains explicit.",
+  "work_count_requirement": "13229 in-scope records represent 13227 distinct works; 13219 are linked to the all-topic comparison and 8 are outside.",
+  "input_sources": {
+    "evidence": "ProQuest titles and abstracts. Coding inputs included 26 abstract replacements from saved reference text; these are separate from the 28 records not assessed.",
+    "limitation": "The cause of differences between XML and saved abstracts is not established. The reader workflow uses new search exports and does not supply or apply these replacements."
+  },
+  "counts_file": "population_accounting.csv",
+  "codebook_development_summary_location": "Supplement S1.2; development repeatability is distinct from held-out accuracy.",
+  "adopted_scope_counts": {
+    "in_scope": 13229,
+    "out_of_scope": 7702,
+    "undetermined": 114,
+    "not_assessed": 28
+  },
+  "adopted_content_counts": {
+    "completed_current_target_records": 13229,
+    "completed_current_target_works": 13227,
+    "pending_current_target_records": 0,
+    "failed_current_target_records": 0,
+    "failed_current_target_works": 0,
+    "note": "Completed assessments include field-specific cannot_determine and not_applicable."
+  },
+  "adopted_work_accounting": {
+    "in_scope_record_identifiers": 13229,
+    "scientific_works": 13227,
+    "extra_identifiers_consolidated": 2,
+    "other_record_losses_or_unassigned_work_keys": 0,
+    "linked_to_retained_all_topic_comparison": 13219,
+    "outside_retained_all_topic_comparison": 8
+  },
+  "RQ1_evaluation_inputs": {
+    "fixed_scope_reference_records": 200,
+    "fixed_content_reference_records": 100,
+    "selected_original_model_content_outputs": 100,
+    "reporting_location": "Supplement S1.4",
+    "scope": "Substance-related aim criterion and fixed reference target sets; endogenous-system inclusion is not fully reference-assessed.",
+    "evaluation_coverage": "The reference evaluation covers the selected original model outputs, not every assessment in the completed dataset.",
+    "award_link_validation": "Independent human validation of award-to-work identity and scope links remains pending; search-capture estimates are conditional on the source-reviewed links."
+  },
+  "combined_substance_content_profile": {
+    "model": "gpt_4o_2024_08_06",
+    "temperature": 0,
+    "seed": null,
+    "max_tokens": 8000,
+    "prompt_identity_note": "Full prompt identity for the original combined content calls is not established."
+  },
+  "distribution_note": "Contains aggregate coding metadata. Licensed source text, record identifiers and private provenance files are not distributed.",
+  "codebook_distribution_note": "The reproduction codebook supports a new reader-run analysis; byte identity with every original prompt is not established.",
+  "scope_resolution": "Nineteen records with failed model scope assessments received author assessments: 3 in scope and 16 out of scope. These dispositions are included in adopted_scope_counts."
+}

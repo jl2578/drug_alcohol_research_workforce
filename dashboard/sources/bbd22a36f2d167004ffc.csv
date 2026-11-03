@@ -1,0 +1,6 @@
+Context level,Research code and meaning,Clinical code and meaning
+0,"R0 Practice, service, production or another nonresearch primary activity",C0 Nonhealth or clearly noncare primary activity
+1,R1 Research-compatible but nonspecific; research is not identified as primary or structurally expected,C1 Health-related noncare or compatible setting without primary care delivery
+2,R2 Research is a recurring substantive function alongside major nonresearch functions,C2 Care delivery is a regular substantive activity alongside major noncare functions
+3,R3 Research and development or new scientific knowledge is the primary activity,C3 Human clinical or behavioral-health care delivery is the primary activity
+U,"RU Context information is insufficient, residual, overly broad or undecidable","CU Context information is insufficient, residual, overly broad or undecidable"

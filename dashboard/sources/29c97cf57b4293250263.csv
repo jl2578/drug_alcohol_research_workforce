@@ -1,0 +1,13 @@
+﻿label,both_present,reference_only,model_only,both_absent,jointly_coded_base_n
+survey_questionnaire,40,0,5,33,78
+interview_observation,15,1,1,61,78
+behavioral_task,10,2,2,64,78
+biological_physiological,14,2,3,59,78
+neuroimaging_electrophysiology,2,1,0,75,78
+genetic_genomic,3,0,0,75,78
+chemical_analytical,3,0,3,72,78
+health_records,8,0,3,67,78
+administrative_records,0,2,1,75,78
+documents_media_online,5,0,0,73,78
+geospatial_market_environmental,0,0,0,78,78
+simulated_model_data,2,0,0,76,78

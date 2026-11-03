@@ -1,0 +1,11 @@
+lag_years,institution_set,institutions,works,opioid_works,fraction_of_primary_works
+3,All primary institutions,421,5722,977,1.0
+3,Both groups in both periods,81,2826,575,0.493883257602237
+3,Both periods,259,5264,917,0.9199580566235582
+3,Both groups,149,3752,709,0.6557147850401958
+3,Only one of four connection-period cells,147,283,35,0.04945823138762671
+4,All primary institutions,395,4814,764,1.0
+4,Both groups in both periods,72,2278,444,0.47320315745741587
+4,Both periods,235,4275,711,0.8880348982135439
+4,Both groups,138,3101,552,0.6441628583298712
+4,Only one of four connection-period cells,140,316,30,0.0656418778562526

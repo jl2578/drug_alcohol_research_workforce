@@ -1,0 +1,109 @@
+﻿field,metric,numerator_n,denominator_n,estimate,ci95_lower,ci95_upper,interval_method,base_rule,status,sparse_base_under_20
+mixed_purpose,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+mixed_purpose,conditional_status_agreement,99,100,0.99,0.9455138038212946,0.9982325679358593,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+mixed_purpose,conditional_coded_delivery_reference_coded,99,99,1.0,0.9626467879321726,1.0,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+mixed_purpose,conditional_exact_agreement,88,99,0.8888888888888888,0.8119109140413756,0.9368143654614254,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+mixed_purpose,end_to_end_correct_delivery,88,99,0.8888888888888888,0.8119109140413756,0.9368143654614254,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+mixed_purpose,end_to_end_coded_delivery,99,99,1.0,0.9626467879321726,1.0,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+mixed_purpose,structural_applicability_correct,0,0,,,,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,not_estimable_zero_denominator,True
+mixed_purpose,reference_uncertainty,1,100,0.01,0.0017674320641406505,0.054486196178705315,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+mixed_purpose,model_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+mixed_purpose,model_failure_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+mixed_purpose,model_scope_exclusion_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+mixed_purpose,model_scope_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+dissertation_type,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+dissertation_type,conditional_status_agreement,100,100,1.0,0.9630065017930143,1.0,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+dissertation_type,conditional_coded_delivery_reference_coded,100,100,1.0,0.9630065017930143,1.0,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+dissertation_type,conditional_exact_agreement,94,100,0.94,0.8752318455410406,0.9722138760368118,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+dissertation_type,end_to_end_correct_delivery,94,100,0.94,0.8752318455410406,0.9722138760368118,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+dissertation_type,end_to_end_coded_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+dissertation_type,structural_applicability_correct,0,0,,,,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,not_estimable_zero_denominator,True
+dissertation_type,reference_uncertainty,0,100,0.0,0.0,0.03699349820698568,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+dissertation_type,model_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+dissertation_type,model_failure_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+dissertation_type,model_scope_exclusion_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+dissertation_type,model_scope_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+study_design,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+study_design,conditional_status_agreement,86,100,0.86,0.7786281178903616,0.9147365634006086,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+study_design,conditional_coded_delivery_reference_coded,81,82,0.9878048780487805,0.9341066031158609,0.9978440079181878,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+study_design,conditional_exact_agreement,70,81,0.8641975308641975,0.7729693623122125,0.9224453655826947,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+study_design,end_to_end_correct_delivery,70,82,0.8536585365853658,0.7614058151019909,0.9142583778976943,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+study_design,end_to_end_coded_delivery,81,82,0.9878048780487805,0.9341066031158609,0.9978440079181878,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+study_design,structural_applicability_correct,5,10,0.5,0.236593090512564,0.7634069094874361,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,estimated,True
+study_design,reference_uncertainty,8,90,0.08888888888888889,0.045730492536794475,0.16570546626054086,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+study_design,model_uncertainty_on_reference_observable_base,0,90,0.0,0.0,0.04093562556432678,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+study_design,model_failure_on_reference_observable_base,0,90,0.0,0.0,0.04093562556432678,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+study_design,model_scope_exclusion_on_reference_observable_base,0,90,0.0,0.0,0.04093562556432678,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+study_design,model_scope_uncertainty_on_reference_observable_base,0,90,0.0,0.0,0.04093562556432678,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+level_of_analysis,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+level_of_analysis,conditional_status_agreement,95,100,0.95,0.8882495307680808,0.9784563208456319,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+level_of_analysis,conditional_coded_delivery_reference_coded,95,95,1.0,0.9611351464605271,1.0,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+level_of_analysis,conditional_exact_agreement,84,95,0.8842105263157894,0.8044550567755693,0.9341014241888357,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+level_of_analysis,end_to_end_correct_delivery,84,95,0.8842105263157894,0.8044550567755693,0.9341014241888357,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+level_of_analysis,end_to_end_coded_delivery,95,95,1.0,0.9611351464605271,1.0,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+level_of_analysis,structural_applicability_correct,0,5,0.0,0.0,0.43448246478317476,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,estimated,True
+level_of_analysis,reference_uncertainty,0,95,0.0,0.0,0.038864853539472964,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+level_of_analysis,model_uncertainty_on_reference_observable_base,0,95,0.0,0.0,0.038864853539472964,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+level_of_analysis,model_failure_on_reference_observable_base,0,95,0.0,0.0,0.038864853539472964,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+level_of_analysis,model_scope_exclusion_on_reference_observable_base,0,95,0.0,0.0,0.038864853539472964,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+level_of_analysis,model_scope_uncertainty_on_reference_observable_base,0,95,0.0,0.0,0.038864853539472964,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+research_objective,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+research_objective,conditional_status_agreement,100,100,1.0,0.9630065017930143,1.0,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+research_objective,conditional_coded_delivery_reference_coded,100,100,1.0,0.9630065017930143,1.0,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+research_objective,conditional_exact_agreement,77,100,0.77,0.6784561697712622,0.8415673411969654,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+research_objective,end_to_end_correct_delivery,77,100,0.77,0.6784561697712622,0.8415673411969654,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+research_objective,end_to_end_coded_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+research_objective,structural_applicability_correct,0,0,,,,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,not_estimable_zero_denominator,True
+research_objective,reference_uncertainty,0,100,0.0,0.0,0.03699349820698568,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+research_objective,model_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+research_objective,model_failure_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+research_objective,model_scope_exclusion_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+research_objective,model_scope_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+intervention_continuum,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+intervention_continuum,conditional_status_agreement,89,100,0.89,0.8136870349691969,0.9374580364293543,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+intervention_continuum,conditional_coded_delivery_reference_coded,20,21,0.9523809523809523,0.7733063992587743,0.9915440121901737,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+intervention_continuum,conditional_exact_agreement,16,20,0.8,0.5839825677481064,0.919342337420202,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+intervention_continuum,end_to_end_correct_delivery,16,21,0.7619047619047619,0.5490882631704924,0.8937198697736354,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+intervention_continuum,end_to_end_coded_delivery,20,21,0.9523809523809523,0.7733063992587743,0.9915440121901737,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+intervention_continuum,structural_applicability_correct,69,75,0.92,0.8362520966647771,0.9628198756496662,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,estimated,False
+intervention_continuum,reference_uncertainty,4,25,0.16,0.0640345145667644,0.3465362160717886,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+intervention_continuum,model_uncertainty_on_reference_observable_base,0,25,0.0,0.0,0.13319225093904846,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+intervention_continuum,model_failure_on_reference_observable_base,0,25,0.0,0.0,0.13319225093904846,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+intervention_continuum,model_scope_exclusion_on_reference_observable_base,0,25,0.0,0.0,0.13319225093904846,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+intervention_continuum,model_scope_uncertainty_on_reference_observable_base,0,25,0.0,0.0,0.13319225093904846,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+explanatory_domain,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+explanatory_domain,conditional_status_agreement,92,100,0.92,0.8500189229905127,0.9589065385156194,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+explanatory_domain,conditional_coded_delivery_reference_coded,53,53,1.0,0.932418011423458,1.0,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+explanatory_domain,conditional_exact_agreement,32,53,0.6037735849056604,0.46941478673205517,0.7241059326199831,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+explanatory_domain,end_to_end_correct_delivery,32,53,0.6037735849056604,0.46941478673205517,0.7241059326199831,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+explanatory_domain,end_to_end_coded_delivery,53,53,1.0,0.932418011423458,1.0,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+explanatory_domain,structural_applicability_correct,39,43,0.9069767441860465,0.783972963587464,0.9632283593682872,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,estimated,False
+explanatory_domain,reference_uncertainty,4,57,0.07017543859649122,0.027626420229066015,0.1670017009603369,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+explanatory_domain,model_uncertainty_on_reference_observable_base,0,57,0.0,0.0,0.06313883485297894,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+explanatory_domain,model_failure_on_reference_observable_base,0,57,0.0,0.0,0.06313883485297894,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+explanatory_domain,model_scope_exclusion_on_reference_observable_base,0,57,0.0,0.0,0.06313883485297894,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+explanatory_domain,model_scope_uncertainty_on_reference_observable_base,0,57,0.0,0.0,0.06313883485297894,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+data_type,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+data_type,conditional_status_agreement,82,100,0.82,0.7333264161369926,0.8829977450105364,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+data_type,conditional_coded_delivery_reference_coded,78,79,0.9873417721518988,0.9317242812303406,0.9977620061449501,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+data_type,conditional_exact_agreement,61,78,0.782051282051282,0.6783929457018985,0.8592318795886587,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+data_type,end_to_end_correct_delivery,61,79,0.7721518987341772,0.6683315177395119,0.8507322531324035,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+data_type,end_to_end_coded_delivery,78,79,0.9873417721518988,0.9317242812303406,0.9977620061449501,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+data_type,structural_applicability_correct,4,9,0.4444444444444444,0.18877852109766452,0.733348706504507,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,estimated,True
+data_type,reference_uncertainty,12,91,0.13186813186813187,0.07707107514538468,0.21648681785719748,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+data_type,model_uncertainty_on_reference_observable_base,0,91,0.0,0.0,0.04050400392888021,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+data_type,model_failure_on_reference_observable_base,0,91,0.0,0.0,0.04050400392888021,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+data_type,model_scope_exclusion_on_reference_observable_base,0,91,0.0,0.0,0.04050400392888021,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+data_type,model_scope_uncertainty_on_reference_observable_base,0,91,0.0,0.0,0.04050400392888021,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+data_source_origin,conditional_valid_delivery,100,100,1.0,0.9630065017930143,1.0,Wilson,"Reference-in/model-in selections; coded, not_applicable or cannot_determine is valid field delivery",estimated,False
+data_source_origin,conditional_status_agreement,84,100,0.84,0.7557973061072976,0.8990471151119521,Wilson,All reference-in/model-in selections; missing/invalid/failure remains a nonmatch,estimated,False
+data_source_origin,conditional_coded_delivery_reference_coded,84,84,1.0,0.95626827158534,1.0,Wilson,Reference-coded cells among reference-in/model-in selections,estimated,False
+data_source_origin,conditional_exact_agreement,71,84,0.8452380952380952,0.7530135778901519,0.9072668953473448,Wilson,Reference-in/model-in jointly coded cells; C8 exact unordered sets,estimated,False
+data_source_origin,end_to_end_correct_delivery,71,84,0.8452380952380952,0.7530135778901519,0.9072668953473448,Wilson,"All selected reference-coded cells; exclusion, uncertainty, failures and wrong applicability are nonmatches",estimated,False
+data_source_origin,end_to_end_coded_delivery,84,84,1.0,0.95626827158534,1.0,Wilson,All selected reference-coded cells; valid substantive code delivery irrespective of correctness,estimated,False
+data_source_origin,structural_applicability_correct,0,0,,,,Wilson,Selected reference-not-applicable cells; separate from usable substantive content,not_estimable_zero_denominator,True
+data_source_origin,reference_uncertainty,16,100,0.16,0.10095288488804782,0.24420269389270244,Wilson,Reference coded-or-cannot_determine cells; structural nonapplicability excluded,estimated,False
+data_source_origin,model_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+data_source_origin,model_failure_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base; scope exclusion/uncertainty reported separately,estimated,False
+data_source_origin,model_scope_exclusion_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False
+data_source_origin,model_scope_uncertainty_on_reference_observable_base,0,100,0.0,0.0,0.03699349820698568,Wilson,Same reference coded-or-cannot_determine base,estimated,False

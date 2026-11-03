@@ -1,0 +1,3 @@
+degree_group,observed_n,outside_n,university_n,unknown_industry_n,scored_n,outside_scored_n,outside_pct_observed,university_pct_observed,unknown_industry_pct_observed,outside_affirmative_academic_affiliation_n,outside_hospital_n,outside_hospital_affirmative_academic_affiliation_n
+Research doctorate,190,120,69,1,189,120,63.157895,36.315789,0.526316,28,14,14
+Master's,76,57,16,3,73,57,75.0,21.052632,3.947368,12,12,8

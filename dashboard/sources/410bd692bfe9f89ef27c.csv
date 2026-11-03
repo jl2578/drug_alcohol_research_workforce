@@ -1,0 +1,95 @@
+degree_group,specification,state,state_label,occupation_row_type,soc_code,occupation_title,n,breakdown_n,outside_n,pct_breakdown,pct_outside
+Research doctorate,inclusive,research_likely_only,Research only,named,19-1042.00,"Medical Scientists, Except Epidemiologists",17,43,120,39.534884,14.166667
+Research doctorate,inclusive,research_likely_only,Research only,named,11-9121.00,Natural Sciences Managers,11,43,120,25.581395,9.166667
+Research doctorate,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),15,43,120,34.883721,12.5
+Research doctorate,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,43,120,0.0,0.0
+Research doctorate,inclusive,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,18,32,120,56.25,15.0
+Research doctorate,inclusive,clinical_likely_only,Clinical care only,named,21-1014.00,Mental Health Counselors,8,32,120,25.0,6.666667
+Research doctorate,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),6,32,120,18.75,5.0
+Research doctorate,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,32,120,0.0,0.0
+Research doctorate,inclusive,both,Both,named,19-3033.00,Clinical and Counseling Psychologists,5,6,120,83.333333,4.166667
+Research doctorate,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),1,6,120,16.666667,0.833333
+Research doctorate,inclusive,both,Both,unavailable,,Occupation unavailable,0,6,120,0.0,0.0
+Research doctorate,inclusive,neither,Other,named,11-9111.00,Medical and Health Services Managers,8,39,120,20.512821,6.666667
+Research doctorate,inclusive,neither,Other,named,13-1111.00,Management Analysts,6,39,120,15.384615,5.0
+Research doctorate,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),25,39,120,64.102564,20.833333
+Research doctorate,inclusive,neither,Other,unavailable,,Occupation unavailable,0,39,120,0.0,0.0
+Research doctorate,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,no_hospital_override,research_likely_only,Research only,named,19-1042.00,"Medical Scientists, Except Epidemiologists",17,42,120,40.47619,14.166667
+Research doctorate,no_hospital_override,research_likely_only,Research only,named,11-9121.00,Natural Sciences Managers,11,42,120,26.190476,9.166667
+Research doctorate,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),14,42,120,33.333333,11.666667
+Research doctorate,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,42,120,0.0,0.0
+Research doctorate,no_hospital_override,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,23,38,120,60.526316,19.166667
+Research doctorate,no_hospital_override,clinical_likely_only,Clinical care only,named,21-1014.00,Mental Health Counselors,8,38,120,21.052632,6.666667
+Research doctorate,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),7,38,120,18.421053,5.833333
+Research doctorate,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,38,120,0.0,0.0
+Research doctorate,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,no_hospital_override,neither,Other,named,11-9111.00,Medical and Health Services Managers,8,40,120,20.0,6.666667
+Research doctorate,no_hospital_override,neither,Other,named,13-1111.00,Management Analysts,6,40,120,15.0,5.0
+Research doctorate,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),26,40,120,65.0,21.666667
+Research doctorate,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,40,120,0.0,0.0
+Research doctorate,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,conservative,research_likely_only,Research only,named,19-1042.00,"Medical Scientists, Except Epidemiologists",17,42,120,40.47619,14.166667
+Research doctorate,conservative,research_likely_only,Research only,named,11-9121.00,Natural Sciences Managers,11,42,120,26.190476,9.166667
+Research doctorate,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),14,42,120,33.333333,11.666667
+Research doctorate,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,42,120,0.0,0.0
+Research doctorate,conservative,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,23,38,120,60.526316,19.166667
+Research doctorate,conservative,clinical_likely_only,Clinical care only,named,21-1014.00,Mental Health Counselors,8,38,120,21.052632,6.666667
+Research doctorate,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),7,38,120,18.421053,5.833333
+Research doctorate,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,38,120,0.0,0.0
+Research doctorate,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,conservative,both,Both,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,conservative,neither,Other,named,11-9111.00,Medical and Health Services Managers,8,40,120,20.0,6.666667
+Research doctorate,conservative,neither,Other,named,13-1111.00,Management Analysts,6,40,120,15.0,5.0
+Research doctorate,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),26,40,120,65.0,21.666667
+Research doctorate,conservative,neither,Other,unavailable,,Occupation unavailable,0,40,120,0.0,0.0
+Research doctorate,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,120,,0.0
+Research doctorate,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,120,,0.0
+Research doctorate,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,120,,0.0
+Master's,inclusive,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),10,10,57,100.0,17.54386
+Master's,inclusive,research_likely_only,Research only,unavailable,,Occupation unavailable,0,10,57,0.0,0.0
+Master's,inclusive,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,6,19,57,31.578947,10.526316
+Master's,inclusive,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),13,19,57,68.421053,22.807018
+Master's,inclusive,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,19,57,0.0,0.0
+Master's,inclusive,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),6,6,57,100.0,10.526316
+Master's,inclusive,both,Both,unavailable,,Occupation unavailable,0,6,57,0.0,0.0
+Master's,inclusive,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),22,22,57,100.0,38.596491
+Master's,inclusive,neither,Other,unavailable,,Occupation unavailable,0,22,57,0.0,0.0
+Master's,inclusive,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,inclusive,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,inclusive,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,inclusive,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,no_hospital_override,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,no_hospital_override,research_likely_only,Research only,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,no_hospital_override,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,9,25,57,36.0,15.789474
+Master's,no_hospital_override,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),16,25,57,64.0,28.070175
+Master's,no_hospital_override,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,25,57,0.0,0.0
+Master's,no_hospital_override,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,no_hospital_override,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,no_hospital_override,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),23,23,57,100.0,40.350877
+Master's,no_hospital_override,neither,Other,unavailable,,Occupation unavailable,0,23,57,0.0,0.0
+Master's,no_hospital_override,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,no_hospital_override,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,no_hospital_override,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,no_hospital_override,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,conservative,research_likely_only,Research only,pooled_small,,Other occupations (each n < 5 in this breakdown),9,9,57,100.0,15.789474
+Master's,conservative,research_likely_only,Research only,unavailable,,Occupation unavailable,0,9,57,0.0,0.0
+Master's,conservative,clinical_likely_only,Clinical care only,named,19-3033.00,Clinical and Counseling Psychologists,9,25,57,36.0,15.789474
+Master's,conservative,clinical_likely_only,Clinical care only,pooled_small,,Other occupations (each n < 5 in this breakdown),16,25,57,64.0,28.070175
+Master's,conservative,clinical_likely_only,Clinical care only,unavailable,,Occupation unavailable,0,25,57,0.0,0.0
+Master's,conservative,both,Both,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,conservative,both,Both,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,conservative,neither,Other,pooled_small,,Other occupations (each n < 5 in this breakdown),23,23,57,100.0,40.350877
+Master's,conservative,neither,Other,unavailable,,Occupation unavailable,0,23,57,0.0,0.0
+Master's,conservative,unclassifiable,Instrument U,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,conservative,unclassifiable,Instrument U,unavailable,,Occupation unavailable,0,0,57,,0.0
+Master's,conservative,unscored,Unscored,pooled_small,,Other occupations (each n < 5 in this breakdown),0,0,57,,0.0
+Master's,conservative,unscored,Unscored,unavailable,,Occupation unavailable,0,0,57,,0.0

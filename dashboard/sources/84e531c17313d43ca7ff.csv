@@ -1,0 +1,8 @@
+Diagnostic,2021–2023 window,2022–2023 window
+Fitted-value range (rounded),−0.2985 to 1.0000,−0.2966 to 1.0000
+Literal fitted values below zero n (%),752 (13.14%),619 (12.86%)
+Fitted values below −1×10⁻¹⁰ n (%),650 (11.36%),618 (12.84%)
+Literal fitted values above one n,0,12
+Fitted values above 1+1×10⁻¹⁰ n,0,0
+Median fitted value,0.1549,0.1452
+Fitted-value 5th to 95th percentiles,−0.0440 to 0.4292,−0.0432 to 0.4176

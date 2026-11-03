@@ -1,0 +1,7 @@
+group_axis,group_value,group_record_n,human_in_n,human_out_n,human_undetermined_n,model_in_n,model_out_n,model_undetermined_n,model_operational_n,precision_comparable_n,group_status,grouping_rule
+degree,doctoral,143,79,62,2,86,56,1,0,84,observed,Frozen reviewed credential level
+degree,masters,57,33,22,2,34,23,0,0,34,observed,Frozen reviewed credential level
+degree,unknown_unclassified,0,0,0,0,0,0,0,0,0,not_estimable_no_records,Frozen reviewed credential level
+baseline_funding,supported,140,76,63,1,83,56,1,0,82,observed,Frozen FY2005-2009 baseline supported versus confirmed zero; unresolved retained
+baseline_funding,confirmed_zero,60,36,21,3,37,23,0,0,36,observed,Frozen FY2005-2009 baseline supported versus confirmed zero; unresolved retained
+baseline_funding,unresolved,0,0,0,0,0,0,0,0,0,not_estimable_no_records,Frozen FY2005-2009 baseline supported versus confirmed zero; unresolved retained

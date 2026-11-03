@@ -1,0 +1,5 @@
+ownership,degree_group,outcome,category,estimate_log_ratio,estimate_ratio,point_status,reference_id,common_PI_year_keys,fit_id,interval_status
+full,Research doctorate,count,,0.29778777380388016,1.3468759151936638,ok,B|common_final|count|,1272,full|common_iter08|Research doctorate|count|,not_registered_separate_companion_interval
+full,Masters,count,,0.6253832882649449,1.8689621714331797,ok,B|common_final|count|,1272,full|common_iter08|Masters|count|,not_registered_separate_companion_interval
+exclude_ever_for_profit,Research doctorate,count,,0.29778777380388016,1.3468759151936638,ok,B|common_final|count|,1272,full|common_iter08|Research doctorate|count|,not_registered_separate_companion_interval
+exclude_ever_for_profit,Masters,count,,0.6253832882649449,1.8689621714331797,ok,B|common_final|count|,1272,full|common_iter08|Masters|count|,not_registered_separate_companion_interval

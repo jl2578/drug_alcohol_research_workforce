@@ -1,0 +1,6 @@
+Reference status,Model disposition,Cells,Interpretation
+Coded,Different coded category or set,117,Reference-coded nonmatch
+Coded,Not applicable,3,Reference-coded nonmatch
+Not applicable,Coded,25,Structural-applicability disagreement
+Cannot determine,Coded,42,Reference uncertainty; not a confirmed model error
+Cannot determine,Not applicable,3,Reference uncertainty; not a confirmed model error

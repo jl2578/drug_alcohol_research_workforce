@@ -1,0 +1,12 @@
+measure,value,definition
+masters_works,3460,In-scope master's works; denominator for the screen
+masters_works_with_usable_name,3422,Master's works with a usable author name
+candidate_pairs,372,"Master's-doctoral pairs with exact normalized name, same institution and a strictly later doctoral year"
+masters_works_with_candidate,371,Master's works with at least one candidate pair
+psychology_masters_works,927,Psychology master's works
+psychology_works_with_candidate,252,Psychology master's works with a candidate pair
+works_with_in_scope_candidate,214,Master's works whose candidate doctoral work is also in scope
+psychology_connected_works,369,"Psychology master's works with an identified NIDA/NIAAA connection, before exclusion"
+excluded_connected_works,110,Connected psychology master's works removed by the exclusion
+psychology_works_after_exclusion,675,Psychology master's works after the exclusion
+connected_works_after_exclusion,259,Connected psychology master's works after the exclusion

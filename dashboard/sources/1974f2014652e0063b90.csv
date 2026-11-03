@@ -1,0 +1,1057 @@
+ownership,metric,outcome,category,degree_group,stage,cells,units,category_Y,eligible_N,S_current,D_mapped_exact,zero_category_cells,zero_eligible_N_cells,unknown_completion_ownership_cells
+full,category_count_ratio,C3,mixed_methods,Research doctorate,all_panel_cells,8387,861,347,7705,7963,663429,8073,5829,186
+full,category_count_ratio,C3,mixed_methods,Research doctorate,primary_ready,5919,601,346,7691,7949,662990,5606,3371,114
+full,category_count_ratio,C3,mixed_methods,Research doctorate,initial_model_risk_set,5919,601,346,7691,7949,662990,5606,3371,114
+full,category_count_ratio,C3,mixed_methods,Masters,all_panel_cells,4906,586,70,3149,3460,327528,4839,3431,34
+full,category_count_ratio,C3,mixed_methods,Masters,primary_ready,4790,570,70,3144,3455,327244,4723,3318,34
+full,category_count_ratio,C3,mixed_methods,Masters,initial_model_risk_set,4790,570,70,3144,3455,327244,4723,3318,34
+full,category_count_ratio,C3,qualitative,Research doctorate,all_panel_cells,8387,861,574,7705,7963,663429,7981,5829,186
+full,category_count_ratio,C3,qualitative,Research doctorate,primary_ready,5919,601,574,7691,7949,662990,5513,3371,114
+full,category_count_ratio,C3,qualitative,Research doctorate,initial_model_risk_set,5919,601,574,7691,7949,662990,5513,3371,114
+full,category_count_ratio,C3,qualitative,Masters,all_panel_cells,4906,586,281,3149,3460,327528,4702,3431,34
+full,category_count_ratio,C3,qualitative,Masters,primary_ready,4790,570,281,3144,3455,327244,4586,3318,34
+full,category_count_ratio,C3,qualitative,Masters,initial_model_risk_set,4790,570,281,3144,3455,327244,4586,3318,34
+full,category_count_ratio,C3,single_case,Research doctorate,all_panel_cells,8387,861,30,7705,7963,663429,8357,5829,186
+full,category_count_ratio,C3,single_case,Research doctorate,primary_ready,5919,601,30,7691,7949,662990,5889,3371,114
+full,category_count_ratio,C3,single_case,Research doctorate,initial_model_risk_set,5919,601,30,7691,7949,662990,5889,3371,114
+full,category_count_ratio,C3,single_case,Masters,all_panel_cells,4906,586,8,3149,3460,327528,4898,3431,34
+full,category_count_ratio,C3,single_case,Masters,primary_ready,4790,570,8,3144,3455,327244,4782,3318,34
+full,category_count_ratio,C3,single_case,Masters,initial_model_risk_set,4790,570,8,3144,3455,327244,4782,3318,34
+full,category_count_ratio,C3,computational_modeling,Research doctorate,all_panel_cells,8387,861,158,7705,7963,663429,8242,5829,186
+full,category_count_ratio,C3,computational_modeling,Research doctorate,primary_ready,5919,601,158,7691,7949,662990,5774,3371,114
+full,category_count_ratio,C3,computational_modeling,Research doctorate,initial_model_risk_set,5919,601,158,7691,7949,662990,5774,3371,114
+full,category_count_ratio,C3,computational_modeling,Masters,all_panel_cells,4906,586,56,3149,3460,327528,4852,3431,34
+full,category_count_ratio,C3,computational_modeling,Masters,primary_ready,4790,570,56,3144,3455,327244,4736,3318,34
+full,category_count_ratio,C3,computational_modeling,Masters,initial_model_risk_set,4790,570,56,3144,3455,327244,4736,3318,34
+full,category_count_ratio,C3,synthesis_characterization,Research doctorate,all_panel_cells,8387,861,65,7705,7963,663429,8325,5829,186
+full,category_count_ratio,C3,synthesis_characterization,Research doctorate,primary_ready,5919,601,65,7691,7949,662990,5857,3371,114
+full,category_count_ratio,C3,synthesis_characterization,Research doctorate,initial_model_risk_set,5919,601,65,7691,7949,662990,5857,3371,114
+full,category_count_ratio,C3,synthesis_characterization,Masters,all_panel_cells,4906,586,62,3149,3460,327528,4855,3431,34
+full,category_count_ratio,C3,synthesis_characterization,Masters,primary_ready,4790,570,62,3144,3455,327244,4739,3318,34
+full,category_count_ratio,C3,synthesis_characterization,Masters,initial_model_risk_set,4790,570,62,3144,3455,327244,4739,3318,34
+full,category_count_ratio,C3,experimental_randomized,Research doctorate,all_panel_cells,8387,861,410,7705,7963,663429,8033,5829,186
+full,category_count_ratio,C3,experimental_randomized,Research doctorate,primary_ready,5919,601,410,7691,7949,662990,5565,3371,114
+full,category_count_ratio,C3,experimental_randomized,Research doctorate,initial_model_risk_set,5919,601,410,7691,7949,662990,5565,3371,114
+full,category_count_ratio,C3,experimental_randomized,Masters,all_panel_cells,4906,586,137,3149,3460,327528,4780,3431,34
+full,category_count_ratio,C3,experimental_randomized,Masters,primary_ready,4790,570,137,3144,3455,327244,4664,3318,34
+full,category_count_ratio,C3,experimental_randomized,Masters,initial_model_risk_set,4790,570,137,3144,3455,327244,4664,3318,34
+full,category_count_ratio,C3,experimental_nonrandomized,Research doctorate,all_panel_cells,8387,861,2667,7705,7963,663429,7009,5829,186
+full,category_count_ratio,C3,experimental_nonrandomized,Research doctorate,primary_ready,5919,601,2656,7691,7949,662990,4549,3371,114
+full,category_count_ratio,C3,experimental_nonrandomized,Research doctorate,initial_model_risk_set,5919,601,2656,7691,7949,662990,4549,3371,114
+full,category_count_ratio,C3,experimental_nonrandomized,Masters,all_panel_cells,4906,586,906,3149,3460,327528,4299,3431,34
+full,category_count_ratio,C3,experimental_nonrandomized,Masters,primary_ready,4790,570,906,3144,3455,327244,4183,3318,34
+full,category_count_ratio,C3,experimental_nonrandomized,Masters,initial_model_risk_set,4790,570,906,3144,3455,327244,4183,3318,34
+full,category_count_ratio,C3,quasi_experimental,Research doctorate,all_panel_cells,8387,861,250,7705,7963,663429,8168,5829,186
+full,category_count_ratio,C3,quasi_experimental,Research doctorate,primary_ready,5919,601,250,7691,7949,662990,5700,3371,114
+full,category_count_ratio,C3,quasi_experimental,Research doctorate,initial_model_risk_set,5919,601,250,7691,7949,662990,5700,3371,114
+full,category_count_ratio,C3,quasi_experimental,Masters,all_panel_cells,4906,586,42,3149,3460,327528,4868,3431,34
+full,category_count_ratio,C3,quasi_experimental,Masters,primary_ready,4790,570,42,3144,3455,327244,4752,3318,34
+full,category_count_ratio,C3,quasi_experimental,Masters,initial_model_risk_set,4790,570,42,3144,3455,327244,4752,3318,34
+full,category_count_ratio,C3,single_group_pre_post,Research doctorate,all_panel_cells,8387,861,43,7705,7963,663429,8346,5829,186
+full,category_count_ratio,C3,single_group_pre_post,Research doctorate,primary_ready,5919,601,43,7691,7949,662990,5878,3371,114
+full,category_count_ratio,C3,single_group_pre_post,Research doctorate,initial_model_risk_set,5919,601,43,7691,7949,662990,5878,3371,114
+full,category_count_ratio,C3,single_group_pre_post,Masters,all_panel_cells,4906,586,49,3149,3460,327528,4859,3431,34
+full,category_count_ratio,C3,single_group_pre_post,Masters,primary_ready,4790,570,49,3144,3455,327244,4743,3318,34
+full,category_count_ratio,C3,single_group_pre_post,Masters,initial_model_risk_set,4790,570,49,3144,3455,327244,4743,3318,34
+full,category_count_ratio,C3,longitudinal_observational,Research doctorate,all_panel_cells,8387,861,729,7705,7963,663429,7819,5829,186
+full,category_count_ratio,C3,longitudinal_observational,Research doctorate,primary_ready,5919,601,729,7691,7949,662990,5351,3371,114
+full,category_count_ratio,C3,longitudinal_observational,Research doctorate,initial_model_risk_set,5919,601,729,7691,7949,662990,5351,3371,114
+full,category_count_ratio,C3,longitudinal_observational,Masters,all_panel_cells,4906,586,207,3149,3460,327528,4729,3431,34
+full,category_count_ratio,C3,longitudinal_observational,Masters,primary_ready,4790,570,206,3144,3455,327244,4614,3318,34
+full,category_count_ratio,C3,longitudinal_observational,Masters,initial_model_risk_set,4790,570,206,3144,3455,327244,4614,3318,34
+full,category_count_ratio,C3,cross_sectional_observational,Research doctorate,all_panel_cells,8387,861,1928,7705,7963,663429,7190,5829,186
+full,category_count_ratio,C3,cross_sectional_observational,Research doctorate,primary_ready,5919,601,1926,7691,7949,662990,4724,3371,114
+full,category_count_ratio,C3,cross_sectional_observational,Research doctorate,initial_model_risk_set,5919,601,1926,7691,7949,662990,4724,3371,114
+full,category_count_ratio,C3,cross_sectional_observational,Masters,all_panel_cells,4906,586,1294,3149,3460,327528,4096,3431,34
+full,category_count_ratio,C3,cross_sectional_observational,Masters,primary_ready,4790,570,1292,3144,3455,327244,3981,3318,34
+full,category_count_ratio,C3,cross_sectional_observational,Masters,initial_model_risk_set,4790,570,1292,3144,3455,327244,3981,3318,34
+full,category_count_ratio,C3,multiple_no_dominant,Research doctorate,all_panel_cells,8387,861,504,7705,7963,663429,7989,5829,186
+full,category_count_ratio,C3,multiple_no_dominant,Research doctorate,primary_ready,5919,601,504,7691,7949,662990,5521,3371,114
+full,category_count_ratio,C3,multiple_no_dominant,Research doctorate,initial_model_risk_set,5919,601,504,7691,7949,662990,5521,3371,114
+full,category_count_ratio,C3,multiple_no_dominant,Masters,all_panel_cells,4906,586,37,3149,3460,327528,4870,3431,34
+full,category_count_ratio,C3,multiple_no_dominant,Masters,primary_ready,4790,570,35,3144,3455,327244,4756,3318,34
+full,category_count_ratio,C3,multiple_no_dominant,Masters,initial_model_risk_set,4790,570,35,3144,3455,327244,4756,3318,34
+full,category_count_ratio,C4,molecular_cellular,Research doctorate,all_panel_cells,8387,861,1054,7962,7963,663429,7640,5788,186
+full,category_count_ratio,C4,molecular_cellular,Research doctorate,primary_ready,5919,601,1052,7948,7949,662990,5174,3330,114
+full,category_count_ratio,C4,molecular_cellular,Research doctorate,initial_model_risk_set,5919,601,1052,7948,7949,662990,5174,3330,114
+full,category_count_ratio,C4,molecular_cellular,Masters,all_panel_cells,4906,586,358,3459,3460,327528,4629,3345,34
+full,category_count_ratio,C4,molecular_cellular,Masters,primary_ready,4790,570,358,3454,3455,327244,4513,3232,34
+full,category_count_ratio,C4,molecular_cellular,Masters,initial_model_risk_set,4790,570,358,3454,3455,327244,4513,3232,34
+full,category_count_ratio,C4,organism_nonhuman,Research doctorate,all_panel_cells,8387,861,1067,7962,7963,663429,7650,5788,186
+full,category_count_ratio,C4,organism_nonhuman,Research doctorate,primary_ready,5919,601,1060,7948,7949,662990,5188,3330,114
+full,category_count_ratio,C4,organism_nonhuman,Research doctorate,initial_model_risk_set,5919,601,1060,7948,7949,662990,5188,3330,114
+full,category_count_ratio,C4,organism_nonhuman,Masters,all_panel_cells,4906,586,435,3459,3460,327528,4584,3345,34
+full,category_count_ratio,C4,organism_nonhuman,Masters,primary_ready,4790,570,435,3454,3455,327244,4468,3232,34
+full,category_count_ratio,C4,organism_nonhuman,Masters,initial_model_risk_set,4790,570,435,3454,3455,327244,4468,3232,34
+full,category_count_ratio,C4,individual_human,Research doctorate,all_panel_cells,8387,861,4788,7962,7963,663429,6344,5788,186
+full,category_count_ratio,C4,individual_human,Research doctorate,primary_ready,5919,601,4785,7948,7949,662990,3879,3330,114
+full,category_count_ratio,C4,individual_human,Research doctorate,initial_model_risk_set,5919,601,4785,7948,7949,662990,3879,3330,114
+full,category_count_ratio,C4,individual_human,Masters,all_panel_cells,4906,586,2104,3459,3460,327528,3759,3345,34
+full,category_count_ratio,C4,individual_human,Masters,primary_ready,4790,570,2100,3454,3455,327244,3645,3232,34
+full,category_count_ratio,C4,individual_human,Masters,initial_model_risk_set,4790,570,2100,3454,3455,327244,3645,3232,34
+full,category_count_ratio,C4,dyad_family_group,Research doctorate,all_panel_cells,8387,861,193,7962,7963,663429,8216,5788,186
+full,category_count_ratio,C4,dyad_family_group,Research doctorate,primary_ready,5919,601,193,7948,7949,662990,5748,3330,114
+full,category_count_ratio,C4,dyad_family_group,Research doctorate,initial_model_risk_set,5919,601,193,7948,7949,662990,5748,3330,114
+full,category_count_ratio,C4,dyad_family_group,Masters,all_panel_cells,4906,586,73,3459,3460,327528,4839,3345,34
+full,category_count_ratio,C4,dyad_family_group,Masters,primary_ready,4790,570,73,3454,3455,327244,4723,3232,34
+full,category_count_ratio,C4,dyad_family_group,Masters,initial_model_risk_set,4790,570,73,3454,3455,327244,4723,3232,34
+full,category_count_ratio,C4,organization_program,Research doctorate,all_panel_cells,8387,861,247,7962,7963,663429,8170,5788,186
+full,category_count_ratio,C4,organization_program,Research doctorate,primary_ready,5919,601,246,7948,7949,662990,5703,3330,114
+full,category_count_ratio,C4,organization_program,Research doctorate,initial_model_risk_set,5919,601,246,7948,7949,662990,5703,3330,114
+full,category_count_ratio,C4,organization_program,Masters,all_panel_cells,4906,586,166,3459,3460,327528,4778,3345,34
+full,category_count_ratio,C4,organization_program,Masters,primary_ready,4790,570,166,3454,3455,327244,4662,3232,34
+full,category_count_ratio,C4,organization_program,Masters,initial_model_risk_set,4790,570,166,3454,3455,327244,4662,3232,34
+full,category_count_ratio,C4,community_jurisdiction_population,Research doctorate,all_panel_cells,8387,861,407,7962,7963,663429,8054,5788,186
+full,category_count_ratio,C4,community_jurisdiction_population,Research doctorate,primary_ready,5919,601,406,7948,7949,662990,5587,3330,114
+full,category_count_ratio,C4,community_jurisdiction_population,Research doctorate,initial_model_risk_set,5919,601,406,7948,7949,662990,5587,3330,114
+full,category_count_ratio,C4,community_jurisdiction_population,Masters,all_panel_cells,4906,586,210,3459,3460,327528,4736,3345,34
+full,category_count_ratio,C4,community_jurisdiction_population,Masters,primary_ready,4790,570,209,3454,3455,327244,4621,3232,34
+full,category_count_ratio,C4,community_jurisdiction_population,Masters,initial_model_risk_set,4790,570,209,3454,3455,327244,4621,3232,34
+full,category_count_ratio,C4,texts_media_discourse,Research doctorate,all_panel_cells,8387,861,147,7962,7963,663429,8247,5788,186
+full,category_count_ratio,C4,texts_media_discourse,Research doctorate,primary_ready,5919,601,147,7948,7949,662990,5779,3330,114
+full,category_count_ratio,C4,texts_media_discourse,Research doctorate,initial_model_risk_set,5919,601,147,7948,7949,662990,5779,3330,114
+full,category_count_ratio,C4,texts_media_discourse,Masters,all_panel_cells,4906,586,108,3459,3460,327528,4802,3345,34
+full,category_count_ratio,C4,texts_media_discourse,Masters,primary_ready,4790,570,108,3454,3455,327244,4686,3232,34
+full,category_count_ratio,C4,texts_media_discourse,Masters,initial_model_risk_set,4790,570,108,3454,3455,327244,4686,3232,34
+full,category_count_ratio,C4,multiple_no_dominant,Research doctorate,all_panel_cells,8387,861,59,7962,7963,663429,8328,5788,186
+full,category_count_ratio,C4,multiple_no_dominant,Research doctorate,primary_ready,5919,601,59,7948,7949,662990,5860,3330,114
+full,category_count_ratio,C4,multiple_no_dominant,Research doctorate,initial_model_risk_set,5919,601,59,7948,7949,662990,5860,3330,114
+full,category_count_ratio,C4,multiple_no_dominant,Masters,all_panel_cells,4906,586,5,3459,3460,327528,4901,3345,34
+full,category_count_ratio,C4,multiple_no_dominant,Masters,primary_ready,4790,570,5,3454,3455,327244,4785,3232,34
+full,category_count_ratio,C4,multiple_no_dominant,Masters,initial_model_risk_set,4790,570,5,3454,3455,327244,4785,3232,34
+full,category_count_ratio,C5,describe_distribution,Research doctorate,all_panel_cells,8387,861,48,7962,7963,663429,8341,5788,186
+full,category_count_ratio,C5,describe_distribution,Research doctorate,primary_ready,5919,601,48,7948,7949,662990,5873,3330,114
+full,category_count_ratio,C5,describe_distribution,Research doctorate,initial_model_risk_set,5919,601,48,7948,7949,662990,5873,3330,114
+full,category_count_ratio,C5,describe_distribution,Masters,all_panel_cells,4906,586,49,3460,3460,327528,4861,3345,34
+full,category_count_ratio,C5,describe_distribution,Masters,primary_ready,4790,570,49,3455,3455,327244,4745,3232,34
+full,category_count_ratio,C5,describe_distribution,Masters,initial_model_risk_set,4790,570,49,3455,3455,327244,4745,3232,34
+full,category_count_ratio,C5,explain_causes,Research doctorate,all_panel_cells,8387,861,2632,7962,7963,663429,6882,5788,186
+full,category_count_ratio,C5,explain_causes,Research doctorate,primary_ready,5919,601,2626,7948,7949,662990,4420,3330,114
+full,category_count_ratio,C5,explain_causes,Research doctorate,initial_model_risk_set,5919,601,2626,7948,7949,662990,4420,3330,114
+full,category_count_ratio,C5,explain_causes,Masters,all_panel_cells,4906,586,1107,3460,3460,327528,4143,3345,34
+full,category_count_ratio,C5,explain_causes,Masters,primary_ready,4790,570,1107,3455,3455,327244,4027,3232,34
+full,category_count_ratio,C5,explain_causes,Masters,initial_model_risk_set,4790,570,1107,3455,3455,327244,4027,3232,34
+full,category_count_ratio,C5,consequences_of_use,Research doctorate,all_panel_cells,8387,861,1788,7962,7963,663429,7244,5788,186
+full,category_count_ratio,C5,consequences_of_use,Research doctorate,primary_ready,5919,601,1786,7948,7949,662990,4778,3330,114
+full,category_count_ratio,C5,consequences_of_use,Research doctorate,initial_model_risk_set,5919,601,1786,7948,7949,662990,4778,3330,114
+full,category_count_ratio,C5,consequences_of_use,Masters,all_panel_cells,4906,586,864,3460,3460,327528,4288,3345,34
+full,category_count_ratio,C5,consequences_of_use,Masters,primary_ready,4790,570,861,3455,3455,327244,4174,3232,34
+full,category_count_ratio,C5,consequences_of_use,Masters,initial_model_risk_set,4790,570,861,3455,3455,327244,4174,3232,34
+full,category_count_ratio,C5,characterize_substance_action,Research doctorate,all_panel_cells,8387,861,922,7962,7963,663429,7749,5788,186
+full,category_count_ratio,C5,characterize_substance_action,Research doctorate,primary_ready,5919,601,922,7948,7949,662990,5281,3330,114
+full,category_count_ratio,C5,characterize_substance_action,Research doctorate,initial_model_risk_set,5919,601,922,7948,7949,662990,5281,3330,114
+full,category_count_ratio,C5,characterize_substance_action,Masters,all_panel_cells,4906,586,228,3460,3460,327528,4705,3345,34
+full,category_count_ratio,C5,characterize_substance_action,Masters,primary_ready,4790,570,228,3455,3455,327244,4589,3232,34
+full,category_count_ratio,C5,characterize_substance_action,Masters,initial_model_risk_set,4790,570,228,3455,3455,327244,4589,3232,34
+full,category_count_ratio,C5,intervene,Research doctorate,all_panel_cells,8387,861,908,7962,7963,663429,7671,5788,186
+full,category_count_ratio,C5,intervene,Research doctorate,primary_ready,5919,601,904,7948,7949,662990,5207,3330,114
+full,category_count_ratio,C5,intervene,Research doctorate,initial_model_risk_set,5919,601,904,7948,7949,662990,5207,3330,114
+full,category_count_ratio,C5,intervene,Masters,all_panel_cells,4906,586,374,3460,3460,327528,4644,3345,34
+full,category_count_ratio,C5,intervene,Masters,primary_ready,4790,570,374,3455,3455,327244,4528,3232,34
+full,category_count_ratio,C5,intervene,Masters,initial_model_risk_set,4790,570,374,3455,3455,327244,4528,3232,34
+full,category_count_ratio,C5,organize_deliver_services,Research doctorate,all_panel_cells,8387,861,581,7962,7963,663429,7928,5788,186
+full,category_count_ratio,C5,organize_deliver_services,Research doctorate,primary_ready,5919,601,580,7948,7949,662990,5461,3330,114
+full,category_count_ratio,C5,organize_deliver_services,Research doctorate,initial_model_risk_set,5919,601,580,7948,7949,662990,5461,3330,114
+full,category_count_ratio,C5,organize_deliver_services,Masters,all_panel_cells,4906,586,245,3460,3460,327528,4709,3345,34
+full,category_count_ratio,C5,organize_deliver_services,Masters,primary_ready,4790,570,244,3455,3455,327244,4594,3232,34
+full,category_count_ratio,C5,organize_deliver_services,Masters,initial_model_risk_set,4790,570,244,3455,3455,327244,4594,3232,34
+full,category_count_ratio,C5,law_policy_economics,Research doctorate,all_panel_cells,8387,861,233,7962,7963,663429,8176,5788,186
+full,category_count_ratio,C5,law_policy_economics,Research doctorate,primary_ready,5919,601,233,7948,7949,662990,5708,3330,114
+full,category_count_ratio,C5,law_policy_economics,Research doctorate,initial_model_risk_set,5919,601,233,7948,7949,662990,5708,3330,114
+full,category_count_ratio,C5,law_policy_economics,Masters,all_panel_cells,4906,586,108,3460,3460,327528,4807,3345,34
+full,category_count_ratio,C5,law_policy_economics,Masters,primary_ready,4790,570,108,3455,3455,327244,4691,3232,34
+full,category_count_ratio,C5,law_policy_economics,Masters,initial_model_risk_set,4790,570,108,3455,3455,327244,4691,3232,34
+full,category_count_ratio,C5,meanings_attitudes,Research doctorate,all_panel_cells,8387,861,268,7962,7963,663429,8138,5788,186
+full,category_count_ratio,C5,meanings_attitudes,Research doctorate,primary_ready,5919,601,268,7948,7949,662990,5670,3330,114
+full,category_count_ratio,C5,meanings_attitudes,Research doctorate,initial_model_risk_set,5919,601,268,7948,7949,662990,5670,3330,114
+full,category_count_ratio,C5,meanings_attitudes,Masters,all_panel_cells,4906,586,192,3460,3460,327528,4721,3345,34
+full,category_count_ratio,C5,meanings_attitudes,Masters,primary_ready,4790,570,192,3455,3455,327244,4605,3232,34
+full,category_count_ratio,C5,meanings_attitudes,Masters,initial_model_risk_set,4790,570,192,3455,3455,327244,4605,3232,34
+full,category_count_ratio,C5,education_workforce,Research doctorate,all_panel_cells,8387,861,89,7962,7963,663429,8304,5788,186
+full,category_count_ratio,C5,education_workforce,Research doctorate,primary_ready,5919,601,89,7948,7949,662990,5836,3330,114
+full,category_count_ratio,C5,education_workforce,Research doctorate,initial_model_risk_set,5919,601,89,7948,7949,662990,5836,3330,114
+full,category_count_ratio,C5,education_workforce,Masters,all_panel_cells,4906,586,43,3460,3460,327528,4864,3345,34
+full,category_count_ratio,C5,education_workforce,Masters,primary_ready,4790,570,43,3455,3455,327244,4748,3232,34
+full,category_count_ratio,C5,education_workforce,Masters,initial_model_risk_set,4790,570,43,3455,3455,327244,4748,3232,34
+full,category_count_ratio,C5,measurement,Research doctorate,all_panel_cells,8387,861,232,7962,7963,663429,8179,5788,186
+full,category_count_ratio,C5,measurement,Research doctorate,primary_ready,5919,601,232,7948,7949,662990,5711,3330,114
+full,category_count_ratio,C5,measurement,Research doctorate,initial_model_risk_set,5919,601,232,7948,7949,662990,5711,3330,114
+full,category_count_ratio,C5,measurement,Masters,all_panel_cells,4906,586,195,3460,3460,327528,4753,3345,34
+full,category_count_ratio,C5,measurement,Masters,primary_ready,4790,570,195,3455,3455,327244,4637,3232,34
+full,category_count_ratio,C5,measurement,Masters,initial_model_risk_set,4790,570,195,3455,3455,327244,4637,3232,34
+full,category_count_ratio,C5,other_stated_objective,Research doctorate,all_panel_cells,8387,861,2,7962,7963,663429,8385,5788,186
+full,category_count_ratio,C5,other_stated_objective,Research doctorate,primary_ready,5919,601,2,7948,7949,662990,5917,3330,114
+full,category_count_ratio,C5,other_stated_objective,Research doctorate,initial_model_risk_set,5919,601,2,7948,7949,662990,5917,3330,114
+full,category_count_ratio,C5,other_stated_objective,Masters,all_panel_cells,4906,586,2,3460,3460,327528,4904,3345,34
+full,category_count_ratio,C5,other_stated_objective,Masters,primary_ready,4790,570,2,3455,3455,327244,4788,3232,34
+full,category_count_ratio,C5,other_stated_objective,Masters,initial_model_risk_set,4790,570,2,3455,3455,327244,4788,3232,34
+full,category_count_ratio,C5,multiple_no_dominant,Research doctorate,all_panel_cells,8387,861,259,7962,7963,663429,8153,5788,186
+full,category_count_ratio,C5,multiple_no_dominant,Research doctorate,primary_ready,5919,601,258,7948,7949,662990,5686,3330,114
+full,category_count_ratio,C5,multiple_no_dominant,Research doctorate,initial_model_risk_set,5919,601,258,7948,7949,662990,5686,3330,114
+full,category_count_ratio,C5,multiple_no_dominant,Masters,all_panel_cells,4906,586,53,3460,3460,327528,4855,3345,34
+full,category_count_ratio,C5,multiple_no_dominant,Masters,primary_ready,4790,570,52,3455,3455,327244,4740,3232,34
+full,category_count_ratio,C5,multiple_no_dominant,Masters,initial_model_risk_set,4790,570,52,3455,3455,327244,4740,3232,34
+full,category_count_ratio,C8,survey_questionnaire,Research doctorate,all_panel_cells,8387,861,3896,7868,7963,663429,6555,5807,186
+full,category_count_ratio,C8,survey_questionnaire,Research doctorate,primary_ready,5919,601,3894,7854,7949,662990,4089,3349,114
+full,category_count_ratio,C8,survey_questionnaire,Research doctorate,initial_model_risk_set,5919,601,3894,7854,7949,662990,4089,3349,114
+full,category_count_ratio,C8,survey_questionnaire,Masters,all_panel_cells,4906,586,1653,3308,3460,327528,3944,3393,34
+full,category_count_ratio,C8,survey_questionnaire,Masters,primary_ready,4790,570,1651,3303,3455,327244,3830,3280,34
+full,category_count_ratio,C8,survey_questionnaire,Masters,initial_model_risk_set,4790,570,1651,3303,3455,327244,3830,3280,34
+full,category_count_ratio,C8,interview_observation,Research doctorate,all_panel_cells,8387,861,1135,7868,7963,663429,7595,5807,186
+full,category_count_ratio,C8,interview_observation,Research doctorate,primary_ready,5919,601,1134,7854,7949,662990,5128,3349,114
+full,category_count_ratio,C8,interview_observation,Research doctorate,initial_model_risk_set,5919,601,1134,7854,7949,662990,5128,3349,114
+full,category_count_ratio,C8,interview_observation,Masters,all_panel_cells,4906,586,354,3308,3460,327528,4621,3393,34
+full,category_count_ratio,C8,interview_observation,Masters,primary_ready,4790,570,354,3303,3455,327244,4505,3280,34
+full,category_count_ratio,C8,interview_observation,Masters,initial_model_risk_set,4790,570,354,3303,3455,327244,4505,3280,34
+full,category_count_ratio,C8,behavioral_task,Research doctorate,all_panel_cells,8387,861,1480,7868,7963,663429,7467,5807,186
+full,category_count_ratio,C8,behavioral_task,Research doctorate,primary_ready,5919,601,1473,7854,7949,662990,5005,3349,114
+full,category_count_ratio,C8,behavioral_task,Research doctorate,initial_model_risk_set,5919,601,1473,7854,7949,662990,5005,3349,114
+full,category_count_ratio,C8,behavioral_task,Masters,all_panel_cells,4906,586,493,3308,3460,327528,4542,3393,34
+full,category_count_ratio,C8,behavioral_task,Masters,primary_ready,4790,570,493,3303,3455,327244,4426,3280,34
+full,category_count_ratio,C8,behavioral_task,Masters,initial_model_risk_set,4790,570,493,3303,3455,327244,4426,3280,34
+full,category_count_ratio,C8,biological_physiological,Research doctorate,all_panel_cells,8387,861,2153,7868,7963,663429,7165,5807,186
+full,category_count_ratio,C8,biological_physiological,Research doctorate,primary_ready,5919,601,2145,7854,7949,662990,4704,3349,114
+full,category_count_ratio,C8,biological_physiological,Research doctorate,initial_model_risk_set,5919,601,2145,7854,7949,662990,4704,3349,114
+full,category_count_ratio,C8,biological_physiological,Masters,all_panel_cells,4906,586,615,3308,3460,327528,4466,3393,34
+full,category_count_ratio,C8,biological_physiological,Masters,primary_ready,4790,570,615,3303,3455,327244,4350,3280,34
+full,category_count_ratio,C8,biological_physiological,Masters,initial_model_risk_set,4790,570,615,3303,3455,327244,4350,3280,34
+full,category_count_ratio,C8,neuroimaging_electrophysiology,Research doctorate,all_panel_cells,8387,861,470,7868,7963,663429,8015,5807,186
+full,category_count_ratio,C8,neuroimaging_electrophysiology,Research doctorate,primary_ready,5919,601,467,7854,7949,662990,5550,3349,114
+full,category_count_ratio,C8,neuroimaging_electrophysiology,Research doctorate,initial_model_risk_set,5919,601,467,7854,7949,662990,5550,3349,114
+full,category_count_ratio,C8,neuroimaging_electrophysiology,Masters,all_panel_cells,4906,586,106,3308,3460,327528,4819,3393,34
+full,category_count_ratio,C8,neuroimaging_electrophysiology,Masters,primary_ready,4790,570,106,3303,3455,327244,4703,3280,34
+full,category_count_ratio,C8,neuroimaging_electrophysiology,Masters,initial_model_risk_set,4790,570,106,3303,3455,327244,4703,3280,34
+full,category_count_ratio,C8,genetic_genomic,Research doctorate,all_panel_cells,8387,861,316,7868,7963,663429,8123,5807,186
+full,category_count_ratio,C8,genetic_genomic,Research doctorate,primary_ready,5919,601,313,7854,7949,662990,5658,3349,114
+full,category_count_ratio,C8,genetic_genomic,Research doctorate,initial_model_risk_set,5919,601,313,7854,7949,662990,5658,3349,114
+full,category_count_ratio,C8,genetic_genomic,Masters,all_panel_cells,4906,586,58,3308,3460,327528,4849,3393,34
+full,category_count_ratio,C8,genetic_genomic,Masters,primary_ready,4790,570,58,3303,3455,327244,4733,3280,34
+full,category_count_ratio,C8,genetic_genomic,Masters,initial_model_risk_set,4790,570,58,3303,3455,327244,4733,3280,34
+full,category_count_ratio,C8,chemical_analytical,Research doctorate,all_panel_cells,8387,861,1386,7868,7963,663429,7489,5807,186
+full,category_count_ratio,C8,chemical_analytical,Research doctorate,primary_ready,5919,601,1380,7854,7949,662990,5025,3349,114
+full,category_count_ratio,C8,chemical_analytical,Research doctorate,initial_model_risk_set,5919,601,1380,7854,7949,662990,5025,3349,114
+full,category_count_ratio,C8,chemical_analytical,Masters,all_panel_cells,4906,586,434,3308,3460,327528,4579,3393,34
+full,category_count_ratio,C8,chemical_analytical,Masters,primary_ready,4790,570,434,3303,3455,327244,4463,3280,34
+full,category_count_ratio,C8,chemical_analytical,Masters,initial_model_risk_set,4790,570,434,3303,3455,327244,4463,3280,34
+full,category_count_ratio,C8,health_records,Research doctorate,all_panel_cells,8387,861,743,7868,7963,663429,7855,5807,186
+full,category_count_ratio,C8,health_records,Research doctorate,primary_ready,5919,601,742,7854,7949,662990,5388,3349,114
+full,category_count_ratio,C8,health_records,Research doctorate,initial_model_risk_set,5919,601,742,7854,7949,662990,5388,3349,114
+full,category_count_ratio,C8,health_records,Masters,all_panel_cells,4906,586,209,3308,3460,327528,4741,3393,34
+full,category_count_ratio,C8,health_records,Masters,primary_ready,4790,570,204,3303,3455,327244,4628,3280,34
+full,category_count_ratio,C8,health_records,Masters,initial_model_risk_set,4790,570,204,3303,3455,327244,4628,3280,34
+full,category_count_ratio,C8,administrative_records,Research doctorate,all_panel_cells,8387,861,211,7868,7963,663429,8200,5807,186
+full,category_count_ratio,C8,administrative_records,Research doctorate,primary_ready,5919,601,210,7854,7949,662990,5733,3349,114
+full,category_count_ratio,C8,administrative_records,Research doctorate,initial_model_risk_set,5919,601,210,7854,7949,662990,5733,3349,114
+full,category_count_ratio,C8,administrative_records,Masters,all_panel_cells,4906,586,57,3308,3460,327528,4853,3393,34
+full,category_count_ratio,C8,administrative_records,Masters,primary_ready,4790,570,56,3303,3455,327244,4738,3280,34
+full,category_count_ratio,C8,administrative_records,Masters,initial_model_risk_set,4790,570,56,3303,3455,327244,4738,3280,34
+full,category_count_ratio,C8,documents_media_online,Research doctorate,all_panel_cells,8387,861,402,7868,7963,663429,8042,5807,186
+full,category_count_ratio,C8,documents_media_online,Research doctorate,primary_ready,5919,601,401,7854,7949,662990,5575,3349,114
+full,category_count_ratio,C8,documents_media_online,Research doctorate,initial_model_risk_set,5919,601,401,7854,7949,662990,5575,3349,114
+full,category_count_ratio,C8,documents_media_online,Masters,all_panel_cells,4906,586,332,3308,3460,327528,4677,3393,34
+full,category_count_ratio,C8,documents_media_online,Masters,primary_ready,4790,570,332,3303,3455,327244,4561,3280,34
+full,category_count_ratio,C8,documents_media_online,Masters,initial_model_risk_set,4790,570,332,3303,3455,327244,4561,3280,34
+full,category_count_ratio,C8,geospatial_market_environmental,Research doctorate,all_panel_cells,8387,861,207,7868,7963,663429,8199,5807,186
+full,category_count_ratio,C8,geospatial_market_environmental,Research doctorate,primary_ready,5919,601,207,7854,7949,662990,5731,3349,114
+full,category_count_ratio,C8,geospatial_market_environmental,Research doctorate,initial_model_risk_set,5919,601,207,7854,7949,662990,5731,3349,114
+full,category_count_ratio,C8,geospatial_market_environmental,Masters,all_panel_cells,4906,586,57,3308,3460,327528,4855,3393,34
+full,category_count_ratio,C8,geospatial_market_environmental,Masters,primary_ready,4790,570,57,3303,3455,327244,4739,3280,34
+full,category_count_ratio,C8,geospatial_market_environmental,Masters,initial_model_risk_set,4790,570,57,3303,3455,327244,4739,3280,34
+full,category_count_ratio,C8,simulated_model_data,Research doctorate,all_panel_cells,8387,861,225,7868,7963,663429,8186,5807,186
+full,category_count_ratio,C8,simulated_model_data,Research doctorate,primary_ready,5919,601,225,7854,7949,662990,5718,3349,114
+full,category_count_ratio,C8,simulated_model_data,Research doctorate,initial_model_risk_set,5919,601,225,7854,7949,662990,5718,3349,114
+full,category_count_ratio,C8,simulated_model_data,Masters,all_panel_cells,4906,586,37,3308,3460,327528,4871,3393,34
+full,category_count_ratio,C8,simulated_model_data,Masters,primary_ready,4790,570,37,3303,3455,327244,4755,3280,34
+full,category_count_ratio,C8,simulated_model_data,Masters,initial_model_risk_set,4790,570,37,3303,3455,327244,4755,3280,34
+full,category_share_ratio,C3,mixed_methods,Research doctorate,all_panel_cells,8387,861,347,7705,7963,663429,8073,5829,186
+full,category_share_ratio,C3,mixed_methods,Research doctorate,primary_ready,5919,601,346,7691,7949,662990,5606,3371,114
+full,category_share_ratio,C3,mixed_methods,Research doctorate,initial_model_risk_set,2548,342,346,7691,7907,533124,2235,0,18
+full,category_share_ratio,C3,mixed_methods,Masters,all_panel_cells,4906,586,70,3149,3460,327528,4839,3431,34
+full,category_share_ratio,C3,mixed_methods,Masters,primary_ready,4790,570,70,3144,3455,327244,4723,3318,34
+full,category_share_ratio,C3,mixed_methods,Masters,initial_model_risk_set,1472,272,70,3144,3354,195116,1405,0,3
+full,category_share_ratio,C3,qualitative,Research doctorate,all_panel_cells,8387,861,574,7705,7963,663429,7981,5829,186
+full,category_share_ratio,C3,qualitative,Research doctorate,primary_ready,5919,601,574,7691,7949,662990,5513,3371,114
+full,category_share_ratio,C3,qualitative,Research doctorate,initial_model_risk_set,2548,342,574,7691,7907,533124,2142,0,18
+full,category_share_ratio,C3,qualitative,Masters,all_panel_cells,4906,586,281,3149,3460,327528,4702,3431,34
+full,category_share_ratio,C3,qualitative,Masters,primary_ready,4790,570,281,3144,3455,327244,4586,3318,34
+full,category_share_ratio,C3,qualitative,Masters,initial_model_risk_set,1472,272,281,3144,3354,195116,1268,0,3
+full,category_share_ratio,C3,single_case,Research doctorate,all_panel_cells,8387,861,30,7705,7963,663429,8357,5829,186
+full,category_share_ratio,C3,single_case,Research doctorate,primary_ready,5919,601,30,7691,7949,662990,5889,3371,114
+full,category_share_ratio,C3,single_case,Research doctorate,initial_model_risk_set,2548,342,30,7691,7907,533124,2518,0,18
+full,category_share_ratio,C3,single_case,Masters,all_panel_cells,4906,586,8,3149,3460,327528,4898,3431,34
+full,category_share_ratio,C3,single_case,Masters,primary_ready,4790,570,8,3144,3455,327244,4782,3318,34
+full,category_share_ratio,C3,single_case,Masters,initial_model_risk_set,1472,272,8,3144,3354,195116,1464,0,3
+full,category_share_ratio,C3,computational_modeling,Research doctorate,all_panel_cells,8387,861,158,7705,7963,663429,8242,5829,186
+full,category_share_ratio,C3,computational_modeling,Research doctorate,primary_ready,5919,601,158,7691,7949,662990,5774,3371,114
+full,category_share_ratio,C3,computational_modeling,Research doctorate,initial_model_risk_set,2548,342,158,7691,7907,533124,2403,0,18
+full,category_share_ratio,C3,computational_modeling,Masters,all_panel_cells,4906,586,56,3149,3460,327528,4852,3431,34
+full,category_share_ratio,C3,computational_modeling,Masters,primary_ready,4790,570,56,3144,3455,327244,4736,3318,34
+full,category_share_ratio,C3,computational_modeling,Masters,initial_model_risk_set,1472,272,56,3144,3354,195116,1418,0,3
+full,category_share_ratio,C3,synthesis_characterization,Research doctorate,all_panel_cells,8387,861,65,7705,7963,663429,8325,5829,186
+full,category_share_ratio,C3,synthesis_characterization,Research doctorate,primary_ready,5919,601,65,7691,7949,662990,5857,3371,114
+full,category_share_ratio,C3,synthesis_characterization,Research doctorate,initial_model_risk_set,2548,342,65,7691,7907,533124,2486,0,18
+full,category_share_ratio,C3,synthesis_characterization,Masters,all_panel_cells,4906,586,62,3149,3460,327528,4855,3431,34
+full,category_share_ratio,C3,synthesis_characterization,Masters,primary_ready,4790,570,62,3144,3455,327244,4739,3318,34
+full,category_share_ratio,C3,synthesis_characterization,Masters,initial_model_risk_set,1472,272,62,3144,3354,195116,1421,0,3
+full,category_share_ratio,C3,experimental_randomized,Research doctorate,all_panel_cells,8387,861,410,7705,7963,663429,8033,5829,186
+full,category_share_ratio,C3,experimental_randomized,Research doctorate,primary_ready,5919,601,410,7691,7949,662990,5565,3371,114
+full,category_share_ratio,C3,experimental_randomized,Research doctorate,initial_model_risk_set,2548,342,410,7691,7907,533124,2194,0,18
+full,category_share_ratio,C3,experimental_randomized,Masters,all_panel_cells,4906,586,137,3149,3460,327528,4780,3431,34
+full,category_share_ratio,C3,experimental_randomized,Masters,primary_ready,4790,570,137,3144,3455,327244,4664,3318,34
+full,category_share_ratio,C3,experimental_randomized,Masters,initial_model_risk_set,1472,272,137,3144,3354,195116,1346,0,3
+full,category_share_ratio,C3,experimental_nonrandomized,Research doctorate,all_panel_cells,8387,861,2667,7705,7963,663429,7009,5829,186
+full,category_share_ratio,C3,experimental_nonrandomized,Research doctorate,primary_ready,5919,601,2656,7691,7949,662990,4549,3371,114
+full,category_share_ratio,C3,experimental_nonrandomized,Research doctorate,initial_model_risk_set,2548,342,2656,7691,7907,533124,1178,0,18
+full,category_share_ratio,C3,experimental_nonrandomized,Masters,all_panel_cells,4906,586,906,3149,3460,327528,4299,3431,34
+full,category_share_ratio,C3,experimental_nonrandomized,Masters,primary_ready,4790,570,906,3144,3455,327244,4183,3318,34
+full,category_share_ratio,C3,experimental_nonrandomized,Masters,initial_model_risk_set,1472,272,906,3144,3354,195116,865,0,3
+full,category_share_ratio,C3,quasi_experimental,Research doctorate,all_panel_cells,8387,861,250,7705,7963,663429,8168,5829,186
+full,category_share_ratio,C3,quasi_experimental,Research doctorate,primary_ready,5919,601,250,7691,7949,662990,5700,3371,114
+full,category_share_ratio,C3,quasi_experimental,Research doctorate,initial_model_risk_set,2548,342,250,7691,7907,533124,2329,0,18
+full,category_share_ratio,C3,quasi_experimental,Masters,all_panel_cells,4906,586,42,3149,3460,327528,4868,3431,34
+full,category_share_ratio,C3,quasi_experimental,Masters,primary_ready,4790,570,42,3144,3455,327244,4752,3318,34
+full,category_share_ratio,C3,quasi_experimental,Masters,initial_model_risk_set,1472,272,42,3144,3354,195116,1434,0,3
+full,category_share_ratio,C3,single_group_pre_post,Research doctorate,all_panel_cells,8387,861,43,7705,7963,663429,8346,5829,186
+full,category_share_ratio,C3,single_group_pre_post,Research doctorate,primary_ready,5919,601,43,7691,7949,662990,5878,3371,114
+full,category_share_ratio,C3,single_group_pre_post,Research doctorate,initial_model_risk_set,2548,342,43,7691,7907,533124,2507,0,18
+full,category_share_ratio,C3,single_group_pre_post,Masters,all_panel_cells,4906,586,49,3149,3460,327528,4859,3431,34
+full,category_share_ratio,C3,single_group_pre_post,Masters,primary_ready,4790,570,49,3144,3455,327244,4743,3318,34
+full,category_share_ratio,C3,single_group_pre_post,Masters,initial_model_risk_set,1472,272,49,3144,3354,195116,1425,0,3
+full,category_share_ratio,C3,longitudinal_observational,Research doctorate,all_panel_cells,8387,861,729,7705,7963,663429,7819,5829,186
+full,category_share_ratio,C3,longitudinal_observational,Research doctorate,primary_ready,5919,601,729,7691,7949,662990,5351,3371,114
+full,category_share_ratio,C3,longitudinal_observational,Research doctorate,initial_model_risk_set,2548,342,729,7691,7907,533124,1980,0,18
+full,category_share_ratio,C3,longitudinal_observational,Masters,all_panel_cells,4906,586,207,3149,3460,327528,4729,3431,34
+full,category_share_ratio,C3,longitudinal_observational,Masters,primary_ready,4790,570,206,3144,3455,327244,4614,3318,34
+full,category_share_ratio,C3,longitudinal_observational,Masters,initial_model_risk_set,1472,272,206,3144,3354,195116,1296,0,3
+full,category_share_ratio,C3,cross_sectional_observational,Research doctorate,all_panel_cells,8387,861,1928,7705,7963,663429,7190,5829,186
+full,category_share_ratio,C3,cross_sectional_observational,Research doctorate,primary_ready,5919,601,1926,7691,7949,662990,4724,3371,114
+full,category_share_ratio,C3,cross_sectional_observational,Research doctorate,initial_model_risk_set,2548,342,1926,7691,7907,533124,1353,0,18
+full,category_share_ratio,C3,cross_sectional_observational,Masters,all_panel_cells,4906,586,1294,3149,3460,327528,4096,3431,34
+full,category_share_ratio,C3,cross_sectional_observational,Masters,primary_ready,4790,570,1292,3144,3455,327244,3981,3318,34
+full,category_share_ratio,C3,cross_sectional_observational,Masters,initial_model_risk_set,1472,272,1292,3144,3354,195116,663,0,3
+full,category_share_ratio,C3,multiple_no_dominant,Research doctorate,all_panel_cells,8387,861,504,7705,7963,663429,7989,5829,186
+full,category_share_ratio,C3,multiple_no_dominant,Research doctorate,primary_ready,5919,601,504,7691,7949,662990,5521,3371,114
+full,category_share_ratio,C3,multiple_no_dominant,Research doctorate,initial_model_risk_set,2548,342,504,7691,7907,533124,2150,0,18
+full,category_share_ratio,C3,multiple_no_dominant,Masters,all_panel_cells,4906,586,37,3149,3460,327528,4870,3431,34
+full,category_share_ratio,C3,multiple_no_dominant,Masters,primary_ready,4790,570,35,3144,3455,327244,4756,3318,34
+full,category_share_ratio,C3,multiple_no_dominant,Masters,initial_model_risk_set,1472,272,35,3144,3354,195116,1438,0,3
+full,category_share_ratio,C4,molecular_cellular,Research doctorate,all_panel_cells,8387,861,1054,7962,7963,663429,7640,5788,186
+full,category_share_ratio,C4,molecular_cellular,Research doctorate,primary_ready,5919,601,1052,7948,7949,662990,5174,3330,114
+full,category_share_ratio,C4,molecular_cellular,Research doctorate,initial_model_risk_set,2589,350,1052,7948,7949,537169,1844,0,22
+full,category_share_ratio,C4,molecular_cellular,Masters,all_panel_cells,4906,586,358,3459,3460,327528,4629,3345,34
+full,category_share_ratio,C4,molecular_cellular,Masters,primary_ready,4790,570,358,3454,3455,327244,4513,3232,34
+full,category_share_ratio,C4,molecular_cellular,Masters,initial_model_risk_set,1558,283,358,3454,3455,203107,1281,0,3
+full,category_share_ratio,C4,organism_nonhuman,Research doctorate,all_panel_cells,8387,861,1067,7962,7963,663429,7650,5788,186
+full,category_share_ratio,C4,organism_nonhuman,Research doctorate,primary_ready,5919,601,1060,7948,7949,662990,5188,3330,114
+full,category_share_ratio,C4,organism_nonhuman,Research doctorate,initial_model_risk_set,2589,350,1060,7948,7949,537169,1858,0,22
+full,category_share_ratio,C4,organism_nonhuman,Masters,all_panel_cells,4906,586,435,3459,3460,327528,4584,3345,34
+full,category_share_ratio,C4,organism_nonhuman,Masters,primary_ready,4790,570,435,3454,3455,327244,4468,3232,34
+full,category_share_ratio,C4,organism_nonhuman,Masters,initial_model_risk_set,1558,283,435,3454,3455,203107,1236,0,3
+full,category_share_ratio,C4,individual_human,Research doctorate,all_panel_cells,8387,861,4788,7962,7963,663429,6344,5788,186
+full,category_share_ratio,C4,individual_human,Research doctorate,primary_ready,5919,601,4785,7948,7949,662990,3879,3330,114
+full,category_share_ratio,C4,individual_human,Research doctorate,initial_model_risk_set,2589,350,4785,7948,7949,537169,549,0,22
+full,category_share_ratio,C4,individual_human,Masters,all_panel_cells,4906,586,2104,3459,3460,327528,3759,3345,34
+full,category_share_ratio,C4,individual_human,Masters,primary_ready,4790,570,2100,3454,3455,327244,3645,3232,34
+full,category_share_ratio,C4,individual_human,Masters,initial_model_risk_set,1558,283,2100,3454,3455,203107,413,0,3
+full,category_share_ratio,C4,dyad_family_group,Research doctorate,all_panel_cells,8387,861,193,7962,7963,663429,8216,5788,186
+full,category_share_ratio,C4,dyad_family_group,Research doctorate,primary_ready,5919,601,193,7948,7949,662990,5748,3330,114
+full,category_share_ratio,C4,dyad_family_group,Research doctorate,initial_model_risk_set,2589,350,193,7948,7949,537169,2418,0,22
+full,category_share_ratio,C4,dyad_family_group,Masters,all_panel_cells,4906,586,73,3459,3460,327528,4839,3345,34
+full,category_share_ratio,C4,dyad_family_group,Masters,primary_ready,4790,570,73,3454,3455,327244,4723,3232,34
+full,category_share_ratio,C4,dyad_family_group,Masters,initial_model_risk_set,1558,283,73,3454,3455,203107,1491,0,3
+full,category_share_ratio,C4,organization_program,Research doctorate,all_panel_cells,8387,861,247,7962,7963,663429,8170,5788,186
+full,category_share_ratio,C4,organization_program,Research doctorate,primary_ready,5919,601,246,7948,7949,662990,5703,3330,114
+full,category_share_ratio,C4,organization_program,Research doctorate,initial_model_risk_set,2589,350,246,7948,7949,537169,2373,0,22
+full,category_share_ratio,C4,organization_program,Masters,all_panel_cells,4906,586,166,3459,3460,327528,4778,3345,34
+full,category_share_ratio,C4,organization_program,Masters,primary_ready,4790,570,166,3454,3455,327244,4662,3232,34
+full,category_share_ratio,C4,organization_program,Masters,initial_model_risk_set,1558,283,166,3454,3455,203107,1430,0,3
+full,category_share_ratio,C4,community_jurisdiction_population,Research doctorate,all_panel_cells,8387,861,407,7962,7963,663429,8054,5788,186
+full,category_share_ratio,C4,community_jurisdiction_population,Research doctorate,primary_ready,5919,601,406,7948,7949,662990,5587,3330,114
+full,category_share_ratio,C4,community_jurisdiction_population,Research doctorate,initial_model_risk_set,2589,350,406,7948,7949,537169,2257,0,22
+full,category_share_ratio,C4,community_jurisdiction_population,Masters,all_panel_cells,4906,586,210,3459,3460,327528,4736,3345,34
+full,category_share_ratio,C4,community_jurisdiction_population,Masters,primary_ready,4790,570,209,3454,3455,327244,4621,3232,34
+full,category_share_ratio,C4,community_jurisdiction_population,Masters,initial_model_risk_set,1558,283,209,3454,3455,203107,1389,0,3
+full,category_share_ratio,C4,texts_media_discourse,Research doctorate,all_panel_cells,8387,861,147,7962,7963,663429,8247,5788,186
+full,category_share_ratio,C4,texts_media_discourse,Research doctorate,primary_ready,5919,601,147,7948,7949,662990,5779,3330,114
+full,category_share_ratio,C4,texts_media_discourse,Research doctorate,initial_model_risk_set,2589,350,147,7948,7949,537169,2449,0,22
+full,category_share_ratio,C4,texts_media_discourse,Masters,all_panel_cells,4906,586,108,3459,3460,327528,4802,3345,34
+full,category_share_ratio,C4,texts_media_discourse,Masters,primary_ready,4790,570,108,3454,3455,327244,4686,3232,34
+full,category_share_ratio,C4,texts_media_discourse,Masters,initial_model_risk_set,1558,283,108,3454,3455,203107,1454,0,3
+full,category_share_ratio,C4,multiple_no_dominant,Research doctorate,all_panel_cells,8387,861,59,7962,7963,663429,8328,5788,186
+full,category_share_ratio,C4,multiple_no_dominant,Research doctorate,primary_ready,5919,601,59,7948,7949,662990,5860,3330,114
+full,category_share_ratio,C4,multiple_no_dominant,Research doctorate,initial_model_risk_set,2589,350,59,7948,7949,537169,2530,0,22
+full,category_share_ratio,C4,multiple_no_dominant,Masters,all_panel_cells,4906,586,5,3459,3460,327528,4901,3345,34
+full,category_share_ratio,C4,multiple_no_dominant,Masters,primary_ready,4790,570,5,3454,3455,327244,4785,3232,34
+full,category_share_ratio,C4,multiple_no_dominant,Masters,initial_model_risk_set,1558,283,5,3454,3455,203107,1553,0,3
+full,category_share_ratio,C5,describe_distribution,Research doctorate,all_panel_cells,8387,861,48,7962,7963,663429,8341,5788,186
+full,category_share_ratio,C5,describe_distribution,Research doctorate,primary_ready,5919,601,48,7948,7949,662990,5873,3330,114
+full,category_share_ratio,C5,describe_distribution,Research doctorate,initial_model_risk_set,2589,350,48,7948,7949,537169,2543,0,22
+full,category_share_ratio,C5,describe_distribution,Masters,all_panel_cells,4906,586,49,3460,3460,327528,4861,3345,34
+full,category_share_ratio,C5,describe_distribution,Masters,primary_ready,4790,570,49,3455,3455,327244,4745,3232,34
+full,category_share_ratio,C5,describe_distribution,Masters,initial_model_risk_set,1558,283,49,3455,3455,203107,1513,0,3
+full,category_share_ratio,C5,explain_causes,Research doctorate,all_panel_cells,8387,861,2632,7962,7963,663429,6882,5788,186
+full,category_share_ratio,C5,explain_causes,Research doctorate,primary_ready,5919,601,2626,7948,7949,662990,4420,3330,114
+full,category_share_ratio,C5,explain_causes,Research doctorate,initial_model_risk_set,2589,350,2626,7948,7949,537169,1090,0,22
+full,category_share_ratio,C5,explain_causes,Masters,all_panel_cells,4906,586,1107,3460,3460,327528,4143,3345,34
+full,category_share_ratio,C5,explain_causes,Masters,primary_ready,4790,570,1107,3455,3455,327244,4027,3232,34
+full,category_share_ratio,C5,explain_causes,Masters,initial_model_risk_set,1558,283,1107,3455,3455,203107,795,0,3
+full,category_share_ratio,C5,consequences_of_use,Research doctorate,all_panel_cells,8387,861,1788,7962,7963,663429,7244,5788,186
+full,category_share_ratio,C5,consequences_of_use,Research doctorate,primary_ready,5919,601,1786,7948,7949,662990,4778,3330,114
+full,category_share_ratio,C5,consequences_of_use,Research doctorate,initial_model_risk_set,2589,350,1786,7948,7949,537169,1448,0,22
+full,category_share_ratio,C5,consequences_of_use,Masters,all_panel_cells,4906,586,864,3460,3460,327528,4288,3345,34
+full,category_share_ratio,C5,consequences_of_use,Masters,primary_ready,4790,570,861,3455,3455,327244,4174,3232,34
+full,category_share_ratio,C5,consequences_of_use,Masters,initial_model_risk_set,1558,283,861,3455,3455,203107,942,0,3
+full,category_share_ratio,C5,characterize_substance_action,Research doctorate,all_panel_cells,8387,861,922,7962,7963,663429,7749,5788,186
+full,category_share_ratio,C5,characterize_substance_action,Research doctorate,primary_ready,5919,601,922,7948,7949,662990,5281,3330,114
+full,category_share_ratio,C5,characterize_substance_action,Research doctorate,initial_model_risk_set,2589,350,922,7948,7949,537169,1951,0,22
+full,category_share_ratio,C5,characterize_substance_action,Masters,all_panel_cells,4906,586,228,3460,3460,327528,4705,3345,34
+full,category_share_ratio,C5,characterize_substance_action,Masters,primary_ready,4790,570,228,3455,3455,327244,4589,3232,34
+full,category_share_ratio,C5,characterize_substance_action,Masters,initial_model_risk_set,1558,283,228,3455,3455,203107,1357,0,3
+full,category_share_ratio,C5,intervene,Research doctorate,all_panel_cells,8387,861,908,7962,7963,663429,7671,5788,186
+full,category_share_ratio,C5,intervene,Research doctorate,primary_ready,5919,601,904,7948,7949,662990,5207,3330,114
+full,category_share_ratio,C5,intervene,Research doctorate,initial_model_risk_set,2589,350,904,7948,7949,537169,1877,0,22
+full,category_share_ratio,C5,intervene,Masters,all_panel_cells,4906,586,374,3460,3460,327528,4644,3345,34
+full,category_share_ratio,C5,intervene,Masters,primary_ready,4790,570,374,3455,3455,327244,4528,3232,34
+full,category_share_ratio,C5,intervene,Masters,initial_model_risk_set,1558,283,374,3455,3455,203107,1296,0,3
+full,category_share_ratio,C5,organize_deliver_services,Research doctorate,all_panel_cells,8387,861,581,7962,7963,663429,7928,5788,186
+full,category_share_ratio,C5,organize_deliver_services,Research doctorate,primary_ready,5919,601,580,7948,7949,662990,5461,3330,114
+full,category_share_ratio,C5,organize_deliver_services,Research doctorate,initial_model_risk_set,2589,350,580,7948,7949,537169,2131,0,22
+full,category_share_ratio,C5,organize_deliver_services,Masters,all_panel_cells,4906,586,245,3460,3460,327528,4709,3345,34
+full,category_share_ratio,C5,organize_deliver_services,Masters,primary_ready,4790,570,244,3455,3455,327244,4594,3232,34
+full,category_share_ratio,C5,organize_deliver_services,Masters,initial_model_risk_set,1558,283,244,3455,3455,203107,1362,0,3
+full,category_share_ratio,C5,law_policy_economics,Research doctorate,all_panel_cells,8387,861,233,7962,7963,663429,8176,5788,186
+full,category_share_ratio,C5,law_policy_economics,Research doctorate,primary_ready,5919,601,233,7948,7949,662990,5708,3330,114
+full,category_share_ratio,C5,law_policy_economics,Research doctorate,initial_model_risk_set,2589,350,233,7948,7949,537169,2378,0,22
+full,category_share_ratio,C5,law_policy_economics,Masters,all_panel_cells,4906,586,108,3460,3460,327528,4807,3345,34
+full,category_share_ratio,C5,law_policy_economics,Masters,primary_ready,4790,570,108,3455,3455,327244,4691,3232,34
+full,category_share_ratio,C5,law_policy_economics,Masters,initial_model_risk_set,1558,283,108,3455,3455,203107,1459,0,3
+full,category_share_ratio,C5,meanings_attitudes,Research doctorate,all_panel_cells,8387,861,268,7962,7963,663429,8138,5788,186
+full,category_share_ratio,C5,meanings_attitudes,Research doctorate,primary_ready,5919,601,268,7948,7949,662990,5670,3330,114
+full,category_share_ratio,C5,meanings_attitudes,Research doctorate,initial_model_risk_set,2589,350,268,7948,7949,537169,2340,0,22
+full,category_share_ratio,C5,meanings_attitudes,Masters,all_panel_cells,4906,586,192,3460,3460,327528,4721,3345,34
+full,category_share_ratio,C5,meanings_attitudes,Masters,primary_ready,4790,570,192,3455,3455,327244,4605,3232,34
+full,category_share_ratio,C5,meanings_attitudes,Masters,initial_model_risk_set,1558,283,192,3455,3455,203107,1373,0,3
+full,category_share_ratio,C5,education_workforce,Research doctorate,all_panel_cells,8387,861,89,7962,7963,663429,8304,5788,186
+full,category_share_ratio,C5,education_workforce,Research doctorate,primary_ready,5919,601,89,7948,7949,662990,5836,3330,114
+full,category_share_ratio,C5,education_workforce,Research doctorate,initial_model_risk_set,2589,350,89,7948,7949,537169,2506,0,22
+full,category_share_ratio,C5,education_workforce,Masters,all_panel_cells,4906,586,43,3460,3460,327528,4864,3345,34
+full,category_share_ratio,C5,education_workforce,Masters,primary_ready,4790,570,43,3455,3455,327244,4748,3232,34
+full,category_share_ratio,C5,education_workforce,Masters,initial_model_risk_set,1558,283,43,3455,3455,203107,1516,0,3
+full,category_share_ratio,C5,measurement,Research doctorate,all_panel_cells,8387,861,232,7962,7963,663429,8179,5788,186
+full,category_share_ratio,C5,measurement,Research doctorate,primary_ready,5919,601,232,7948,7949,662990,5711,3330,114
+full,category_share_ratio,C5,measurement,Research doctorate,initial_model_risk_set,2589,350,232,7948,7949,537169,2381,0,22
+full,category_share_ratio,C5,measurement,Masters,all_panel_cells,4906,586,195,3460,3460,327528,4753,3345,34
+full,category_share_ratio,C5,measurement,Masters,primary_ready,4790,570,195,3455,3455,327244,4637,3232,34
+full,category_share_ratio,C5,measurement,Masters,initial_model_risk_set,1558,283,195,3455,3455,203107,1405,0,3
+full,category_share_ratio,C5,other_stated_objective,Research doctorate,all_panel_cells,8387,861,2,7962,7963,663429,8385,5788,186
+full,category_share_ratio,C5,other_stated_objective,Research doctorate,primary_ready,5919,601,2,7948,7949,662990,5917,3330,114
+full,category_share_ratio,C5,other_stated_objective,Research doctorate,initial_model_risk_set,2589,350,2,7948,7949,537169,2587,0,22
+full,category_share_ratio,C5,other_stated_objective,Masters,all_panel_cells,4906,586,2,3460,3460,327528,4904,3345,34
+full,category_share_ratio,C5,other_stated_objective,Masters,primary_ready,4790,570,2,3455,3455,327244,4788,3232,34
+full,category_share_ratio,C5,other_stated_objective,Masters,initial_model_risk_set,1558,283,2,3455,3455,203107,1556,0,3
+full,category_share_ratio,C5,multiple_no_dominant,Research doctorate,all_panel_cells,8387,861,259,7962,7963,663429,8153,5788,186
+full,category_share_ratio,C5,multiple_no_dominant,Research doctorate,primary_ready,5919,601,258,7948,7949,662990,5686,3330,114
+full,category_share_ratio,C5,multiple_no_dominant,Research doctorate,initial_model_risk_set,2589,350,258,7948,7949,537169,2356,0,22
+full,category_share_ratio,C5,multiple_no_dominant,Masters,all_panel_cells,4906,586,53,3460,3460,327528,4855,3345,34
+full,category_share_ratio,C5,multiple_no_dominant,Masters,primary_ready,4790,570,52,3455,3455,327244,4740,3232,34
+full,category_share_ratio,C5,multiple_no_dominant,Masters,initial_model_risk_set,1558,283,52,3455,3455,203107,1508,0,3
+full,category_share_ratio,C8,survey_questionnaire,Research doctorate,all_panel_cells,8387,861,3896,7868,7963,663429,6555,5807,186
+full,category_share_ratio,C8,survey_questionnaire,Research doctorate,primary_ready,5919,601,3894,7854,7949,662990,4089,3349,114
+full,category_share_ratio,C8,survey_questionnaire,Research doctorate,initial_model_risk_set,2570,345,3894,7854,7929,534997,740,0,19
+full,category_share_ratio,C8,survey_questionnaire,Masters,all_panel_cells,4906,586,1653,3308,3460,327528,3944,3393,34
+full,category_share_ratio,C8,survey_questionnaire,Masters,primary_ready,4790,570,1651,3303,3455,327244,3830,3280,34
+full,category_share_ratio,C8,survey_questionnaire,Masters,initial_model_risk_set,1510,278,1651,3303,3401,198041,550,0,3
+full,category_share_ratio,C8,interview_observation,Research doctorate,all_panel_cells,8387,861,1135,7868,7963,663429,7595,5807,186
+full,category_share_ratio,C8,interview_observation,Research doctorate,primary_ready,5919,601,1134,7854,7949,662990,5128,3349,114
+full,category_share_ratio,C8,interview_observation,Research doctorate,initial_model_risk_set,2570,345,1134,7854,7929,534997,1779,0,19
+full,category_share_ratio,C8,interview_observation,Masters,all_panel_cells,4906,586,354,3308,3460,327528,4621,3393,34
+full,category_share_ratio,C8,interview_observation,Masters,primary_ready,4790,570,354,3303,3455,327244,4505,3280,34
+full,category_share_ratio,C8,interview_observation,Masters,initial_model_risk_set,1510,278,354,3303,3401,198041,1225,0,3
+full,category_share_ratio,C8,behavioral_task,Research doctorate,all_panel_cells,8387,861,1480,7868,7963,663429,7467,5807,186
+full,category_share_ratio,C8,behavioral_task,Research doctorate,primary_ready,5919,601,1473,7854,7949,662990,5005,3349,114
+full,category_share_ratio,C8,behavioral_task,Research doctorate,initial_model_risk_set,2570,345,1473,7854,7929,534997,1656,0,19
+full,category_share_ratio,C8,behavioral_task,Masters,all_panel_cells,4906,586,493,3308,3460,327528,4542,3393,34
+full,category_share_ratio,C8,behavioral_task,Masters,primary_ready,4790,570,493,3303,3455,327244,4426,3280,34
+full,category_share_ratio,C8,behavioral_task,Masters,initial_model_risk_set,1510,278,493,3303,3401,198041,1146,0,3
+full,category_share_ratio,C8,biological_physiological,Research doctorate,all_panel_cells,8387,861,2153,7868,7963,663429,7165,5807,186
+full,category_share_ratio,C8,biological_physiological,Research doctorate,primary_ready,5919,601,2145,7854,7949,662990,4704,3349,114
+full,category_share_ratio,C8,biological_physiological,Research doctorate,initial_model_risk_set,2570,345,2145,7854,7929,534997,1355,0,19
+full,category_share_ratio,C8,biological_physiological,Masters,all_panel_cells,4906,586,615,3308,3460,327528,4466,3393,34
+full,category_share_ratio,C8,biological_physiological,Masters,primary_ready,4790,570,615,3303,3455,327244,4350,3280,34
+full,category_share_ratio,C8,biological_physiological,Masters,initial_model_risk_set,1510,278,615,3303,3401,198041,1070,0,3
+full,category_share_ratio,C8,neuroimaging_electrophysiology,Research doctorate,all_panel_cells,8387,861,470,7868,7963,663429,8015,5807,186
+full,category_share_ratio,C8,neuroimaging_electrophysiology,Research doctorate,primary_ready,5919,601,467,7854,7949,662990,5550,3349,114
+full,category_share_ratio,C8,neuroimaging_electrophysiology,Research doctorate,initial_model_risk_set,2570,345,467,7854,7929,534997,2201,0,19
+full,category_share_ratio,C8,neuroimaging_electrophysiology,Masters,all_panel_cells,4906,586,106,3308,3460,327528,4819,3393,34
+full,category_share_ratio,C8,neuroimaging_electrophysiology,Masters,primary_ready,4790,570,106,3303,3455,327244,4703,3280,34
+full,category_share_ratio,C8,neuroimaging_electrophysiology,Masters,initial_model_risk_set,1510,278,106,3303,3401,198041,1423,0,3
+full,category_share_ratio,C8,genetic_genomic,Research doctorate,all_panel_cells,8387,861,316,7868,7963,663429,8123,5807,186
+full,category_share_ratio,C8,genetic_genomic,Research doctorate,primary_ready,5919,601,313,7854,7949,662990,5658,3349,114
+full,category_share_ratio,C8,genetic_genomic,Research doctorate,initial_model_risk_set,2570,345,313,7854,7929,534997,2309,0,19
+full,category_share_ratio,C8,genetic_genomic,Masters,all_panel_cells,4906,586,58,3308,3460,327528,4849,3393,34
+full,category_share_ratio,C8,genetic_genomic,Masters,primary_ready,4790,570,58,3303,3455,327244,4733,3280,34
+full,category_share_ratio,C8,genetic_genomic,Masters,initial_model_risk_set,1510,278,58,3303,3401,198041,1453,0,3
+full,category_share_ratio,C8,chemical_analytical,Research doctorate,all_panel_cells,8387,861,1386,7868,7963,663429,7489,5807,186
+full,category_share_ratio,C8,chemical_analytical,Research doctorate,primary_ready,5919,601,1380,7854,7949,662990,5025,3349,114
+full,category_share_ratio,C8,chemical_analytical,Research doctorate,initial_model_risk_set,2570,345,1380,7854,7929,534997,1676,0,19
+full,category_share_ratio,C8,chemical_analytical,Masters,all_panel_cells,4906,586,434,3308,3460,327528,4579,3393,34
+full,category_share_ratio,C8,chemical_analytical,Masters,primary_ready,4790,570,434,3303,3455,327244,4463,3280,34
+full,category_share_ratio,C8,chemical_analytical,Masters,initial_model_risk_set,1510,278,434,3303,3401,198041,1183,0,3
+full,category_share_ratio,C8,health_records,Research doctorate,all_panel_cells,8387,861,743,7868,7963,663429,7855,5807,186
+full,category_share_ratio,C8,health_records,Research doctorate,primary_ready,5919,601,742,7854,7949,662990,5388,3349,114
+full,category_share_ratio,C8,health_records,Research doctorate,initial_model_risk_set,2570,345,742,7854,7929,534997,2039,0,19
+full,category_share_ratio,C8,health_records,Masters,all_panel_cells,4906,586,209,3308,3460,327528,4741,3393,34
+full,category_share_ratio,C8,health_records,Masters,primary_ready,4790,570,204,3303,3455,327244,4628,3280,34
+full,category_share_ratio,C8,health_records,Masters,initial_model_risk_set,1510,278,204,3303,3401,198041,1348,0,3
+full,category_share_ratio,C8,administrative_records,Research doctorate,all_panel_cells,8387,861,211,7868,7963,663429,8200,5807,186
+full,category_share_ratio,C8,administrative_records,Research doctorate,primary_ready,5919,601,210,7854,7949,662990,5733,3349,114
+full,category_share_ratio,C8,administrative_records,Research doctorate,initial_model_risk_set,2570,345,210,7854,7929,534997,2384,0,19
+full,category_share_ratio,C8,administrative_records,Masters,all_panel_cells,4906,586,57,3308,3460,327528,4853,3393,34
+full,category_share_ratio,C8,administrative_records,Masters,primary_ready,4790,570,56,3303,3455,327244,4738,3280,34
+full,category_share_ratio,C8,administrative_records,Masters,initial_model_risk_set,1510,278,56,3303,3401,198041,1458,0,3
+full,category_share_ratio,C8,documents_media_online,Research doctorate,all_panel_cells,8387,861,402,7868,7963,663429,8042,5807,186
+full,category_share_ratio,C8,documents_media_online,Research doctorate,primary_ready,5919,601,401,7854,7949,662990,5575,3349,114
+full,category_share_ratio,C8,documents_media_online,Research doctorate,initial_model_risk_set,2570,345,401,7854,7929,534997,2226,0,19
+full,category_share_ratio,C8,documents_media_online,Masters,all_panel_cells,4906,586,332,3308,3460,327528,4677,3393,34
+full,category_share_ratio,C8,documents_media_online,Masters,primary_ready,4790,570,332,3303,3455,327244,4561,3280,34
+full,category_share_ratio,C8,documents_media_online,Masters,initial_model_risk_set,1510,278,332,3303,3401,198041,1281,0,3
+full,category_share_ratio,C8,geospatial_market_environmental,Research doctorate,all_panel_cells,8387,861,207,7868,7963,663429,8199,5807,186
+full,category_share_ratio,C8,geospatial_market_environmental,Research doctorate,primary_ready,5919,601,207,7854,7949,662990,5731,3349,114
+full,category_share_ratio,C8,geospatial_market_environmental,Research doctorate,initial_model_risk_set,2570,345,207,7854,7929,534997,2382,0,19
+full,category_share_ratio,C8,geospatial_market_environmental,Masters,all_panel_cells,4906,586,57,3308,3460,327528,4855,3393,34
+full,category_share_ratio,C8,geospatial_market_environmental,Masters,primary_ready,4790,570,57,3303,3455,327244,4739,3280,34
+full,category_share_ratio,C8,geospatial_market_environmental,Masters,initial_model_risk_set,1510,278,57,3303,3401,198041,1459,0,3
+full,category_share_ratio,C8,simulated_model_data,Research doctorate,all_panel_cells,8387,861,225,7868,7963,663429,8186,5807,186
+full,category_share_ratio,C8,simulated_model_data,Research doctorate,primary_ready,5919,601,225,7854,7949,662990,5718,3349,114
+full,category_share_ratio,C8,simulated_model_data,Research doctorate,initial_model_risk_set,2570,345,225,7854,7929,534997,2369,0,19
+full,category_share_ratio,C8,simulated_model_data,Masters,all_panel_cells,4906,586,37,3308,3460,327528,4871,3393,34
+full,category_share_ratio,C8,simulated_model_data,Masters,primary_ready,4790,570,37,3303,3455,327244,4755,3280,34
+full,category_share_ratio,C8,simulated_model_data,Masters,initial_model_risk_set,1510,278,37,3303,3401,198041,1475,0,3
+exclude_ever_for_profit,category_count_ratio,C3,mixed_methods,Research doctorate,all_panel_cells,7993,806,331,7152,7388,638749,7694,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,mixed_methods,Research doctorate,primary_ready,5733,569,330,7138,7374,638310,5435,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,mixed_methods,Research doctorate,initial_model_risk_set,5733,569,330,7138,7374,638310,5435,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,mixed_methods,Masters,all_panel_cells,4827,574,69,3115,3391,325656,4761,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,mixed_methods,Masters,primary_ready,4711,558,69,3110,3386,325372,4645,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,mixed_methods,Masters,initial_model_risk_set,4711,558,69,3110,3386,325372,4645,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,qualitative,Research doctorate,all_panel_cells,7993,806,374,7152,7388,638749,7645,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,qualitative,Research doctorate,primary_ready,5733,569,374,7138,7374,638310,5385,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,qualitative,Research doctorate,initial_model_risk_set,5733,569,374,7138,7374,638310,5385,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,qualitative,Masters,all_panel_cells,4827,574,273,3115,3391,325656,4631,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,qualitative,Masters,primary_ready,4711,558,273,3110,3386,325372,4515,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,qualitative,Masters,initial_model_risk_set,4711,558,273,3110,3386,325372,4515,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,single_case,Research doctorate,all_panel_cells,7993,806,19,7152,7388,638749,7974,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,single_case,Research doctorate,primary_ready,5733,569,19,7138,7374,638310,5714,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,single_case,Research doctorate,initial_model_risk_set,5733,569,19,7138,7374,638310,5714,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,single_case,Masters,all_panel_cells,4827,574,8,3115,3391,325656,4819,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,single_case,Masters,primary_ready,4711,558,8,3110,3386,325372,4703,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,single_case,Masters,initial_model_risk_set,4711,558,8,3110,3386,325372,4703,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,computational_modeling,Research doctorate,all_panel_cells,7993,806,158,7152,7388,638749,7848,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,computational_modeling,Research doctorate,primary_ready,5733,569,158,7138,7374,638310,5588,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,computational_modeling,Research doctorate,initial_model_risk_set,5733,569,158,7138,7374,638310,5588,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,computational_modeling,Masters,all_panel_cells,4827,574,56,3115,3391,325656,4773,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,computational_modeling,Masters,primary_ready,4711,558,56,3110,3386,325372,4657,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,computational_modeling,Masters,initial_model_risk_set,4711,558,56,3110,3386,325372,4657,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,synthesis_characterization,Research doctorate,all_panel_cells,7993,806,65,7152,7388,638749,7931,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,synthesis_characterization,Research doctorate,primary_ready,5733,569,65,7138,7374,638310,5671,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,synthesis_characterization,Research doctorate,initial_model_risk_set,5733,569,65,7138,7374,638310,5671,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,synthesis_characterization,Masters,all_panel_cells,4827,574,62,3115,3391,325656,4776,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,synthesis_characterization,Masters,primary_ready,4711,558,62,3110,3386,325372,4660,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,synthesis_characterization,Masters,initial_model_risk_set,4711,558,62,3110,3386,325372,4660,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,experimental_randomized,Research doctorate,all_panel_cells,7993,806,399,7152,7388,638749,7649,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,experimental_randomized,Research doctorate,primary_ready,5733,569,399,7138,7374,638310,5389,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,experimental_randomized,Research doctorate,initial_model_risk_set,5733,569,399,7138,7374,638310,5389,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,experimental_randomized,Masters,all_panel_cells,4827,574,136,3115,3391,325656,4702,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,experimental_randomized,Masters,primary_ready,4711,558,136,3110,3386,325372,4586,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,experimental_randomized,Masters,initial_model_risk_set,4711,558,136,3110,3386,325372,4586,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,experimental_nonrandomized,Research doctorate,all_panel_cells,7993,806,2654,7152,7388,638749,6626,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,experimental_nonrandomized,Research doctorate,primary_ready,5733,569,2643,7138,7374,638310,4374,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,experimental_nonrandomized,Research doctorate,initial_model_risk_set,5733,569,2643,7138,7374,638310,4374,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,experimental_nonrandomized,Masters,all_panel_cells,4827,574,906,3115,3391,325656,4220,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,experimental_nonrandomized,Masters,primary_ready,4711,558,906,3110,3386,325372,4104,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,experimental_nonrandomized,Masters,initial_model_risk_set,4711,558,906,3110,3386,325372,4104,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,quasi_experimental,Research doctorate,all_panel_cells,7993,806,237,7152,7388,638749,7785,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,quasi_experimental,Research doctorate,primary_ready,5733,569,237,7138,7374,638310,5525,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,quasi_experimental,Research doctorate,initial_model_risk_set,5733,569,237,7138,7374,638310,5525,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,quasi_experimental,Masters,all_panel_cells,4827,574,42,3115,3391,325656,4789,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,quasi_experimental,Masters,primary_ready,4711,558,42,3110,3386,325372,4673,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,quasi_experimental,Masters,initial_model_risk_set,4711,558,42,3110,3386,325372,4673,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,single_group_pre_post,Research doctorate,all_panel_cells,7993,806,34,7152,7388,638749,7959,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,single_group_pre_post,Research doctorate,primary_ready,5733,569,34,7138,7374,638310,5699,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,single_group_pre_post,Research doctorate,initial_model_risk_set,5733,569,34,7138,7374,638310,5699,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,single_group_pre_post,Masters,all_panel_cells,4827,574,48,3115,3391,325656,4781,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,single_group_pre_post,Masters,primary_ready,4711,558,48,3110,3386,325372,4665,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,single_group_pre_post,Masters,initial_model_risk_set,4711,558,48,3110,3386,325372,4665,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,longitudinal_observational,Research doctorate,all_panel_cells,7993,806,724,7152,7388,638749,7428,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,longitudinal_observational,Research doctorate,primary_ready,5733,569,724,7138,7374,638310,5168,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,longitudinal_observational,Research doctorate,initial_model_risk_set,5733,569,724,7138,7374,638310,5168,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,longitudinal_observational,Masters,all_panel_cells,4827,574,207,3115,3391,325656,4650,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,longitudinal_observational,Masters,primary_ready,4711,558,206,3110,3386,325372,4535,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,longitudinal_observational,Masters,initial_model_risk_set,4711,558,206,3110,3386,325372,4535,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,cross_sectional_observational,Research doctorate,all_panel_cells,7993,806,1655,7152,7388,638749,6857,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,cross_sectional_observational,Research doctorate,primary_ready,5733,569,1653,7138,7374,638310,4599,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,cross_sectional_observational,Research doctorate,initial_model_risk_set,5733,569,1653,7138,7374,638310,4599,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,cross_sectional_observational,Masters,all_panel_cells,4827,574,1271,3115,3391,325656,4027,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,cross_sectional_observational,Masters,primary_ready,4711,558,1269,3110,3386,325372,3912,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,cross_sectional_observational,Masters,initial_model_risk_set,4711,558,1269,3110,3386,325372,3912,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,multiple_no_dominant,Research doctorate,all_panel_cells,7993,806,502,7152,7388,638749,7597,5525,176
+exclude_ever_for_profit,category_count_ratio,C3,multiple_no_dominant,Research doctorate,primary_ready,5733,569,502,7138,7374,638310,5337,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,multiple_no_dominant,Research doctorate,initial_model_risk_set,5733,569,502,7138,7374,638310,5337,3275,112
+exclude_ever_for_profit,category_count_ratio,C3,multiple_no_dominant,Masters,all_panel_cells,4827,574,37,3115,3391,325656,4791,3371,32
+exclude_ever_for_profit,category_count_ratio,C3,multiple_no_dominant,Masters,primary_ready,4711,558,35,3110,3386,325372,4677,3258,32
+exclude_ever_for_profit,category_count_ratio,C3,multiple_no_dominant,Masters,initial_model_risk_set,4711,558,35,3110,3386,325372,4677,3258,32
+exclude_ever_for_profit,category_count_ratio,C4,molecular_cellular,Research doctorate,all_panel_cells,7993,806,1054,7387,7388,638749,7246,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,molecular_cellular,Research doctorate,primary_ready,5733,569,1052,7373,7374,638310,4988,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,molecular_cellular,Research doctorate,initial_model_risk_set,5733,569,1052,7373,7374,638310,4988,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,molecular_cellular,Masters,all_panel_cells,4827,574,358,3390,3391,325656,4550,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,molecular_cellular,Masters,primary_ready,4711,558,358,3385,3386,325372,4434,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,molecular_cellular,Masters,initial_model_risk_set,4711,558,358,3385,3386,325372,4434,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,organism_nonhuman,Research doctorate,all_panel_cells,7993,806,1064,7387,7388,638749,7259,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,organism_nonhuman,Research doctorate,primary_ready,5733,569,1057,7373,7374,638310,5005,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,organism_nonhuman,Research doctorate,initial_model_risk_set,5733,569,1057,7373,7374,638310,5005,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,organism_nonhuman,Masters,all_panel_cells,4827,574,435,3390,3391,325656,4505,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,organism_nonhuman,Masters,primary_ready,4711,558,435,3385,3386,325372,4389,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,organism_nonhuman,Masters,initial_model_risk_set,4711,558,435,3385,3386,325372,4389,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,individual_human,Research doctorate,all_panel_cells,7993,806,4305,7387,7388,638749,6037,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,individual_human,Research doctorate,primary_ready,5733,569,4302,7373,7374,638310,3780,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,individual_human,Research doctorate,initial_model_risk_set,5733,569,4302,7373,7374,638310,3780,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,individual_human,Masters,all_panel_cells,4827,574,2043,3390,3391,325656,3706,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,individual_human,Masters,primary_ready,4711,558,2039,3385,3386,325372,3592,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,individual_human,Masters,initial_model_risk_set,4711,558,2039,3385,3386,325372,3592,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,dyad_family_group,Research doctorate,all_panel_cells,7993,806,173,7387,7388,638749,7836,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,dyad_family_group,Research doctorate,primary_ready,5733,569,173,7373,7374,638310,5576,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,dyad_family_group,Research doctorate,initial_model_risk_set,5733,569,173,7373,7374,638310,5576,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,dyad_family_group,Masters,all_panel_cells,4827,574,69,3390,3391,325656,4763,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,dyad_family_group,Masters,primary_ready,4711,558,69,3385,3386,325372,4647,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,dyad_family_group,Masters,initial_model_risk_set,4711,558,69,3385,3386,325372,4647,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,organization_program,Research doctorate,all_panel_cells,7993,806,203,7387,7388,638749,7806,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,organization_program,Research doctorate,primary_ready,5733,569,202,7373,7374,638310,5547,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,organization_program,Research doctorate,initial_model_risk_set,5733,569,202,7373,7374,638310,5547,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,organization_program,Masters,all_panel_cells,4827,574,166,3390,3391,325656,4699,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,organization_program,Masters,primary_ready,4711,558,166,3385,3386,325372,4583,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,organization_program,Masters,initial_model_risk_set,4711,558,166,3385,3386,325372,4583,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,community_jurisdiction_population,Research doctorate,all_panel_cells,7993,806,389,7387,7388,638749,7670,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,community_jurisdiction_population,Research doctorate,primary_ready,5733,569,388,7373,7374,638310,5411,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,community_jurisdiction_population,Research doctorate,initial_model_risk_set,5733,569,388,7373,7374,638310,5411,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,community_jurisdiction_population,Masters,all_panel_cells,4827,574,209,3390,3391,325656,4658,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,community_jurisdiction_population,Masters,primary_ready,4711,558,208,3385,3386,325372,4543,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,community_jurisdiction_population,Masters,initial_model_risk_set,4711,558,208,3385,3386,325372,4543,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,texts_media_discourse,Research doctorate,all_panel_cells,7993,806,140,7387,7388,638749,7860,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,texts_media_discourse,Research doctorate,primary_ready,5733,569,140,7373,7374,638310,5600,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,texts_media_discourse,Research doctorate,initial_model_risk_set,5733,569,140,7373,7374,638310,5600,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,texts_media_discourse,Masters,all_panel_cells,4827,574,105,3390,3391,325656,4726,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,texts_media_discourse,Masters,primary_ready,4711,558,105,3385,3386,325372,4610,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,texts_media_discourse,Masters,initial_model_risk_set,4711,558,105,3385,3386,325372,4610,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,multiple_no_dominant,Research doctorate,all_panel_cells,7993,806,59,7387,7388,638749,7934,5487,176
+exclude_ever_for_profit,category_count_ratio,C4,multiple_no_dominant,Research doctorate,primary_ready,5733,569,59,7373,7374,638310,5674,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,multiple_no_dominant,Research doctorate,initial_model_risk_set,5733,569,59,7373,7374,638310,5674,3237,112
+exclude_ever_for_profit,category_count_ratio,C4,multiple_no_dominant,Masters,all_panel_cells,4827,574,5,3390,3391,325656,4822,3292,32
+exclude_ever_for_profit,category_count_ratio,C4,multiple_no_dominant,Masters,primary_ready,4711,558,5,3385,3386,325372,4706,3179,32
+exclude_ever_for_profit,category_count_ratio,C4,multiple_no_dominant,Masters,initial_model_risk_set,4711,558,5,3385,3386,325372,4706,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,describe_distribution,Research doctorate,all_panel_cells,7993,806,47,7387,7388,638749,7948,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,describe_distribution,Research doctorate,primary_ready,5733,569,47,7373,7374,638310,5688,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,describe_distribution,Research doctorate,initial_model_risk_set,5733,569,47,7373,7374,638310,5688,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,describe_distribution,Masters,all_panel_cells,4827,574,49,3391,3391,325656,4782,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,describe_distribution,Masters,primary_ready,4711,558,49,3386,3386,325372,4666,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,describe_distribution,Masters,initial_model_risk_set,4711,558,49,3386,3386,325372,4666,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,explain_causes,Research doctorate,all_panel_cells,7993,806,2450,7387,7388,638749,6554,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,explain_causes,Research doctorate,primary_ready,5733,569,2444,7373,7374,638310,4300,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,explain_causes,Research doctorate,initial_model_risk_set,5733,569,2444,7373,7374,638310,4300,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,explain_causes,Masters,all_panel_cells,4827,574,1087,3391,3391,325656,4080,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,explain_causes,Masters,primary_ready,4711,558,1087,3386,3386,325372,3964,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,explain_causes,Masters,initial_model_risk_set,4711,558,1087,3386,3386,325372,3964,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,consequences_of_use,Research doctorate,all_panel_cells,7993,806,1682,7387,7388,638749,6901,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,consequences_of_use,Research doctorate,primary_ready,5733,569,1680,7373,7374,638310,4643,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,consequences_of_use,Research doctorate,initial_model_risk_set,5733,569,1680,7373,7374,638310,4643,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,consequences_of_use,Masters,all_panel_cells,4827,574,859,3391,3391,325656,4212,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,consequences_of_use,Masters,primary_ready,4711,558,856,3386,3386,325372,4098,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,consequences_of_use,Masters,initial_model_risk_set,4711,558,856,3386,3386,325372,4098,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,characterize_substance_action,Research doctorate,all_panel_cells,7993,806,922,7387,7388,638749,7355,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,characterize_substance_action,Research doctorate,primary_ready,5733,569,922,7373,7374,638310,5095,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,characterize_substance_action,Research doctorate,initial_model_risk_set,5733,569,922,7373,7374,638310,5095,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,characterize_substance_action,Masters,all_panel_cells,4827,574,228,3391,3391,325656,4626,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,characterize_substance_action,Masters,primary_ready,4711,558,228,3386,3386,325372,4510,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,characterize_substance_action,Masters,initial_model_risk_set,4711,558,228,3386,3386,325372,4510,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,intervene,Research doctorate,all_panel_cells,7993,806,799,7387,7388,638749,7334,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,intervene,Research doctorate,primary_ready,5733,569,795,7373,7374,638310,5078,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,intervene,Research doctorate,initial_model_risk_set,5733,569,795,7373,7374,638310,5078,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,intervene,Masters,all_panel_cells,4827,574,342,3391,3391,325656,4583,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,intervene,Masters,primary_ready,4711,558,342,3386,3386,325372,4467,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,intervene,Masters,initial_model_risk_set,4711,558,342,3386,3386,325372,4467,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,organize_deliver_services,Research doctorate,all_panel_cells,7993,806,482,7387,7388,638749,7572,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,organize_deliver_services,Research doctorate,primary_ready,5733,569,481,7373,7374,638310,5313,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,organize_deliver_services,Research doctorate,initial_model_risk_set,5733,569,481,7373,7374,638310,5313,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,organize_deliver_services,Masters,all_panel_cells,4827,574,240,3391,3391,325656,4633,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,organize_deliver_services,Masters,primary_ready,4711,558,239,3386,3386,325372,4518,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,organize_deliver_services,Masters,initial_model_risk_set,4711,558,239,3386,3386,325372,4518,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,law_policy_economics,Research doctorate,all_panel_cells,7993,806,218,7387,7388,638749,7792,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,law_policy_economics,Research doctorate,primary_ready,5733,569,218,7373,7374,638310,5532,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,law_policy_economics,Research doctorate,initial_model_risk_set,5733,569,218,7373,7374,638310,5532,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,law_policy_economics,Masters,all_panel_cells,4827,574,108,3391,3391,325656,4728,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,law_policy_economics,Masters,primary_ready,4711,558,108,3386,3386,325372,4612,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,law_policy_economics,Masters,initial_model_risk_set,4711,558,108,3386,3386,325372,4612,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,meanings_attitudes,Research doctorate,all_panel_cells,7993,806,237,7387,7388,638749,7767,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,meanings_attitudes,Research doctorate,primary_ready,5733,569,237,7373,7374,638310,5507,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,meanings_attitudes,Research doctorate,initial_model_risk_set,5733,569,237,7373,7374,638310,5507,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,meanings_attitudes,Masters,all_panel_cells,4827,574,186,3391,3391,325656,4648,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,meanings_attitudes,Masters,primary_ready,4711,558,186,3386,3386,325372,4532,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,meanings_attitudes,Masters,initial_model_risk_set,4711,558,186,3386,3386,325372,4532,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,education_workforce,Research doctorate,all_panel_cells,7993,806,69,7387,7388,638749,7925,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,education_workforce,Research doctorate,primary_ready,5733,569,69,7373,7374,638310,5665,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,education_workforce,Research doctorate,initial_model_risk_set,5733,569,69,7373,7374,638310,5665,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,education_workforce,Masters,all_panel_cells,4827,574,43,3391,3391,325656,4785,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,education_workforce,Masters,primary_ready,4711,558,43,3386,3386,325372,4669,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,education_workforce,Masters,initial_model_risk_set,4711,558,43,3386,3386,325372,4669,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,measurement,Research doctorate,all_panel_cells,7993,806,227,7387,7388,638749,7789,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,measurement,Research doctorate,primary_ready,5733,569,227,7373,7374,638310,5529,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,measurement,Research doctorate,initial_model_risk_set,5733,569,227,7373,7374,638310,5529,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,measurement,Masters,all_panel_cells,4827,574,195,3391,3391,325656,4674,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,measurement,Masters,primary_ready,4711,558,195,3386,3386,325372,4558,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,measurement,Masters,initial_model_risk_set,4711,558,195,3386,3386,325372,4558,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,other_stated_objective,Research doctorate,all_panel_cells,7993,806,2,7387,7388,638749,7991,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,other_stated_objective,Research doctorate,primary_ready,5733,569,2,7373,7374,638310,5731,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,other_stated_objective,Research doctorate,initial_model_risk_set,5733,569,2,7373,7374,638310,5731,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,other_stated_objective,Masters,all_panel_cells,4827,574,2,3391,3391,325656,4825,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,other_stated_objective,Masters,primary_ready,4711,558,2,3386,3386,325372,4709,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,other_stated_objective,Masters,initial_model_risk_set,4711,558,2,3386,3386,325372,4709,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,multiple_no_dominant,Research doctorate,all_panel_cells,7993,806,252,7387,7388,638749,7765,5487,176
+exclude_ever_for_profit,category_count_ratio,C5,multiple_no_dominant,Research doctorate,primary_ready,5733,569,251,7373,7374,638310,5506,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,multiple_no_dominant,Research doctorate,initial_model_risk_set,5733,569,251,7373,7374,638310,5506,3237,112
+exclude_ever_for_profit,category_count_ratio,C5,multiple_no_dominant,Masters,all_panel_cells,4827,574,52,3391,3391,325656,4777,3292,32
+exclude_ever_for_profit,category_count_ratio,C5,multiple_no_dominant,Masters,primary_ready,4711,558,51,3386,3386,325372,4662,3179,32
+exclude_ever_for_profit,category_count_ratio,C5,multiple_no_dominant,Masters,initial_model_risk_set,4711,558,51,3386,3386,325372,4662,3179,32
+exclude_ever_for_profit,category_count_ratio,C8,survey_questionnaire,Research doctorate,all_panel_cells,7993,806,3613,7298,7388,638749,6233,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,survey_questionnaire,Research doctorate,primary_ready,5733,569,3611,7284,7374,638310,3975,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,survey_questionnaire,Research doctorate,initial_model_risk_set,5733,569,3611,7284,7374,638310,3975,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,survey_questionnaire,Masters,all_panel_cells,4827,574,1628,3263,3391,325656,3876,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,survey_questionnaire,Masters,primary_ready,4711,558,1626,3258,3386,325372,3762,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,survey_questionnaire,Masters,initial_model_risk_set,4711,558,1626,3258,3386,325372,3762,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,interview_observation,Research doctorate,all_panel_cells,7993,806,908,7298,7388,638749,7265,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,interview_observation,Research doctorate,primary_ready,5733,569,907,7284,7374,638310,5006,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,interview_observation,Research doctorate,initial_model_risk_set,5733,569,907,7284,7374,638310,5006,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,interview_observation,Masters,all_panel_cells,4827,574,337,3263,3391,325656,4555,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,interview_observation,Masters,primary_ready,4711,558,337,3258,3386,325372,4439,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,interview_observation,Masters,initial_model_risk_set,4711,558,337,3258,3386,325372,4439,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,behavioral_task,Research doctorate,all_panel_cells,7993,806,1473,7298,7388,638749,7080,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,behavioral_task,Research doctorate,primary_ready,5733,569,1466,7284,7374,638310,4826,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,behavioral_task,Research doctorate,initial_model_risk_set,5733,569,1466,7284,7374,638310,4826,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,behavioral_task,Masters,all_panel_cells,4827,574,493,3263,3391,325656,4463,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,behavioral_task,Masters,primary_ready,4711,558,493,3258,3386,325372,4347,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,behavioral_task,Masters,initial_model_risk_set,4711,558,493,3258,3386,325372,4347,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,biological_physiological,Research doctorate,all_panel_cells,7993,806,2147,7298,7388,638749,6777,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,biological_physiological,Research doctorate,primary_ready,5733,569,2139,7284,7374,638310,4524,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,biological_physiological,Research doctorate,initial_model_risk_set,5733,569,2139,7284,7374,638310,4524,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,biological_physiological,Masters,all_panel_cells,4827,574,614,3263,3391,325656,4388,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,biological_physiological,Masters,primary_ready,4711,558,614,3258,3386,325372,4272,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,biological_physiological,Masters,initial_model_risk_set,4711,558,614,3258,3386,325372,4272,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,neuroimaging_electrophysiology,Research doctorate,all_panel_cells,7993,806,469,7298,7388,638749,7622,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,neuroimaging_electrophysiology,Research doctorate,primary_ready,5733,569,466,7284,7374,638310,5365,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,neuroimaging_electrophysiology,Research doctorate,initial_model_risk_set,5733,569,466,7284,7374,638310,5365,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,neuroimaging_electrophysiology,Masters,all_panel_cells,4827,574,105,3263,3391,325656,4741,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,neuroimaging_electrophysiology,Masters,primary_ready,4711,558,105,3258,3386,325372,4625,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,neuroimaging_electrophysiology,Masters,initial_model_risk_set,4711,558,105,3258,3386,325372,4625,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,genetic_genomic,Research doctorate,all_panel_cells,7993,806,314,7298,7388,638749,7731,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,genetic_genomic,Research doctorate,primary_ready,5733,569,311,7284,7374,638310,5474,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,genetic_genomic,Research doctorate,initial_model_risk_set,5733,569,311,7284,7374,638310,5474,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,genetic_genomic,Masters,all_panel_cells,4827,574,58,3263,3391,325656,4770,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,genetic_genomic,Masters,primary_ready,4711,558,58,3258,3386,325372,4654,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,genetic_genomic,Masters,initial_model_risk_set,4711,558,58,3258,3386,325372,4654,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,chemical_analytical,Research doctorate,all_panel_cells,7993,806,1386,7298,7388,638749,7095,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,chemical_analytical,Research doctorate,primary_ready,5733,569,1380,7284,7374,638310,4839,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,chemical_analytical,Research doctorate,initial_model_risk_set,5733,569,1380,7284,7374,638310,4839,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,chemical_analytical,Masters,all_panel_cells,4827,574,434,3263,3391,325656,4500,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,chemical_analytical,Masters,primary_ready,4711,558,434,3258,3386,325372,4384,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,chemical_analytical,Masters,initial_model_risk_set,4711,558,434,3258,3386,325372,4384,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,health_records,Research doctorate,all_panel_cells,7993,806,673,7298,7388,638749,7493,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,health_records,Research doctorate,primary_ready,5733,569,672,7284,7374,638310,5234,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,health_records,Research doctorate,initial_model_risk_set,5733,569,672,7284,7374,638310,5234,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,health_records,Masters,all_panel_cells,4827,574,209,3263,3391,325656,4662,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,health_records,Masters,primary_ready,4711,558,204,3258,3386,325372,4549,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,health_records,Masters,initial_model_risk_set,4711,558,204,3258,3386,325372,4549,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,administrative_records,Research doctorate,all_panel_cells,7993,806,196,7298,7388,638749,7816,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,administrative_records,Research doctorate,primary_ready,5733,569,195,7284,7374,638310,5557,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,administrative_records,Research doctorate,initial_model_risk_set,5733,569,195,7284,7374,638310,5557,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,administrative_records,Masters,all_panel_cells,4827,574,57,3263,3391,325656,4774,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,administrative_records,Masters,primary_ready,4711,558,56,3258,3386,325372,4659,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,administrative_records,Masters,initial_model_risk_set,4711,558,56,3258,3386,325372,4659,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,documents_media_online,Research doctorate,all_panel_cells,7993,806,380,7298,7388,638749,7665,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,documents_media_online,Research doctorate,primary_ready,5733,569,379,7284,7374,638310,5406,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,documents_media_online,Research doctorate,initial_model_risk_set,5733,569,379,7284,7374,638310,5406,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,documents_media_online,Masters,all_panel_cells,4827,574,324,3263,3391,325656,4604,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,documents_media_online,Masters,primary_ready,4711,558,324,3258,3386,325372,4488,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,documents_media_online,Masters,initial_model_risk_set,4711,558,324,3258,3386,325372,4488,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,geospatial_market_environmental,Research doctorate,all_panel_cells,7993,806,205,7298,7388,638749,7807,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,geospatial_market_environmental,Research doctorate,primary_ready,5733,569,205,7284,7374,638310,5547,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,geospatial_market_environmental,Research doctorate,initial_model_risk_set,5733,569,205,7284,7374,638310,5547,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,geospatial_market_environmental,Masters,all_panel_cells,4827,574,57,3263,3391,325656,4776,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,geospatial_market_environmental,Masters,primary_ready,4711,558,57,3258,3386,325372,4660,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,geospatial_market_environmental,Masters,initial_model_risk_set,4711,558,57,3258,3386,325372,4660,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,simulated_model_data,Research doctorate,all_panel_cells,7993,806,225,7298,7388,638749,7792,5504,176
+exclude_ever_for_profit,category_count_ratio,C8,simulated_model_data,Research doctorate,primary_ready,5733,569,225,7284,7374,638310,5532,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,simulated_model_data,Research doctorate,initial_model_risk_set,5733,569,225,7284,7374,638310,5532,3254,112
+exclude_ever_for_profit,category_count_ratio,C8,simulated_model_data,Masters,all_panel_cells,4827,574,37,3263,3391,325656,4792,3337,32
+exclude_ever_for_profit,category_count_ratio,C8,simulated_model_data,Masters,primary_ready,4711,558,37,3258,3386,325372,4676,3224,32
+exclude_ever_for_profit,category_count_ratio,C8,simulated_model_data,Masters,initial_model_risk_set,4711,558,37,3258,3386,325372,4676,3224,32
+exclude_ever_for_profit,category_share_ratio,C3,mixed_methods,Research doctorate,all_panel_cells,7993,806,331,7152,7388,638749,7694,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,mixed_methods,Research doctorate,primary_ready,5733,569,330,7138,7374,638310,5435,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,mixed_methods,Research doctorate,initial_model_risk_set,2458,329,330,7138,7336,509776,2160,0,18
+exclude_ever_for_profit,category_share_ratio,C3,mixed_methods,Masters,all_panel_cells,4827,574,69,3115,3391,325656,4761,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,mixed_methods,Masters,primary_ready,4711,558,69,3110,3386,325372,4645,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,mixed_methods,Masters,initial_model_risk_set,1453,268,69,3110,3302,194368,1387,0,3
+exclude_ever_for_profit,category_share_ratio,C3,qualitative,Research doctorate,all_panel_cells,7993,806,374,7152,7388,638749,7645,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,qualitative,Research doctorate,primary_ready,5733,569,374,7138,7374,638310,5385,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,qualitative,Research doctorate,initial_model_risk_set,2458,329,374,7138,7336,509776,2110,0,18
+exclude_ever_for_profit,category_share_ratio,C3,qualitative,Masters,all_panel_cells,4827,574,273,3115,3391,325656,4631,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,qualitative,Masters,primary_ready,4711,558,273,3110,3386,325372,4515,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,qualitative,Masters,initial_model_risk_set,1453,268,273,3110,3302,194368,1257,0,3
+exclude_ever_for_profit,category_share_ratio,C3,single_case,Research doctorate,all_panel_cells,7993,806,19,7152,7388,638749,7974,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,single_case,Research doctorate,primary_ready,5733,569,19,7138,7374,638310,5714,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,single_case,Research doctorate,initial_model_risk_set,2458,329,19,7138,7336,509776,2439,0,18
+exclude_ever_for_profit,category_share_ratio,C3,single_case,Masters,all_panel_cells,4827,574,8,3115,3391,325656,4819,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,single_case,Masters,primary_ready,4711,558,8,3110,3386,325372,4703,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,single_case,Masters,initial_model_risk_set,1453,268,8,3110,3302,194368,1445,0,3
+exclude_ever_for_profit,category_share_ratio,C3,computational_modeling,Research doctorate,all_panel_cells,7993,806,158,7152,7388,638749,7848,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,computational_modeling,Research doctorate,primary_ready,5733,569,158,7138,7374,638310,5588,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,computational_modeling,Research doctorate,initial_model_risk_set,2458,329,158,7138,7336,509776,2313,0,18
+exclude_ever_for_profit,category_share_ratio,C3,computational_modeling,Masters,all_panel_cells,4827,574,56,3115,3391,325656,4773,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,computational_modeling,Masters,primary_ready,4711,558,56,3110,3386,325372,4657,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,computational_modeling,Masters,initial_model_risk_set,1453,268,56,3110,3302,194368,1399,0,3
+exclude_ever_for_profit,category_share_ratio,C3,synthesis_characterization,Research doctorate,all_panel_cells,7993,806,65,7152,7388,638749,7931,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,synthesis_characterization,Research doctorate,primary_ready,5733,569,65,7138,7374,638310,5671,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,synthesis_characterization,Research doctorate,initial_model_risk_set,2458,329,65,7138,7336,509776,2396,0,18
+exclude_ever_for_profit,category_share_ratio,C3,synthesis_characterization,Masters,all_panel_cells,4827,574,62,3115,3391,325656,4776,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,synthesis_characterization,Masters,primary_ready,4711,558,62,3110,3386,325372,4660,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,synthesis_characterization,Masters,initial_model_risk_set,1453,268,62,3110,3302,194368,1402,0,3
+exclude_ever_for_profit,category_share_ratio,C3,experimental_randomized,Research doctorate,all_panel_cells,7993,806,399,7152,7388,638749,7649,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,experimental_randomized,Research doctorate,primary_ready,5733,569,399,7138,7374,638310,5389,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,experimental_randomized,Research doctorate,initial_model_risk_set,2458,329,399,7138,7336,509776,2114,0,18
+exclude_ever_for_profit,category_share_ratio,C3,experimental_randomized,Masters,all_panel_cells,4827,574,136,3115,3391,325656,4702,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,experimental_randomized,Masters,primary_ready,4711,558,136,3110,3386,325372,4586,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,experimental_randomized,Masters,initial_model_risk_set,1453,268,136,3110,3302,194368,1328,0,3
+exclude_ever_for_profit,category_share_ratio,C3,experimental_nonrandomized,Research doctorate,all_panel_cells,7993,806,2654,7152,7388,638749,6626,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,experimental_nonrandomized,Research doctorate,primary_ready,5733,569,2643,7138,7374,638310,4374,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,experimental_nonrandomized,Research doctorate,initial_model_risk_set,2458,329,2643,7138,7336,509776,1099,0,18
+exclude_ever_for_profit,category_share_ratio,C3,experimental_nonrandomized,Masters,all_panel_cells,4827,574,906,3115,3391,325656,4220,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,experimental_nonrandomized,Masters,primary_ready,4711,558,906,3110,3386,325372,4104,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,experimental_nonrandomized,Masters,initial_model_risk_set,1453,268,906,3110,3302,194368,846,0,3
+exclude_ever_for_profit,category_share_ratio,C3,quasi_experimental,Research doctorate,all_panel_cells,7993,806,237,7152,7388,638749,7785,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,quasi_experimental,Research doctorate,primary_ready,5733,569,237,7138,7374,638310,5525,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,quasi_experimental,Research doctorate,initial_model_risk_set,2458,329,237,7138,7336,509776,2250,0,18
+exclude_ever_for_profit,category_share_ratio,C3,quasi_experimental,Masters,all_panel_cells,4827,574,42,3115,3391,325656,4789,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,quasi_experimental,Masters,primary_ready,4711,558,42,3110,3386,325372,4673,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,quasi_experimental,Masters,initial_model_risk_set,1453,268,42,3110,3302,194368,1415,0,3
+exclude_ever_for_profit,category_share_ratio,C3,single_group_pre_post,Research doctorate,all_panel_cells,7993,806,34,7152,7388,638749,7959,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,single_group_pre_post,Research doctorate,primary_ready,5733,569,34,7138,7374,638310,5699,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,single_group_pre_post,Research doctorate,initial_model_risk_set,2458,329,34,7138,7336,509776,2424,0,18
+exclude_ever_for_profit,category_share_ratio,C3,single_group_pre_post,Masters,all_panel_cells,4827,574,48,3115,3391,325656,4781,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,single_group_pre_post,Masters,primary_ready,4711,558,48,3110,3386,325372,4665,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,single_group_pre_post,Masters,initial_model_risk_set,1453,268,48,3110,3302,194368,1407,0,3
+exclude_ever_for_profit,category_share_ratio,C3,longitudinal_observational,Research doctorate,all_panel_cells,7993,806,724,7152,7388,638749,7428,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,longitudinal_observational,Research doctorate,primary_ready,5733,569,724,7138,7374,638310,5168,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,longitudinal_observational,Research doctorate,initial_model_risk_set,2458,329,724,7138,7336,509776,1893,0,18
+exclude_ever_for_profit,category_share_ratio,C3,longitudinal_observational,Masters,all_panel_cells,4827,574,207,3115,3391,325656,4650,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,longitudinal_observational,Masters,primary_ready,4711,558,206,3110,3386,325372,4535,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,longitudinal_observational,Masters,initial_model_risk_set,1453,268,206,3110,3302,194368,1277,0,3
+exclude_ever_for_profit,category_share_ratio,C3,cross_sectional_observational,Research doctorate,all_panel_cells,7993,806,1655,7152,7388,638749,6857,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,cross_sectional_observational,Research doctorate,primary_ready,5733,569,1653,7138,7374,638310,4599,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,cross_sectional_observational,Research doctorate,initial_model_risk_set,2458,329,1653,7138,7336,509776,1324,0,18
+exclude_ever_for_profit,category_share_ratio,C3,cross_sectional_observational,Masters,all_panel_cells,4827,574,1271,3115,3391,325656,4027,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,cross_sectional_observational,Masters,primary_ready,4711,558,1269,3110,3386,325372,3912,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,cross_sectional_observational,Masters,initial_model_risk_set,1453,268,1269,3110,3302,194368,654,0,3
+exclude_ever_for_profit,category_share_ratio,C3,multiple_no_dominant,Research doctorate,all_panel_cells,7993,806,502,7152,7388,638749,7597,5525,176
+exclude_ever_for_profit,category_share_ratio,C3,multiple_no_dominant,Research doctorate,primary_ready,5733,569,502,7138,7374,638310,5337,3275,112
+exclude_ever_for_profit,category_share_ratio,C3,multiple_no_dominant,Research doctorate,initial_model_risk_set,2458,329,502,7138,7336,509776,2062,0,18
+exclude_ever_for_profit,category_share_ratio,C3,multiple_no_dominant,Masters,all_panel_cells,4827,574,37,3115,3391,325656,4791,3371,32
+exclude_ever_for_profit,category_share_ratio,C3,multiple_no_dominant,Masters,primary_ready,4711,558,35,3110,3386,325372,4677,3258,32
+exclude_ever_for_profit,category_share_ratio,C3,multiple_no_dominant,Masters,initial_model_risk_set,1453,268,35,3110,3302,194368,1419,0,3
+exclude_ever_for_profit,category_share_ratio,C4,molecular_cellular,Research doctorate,all_panel_cells,7993,806,1054,7387,7388,638749,7246,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,molecular_cellular,Research doctorate,primary_ready,5733,569,1052,7373,7374,638310,4988,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,molecular_cellular,Research doctorate,initial_model_risk_set,2496,337,1052,7373,7374,513590,1751,0,22
+exclude_ever_for_profit,category_share_ratio,C4,molecular_cellular,Masters,all_panel_cells,4827,574,358,3390,3391,325656,4550,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,molecular_cellular,Masters,primary_ready,4711,558,358,3385,3386,325372,4434,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,molecular_cellular,Masters,initial_model_risk_set,1532,279,358,3385,3386,201785,1255,0,3
+exclude_ever_for_profit,category_share_ratio,C4,organism_nonhuman,Research doctorate,all_panel_cells,7993,806,1064,7387,7388,638749,7259,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,organism_nonhuman,Research doctorate,primary_ready,5733,569,1057,7373,7374,638310,5005,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,organism_nonhuman,Research doctorate,initial_model_risk_set,2496,337,1057,7373,7374,513590,1768,0,22
+exclude_ever_for_profit,category_share_ratio,C4,organism_nonhuman,Masters,all_panel_cells,4827,574,435,3390,3391,325656,4505,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,organism_nonhuman,Masters,primary_ready,4711,558,435,3385,3386,325372,4389,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,organism_nonhuman,Masters,initial_model_risk_set,1532,279,435,3385,3386,201785,1210,0,3
+exclude_ever_for_profit,category_share_ratio,C4,individual_human,Research doctorate,all_panel_cells,7993,806,4305,7387,7388,638749,6037,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,individual_human,Research doctorate,primary_ready,5733,569,4302,7373,7374,638310,3780,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,individual_human,Research doctorate,initial_model_risk_set,2496,337,4302,7373,7374,513590,543,0,22
+exclude_ever_for_profit,category_share_ratio,C4,individual_human,Masters,all_panel_cells,4827,574,2043,3390,3391,325656,3706,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,individual_human,Masters,primary_ready,4711,558,2039,3385,3386,325372,3592,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,individual_human,Masters,initial_model_risk_set,1532,279,2039,3385,3386,201785,413,0,3
+exclude_ever_for_profit,category_share_ratio,C4,dyad_family_group,Research doctorate,all_panel_cells,7993,806,173,7387,7388,638749,7836,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,dyad_family_group,Research doctorate,primary_ready,5733,569,173,7373,7374,638310,5576,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,dyad_family_group,Research doctorate,initial_model_risk_set,2496,337,173,7373,7374,513590,2339,0,22
+exclude_ever_for_profit,category_share_ratio,C4,dyad_family_group,Masters,all_panel_cells,4827,574,69,3390,3391,325656,4763,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,dyad_family_group,Masters,primary_ready,4711,558,69,3385,3386,325372,4647,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,dyad_family_group,Masters,initial_model_risk_set,1532,279,69,3385,3386,201785,1468,0,3
+exclude_ever_for_profit,category_share_ratio,C4,organization_program,Research doctorate,all_panel_cells,7993,806,203,7387,7388,638749,7806,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,organization_program,Research doctorate,primary_ready,5733,569,202,7373,7374,638310,5547,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,organization_program,Research doctorate,initial_model_risk_set,2496,337,202,7373,7374,513590,2310,0,22
+exclude_ever_for_profit,category_share_ratio,C4,organization_program,Masters,all_panel_cells,4827,574,166,3390,3391,325656,4699,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,organization_program,Masters,primary_ready,4711,558,166,3385,3386,325372,4583,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,organization_program,Masters,initial_model_risk_set,1532,279,166,3385,3386,201785,1404,0,3
+exclude_ever_for_profit,category_share_ratio,C4,community_jurisdiction_population,Research doctorate,all_panel_cells,7993,806,389,7387,7388,638749,7670,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,community_jurisdiction_population,Research doctorate,primary_ready,5733,569,388,7373,7374,638310,5411,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,community_jurisdiction_population,Research doctorate,initial_model_risk_set,2496,337,388,7373,7374,513590,2174,0,22
+exclude_ever_for_profit,category_share_ratio,C4,community_jurisdiction_population,Masters,all_panel_cells,4827,574,209,3390,3391,325656,4658,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,community_jurisdiction_population,Masters,primary_ready,4711,558,208,3385,3386,325372,4543,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,community_jurisdiction_population,Masters,initial_model_risk_set,1532,279,208,3385,3386,201785,1364,0,3
+exclude_ever_for_profit,category_share_ratio,C4,texts_media_discourse,Research doctorate,all_panel_cells,7993,806,140,7387,7388,638749,7860,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,texts_media_discourse,Research doctorate,primary_ready,5733,569,140,7373,7374,638310,5600,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,texts_media_discourse,Research doctorate,initial_model_risk_set,2496,337,140,7373,7374,513590,2363,0,22
+exclude_ever_for_profit,category_share_ratio,C4,texts_media_discourse,Masters,all_panel_cells,4827,574,105,3390,3391,325656,4726,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,texts_media_discourse,Masters,primary_ready,4711,558,105,3385,3386,325372,4610,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,texts_media_discourse,Masters,initial_model_risk_set,1532,279,105,3385,3386,201785,1431,0,3
+exclude_ever_for_profit,category_share_ratio,C4,multiple_no_dominant,Research doctorate,all_panel_cells,7993,806,59,7387,7388,638749,7934,5487,176
+exclude_ever_for_profit,category_share_ratio,C4,multiple_no_dominant,Research doctorate,primary_ready,5733,569,59,7373,7374,638310,5674,3237,112
+exclude_ever_for_profit,category_share_ratio,C4,multiple_no_dominant,Research doctorate,initial_model_risk_set,2496,337,59,7373,7374,513590,2437,0,22
+exclude_ever_for_profit,category_share_ratio,C4,multiple_no_dominant,Masters,all_panel_cells,4827,574,5,3390,3391,325656,4822,3292,32
+exclude_ever_for_profit,category_share_ratio,C4,multiple_no_dominant,Masters,primary_ready,4711,558,5,3385,3386,325372,4706,3179,32
+exclude_ever_for_profit,category_share_ratio,C4,multiple_no_dominant,Masters,initial_model_risk_set,1532,279,5,3385,3386,201785,1527,0,3
+exclude_ever_for_profit,category_share_ratio,C5,describe_distribution,Research doctorate,all_panel_cells,7993,806,47,7387,7388,638749,7948,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,describe_distribution,Research doctorate,primary_ready,5733,569,47,7373,7374,638310,5688,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,describe_distribution,Research doctorate,initial_model_risk_set,2496,337,47,7373,7374,513590,2451,0,22
+exclude_ever_for_profit,category_share_ratio,C5,describe_distribution,Masters,all_panel_cells,4827,574,49,3391,3391,325656,4782,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,describe_distribution,Masters,primary_ready,4711,558,49,3386,3386,325372,4666,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,describe_distribution,Masters,initial_model_risk_set,1532,279,49,3386,3386,201785,1487,0,3
+exclude_ever_for_profit,category_share_ratio,C5,explain_causes,Research doctorate,all_panel_cells,7993,806,2450,7387,7388,638749,6554,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,explain_causes,Research doctorate,primary_ready,5733,569,2444,7373,7374,638310,4300,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,explain_causes,Research doctorate,initial_model_risk_set,2496,337,2444,7373,7374,513590,1063,0,22
+exclude_ever_for_profit,category_share_ratio,C5,explain_causes,Masters,all_panel_cells,4827,574,1087,3391,3391,325656,4080,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,explain_causes,Masters,primary_ready,4711,558,1087,3386,3386,325372,3964,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,explain_causes,Masters,initial_model_risk_set,1532,279,1087,3386,3386,201785,785,0,3
+exclude_ever_for_profit,category_share_ratio,C5,consequences_of_use,Research doctorate,all_panel_cells,7993,806,1682,7387,7388,638749,6901,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,consequences_of_use,Research doctorate,primary_ready,5733,569,1680,7373,7374,638310,4643,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,consequences_of_use,Research doctorate,initial_model_risk_set,2496,337,1680,7373,7374,513590,1406,0,22
+exclude_ever_for_profit,category_share_ratio,C5,consequences_of_use,Masters,all_panel_cells,4827,574,859,3391,3391,325656,4212,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,consequences_of_use,Masters,primary_ready,4711,558,856,3386,3386,325372,4098,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,consequences_of_use,Masters,initial_model_risk_set,1532,279,856,3386,3386,201785,919,0,3
+exclude_ever_for_profit,category_share_ratio,C5,characterize_substance_action,Research doctorate,all_panel_cells,7993,806,922,7387,7388,638749,7355,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,characterize_substance_action,Research doctorate,primary_ready,5733,569,922,7373,7374,638310,5095,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,characterize_substance_action,Research doctorate,initial_model_risk_set,2496,337,922,7373,7374,513590,1858,0,22
+exclude_ever_for_profit,category_share_ratio,C5,characterize_substance_action,Masters,all_panel_cells,4827,574,228,3391,3391,325656,4626,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,characterize_substance_action,Masters,primary_ready,4711,558,228,3386,3386,325372,4510,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,characterize_substance_action,Masters,initial_model_risk_set,1532,279,228,3386,3386,201785,1331,0,3
+exclude_ever_for_profit,category_share_ratio,C5,intervene,Research doctorate,all_panel_cells,7993,806,799,7387,7388,638749,7334,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,intervene,Research doctorate,primary_ready,5733,569,795,7373,7374,638310,5078,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,intervene,Research doctorate,initial_model_risk_set,2496,337,795,7373,7374,513590,1841,0,22
+exclude_ever_for_profit,category_share_ratio,C5,intervene,Masters,all_panel_cells,4827,574,342,3391,3391,325656,4583,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,intervene,Masters,primary_ready,4711,558,342,3386,3386,325372,4467,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,intervene,Masters,initial_model_risk_set,1532,279,342,3386,3386,201785,1288,0,3
+exclude_ever_for_profit,category_share_ratio,C5,organize_deliver_services,Research doctorate,all_panel_cells,7993,806,482,7387,7388,638749,7572,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,organize_deliver_services,Research doctorate,primary_ready,5733,569,481,7373,7374,638310,5313,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,organize_deliver_services,Research doctorate,initial_model_risk_set,2496,337,481,7373,7374,513590,2076,0,22
+exclude_ever_for_profit,category_share_ratio,C5,organize_deliver_services,Masters,all_panel_cells,4827,574,240,3391,3391,325656,4633,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,organize_deliver_services,Masters,primary_ready,4711,558,239,3386,3386,325372,4518,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,organize_deliver_services,Masters,initial_model_risk_set,1532,279,239,3386,3386,201785,1339,0,3
+exclude_ever_for_profit,category_share_ratio,C5,law_policy_economics,Research doctorate,all_panel_cells,7993,806,218,7387,7388,638749,7792,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,law_policy_economics,Research doctorate,primary_ready,5733,569,218,7373,7374,638310,5532,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,law_policy_economics,Research doctorate,initial_model_risk_set,2496,337,218,7373,7374,513590,2295,0,22
+exclude_ever_for_profit,category_share_ratio,C5,law_policy_economics,Masters,all_panel_cells,4827,574,108,3391,3391,325656,4728,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,law_policy_economics,Masters,primary_ready,4711,558,108,3386,3386,325372,4612,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,law_policy_economics,Masters,initial_model_risk_set,1532,279,108,3386,3386,201785,1433,0,3
+exclude_ever_for_profit,category_share_ratio,C5,meanings_attitudes,Research doctorate,all_panel_cells,7993,806,237,7387,7388,638749,7767,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,meanings_attitudes,Research doctorate,primary_ready,5733,569,237,7373,7374,638310,5507,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,meanings_attitudes,Research doctorate,initial_model_risk_set,2496,337,237,7373,7374,513590,2270,0,22
+exclude_ever_for_profit,category_share_ratio,C5,meanings_attitudes,Masters,all_panel_cells,4827,574,186,3391,3391,325656,4648,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,meanings_attitudes,Masters,primary_ready,4711,558,186,3386,3386,325372,4532,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,meanings_attitudes,Masters,initial_model_risk_set,1532,279,186,3386,3386,201785,1353,0,3
+exclude_ever_for_profit,category_share_ratio,C5,education_workforce,Research doctorate,all_panel_cells,7993,806,69,7387,7388,638749,7925,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,education_workforce,Research doctorate,primary_ready,5733,569,69,7373,7374,638310,5665,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,education_workforce,Research doctorate,initial_model_risk_set,2496,337,69,7373,7374,513590,2428,0,22
+exclude_ever_for_profit,category_share_ratio,C5,education_workforce,Masters,all_panel_cells,4827,574,43,3391,3391,325656,4785,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,education_workforce,Masters,primary_ready,4711,558,43,3386,3386,325372,4669,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,education_workforce,Masters,initial_model_risk_set,1532,279,43,3386,3386,201785,1490,0,3
+exclude_ever_for_profit,category_share_ratio,C5,measurement,Research doctorate,all_panel_cells,7993,806,227,7387,7388,638749,7789,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,measurement,Research doctorate,primary_ready,5733,569,227,7373,7374,638310,5529,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,measurement,Research doctorate,initial_model_risk_set,2496,337,227,7373,7374,513590,2292,0,22
+exclude_ever_for_profit,category_share_ratio,C5,measurement,Masters,all_panel_cells,4827,574,195,3391,3391,325656,4674,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,measurement,Masters,primary_ready,4711,558,195,3386,3386,325372,4558,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,measurement,Masters,initial_model_risk_set,1532,279,195,3386,3386,201785,1379,0,3
+exclude_ever_for_profit,category_share_ratio,C5,other_stated_objective,Research doctorate,all_panel_cells,7993,806,2,7387,7388,638749,7991,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,other_stated_objective,Research doctorate,primary_ready,5733,569,2,7373,7374,638310,5731,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,other_stated_objective,Research doctorate,initial_model_risk_set,2496,337,2,7373,7374,513590,2494,0,22
+exclude_ever_for_profit,category_share_ratio,C5,other_stated_objective,Masters,all_panel_cells,4827,574,2,3391,3391,325656,4825,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,other_stated_objective,Masters,primary_ready,4711,558,2,3386,3386,325372,4709,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,other_stated_objective,Masters,initial_model_risk_set,1532,279,2,3386,3386,201785,1530,0,3
+exclude_ever_for_profit,category_share_ratio,C5,multiple_no_dominant,Research doctorate,all_panel_cells,7993,806,252,7387,7388,638749,7765,5487,176
+exclude_ever_for_profit,category_share_ratio,C5,multiple_no_dominant,Research doctorate,primary_ready,5733,569,251,7373,7374,638310,5506,3237,112
+exclude_ever_for_profit,category_share_ratio,C5,multiple_no_dominant,Research doctorate,initial_model_risk_set,2496,337,251,7373,7374,513590,2269,0,22
+exclude_ever_for_profit,category_share_ratio,C5,multiple_no_dominant,Masters,all_panel_cells,4827,574,52,3391,3391,325656,4777,3292,32
+exclude_ever_for_profit,category_share_ratio,C5,multiple_no_dominant,Masters,primary_ready,4711,558,51,3386,3386,325372,4662,3179,32
+exclude_ever_for_profit,category_share_ratio,C5,multiple_no_dominant,Masters,initial_model_risk_set,1532,279,51,3386,3386,201785,1483,0,3
+exclude_ever_for_profit,category_share_ratio,C8,survey_questionnaire,Research doctorate,all_panel_cells,7993,806,3613,7298,7388,638749,6233,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,survey_questionnaire,Research doctorate,primary_ready,5733,569,3611,7284,7374,638310,3975,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,survey_questionnaire,Research doctorate,initial_model_risk_set,2479,332,3611,7284,7357,511553,721,0,19
+exclude_ever_for_profit,category_share_ratio,C8,survey_questionnaire,Masters,all_panel_cells,4827,574,1628,3263,3391,325656,3876,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,survey_questionnaire,Masters,primary_ready,4711,558,1626,3258,3386,325372,3762,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,survey_questionnaire,Masters,initial_model_risk_set,1487,274,1626,3258,3339,196960,538,0,3
+exclude_ever_for_profit,category_share_ratio,C8,interview_observation,Research doctorate,all_panel_cells,7993,806,908,7298,7388,638749,7265,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,interview_observation,Research doctorate,primary_ready,5733,569,907,7284,7374,638310,5006,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,interview_observation,Research doctorate,initial_model_risk_set,2479,332,907,7284,7357,511553,1752,0,19
+exclude_ever_for_profit,category_share_ratio,C8,interview_observation,Masters,all_panel_cells,4827,574,337,3263,3391,325656,4555,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,interview_observation,Masters,primary_ready,4711,558,337,3258,3386,325372,4439,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,interview_observation,Masters,initial_model_risk_set,1487,274,337,3258,3339,196960,1215,0,3
+exclude_ever_for_profit,category_share_ratio,C8,behavioral_task,Research doctorate,all_panel_cells,7993,806,1473,7298,7388,638749,7080,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,behavioral_task,Research doctorate,primary_ready,5733,569,1466,7284,7374,638310,4826,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,behavioral_task,Research doctorate,initial_model_risk_set,2479,332,1466,7284,7357,511553,1572,0,19
+exclude_ever_for_profit,category_share_ratio,C8,behavioral_task,Masters,all_panel_cells,4827,574,493,3263,3391,325656,4463,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,behavioral_task,Masters,primary_ready,4711,558,493,3258,3386,325372,4347,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,behavioral_task,Masters,initial_model_risk_set,1487,274,493,3258,3339,196960,1123,0,3
+exclude_ever_for_profit,category_share_ratio,C8,biological_physiological,Research doctorate,all_panel_cells,7993,806,2147,7298,7388,638749,6777,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,biological_physiological,Research doctorate,primary_ready,5733,569,2139,7284,7374,638310,4524,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,biological_physiological,Research doctorate,initial_model_risk_set,2479,332,2139,7284,7357,511553,1270,0,19
+exclude_ever_for_profit,category_share_ratio,C8,biological_physiological,Masters,all_panel_cells,4827,574,614,3263,3391,325656,4388,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,biological_physiological,Masters,primary_ready,4711,558,614,3258,3386,325372,4272,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,biological_physiological,Masters,initial_model_risk_set,1487,274,614,3258,3339,196960,1048,0,3
+exclude_ever_for_profit,category_share_ratio,C8,neuroimaging_electrophysiology,Research doctorate,all_panel_cells,7993,806,469,7298,7388,638749,7622,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,neuroimaging_electrophysiology,Research doctorate,primary_ready,5733,569,466,7284,7374,638310,5365,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,neuroimaging_electrophysiology,Research doctorate,initial_model_risk_set,2479,332,466,7284,7357,511553,2111,0,19
+exclude_ever_for_profit,category_share_ratio,C8,neuroimaging_electrophysiology,Masters,all_panel_cells,4827,574,105,3263,3391,325656,4741,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,neuroimaging_electrophysiology,Masters,primary_ready,4711,558,105,3258,3386,325372,4625,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,neuroimaging_electrophysiology,Masters,initial_model_risk_set,1487,274,105,3258,3339,196960,1401,0,3
+exclude_ever_for_profit,category_share_ratio,C8,genetic_genomic,Research doctorate,all_panel_cells,7993,806,314,7298,7388,638749,7731,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,genetic_genomic,Research doctorate,primary_ready,5733,569,311,7284,7374,638310,5474,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,genetic_genomic,Research doctorate,initial_model_risk_set,2479,332,311,7284,7357,511553,2220,0,19
+exclude_ever_for_profit,category_share_ratio,C8,genetic_genomic,Masters,all_panel_cells,4827,574,58,3263,3391,325656,4770,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,genetic_genomic,Masters,primary_ready,4711,558,58,3258,3386,325372,4654,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,genetic_genomic,Masters,initial_model_risk_set,1487,274,58,3258,3339,196960,1430,0,3
+exclude_ever_for_profit,category_share_ratio,C8,chemical_analytical,Research doctorate,all_panel_cells,7993,806,1386,7298,7388,638749,7095,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,chemical_analytical,Research doctorate,primary_ready,5733,569,1380,7284,7374,638310,4839,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,chemical_analytical,Research doctorate,initial_model_risk_set,2479,332,1380,7284,7357,511553,1585,0,19
+exclude_ever_for_profit,category_share_ratio,C8,chemical_analytical,Masters,all_panel_cells,4827,574,434,3263,3391,325656,4500,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,chemical_analytical,Masters,primary_ready,4711,558,434,3258,3386,325372,4384,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,chemical_analytical,Masters,initial_model_risk_set,1487,274,434,3258,3339,196960,1160,0,3
+exclude_ever_for_profit,category_share_ratio,C8,health_records,Research doctorate,all_panel_cells,7993,806,673,7298,7388,638749,7493,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,health_records,Research doctorate,primary_ready,5733,569,672,7284,7374,638310,5234,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,health_records,Research doctorate,initial_model_risk_set,2479,332,672,7284,7357,511553,1980,0,19
+exclude_ever_for_profit,category_share_ratio,C8,health_records,Masters,all_panel_cells,4827,574,209,3263,3391,325656,4662,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,health_records,Masters,primary_ready,4711,558,204,3258,3386,325372,4549,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,health_records,Masters,initial_model_risk_set,1487,274,204,3258,3339,196960,1325,0,3
+exclude_ever_for_profit,category_share_ratio,C8,administrative_records,Research doctorate,all_panel_cells,7993,806,196,7298,7388,638749,7816,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,administrative_records,Research doctorate,primary_ready,5733,569,195,7284,7374,638310,5557,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,administrative_records,Research doctorate,initial_model_risk_set,2479,332,195,7284,7357,511553,2303,0,19
+exclude_ever_for_profit,category_share_ratio,C8,administrative_records,Masters,all_panel_cells,4827,574,57,3263,3391,325656,4774,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,administrative_records,Masters,primary_ready,4711,558,56,3258,3386,325372,4659,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,administrative_records,Masters,initial_model_risk_set,1487,274,56,3258,3339,196960,1435,0,3
+exclude_ever_for_profit,category_share_ratio,C8,documents_media_online,Research doctorate,all_panel_cells,7993,806,380,7298,7388,638749,7665,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,documents_media_online,Research doctorate,primary_ready,5733,569,379,7284,7374,638310,5406,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,documents_media_online,Research doctorate,initial_model_risk_set,2479,332,379,7284,7357,511553,2152,0,19
+exclude_ever_for_profit,category_share_ratio,C8,documents_media_online,Masters,all_panel_cells,4827,574,324,3263,3391,325656,4604,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,documents_media_online,Masters,primary_ready,4711,558,324,3258,3386,325372,4488,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,documents_media_online,Masters,initial_model_risk_set,1487,274,324,3258,3339,196960,1264,0,3
+exclude_ever_for_profit,category_share_ratio,C8,geospatial_market_environmental,Research doctorate,all_panel_cells,7993,806,205,7298,7388,638749,7807,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,geospatial_market_environmental,Research doctorate,primary_ready,5733,569,205,7284,7374,638310,5547,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,geospatial_market_environmental,Research doctorate,initial_model_risk_set,2479,332,205,7284,7357,511553,2293,0,19
+exclude_ever_for_profit,category_share_ratio,C8,geospatial_market_environmental,Masters,all_panel_cells,4827,574,57,3263,3391,325656,4776,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,geospatial_market_environmental,Masters,primary_ready,4711,558,57,3258,3386,325372,4660,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,geospatial_market_environmental,Masters,initial_model_risk_set,1487,274,57,3258,3339,196960,1436,0,3
+exclude_ever_for_profit,category_share_ratio,C8,simulated_model_data,Research doctorate,all_panel_cells,7993,806,225,7298,7388,638749,7792,5504,176
+exclude_ever_for_profit,category_share_ratio,C8,simulated_model_data,Research doctorate,primary_ready,5733,569,225,7284,7374,638310,5532,3254,112
+exclude_ever_for_profit,category_share_ratio,C8,simulated_model_data,Research doctorate,initial_model_risk_set,2479,332,225,7284,7357,511553,2278,0,19
+exclude_ever_for_profit,category_share_ratio,C8,simulated_model_data,Masters,all_panel_cells,4827,574,37,3263,3391,325656,4792,3337,32
+exclude_ever_for_profit,category_share_ratio,C8,simulated_model_data,Masters,primary_ready,4711,558,37,3258,3386,325372,4676,3224,32
+exclude_ever_for_profit,category_share_ratio,C8,simulated_model_data,Masters,initial_model_risk_set,1487,274,37,3258,3339,196960,1452,0,3

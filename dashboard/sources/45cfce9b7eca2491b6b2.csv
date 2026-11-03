@@ -1,0 +1,5 @@
+outcome,population,total_works,coded,known_inapplicable,undetermined,group_fit_eligible,institution_eligible,fixed_top50_eligible
+C3,all_in_scope,13227,12538,672,17,10645,12537,5824
+C4,all_in_scope,13227,13225,0,2,11198,13224,6105
+C5,all_in_scope,13227,13226,0,1,11198,13225,6105
+C8,all_in_scope,13227,12947,262,18,10972,12946,5998

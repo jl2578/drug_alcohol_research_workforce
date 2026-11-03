@@ -1,0 +1,25 @@
+degree_group,variant,industry_scope,sensitivity_included,n,observed_degree_n,pct_observed_degree
+Research doctorate,archived_no_visible,outside,0,38,190,20.0
+Research doctorate,archived_no_visible,outside,1,82,190,43.157895
+Research doctorate,archived_no_visible,university,0,69,190,36.315789
+Research doctorate,archived_no_visible,university,1,0,190,0.0
+Research doctorate,archived_no_visible,unknown,0,1,190,0.526316
+Research doctorate,archived_no_visible,unknown,1,0,190,0.0
+Research doctorate,explicit_negative,outside,0,40,190,21.052632
+Research doctorate,explicit_negative,outside,1,80,190,42.105263
+Research doctorate,explicit_negative,university,0,69,190,36.315789
+Research doctorate,explicit_negative,university,1,0,190,0.0
+Research doctorate,explicit_negative,unknown,0,1,190,0.526316
+Research doctorate,explicit_negative,unknown,1,0,190,0.0
+Master's,archived_no_visible,outside,0,16,76,21.052632
+Master's,archived_no_visible,outside,1,41,76,53.947368
+Master's,archived_no_visible,university,0,16,76,21.052632
+Master's,archived_no_visible,university,1,0,76,0.0
+Master's,archived_no_visible,unknown,0,3,76,3.947368
+Master's,archived_no_visible,unknown,1,0,76,0.0
+Master's,explicit_negative,outside,0,17,76,22.368421
+Master's,explicit_negative,outside,1,40,76,52.631579
+Master's,explicit_negative,university,0,16,76,21.052632
+Master's,explicit_negative,university,1,0,76,0.0
+Master's,explicit_negative,unknown,0,3,76,3.947368
+Master's,explicit_negative,unknown,1,0,76,0.0

@@ -1,0 +1,9 @@
+base,reason,n,fixed_sample_n
+focus_jointly_coded,Included,199,200
+focus_jointly_coded,human_cannot_determine / model_coded,1,200
+domain_conditional_base,Included,112,200
+domain_conditional_base,Human scope undetermined,4,200
+domain_conditional_base,Human scope out_of_scope,84,200
+domain_end_to_end_base,Included,112,200
+domain_end_to_end_base,Human scope undetermined,4,200
+domain_end_to_end_base,Human scope out_of_scope,84,200

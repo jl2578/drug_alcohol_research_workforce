@@ -1,0 +1,7 @@
+degree_group,term,rate_ratio,log_rate_ratio,retained_cells,note
+Research doctorate,preceding_in_joint_model,1.2074407843726214,0.1885030654850552,2575,Point estimate only; no interval is adopted for this check
+Research doctorate,later_in_joint_model,1.1340183936808441,0.12576742535112598,2575,Point estimate only; no interval is adopted for this check
+Research doctorate,preceding_only_same_cells,1.1665928784005484,,2575,Point estimate only; no interval is adopted for this check
+Masters,preceding_in_joint_model,1.0971183532220001,0.09268706355198869,2769,Point estimate only; no interval is adopted for this check
+Masters,later_in_joint_model,1.1213005969498238,0.11448925885753738,2769,Point estimate only; no interval is adopted for this check
+Masters,preceding_only_same_cells,1.1035949862826748,,2769,Point estimate only; no interval is adopted for this check

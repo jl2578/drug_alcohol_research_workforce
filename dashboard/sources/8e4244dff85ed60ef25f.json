@@ -1,0 +1,89 @@
+{
+  "documentation_date": "2026-10-02",
+  "collection": "ProQuest Dissertations & Theses Global",
+  "query_file": "all_topic_query.txt",
+  "date_field": "Date Published",
+  "local_completion_years": [
+    2010,
+    2023
+  ],
+  "exports": [
+    {
+      "publication_years": [
+        2009,
+        2016
+      ],
+      "download_date": "2026-09-21",
+      "dashboard_documents": 615165,
+      "exported_records": 615155,
+      "shortfall": 10
+    },
+    {
+      "publication_years": [
+        2017,
+        2024
+      ],
+      "download_date": "2026-09-28",
+      "dashboard_documents": 680776,
+      "exported_records": 680776,
+      "shortfall": 0
+    }
+  ],
+  "source_hash_note": "Source fingerprints recorded by the reviewed frame build; this SM1 check independently recounts its saved disposition and aggregate ledgers.",
+  "raw_unique_records": 1295931,
+  "all_topic_works": 1142707,
+  "institution_year_level_cells": 13293,
+  "topical_roster_raw_containment": 21073,
+  "topical_roster_identifiers_mapped": 21054,
+  "topical_roster_distinct_works": 21051,
+  "topical_roster_comparison_exclusions": 19,
+  "v5_qualifying_subset_checked": false,
+  "deduplication": {
+    "within": "resolved institution, completion year and degree level",
+    "work_key": "normalized title-author-year",
+    "minimum_normalized_title_characters": 8,
+    "author_title_similarity": 0.7,
+    "similarity_algorithm": "difflib.SequenceMatcher",
+    "survivor_order": "numeric identifier ascending"
+  },
+  "shortfall": {
+    "absent_records": 10,
+    "cause": "unknown",
+    "known_topical_roster_missing": 0,
+    "institution_cell_effect": "unknown",
+    "maximum_additional_works_if_ten_omitted": 10,
+    "reprocessed_total_lower_bound": "not established; ID-ordered greedy matching can consolidate existing works"
+  },
+  "post_closure_alternative": {
+    "additional_works": 6,
+    "topical_roster_count_change": 0
+  },
+  "source_processor": "src/university_frame/process_university_frame_v2.py",
+  "degree_classification": {
+    "reviewed_topical_pair_crosswalk": 176,
+    "fallback": "Degree-only doctor/master strings or normalized MA/MS/MSc",
+    "retained_fallback_works": 16092,
+    "retained_fallback_pairs": 520,
+    "degree_step_exclusions": {
+      "specialist": 765,
+      "mixed_level": 2,
+      "unrecognized": 333
+    },
+    "unrecognized_review_status": "reviewed 2026-10-05: 139 specialist, 2 bachelors, 52 proposed masters, 3 proposed PhD, 137 unresolved; baseline retained",
+    "provisional_correction": {
+      "records": 55,
+      "additional_works": 55,
+      "all_topic_works": 1142762,
+      "affected_cells": 15,
+      "affected_units": 9,
+      "adopted": false,
+      "matched_ipeds_masters_addition": 52,
+      "matched_ipeds_doctoral_lower_and_upper_addition": 3,
+      "awards_change": 0
+    }
+  },
+  "comparison_unit": "ownership-resolved analysis unit including approved joint units; distinct from School Code x field family",
+  "roster_links_to_nonroster_survivors": 15,
+  "topical_only_work_rule": "Reviewed record-to-work ledger required for 19 records without frame link; no automatic exclusion or one-record-one-work assumption; unresolved links block final count",
+  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability."
+}

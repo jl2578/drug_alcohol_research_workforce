@@ -1,0 +1,6 @@
+﻿degree_order,degree_group,degree_label,observed_degree_n,degree_share_of_307,occupation_coded_n,occupation_unavailable_n,named_occupation_categories_reported_n,records_in_named_occupation_categories,aggregate_residual_n,main_table_group
+1,PhD/ScD and equivalent,Research doctorate (PhD/ScD and equivalent),190,61.889251,189,1,11,131,58,1
+2,General master's,General master's,63,20.521173,61,2,3,19,42,1
+3,PsyD,PsyD,24,7.817590,24,0,1,15,9,1
+4,Other named doctorate,Other named doctorate,17,5.537459,17,0,0,0,17,0
+5,Field-specific master's,Field-specific master's,13,4.234528,12,1,0,0,12,0

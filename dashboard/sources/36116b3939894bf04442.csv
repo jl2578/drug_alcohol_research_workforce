@@ -1,0 +1,1057 @@
+degree,outcome,category,field_code,field_label,connected_category_n,connected_eligible_n,remaining_category_n,remaining_eligible_n,connected_profile_percent,remaining_profile_percent,content_difference_percentage_points,comparison_supported,smaller_connection_group_n,small_group_1_to_4,reference_field_weight
+Research doctorate,C3,mixed_methods,BF01,Psychology,27,871,46,1050,3.0998851894374284,4.380952380952381,-1.2810671915149527,1,871,0,0.24928627043861926
+Research doctorate,C3,mixed_methods,BF02,Public and population health,42,312,36,555,13.461538461538462,6.486486486486487,6.975051975051975,1,312,0,0.11250973267583701
+Research doctorate,C3,mixed_methods,BF03,"Medicine, nursing, and clinical health professions",2,99,15,241,2.0202020202020203,6.224066390041494,-4.203864369839474,1,99,0,0.044121463794445884
+Research doctorate,C3,mixed_methods,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,1140,4,436,0.17543859649122806,0.9174311926605505,-0.7419925961693223,1,436,0,0.2045159615883727
+Research doctorate,C3,mixed_methods,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,mixed_methods,BF06,"Social work, counseling, and human services",15,91,17,320,16.483516483516482,5.3125,11.171016483516484,1,91,0,0.053335063586815466
+Research doctorate,C3,mixed_methods,BF07,"Social sciences, policy, administration, business, justice, and communication",20,140,48,737,14.285714285714286,6.512890094979647,7.772824190734639,1,140,0,0.11380742278743836
+Research doctorate,C3,mixed_methods,BF08,Education,1,10,6,152,10.0,3.9473684210526314,6.052631578947368,1,10,0,0.021022579807941862
+Research doctorate,C3,mixed_methods,BF09,"Engineering, computing, and quantitative sciences",2,41,1,99,4.878048780487805,1.0101010101010102,3.867947770386795,1,41,0,0.018167661562418894
+Research doctorate,C3,mixed_methods,BF10,Humanities and arts,1,1,1,10,100.0,10.0,90.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,mixed_methods,BF11,Interdisciplinary or other substantive field,5,24,1,35,20.833333333333332,2.857142857142857,17.976190476190474,1,24,0,0.007656371658447962
+Research doctorate,C3,mixed_methods,FIELD_UNAVAILABLE,Field unavailable,19,394,36,724,4.822335025380711,4.972375690607735,-0.15004066522702414,1,394,0,0.1450817544770309
+Research doctorate,C3,qualitative,BF01,Psychology,6,871,88,1050,0.6888633754305397,8.380952380952381,-7.692089005521841,1,871,0,0.24928627043861926
+Research doctorate,C3,qualitative,BF02,Public and population health,3,312,29,555,0.9615384615384616,5.225225225225225,-4.2636867636867635,1,312,0,0.11250973267583701
+Research doctorate,C3,qualitative,BF03,"Medicine, nursing, and clinical health professions",8,99,47,241,8.080808080808081,19.502074688796682,-11.4212666079886,1,99,0,0.044121463794445884
+Research doctorate,C3,qualitative,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,1140,0,436,0.08771929824561403,0.0,0.08771929824561403,1,436,0,0.2045159615883727
+Research doctorate,C3,qualitative,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,qualitative,BF06,"Social work, counseling, and human services",7,91,86,320,7.6923076923076925,26.875,-19.182692307692307,1,91,0,0.053335063586815466
+Research doctorate,C3,qualitative,BF07,"Social sciences, policy, administration, business, justice, and communication",14,140,167,737,10.0,22.65943012211669,-12.659430122116689,1,140,0,0.11380742278743836
+Research doctorate,C3,qualitative,BF08,Education,2,10,53,152,20.0,34.86842105263158,-14.868421052631579,1,10,0,0.021022579807941862
+Research doctorate,C3,qualitative,BF09,"Engineering, computing, and quantitative sciences",0,41,2,99,0.0,2.0202020202020203,-2.0202020202020203,1,41,0,0.018167661562418894
+Research doctorate,C3,qualitative,BF10,Humanities and arts,0,1,5,10,0.0,50.0,-50.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,qualitative,BF11,Interdisciplinary or other substantive field,0,24,5,35,0.0,14.285714285714286,-14.285714285714286,1,24,0,0.007656371658447962
+Research doctorate,C3,qualitative,FIELD_UNAVAILABLE,Field unavailable,3,394,48,724,0.7614213197969543,6.629834254143646,-5.868412934346692,1,394,0,0.1450817544770309
+Research doctorate,C3,single_case,BF01,Psychology,0,871,10,1050,0.0,0.9523809523809523,-0.9523809523809523,1,871,0,0.24928627043861926
+Research doctorate,C3,single_case,BF02,Public and population health,1,312,1,555,0.32051282051282054,0.18018018018018017,0.14033264033264034,1,312,0,0.11250973267583701
+Research doctorate,C3,single_case,BF03,"Medicine, nursing, and clinical health professions",0,99,0,241,0.0,0.0,0.0,1,99,0,0.044121463794445884
+Research doctorate,C3,single_case,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1140,0,436,0.0,0.0,0.0,1,436,0,0.2045159615883727
+Research doctorate,C3,single_case,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,single_case,BF06,"Social work, counseling, and human services",1,91,2,320,1.098901098901099,0.625,0.4739010989010989,1,91,0,0.053335063586815466
+Research doctorate,C3,single_case,BF07,"Social sciences, policy, administration, business, justice, and communication",0,140,6,737,0.0,0.8141112618724559,-0.8141112618724559,1,140,0,0.11380742278743836
+Research doctorate,C3,single_case,BF08,Education,0,10,4,152,0.0,2.6315789473684212,-2.6315789473684212,1,10,0,0.021022579807941862
+Research doctorate,C3,single_case,BF09,"Engineering, computing, and quantitative sciences",0,41,0,99,0.0,0.0,0.0,1,41,0,0.018167661562418894
+Research doctorate,C3,single_case,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,single_case,BF11,Interdisciplinary or other substantive field,0,24,1,35,0.0,2.857142857142857,-2.857142857142857,1,24,0,0.007656371658447962
+Research doctorate,C3,single_case,FIELD_UNAVAILABLE,Field unavailable,0,394,4,724,0.0,0.5524861878453039,-0.5524861878453039,1,394,0,0.1450817544770309
+Research doctorate,C3,computational_modeling,BF01,Psychology,6,871,0,1050,0.6888633754305397,0.0,0.6888633754305397,1,871,0,0.24928627043861926
+Research doctorate,C3,computational_modeling,BF02,Public and population health,4,312,12,555,1.2820512820512822,2.1621621621621623,-0.8801108801108801,1,312,0,0.11250973267583701
+Research doctorate,C3,computational_modeling,BF03,"Medicine, nursing, and clinical health professions",3,99,1,241,3.0303030303030303,0.4149377593360996,2.615365270966931,1,99,0,0.044121463794445884
+Research doctorate,C3,computational_modeling,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",22,1140,17,436,1.9298245614035088,3.8990825688073394,-1.9692580074038306,1,436,0,0.2045159615883727
+Research doctorate,C3,computational_modeling,BF05,Chemical and physical sciences,6,91,6,133,6.593406593406593,4.511278195488722,2.0821283979178715,1,91,0,0.02906825849987023
+Research doctorate,C3,computational_modeling,BF06,"Social work, counseling, and human services",0,91,0,320,0.0,0.0,0.0,1,91,0,0.053335063586815466
+Research doctorate,C3,computational_modeling,BF07,"Social sciences, policy, administration, business, justice, and communication",0,140,11,737,0.0,1.492537313432836,-1.492537313432836,1,140,0,0.11380742278743836
+Research doctorate,C3,computational_modeling,BF08,Education,0,10,0,152,0.0,0.0,0.0,1,10,0,0.021022579807941862
+Research doctorate,C3,computational_modeling,BF09,"Engineering, computing, and quantitative sciences",9,41,25,99,21.951219512195124,25.252525252525253,-3.3013057403301307,1,41,0,0.018167661562418894
+Research doctorate,C3,computational_modeling,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,computational_modeling,BF11,Interdisciplinary or other substantive field,0,24,0,35,0.0,0.0,0.0,1,24,0,0.007656371658447962
+Research doctorate,C3,computational_modeling,FIELD_UNAVAILABLE,Field unavailable,20,394,16,724,5.0761421319796955,2.2099447513812156,2.86619738059848,1,394,0,0.1450817544770309
+Research doctorate,C3,synthesis_characterization,BF01,Psychology,0,871,0,1050,0.0,0.0,0.0,1,871,0,0.24928627043861926
+Research doctorate,C3,synthesis_characterization,BF02,Public and population health,0,312,0,555,0.0,0.0,0.0,1,312,0,0.11250973267583701
+Research doctorate,C3,synthesis_characterization,BF03,"Medicine, nursing, and clinical health professions",0,99,2,241,0.0,0.8298755186721992,-0.8298755186721992,1,99,0,0.044121463794445884
+Research doctorate,C3,synthesis_characterization,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",8,1140,5,436,0.7017543859649122,1.146788990825688,-0.4450346048607758,1,436,0,0.2045159615883727
+Research doctorate,C3,synthesis_characterization,BF05,Chemical and physical sciences,11,91,23,133,12.087912087912088,17.293233082706767,-5.205320994794679,1,91,0,0.02906825849987023
+Research doctorate,C3,synthesis_characterization,BF06,"Social work, counseling, and human services",0,91,0,320,0.0,0.0,0.0,1,91,0,0.053335063586815466
+Research doctorate,C3,synthesis_characterization,BF07,"Social sciences, policy, administration, business, justice, and communication",0,140,0,737,0.0,0.0,0.0,1,140,0,0.11380742278743836
+Research doctorate,C3,synthesis_characterization,BF08,Education,0,10,0,152,0.0,0.0,0.0,1,10,0,0.021022579807941862
+Research doctorate,C3,synthesis_characterization,BF09,"Engineering, computing, and quantitative sciences",0,41,2,99,0.0,2.0202020202020203,-2.0202020202020203,1,41,0,0.018167661562418894
+Research doctorate,C3,synthesis_characterization,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,synthesis_characterization,BF11,Interdisciplinary or other substantive field,0,24,1,35,0.0,2.857142857142857,-2.857142857142857,1,24,0,0.007656371658447962
+Research doctorate,C3,synthesis_characterization,FIELD_UNAVAILABLE,Field unavailable,6,394,7,724,1.5228426395939085,0.9668508287292817,0.5559918108646269,1,394,0,0.1450817544770309
+Research doctorate,C3,experimental_randomized,BF01,Psychology,132,871,97,1050,15.154994259471872,9.238095238095237,5.916899021376634,1,871,0,0.24928627043861926
+Research doctorate,C3,experimental_randomized,BF02,Public and population health,17,312,18,555,5.448717948717949,3.2432432432432434,2.2054747054747055,1,312,0,0.11250973267583701
+Research doctorate,C3,experimental_randomized,BF03,"Medicine, nursing, and clinical health professions",5,99,4,241,5.05050505050505,1.6597510373443984,3.390754013160652,1,99,0,0.044121463794445884
+Research doctorate,C3,experimental_randomized,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",15,1140,3,436,1.3157894736842106,0.6880733944954128,0.6277160791887977,1,436,0,0.2045159615883727
+Research doctorate,C3,experimental_randomized,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,experimental_randomized,BF06,"Social work, counseling, and human services",7,91,8,320,7.6923076923076925,2.5,5.1923076923076925,1,91,0,0.053335063586815466
+Research doctorate,C3,experimental_randomized,BF07,"Social sciences, policy, administration, business, justice, and communication",6,140,35,737,4.285714285714286,4.74898236092266,-0.4632680752083737,1,140,0,0.11380742278743836
+Research doctorate,C3,experimental_randomized,BF08,Education,0,10,3,152,0.0,1.9736842105263157,-1.9736842105263157,1,10,0,0.021022579807941862
+Research doctorate,C3,experimental_randomized,BF09,"Engineering, computing, and quantitative sciences",1,41,1,99,2.4390243902439024,1.0101010101010102,1.4289233801428924,1,41,0,0.018167661562418894
+Research doctorate,C3,experimental_randomized,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,experimental_randomized,BF11,Interdisciplinary or other substantive field,0,24,1,35,0.0,2.857142857142857,-2.857142857142857,1,24,0,0.007656371658447962
+Research doctorate,C3,experimental_randomized,FIELD_UNAVAILABLE,Field unavailable,23,394,34,724,5.83756345177665,4.696132596685083,1.1414308550915668,1,394,0,0.1450817544770309
+Research doctorate,C3,experimental_nonrandomized,BF01,Psychology,342,871,144,1050,39.26521239954076,13.714285714285714,25.550926685255043,1,871,0,0.24928627043861926
+Research doctorate,C3,experimental_nonrandomized,BF02,Public and population health,5,312,20,555,1.6025641025641026,3.6036036036036037,-2.001039501039501,1,312,0,0.11250973267583701
+Research doctorate,C3,experimental_nonrandomized,BF03,"Medicine, nursing, and clinical health professions",40,99,43,241,40.4040404040404,17.842323651452283,22.561716752588122,1,99,0,0.044121463794445884
+Research doctorate,C3,experimental_nonrandomized,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1036,1140,356,436,90.87719298245614,81.65137614678899,9.22581683566715,1,436,0,0.2045159615883727
+Research doctorate,C3,experimental_nonrandomized,BF05,Chemical and physical sciences,73,91,97,133,80.21978021978022,72.93233082706767,7.287449392712551,1,91,0,0.02906825849987023
+Research doctorate,C3,experimental_nonrandomized,BF06,"Social work, counseling, and human services",1,91,7,320,1.098901098901099,2.1875,-1.088598901098901,1,91,0,0.053335063586815466
+Research doctorate,C3,experimental_nonrandomized,BF07,"Social sciences, policy, administration, business, justice, and communication",8,140,11,737,5.714285714285714,1.492537313432836,4.221748400852879,1,140,0,0.11380742278743836
+Research doctorate,C3,experimental_nonrandomized,BF08,Education,1,10,1,152,10.0,0.6578947368421053,9.342105263157896,1,10,0,0.021022579807941862
+Research doctorate,C3,experimental_nonrandomized,BF09,"Engineering, computing, and quantitative sciences",20,41,40,99,48.78048780487805,40.4040404040404,8.376447400837645,1,41,0,0.018167661562418894
+Research doctorate,C3,experimental_nonrandomized,BF10,Humanities and arts,0,1,1,10,0.0,10.0,-10.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,experimental_nonrandomized,BF11,Interdisciplinary or other substantive field,1,24,6,35,4.166666666666667,17.142857142857142,-12.976190476190476,1,24,0,0.007656371658447962
+Research doctorate,C3,experimental_nonrandomized,FIELD_UNAVAILABLE,Field unavailable,212,394,203,724,53.807106598984774,28.03867403314917,25.7684325658356,1,394,0,0.1450817544770309
+Research doctorate,C3,quasi_experimental,BF01,Psychology,11,871,15,1050,1.2629161882893227,1.4285714285714286,-0.16565524028210596,1,871,0,0.24928627043861926
+Research doctorate,C3,quasi_experimental,BF02,Public and population health,11,312,28,555,3.5256410256410255,5.045045045045045,-1.5194040194040195,1,312,0,0.11250973267583701
+Research doctorate,C3,quasi_experimental,BF03,"Medicine, nursing, and clinical health professions",1,99,8,241,1.0101010101010102,3.319502074688797,-2.3094010645877865,1,99,0,0.044121463794445884
+Research doctorate,C3,quasi_experimental,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1140,2,436,0.0,0.45871559633027525,-0.45871559633027525,1,436,0,0.2045159615883727
+Research doctorate,C3,quasi_experimental,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,quasi_experimental,BF06,"Social work, counseling, and human services",1,91,7,320,1.098901098901099,2.1875,-1.088598901098901,1,91,0,0.053335063586815466
+Research doctorate,C3,quasi_experimental,BF07,"Social sciences, policy, administration, business, justice, and communication",16,140,115,737,11.428571428571429,15.603799185888738,-4.17522775731731,1,140,0,0.11380742278743836
+Research doctorate,C3,quasi_experimental,BF08,Education,0,10,1,152,0.0,0.6578947368421053,-0.6578947368421053,1,10,0,0.021022579807941862
+Research doctorate,C3,quasi_experimental,BF09,"Engineering, computing, and quantitative sciences",0,41,1,99,0.0,1.0101010101010102,-1.0101010101010102,1,41,0,0.018167661562418894
+Research doctorate,C3,quasi_experimental,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,quasi_experimental,BF11,Interdisciplinary or other substantive field,1,24,1,35,4.166666666666667,2.857142857142857,1.3095238095238095,1,24,0,0.007656371658447962
+Research doctorate,C3,quasi_experimental,FIELD_UNAVAILABLE,Field unavailable,7,394,24,724,1.7766497461928934,3.314917127071823,-1.5382673808789298,1,394,0,0.1450817544770309
+Research doctorate,C3,single_group_pre_post,BF01,Psychology,6,871,12,1050,0.6888633754305397,1.1428571428571428,-0.45399376742660325,1,871,0,0.24928627043861926
+Research doctorate,C3,single_group_pre_post,BF02,Public and population health,1,312,0,555,0.32051282051282054,0.0,0.32051282051282054,1,312,0,0.11250973267583701
+Research doctorate,C3,single_group_pre_post,BF03,"Medicine, nursing, and clinical health professions",1,99,6,241,1.0101010101010102,2.4896265560165975,-1.4795255459155874,1,99,0,0.044121463794445884
+Research doctorate,C3,single_group_pre_post,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1140,0,436,0.0,0.0,0.0,1,436,0,0.2045159615883727
+Research doctorate,C3,single_group_pre_post,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,single_group_pre_post,BF06,"Social work, counseling, and human services",0,91,5,320,0.0,1.5625,-1.5625,1,91,0,0.053335063586815466
+Research doctorate,C3,single_group_pre_post,BF07,"Social sciences, policy, administration, business, justice, and communication",0,140,0,737,0.0,0.0,0.0,1,140,0,0.11380742278743836
+Research doctorate,C3,single_group_pre_post,BF08,Education,0,10,3,152,0.0,1.9736842105263157,-1.9736842105263157,1,10,0,0.021022579807941862
+Research doctorate,C3,single_group_pre_post,BF09,"Engineering, computing, and quantitative sciences",0,41,0,99,0.0,0.0,0.0,1,41,0,0.018167661562418894
+Research doctorate,C3,single_group_pre_post,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,single_group_pre_post,BF11,Interdisciplinary or other substantive field,0,24,2,35,0.0,5.714285714285714,-5.714285714285714,1,24,0,0.007656371658447962
+Research doctorate,C3,single_group_pre_post,FIELD_UNAVAILABLE,Field unavailable,0,394,7,724,0.0,0.9668508287292817,-0.9668508287292817,1,394,0,0.1450817544770309
+Research doctorate,C3,longitudinal_observational,BF01,Psychology,160,871,128,1050,18.369690011481055,12.19047619047619,6.179213821004866,1,871,0,0.24928627043861926
+Research doctorate,C3,longitudinal_observational,BF02,Public and population health,64,312,59,555,20.512820512820515,10.63063063063063,9.882189882189882,1,312,0,0.11250973267583701
+Research doctorate,C3,longitudinal_observational,BF03,"Medicine, nursing, and clinical health professions",11,99,11,241,11.11111111111111,4.564315352697095,6.5467957584140155,1,99,0,0.044121463794445884
+Research doctorate,C3,longitudinal_observational,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",8,1140,5,436,0.7017543859649122,1.146788990825688,-0.4450346048607758,1,436,0,0.2045159615883727
+Research doctorate,C3,longitudinal_observational,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02906825849987023
+Research doctorate,C3,longitudinal_observational,BF06,"Social work, counseling, and human services",17,91,23,320,18.681318681318682,7.1875,11.49381868131868,1,91,0,0.053335063586815466
+Research doctorate,C3,longitudinal_observational,BF07,"Social sciences, policy, administration, business, justice, and communication",27,140,77,737,19.285714285714285,10.447761194029852,8.837953091684435,1,140,0,0.11380742278743836
+Research doctorate,C3,longitudinal_observational,BF08,Education,4,10,3,152,40.0,1.9736842105263157,38.026315789473685,1,10,0,0.021022579807941862
+Research doctorate,C3,longitudinal_observational,BF09,"Engineering, computing, and quantitative sciences",0,41,6,99,0.0,6.0606060606060606,-6.0606060606060606,1,41,0,0.018167661562418894
+Research doctorate,C3,longitudinal_observational,BF10,Humanities and arts,0,1,0,10,0.0,0.0,0.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,longitudinal_observational,BF11,Interdisciplinary or other substantive field,8,24,1,35,33.333333333333336,2.857142857142857,30.476190476190474,1,24,0,0.007656371658447962
+Research doctorate,C3,longitudinal_observational,FIELD_UNAVAILABLE,Field unavailable,44,394,73,724,11.16751269035533,10.082872928176796,1.0846397621785344,1,394,0,0.1450817544770309
+Research doctorate,C3,cross_sectional_observational,BF01,Psychology,147,871,473,1050,16.87715269804822,45.04761904761905,-28.170466349570827,1,871,0,0.24928627043861926
+Research doctorate,C3,cross_sectional_observational,BF02,Public and population health,98,312,260,555,31.41025641025641,46.846846846846844,-15.436590436590437,1,312,0,0.11250973267583701
+Research doctorate,C3,cross_sectional_observational,BF03,"Medicine, nursing, and clinical health professions",20,99,87,241,20.2020202020202,36.09958506224066,-15.897564860220461,1,99,0,0.044121463794445884
+Research doctorate,C3,cross_sectional_observational,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",21,1140,18,436,1.8421052631578947,4.128440366972477,-2.2863351038145825,1,436,0,0.2045159615883727
+Research doctorate,C3,cross_sectional_observational,BF05,Chemical and physical sciences,0,91,5,133,0.0,3.7593984962406015,-3.7593984962406015,1,91,0,0.02906825849987023
+Research doctorate,C3,cross_sectional_observational,BF06,"Social work, counseling, and human services",33,91,148,320,36.26373626373626,46.25,-9.986263736263735,1,91,0,0.053335063586815466
+Research doctorate,C3,cross_sectional_observational,BF07,"Social sciences, policy, administration, business, justice, and communication",27,140,213,737,19.285714285714285,28.900949796472183,-9.615235510757898,1,140,0,0.11380742278743836
+Research doctorate,C3,cross_sectional_observational,BF08,Education,2,10,76,152,20.0,50.0,-30.0,1,10,0,0.021022579807941862
+Research doctorate,C3,cross_sectional_observational,BF09,"Engineering, computing, and quantitative sciences",4,41,12,99,9.75609756097561,12.121212121212121,-2.3651145602365116,1,41,0,0.018167661562418894
+Research doctorate,C3,cross_sectional_observational,BF10,Humanities and arts,0,1,1,10,0.0,10.0,-10.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,cross_sectional_observational,BF11,Interdisciplinary or other substantive field,3,24,13,35,12.5,37.142857142857146,-24.642857142857142,1,24,0,0.007656371658447962
+Research doctorate,C3,cross_sectional_observational,FIELD_UNAVAILABLE,Field unavailable,33,394,234,724,8.375634517766498,32.32044198895028,-23.94480747118378,1,394,0,0.1450817544770309
+Research doctorate,C3,multiple_no_dominant,BF01,Psychology,34,871,37,1050,3.9035591274397246,3.5238095238095237,0.37974960363020066,1,871,0,0.24928627043861926
+Research doctorate,C3,multiple_no_dominant,BF02,Public and population health,66,312,92,555,21.153846153846153,16.576576576576578,4.577269577269577,1,312,0,0.11250973267583701
+Research doctorate,C3,multiple_no_dominant,BF03,"Medicine, nursing, and clinical health professions",8,99,17,241,8.080808080808081,7.053941908713693,1.026866172094388,1,99,0,0.044121463794445884
+Research doctorate,C3,multiple_no_dominant,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",27,1140,26,436,2.3684210526315788,5.963302752293578,-3.594881699661999,1,436,0,0.2045159615883727
+Research doctorate,C3,multiple_no_dominant,BF05,Chemical and physical sciences,1,91,2,133,1.098901098901099,1.5037593984962405,-0.4048582995951417,1,91,0,0.02906825849987023
+Research doctorate,C3,multiple_no_dominant,BF06,"Social work, counseling, and human services",9,91,17,320,9.89010989010989,5.3125,4.5776098901098905,1,91,0,0.053335063586815466
+Research doctorate,C3,multiple_no_dominant,BF07,"Social sciences, policy, administration, business, justice, and communication",22,140,54,737,15.714285714285714,7.3270013568521035,8.387284357433611,1,140,0,0.11380742278743836
+Research doctorate,C3,multiple_no_dominant,BF08,Education,0,10,2,152,0.0,1.3157894736842106,-1.3157894736842106,1,10,0,0.021022579807941862
+Research doctorate,C3,multiple_no_dominant,BF09,"Engineering, computing, and quantitative sciences",5,41,9,99,12.195121951219512,9.090909090909092,3.104212860310421,1,41,0,0.018167661562418894
+Research doctorate,C3,multiple_no_dominant,BF10,Humanities and arts,0,1,2,10,0.0,20.0,-20.0,1,1,1,0.0014274591227614846
+Research doctorate,C3,multiple_no_dominant,BF11,Interdisciplinary or other substantive field,6,24,3,35,25.0,8.571428571428571,16.428571428571427,1,24,0,0.007656371658447962
+Research doctorate,C3,multiple_no_dominant,FIELD_UNAVAILABLE,Field unavailable,27,394,38,724,6.852791878172589,5.248618784530387,1.604173093642202,1,394,0,0.1450817544770309
+Research doctorate,C4,molecular_cellular,BF01,Psychology,27,877,5,1081,3.0786773090079818,0.46253469010175763,2.616142618906224,1,877,0,0.24588722843149566
+Research doctorate,C4,molecular_cellular,BF02,Public and population health,2,317,5,562,0.6309148264984227,0.8896797153024911,-0.2587648888040684,1,317,0,0.11038553309054376
+Research doctorate,C4,molecular_cellular,BF03,"Medicine, nursing, and clinical health professions",17,101,17,253,16.831683168316832,6.719367588932807,10.112315579384026,1,101,0,0.044455607183222404
+Research doctorate,C4,molecular_cellular,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",384,1142,198,437,33.62521891418564,45.30892448512586,-11.68370557094022,1,437,0,0.19829210096697225
+Research doctorate,C4,molecular_cellular,BF05,Chemical and physical sciences,80,91,111,134,87.91208791208791,82.83582089552239,5.076267016565524,1,91,0,0.028255682531709153
+Research doctorate,C4,molecular_cellular,BF06,"Social work, counseling, and human services",0,92,0,327,0.0,0.0,0.0,1,92,0,0.05261835991460505
+Research doctorate,C4,molecular_cellular,BF07,"Social sciences, policy, administration, business, justice, and communication",0,142,0,796,0.0,0.0,0.0,1,142,0,0.11779480095441416
+Research doctorate,C4,molecular_cellular,BF08,Education,0,10,0,159,0.0,0.0,0.0,1,10,0,0.021223157101594878
+Research doctorate,C4,molecular_cellular,BF09,"Engineering, computing, and quantitative sciences",7,41,25,100,17.073170731707318,25.0,-7.926829268292683,1,41,0,0.017706894386537737
+Research doctorate,C4,molecular_cellular,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C4,molecular_cellular,BF11,Interdisciplinary or other substantive field,0,24,2,38,0.0,5.2631578947368425,-5.2631578947368425,1,24,0,0.007786010297626523
+Research doctorate,C4,molecular_cellular,FIELD_UNAVAILABLE,Field unavailable,91,397,84,758,22.92191435768262,11.08179419525066,11.84012016243196,1,397,0,0.14504583699610699
+Research doctorate,C4,organism_nonhuman,BF01,Psychology,179,877,65,1081,20.410490307867732,6.012950971322849,14.397539336544881,1,877,0,0.24588722843149566
+Research doctorate,C4,organism_nonhuman,BF02,Public and population health,0,317,4,562,0.0,0.7117437722419929,-0.7117437722419929,1,317,0,0.11038553309054376
+Research doctorate,C4,organism_nonhuman,BF03,"Medicine, nursing, and clinical health professions",18,101,18,253,17.821782178217823,7.1146245059288535,10.707157672288968,1,101,0,0.044455607183222404
+Research doctorate,C4,organism_nonhuman,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",470,1142,118,437,41.155866900175134,27.002288329519452,14.15357857065568,1,437,0,0.19829210096697225
+Research doctorate,C4,organism_nonhuman,BF05,Chemical and physical sciences,8,91,2,134,8.791208791208792,1.492537313432836,7.298671477775955,1,91,0,0.028255682531709153
+Research doctorate,C4,organism_nonhuman,BF06,"Social work, counseling, and human services",0,92,0,327,0.0,0.0,0.0,1,92,0,0.05261835991460505
+Research doctorate,C4,organism_nonhuman,BF07,"Social sciences, policy, administration, business, justice, and communication",0,142,0,796,0.0,0.0,0.0,1,142,0,0.11779480095441416
+Research doctorate,C4,organism_nonhuman,BF08,Education,0,10,0,159,0.0,0.0,0.0,1,10,0,0.021223157101594878
+Research doctorate,C4,organism_nonhuman,BF09,"Engineering, computing, and quantitative sciences",8,41,7,100,19.51219512195122,7.0,12.512195121951219,1,41,0,0.017706894386537737
+Research doctorate,C4,organism_nonhuman,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C4,organism_nonhuman,BF11,Interdisciplinary or other substantive field,0,24,2,38,0.0,5.2631578947368425,-5.2631578947368425,1,24,0,0.007786010297626523
+Research doctorate,C4,organism_nonhuman,FIELD_UNAVAILABLE,Field unavailable,88,397,80,758,22.16624685138539,10.554089709762533,11.612157141622857,1,397,0,0.14504583699610699
+Research doctorate,C4,individual_human,BF01,Psychology,641,877,947,1081,73.09007981755987,87.6040703052729,-14.513990487713032,1,877,0,0.24588722843149566
+Research doctorate,C4,individual_human,BF02,Public and population health,252,317,445,562,79.49526813880126,79.1814946619217,0.31377347687955365,1,317,0,0.11038553309054376
+Research doctorate,C4,individual_human,BF03,"Medicine, nursing, and clinical health professions",62,101,182,253,61.386138613861384,71.93675889328063,-10.550620279419245,1,101,0,0.044455607183222404
+Research doctorate,C4,individual_human,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",270,1142,105,437,23.642732049036777,24.02745995423341,-0.384727905196632,1,437,0,0.19829210096697225
+Research doctorate,C4,individual_human,BF05,Chemical and physical sciences,3,91,14,134,3.2967032967032965,10.447761194029852,-7.151057897326554,1,91,0,0.028255682531709153
+Research doctorate,C4,individual_human,BF06,"Social work, counseling, and human services",76,92,256,327,82.6086956521739,78.2874617737003,4.321233878473607,1,92,0,0.05261835991460505
+Research doctorate,C4,individual_human,BF07,"Social sciences, policy, administration, business, justice, and communication",91,142,512,796,64.08450704225352,64.321608040201,-0.2371009979474839,1,142,0,0.11779480095441416
+Research doctorate,C4,individual_human,BF08,Education,10,10,128,159,100.0,80.50314465408805,19.49685534591195,1,10,0,0.021223157101594878
+Research doctorate,C4,individual_human,BF09,"Engineering, computing, and quantitative sciences",24,41,40,100,58.53658536585366,40.0,18.536585365853657,1,41,0,0.017706894386537737
+Research doctorate,C4,individual_human,BF10,Humanities and arts,1,1,18,83,100.0,21.686746987951807,78.3132530120482,1,1,1,0.010548788145171418
+Research doctorate,C4,individual_human,BF11,Interdisciplinary or other substantive field,19,24,26,38,79.16666666666667,68.42105263157895,10.74561403508772,1,24,0,0.007786010297626523
+Research doctorate,C4,individual_human,FIELD_UNAVAILABLE,Field unavailable,193,397,473,758,48.614609571788414,62.401055408970976,-13.786445837182564,1,397,0,0.14504583699610699
+Research doctorate,C4,dyad_family_group,BF01,Psychology,24,877,31,1081,2.7366020524515395,2.8677150786308974,-0.13111302617935797,1,877,0,0.24588722843149566
+Research doctorate,C4,dyad_family_group,BF02,Public and population health,7,317,11,562,2.2082018927444795,1.9572953736654803,0.2509065190789991,1,317,0,0.11038553309054376
+Research doctorate,C4,dyad_family_group,BF03,"Medicine, nursing, and clinical health professions",1,101,8,253,0.9900990099009901,3.1620553359683794,-2.1719563260673893,1,101,0,0.044455607183222404
+Research doctorate,C4,dyad_family_group,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,0,437,0.0,0.0,0.0,1,437,0,0.19829210096697225
+Research doctorate,C4,dyad_family_group,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C4,dyad_family_group,BF06,"Social work, counseling, and human services",5,92,26,327,5.434782608695652,7.951070336391437,-2.516287727695785,1,92,0,0.05261835991460505
+Research doctorate,C4,dyad_family_group,BF07,"Social sciences, policy, administration, business, justice, and communication",9,142,31,796,6.338028169014085,3.8944723618090453,2.443555807205039,1,142,0,0.11779480095441416
+Research doctorate,C4,dyad_family_group,BF08,Education,0,10,10,159,0.0,6.289308176100629,-6.289308176100629,1,10,0,0.021223157101594878
+Research doctorate,C4,dyad_family_group,BF09,"Engineering, computing, and quantitative sciences",1,41,1,100,2.4390243902439024,1.0,1.4390243902439024,1,41,0,0.017706894386537737
+Research doctorate,C4,dyad_family_group,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C4,dyad_family_group,BF11,Interdisciplinary or other substantive field,1,24,2,38,4.166666666666667,5.2631578947368425,-1.0964912280701755,1,24,0,0.007786010297626523
+Research doctorate,C4,dyad_family_group,FIELD_UNAVAILABLE,Field unavailable,3,397,22,758,0.7556675062972292,2.9023746701846966,-2.1467071638874673,1,397,0,0.14504583699610699
+Research doctorate,C4,organization_program,BF01,Psychology,2,877,18,1081,0.22805017103762829,1.6651248843663276,-1.4370747133286992,1,877,0,0.24588722843149566
+Research doctorate,C4,organization_program,BF02,Public and population health,15,317,17,562,4.73186119873817,3.0249110320284696,1.7069501667097007,1,317,0,0.11038553309054376
+Research doctorate,C4,organization_program,BF03,"Medicine, nursing, and clinical health professions",3,101,18,253,2.9702970297029703,7.1146245059288535,-4.144327476225883,1,101,0,0.044455607183222404
+Research doctorate,C4,organization_program,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,1,437,0.0,0.2288329519450801,-0.2288329519450801,1,437,0,0.19829210096697225
+Research doctorate,C4,organization_program,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C4,organization_program,BF06,"Social work, counseling, and human services",8,92,32,327,8.695652173913043,9.785932721712538,-1.0902805477994948,1,92,0,0.05261835991460505
+Research doctorate,C4,organization_program,BF07,"Social sciences, policy, administration, business, justice, and communication",14,142,59,796,9.859154929577464,7.4120603015075375,2.447094628069927,1,142,0,0.11779480095441416
+Research doctorate,C4,organization_program,BF08,Education,0,10,19,159,0.0,11.949685534591195,-11.949685534591195,1,10,0,0.021223157101594878
+Research doctorate,C4,organization_program,BF09,"Engineering, computing, and quantitative sciences",1,41,2,100,2.4390243902439024,2.0,0.43902439024390244,1,41,0,0.017706894386537737
+Research doctorate,C4,organization_program,BF10,Humanities and arts,0,1,1,83,0.0,1.2048192771084338,-1.2048192771084338,1,1,1,0.010548788145171418
+Research doctorate,C4,organization_program,BF11,Interdisciplinary or other substantive field,3,24,3,38,12.5,7.894736842105263,4.605263157894737,1,24,0,0.007786010297626523
+Research doctorate,C4,organization_program,FIELD_UNAVAILABLE,Field unavailable,5,397,26,758,1.2594458438287153,3.430079155672823,-2.170633311844108,1,397,0,0.14504583699610699
+Research doctorate,C4,community_jurisdiction_population,BF01,Psychology,1,877,6,1081,0.11402508551881414,0.5550416281221091,-0.44101654260329504,1,877,0,0.24588722843149566
+Research doctorate,C4,community_jurisdiction_population,BF02,Public and population health,35,317,66,562,11.041009463722398,11.743772241992882,-0.7027627782704851,1,317,0,0.11038553309054376
+Research doctorate,C4,community_jurisdiction_population,BF03,"Medicine, nursing, and clinical health professions",0,101,7,253,0.0,2.766798418972332,-2.766798418972332,1,101,0,0.044455607183222404
+Research doctorate,C4,community_jurisdiction_population,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,1142,7,437,0.17513134851138354,1.6018306636155606,-1.4266993151041771,1,437,0,0.19829210096697225
+Research doctorate,C4,community_jurisdiction_population,BF05,Chemical and physical sciences,0,91,6,134,0.0,4.477611940298507,-4.477611940298507,1,91,0,0.028255682531709153
+Research doctorate,C4,community_jurisdiction_population,BF06,"Social work, counseling, and human services",2,92,7,327,2.1739130434782608,2.140672782874618,0.03324026060364313,1,92,0,0.05261835991460505
+Research doctorate,C4,community_jurisdiction_population,BF07,"Social sciences, policy, administration, business, justice, and communication",27,142,147,796,19.014084507042252,18.467336683417084,0.546747823625168,1,142,0,0.11779480095441416
+Research doctorate,C4,community_jurisdiction_population,BF08,Education,0,10,1,159,0.0,0.6289308176100629,-0.6289308176100629,1,10,0,0.021223157101594878
+Research doctorate,C4,community_jurisdiction_population,BF09,"Engineering, computing, and quantitative sciences",0,41,19,100,0.0,19.0,-19.0,1,41,0,0.017706894386537737
+Research doctorate,C4,community_jurisdiction_population,BF10,Humanities and arts,0,1,8,83,0.0,9.63855421686747,-9.63855421686747,1,1,1,0.010548788145171418
+Research doctorate,C4,community_jurisdiction_population,BF11,Interdisciplinary or other substantive field,1,24,2,38,4.166666666666667,5.2631578947368425,-1.0964912280701755,1,24,0,0.007786010297626523
+Research doctorate,C4,community_jurisdiction_population,FIELD_UNAVAILABLE,Field unavailable,15,397,48,758,3.7783375314861463,6.332453825857519,-2.5541162943713736,1,397,0,0.14504583699610699
+Research doctorate,C4,texts_media_discourse,BF01,Psychology,0,877,7,1081,0.0,0.6475485661424607,-0.6475485661424607,1,877,0,0.24588722843149566
+Research doctorate,C4,texts_media_discourse,BF02,Public and population health,2,317,6,562,0.6309148264984227,1.0676156583629892,-0.4367008318645666,1,317,0,0.11038553309054376
+Research doctorate,C4,texts_media_discourse,BF03,"Medicine, nursing, and clinical health professions",0,101,1,253,0.0,0.3952569169960474,-0.3952569169960474,1,101,0,0.044455607183222404
+Research doctorate,C4,texts_media_discourse,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,1,437,0.0,0.2288329519450801,-0.2288329519450801,1,437,0,0.19829210096697225
+Research doctorate,C4,texts_media_discourse,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C4,texts_media_discourse,BF06,"Social work, counseling, and human services",0,92,6,327,0.0,1.834862385321101,-1.834862385321101,1,92,0,0.05261835991460505
+Research doctorate,C4,texts_media_discourse,BF07,"Social sciences, policy, administration, business, justice, and communication",0,142,41,796,0.0,5.150753768844221,-5.150753768844221,1,142,0,0.11779480095441416
+Research doctorate,C4,texts_media_discourse,BF08,Education,0,10,1,159,0.0,0.6289308176100629,-0.6289308176100629,1,10,0,0.021223157101594878
+Research doctorate,C4,texts_media_discourse,BF09,"Engineering, computing, and quantitative sciences",0,41,5,100,0.0,5.0,-5.0,1,41,0,0.017706894386537737
+Research doctorate,C4,texts_media_discourse,BF10,Humanities and arts,0,1,55,83,0.0,66.26506024096386,-66.26506024096386,1,1,1,0.010548788145171418
+Research doctorate,C4,texts_media_discourse,BF11,Interdisciplinary or other substantive field,0,24,0,38,0.0,0.0,0.0,1,24,0,0.007786010297626523
+Research doctorate,C4,texts_media_discourse,FIELD_UNAVAILABLE,Field unavailable,0,397,22,758,0.0,2.9023746701846966,-2.9023746701846966,1,397,0,0.14504583699610699
+Research doctorate,C4,multiple_no_dominant,BF01,Psychology,3,877,2,1081,0.34207525655644244,0.18501387604070305,0.15706138051573937,1,877,0,0.24588722843149566
+Research doctorate,C4,multiple_no_dominant,BF02,Public and population health,4,317,8,562,1.2618296529968454,1.4234875444839858,-0.16165789148714033,1,317,0,0.11038553309054376
+Research doctorate,C4,multiple_no_dominant,BF03,"Medicine, nursing, and clinical health professions",0,101,2,253,0.0,0.7905138339920948,-0.7905138339920948,1,101,0,0.044455607183222404
+Research doctorate,C4,multiple_no_dominant,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",16,1142,7,437,1.4010507880910683,1.6018306636155606,-0.20077987552449233,1,437,0,0.19829210096697225
+Research doctorate,C4,multiple_no_dominant,BF05,Chemical and physical sciences,0,91,1,134,0.0,0.746268656716418,-0.746268656716418,1,91,0,0.028255682531709153
+Research doctorate,C4,multiple_no_dominant,BF06,"Social work, counseling, and human services",1,92,0,327,1.0869565217391304,0.0,1.0869565217391304,1,92,0,0.05261835991460505
+Research doctorate,C4,multiple_no_dominant,BF07,"Social sciences, policy, administration, business, justice, and communication",1,142,6,796,0.704225352112676,0.7537688442211056,-0.04954349210842947,1,142,0,0.11779480095441416
+Research doctorate,C4,multiple_no_dominant,BF08,Education,0,10,0,159,0.0,0.0,0.0,1,10,0,0.021223157101594878
+Research doctorate,C4,multiple_no_dominant,BF09,"Engineering, computing, and quantitative sciences",0,41,1,100,0.0,1.0,-1.0,1,41,0,0.017706894386537737
+Research doctorate,C4,multiple_no_dominant,BF10,Humanities and arts,0,1,1,83,0.0,1.2048192771084338,-1.2048192771084338,1,1,1,0.010548788145171418
+Research doctorate,C4,multiple_no_dominant,BF11,Interdisciplinary or other substantive field,0,24,1,38,0.0,2.6315789473684212,-2.6315789473684212,1,24,0,0.007786010297626523
+Research doctorate,C4,multiple_no_dominant,FIELD_UNAVAILABLE,Field unavailable,2,397,3,758,0.5037783375314862,0.39577836411609496,0.10799997341539117,1,397,0,0.14504583699610699
+Research doctorate,C5,describe_distribution,BF01,Psychology,0,877,3,1081,0.0,0.27752081406105455,-0.27752081406105455,1,877,0,0.24588722843149566
+Research doctorate,C5,describe_distribution,BF02,Public and population health,6,317,12,562,1.8927444794952681,2.1352313167259784,-0.24248683723071052,1,317,0,0.11038553309054376
+Research doctorate,C5,describe_distribution,BF03,"Medicine, nursing, and clinical health professions",0,101,2,253,0.0,0.7905138339920948,-0.7905138339920948,1,101,0,0.044455607183222404
+Research doctorate,C5,describe_distribution,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,1,437,0.0,0.2288329519450801,-0.2288329519450801,1,437,0,0.19829210096697225
+Research doctorate,C5,describe_distribution,BF05,Chemical and physical sciences,0,91,1,134,0.0,0.746268656716418,-0.746268656716418,1,91,0,0.028255682531709153
+Research doctorate,C5,describe_distribution,BF06,"Social work, counseling, and human services",0,92,2,327,0.0,0.6116207951070336,-0.6116207951070336,1,92,0,0.05261835991460505
+Research doctorate,C5,describe_distribution,BF07,"Social sciences, policy, administration, business, justice, and communication",2,142,2,796,1.408450704225352,0.25125628140703515,1.1571944228183169,1,142,0,0.11779480095441416
+Research doctorate,C5,describe_distribution,BF08,Education,0,10,2,159,0.0,1.2578616352201257,-1.2578616352201257,1,10,0,0.021223157101594878
+Research doctorate,C5,describe_distribution,BF09,"Engineering, computing, and quantitative sciences",0,41,7,100,0.0,7.0,-7.0,1,41,0,0.017706894386537737
+Research doctorate,C5,describe_distribution,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C5,describe_distribution,BF11,Interdisciplinary or other substantive field,0,24,0,38,0.0,0.0,0.0,1,24,0,0.007786010297626523
+Research doctorate,C5,describe_distribution,FIELD_UNAVAILABLE,Field unavailable,0,397,8,758,0.0,1.0554089709762533,-1.0554089709762533,1,397,0,0.14504583699610699
+Research doctorate,C5,explain_causes,BF01,Psychology,383,877,471,1081,43.671607753705814,43.57076780758557,0.10083994612024637,1,877,0,0.24588722843149566
+Research doctorate,C5,explain_causes,BF02,Public and population health,117,317,200,562,36.90851735015773,35.587188612099645,1.3213287380580845,1,317,0,0.11038553309054376
+Research doctorate,C5,explain_causes,BF03,"Medicine, nursing, and clinical health professions",37,101,71,253,36.633663366336634,28.063241106719367,8.570422259617265,1,101,0,0.044455607183222404
+Research doctorate,C5,explain_causes,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",332,1142,69,437,29.071803852889666,15.789473684210526,13.282330168679142,1,437,0,0.19829210096697225
+Research doctorate,C5,explain_causes,BF05,Chemical and physical sciences,5,91,4,134,5.4945054945054945,2.985074626865672,2.5094308676398227,1,91,0,0.028255682531709153
+Research doctorate,C5,explain_causes,BF06,"Social work, counseling, and human services",36,92,104,327,39.130434782608695,31.804281345565748,7.326153437042946,1,92,0,0.05261835991460505
+Research doctorate,C5,explain_causes,BF07,"Social sciences, policy, administration, business, justice, and communication",54,142,275,796,38.028169014084504,34.54773869346734,3.4804303206171703,1,142,0,0.11779480095441416
+Research doctorate,C5,explain_causes,BF08,Education,4,10,53,159,40.0,33.333333333333336,6.666666666666667,1,10,0,0.021223157101594878
+Research doctorate,C5,explain_causes,BF09,"Engineering, computing, and quantitative sciences",8,41,17,100,19.51219512195122,17.0,2.5121951219512195,1,41,0,0.017706894386537737
+Research doctorate,C5,explain_causes,BF10,Humanities and arts,1,1,9,83,100.0,10.843373493975903,89.1566265060241,1,1,1,0.010548788145171418
+Research doctorate,C5,explain_causes,BF11,Interdisciplinary or other substantive field,9,24,8,38,37.5,21.05263157894737,16.44736842105263,1,24,0,0.007786010297626523
+Research doctorate,C5,explain_causes,FIELD_UNAVAILABLE,Field unavailable,137,397,228,758,34.5088161209068,30.07915567282322,4.429660448083582,1,397,0,0.14504583699610699
+Research doctorate,C5,consequences_of_use,BF01,Psychology,260,877,248,1081,29.646522234891677,22.94172062904718,6.704801605844498,1,877,0,0.24588722843149566
+Research doctorate,C5,consequences_of_use,BF02,Public and population health,69,317,158,562,21.766561514195583,28.11387900355872,-6.347317489363135,1,317,0,0.11038553309054376
+Research doctorate,C5,consequences_of_use,BF03,"Medicine, nursing, and clinical health professions",29,101,51,253,28.712871287128714,20.158102766798418,8.554768520330294,1,101,0,0.044455607183222404
+Research doctorate,C5,consequences_of_use,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",364,1142,125,437,31.873905429071804,28.60411899313501,3.2697864359367923,1,437,0,0.19829210096697225
+Research doctorate,C5,consequences_of_use,BF05,Chemical and physical sciences,2,91,11,134,2.197802197802198,8.208955223880597,-6.011153026078399,1,91,0,0.028255682531709153
+Research doctorate,C5,consequences_of_use,BF06,"Social work, counseling, and human services",18,92,38,327,19.565217391304348,11.62079510703364,7.944422284270709,1,92,0,0.05261835991460505
+Research doctorate,C5,consequences_of_use,BF07,"Social sciences, policy, administration, business, justice, and communication",10,142,97,796,7.042253521126761,12.185929648241206,-5.143676127114445,1,142,0,0.11779480095441416
+Research doctorate,C5,consequences_of_use,BF08,Education,3,10,12,159,30.0,7.547169811320755,22.452830188679247,1,10,0,0.021223157101594878
+Research doctorate,C5,consequences_of_use,BF09,"Engineering, computing, and quantitative sciences",13,41,17,100,31.70731707317073,17.0,14.707317073170731,1,41,0,0.017706894386537737
+Research doctorate,C5,consequences_of_use,BF10,Humanities and arts,0,1,4,83,0.0,4.819277108433735,-4.819277108433735,1,1,1,0.010548788145171418
+Research doctorate,C5,consequences_of_use,BF11,Interdisciplinary or other substantive field,4,24,7,38,16.666666666666668,18.42105263157895,-1.7543859649122806,1,24,0,0.007786010297626523
+Research doctorate,C5,consequences_of_use,FIELD_UNAVAILABLE,Field unavailable,88,397,160,758,22.16624685138539,21.108179419525065,1.0580674318603245,1,397,0,0.14504583699610699
+Research doctorate,C5,characterize_substance_action,BF01,Psychology,38,877,15,1081,4.3329532497149374,1.387604070305273,2.9453491794096642,1,877,0,0.24588722843149566
+Research doctorate,C5,characterize_substance_action,BF02,Public and population health,0,317,3,562,0.0,0.5338078291814946,-0.5338078291814946,1,317,0,0.11038553309054376
+Research doctorate,C5,characterize_substance_action,BF03,"Medicine, nursing, and clinical health professions",15,101,15,253,14.851485148514852,5.928853754940712,8.92263139357414,1,101,0,0.044455607183222404
+Research doctorate,C5,characterize_substance_action,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",321,1142,186,437,28.108581436077056,42.5629290617849,-14.45434762570784,1,437,0,0.19829210096697225
+Research doctorate,C5,characterize_substance_action,BF05,Chemical and physical sciences,75,91,75,134,82.41758241758242,55.97014925373134,26.447433163851073,1,91,0,0.028255682531709153
+Research doctorate,C5,characterize_substance_action,BF06,"Social work, counseling, and human services",0,92,0,327,0.0,0.0,0.0,1,92,0,0.05261835991460505
+Research doctorate,C5,characterize_substance_action,BF07,"Social sciences, policy, administration, business, justice, and communication",0,142,0,796,0.0,0.0,0.0,1,142,0,0.11779480095441416
+Research doctorate,C5,characterize_substance_action,BF08,Education,0,10,0,159,0.0,0.0,0.0,1,10,0,0.021223157101594878
+Research doctorate,C5,characterize_substance_action,BF09,"Engineering, computing, and quantitative sciences",4,41,11,100,9.75609756097561,11.0,-1.2439024390243902,1,41,0,0.017706894386537737
+Research doctorate,C5,characterize_substance_action,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C5,characterize_substance_action,BF11,Interdisciplinary or other substantive field,0,24,2,38,0.0,5.2631578947368425,-5.2631578947368425,1,24,0,0.007786010297626523
+Research doctorate,C5,characterize_substance_action,FIELD_UNAVAILABLE,Field unavailable,74,397,89,758,18.639798488664987,11.741424802110817,6.898373686554169,1,397,0,0.14504583699610699
+Research doctorate,C5,intervene,BF01,Psychology,127,877,177,1081,14.481185860889395,16.37372802960222,-1.8925421687128245,1,877,0,0.24588722843149566
+Research doctorate,C5,intervene,BF02,Public and population health,28,317,34,562,8.832807570977918,6.049822064056939,2.7829855069209786,1,317,0,0.11038553309054376
+Research doctorate,C5,intervene,BF03,"Medicine, nursing, and clinical health professions",11,101,42,253,10.891089108910892,16.600790513833992,-5.709701404923101,1,101,0,0.044455607183222404
+Research doctorate,C5,intervene,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",99,1142,22,437,8.669001751313486,5.034324942791762,3.634676808521723,1,437,0,0.19829210096697225
+Research doctorate,C5,intervene,BF05,Chemical and physical sciences,6,91,8,134,6.593406593406593,5.970149253731344,0.6232573396752501,1,91,0,0.028255682531709153
+Research doctorate,C5,intervene,BF06,"Social work, counseling, and human services",14,92,60,327,15.217391304347826,18.34862385321101,-3.131232548863183,1,92,0,0.05261835991460505
+Research doctorate,C5,intervene,BF07,"Social sciences, policy, administration, business, justice, and communication",17,142,70,796,11.971830985915492,8.793969849246231,3.1778611366692617,1,142,0,0.11779480095441416
+Research doctorate,C5,intervene,BF08,Education,0,10,20,159,0.0,12.578616352201259,-12.578616352201259,1,10,0,0.021223157101594878
+Research doctorate,C5,intervene,BF09,"Engineering, computing, and quantitative sciences",6,41,14,100,14.634146341463415,14.0,0.6341463414634146,1,41,0,0.017706894386537737
+Research doctorate,C5,intervene,BF10,Humanities and arts,0,1,3,83,0.0,3.6144578313253013,-3.6144578313253013,1,1,1,0.010548788145171418
+Research doctorate,C5,intervene,BF11,Interdisciplinary or other substantive field,3,24,7,38,12.5,18.42105263157895,-5.921052631578948,1,24,0,0.007786010297626523
+Research doctorate,C5,intervene,FIELD_UNAVAILABLE,Field unavailable,51,397,89,758,12.846347607052897,11.741424802110817,1.1049228049420787,1,397,0,0.14504583699610699
+Research doctorate,C5,organize_deliver_services,BF01,Psychology,11,877,61,1081,1.2542759407069555,5.642923219241443,-4.388647278534488,1,877,0,0.24588722843149566
+Research doctorate,C5,organize_deliver_services,BF02,Public and population health,44,317,51,562,13.8801261829653,9.07473309608541,4.80539308687989,1,317,0,0.11038553309054376
+Research doctorate,C5,organize_deliver_services,BF03,"Medicine, nursing, and clinical health professions",7,101,42,253,6.930693069306931,16.600790513833992,-9.67009744452706,1,101,0,0.044455607183222404
+Research doctorate,C5,organize_deliver_services,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,1142,7,437,0.17513134851138354,1.6018306636155606,-1.4266993151041771,1,437,0,0.19829210096697225
+Research doctorate,C5,organize_deliver_services,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C5,organize_deliver_services,BF06,"Social work, counseling, and human services",19,92,64,327,20.652173913043477,19.571865443425075,1.0803084696184018,1,92,0,0.05261835991460505
+Research doctorate,C5,organize_deliver_services,BF07,"Social sciences, policy, administration, business, justice, and communication",34,142,123,796,23.943661971830984,15.452261306532664,8.491400665298322,1,142,0,0.11779480095441416
+Research doctorate,C5,organize_deliver_services,BF08,Education,1,10,30,159,10.0,18.867924528301888,-8.867924528301886,1,10,0,0.021223157101594878
+Research doctorate,C5,organize_deliver_services,BF09,"Engineering, computing, and quantitative sciences",2,41,5,100,4.878048780487805,5.0,-0.12195121951219512,1,41,0,0.017706894386537737
+Research doctorate,C5,organize_deliver_services,BF10,Humanities and arts,0,1,2,83,0.0,2.4096385542168677,-2.4096385542168677,1,1,1,0.010548788145171418
+Research doctorate,C5,organize_deliver_services,BF11,Interdisciplinary or other substantive field,3,24,6,38,12.5,15.789473684210526,-3.289473684210526,1,24,0,0.007786010297626523
+Research doctorate,C5,organize_deliver_services,FIELD_UNAVAILABLE,Field unavailable,18,397,49,758,4.534005037783375,6.464379947229552,-1.9303749094461762,1,397,0,0.14504583699610699
+Research doctorate,C5,law_policy_economics,BF01,Psychology,0,877,4,1081,0.0,0.3700277520814061,-0.3700277520814061,1,877,0,0.24588722843149566
+Research doctorate,C5,law_policy_economics,BF02,Public and population health,11,317,34,562,3.470031545741325,6.049822064056939,-2.5797905183156145,1,317,0,0.11038553309054376
+Research doctorate,C5,law_policy_economics,BF03,"Medicine, nursing, and clinical health professions",0,101,1,253,0.0,0.3952569169960474,-0.3952569169960474,1,101,0,0.044455607183222404
+Research doctorate,C5,law_policy_economics,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,2,437,0.0,0.4576659038901602,-0.4576659038901602,1,437,0,0.19829210096697225
+Research doctorate,C5,law_policy_economics,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C5,law_policy_economics,BF06,"Social work, counseling, and human services",0,92,4,327,0.0,1.2232415902140672,-1.2232415902140672,1,92,0,0.05261835991460505
+Research doctorate,C5,law_policy_economics,BF07,"Social sciences, policy, administration, business, justice, and communication",10,142,102,796,7.042253521126761,12.814070351758794,-5.771816830632034,1,142,0,0.11779480095441416
+Research doctorate,C5,law_policy_economics,BF08,Education,0,10,2,159,0.0,1.2578616352201257,-1.2578616352201257,1,10,0,0.021223157101594878
+Research doctorate,C5,law_policy_economics,BF09,"Engineering, computing, and quantitative sciences",0,41,2,100,0.0,2.0,-2.0,1,41,0,0.017706894386537737
+Research doctorate,C5,law_policy_economics,BF10,Humanities and arts,0,1,24,83,0.0,28.91566265060241,-28.91566265060241,1,1,1,0.010548788145171418
+Research doctorate,C5,law_policy_economics,BF11,Interdisciplinary or other substantive field,0,24,2,38,0.0,5.2631578947368425,-5.2631578947368425,1,24,0,0.007786010297626523
+Research doctorate,C5,law_policy_economics,FIELD_UNAVAILABLE,Field unavailable,4,397,31,758,1.0075566750629723,4.089709762532982,-3.0821530874700094,1,397,0,0.14504583699610699
+Research doctorate,C5,meanings_attitudes,BF01,Psychology,3,877,25,1081,0.34207525655644244,2.3126734505087883,-1.9705981939523458,1,877,0,0.24588722843149566
+Research doctorate,C5,meanings_attitudes,BF02,Public and population health,3,317,13,562,0.9463722397476341,2.3131672597864767,-1.3667950200388428,1,317,0,0.11038553309054376
+Research doctorate,C5,meanings_attitudes,BF03,"Medicine, nursing, and clinical health professions",1,101,13,253,0.9900990099009901,5.138339920948616,-4.148240911047626,1,101,0,0.044455607183222404
+Research doctorate,C5,meanings_attitudes,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,1,437,0.0,0.2288329519450801,-0.2288329519450801,1,437,0,0.19829210096697225
+Research doctorate,C5,meanings_attitudes,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C5,meanings_attitudes,BF06,"Social work, counseling, and human services",3,92,25,327,3.260869565217391,7.6452599388379205,-4.384390373620529,1,92,0,0.05261835991460505
+Research doctorate,C5,meanings_attitudes,BF07,"Social sciences, policy, administration, business, justice, and communication",5,142,81,796,3.5211267605633805,10.175879396984925,-6.654752636421544,1,142,0,0.11779480095441416
+Research doctorate,C5,meanings_attitudes,BF08,Education,1,10,16,159,10.0,10.062893081761006,-0.06289308176100629,1,10,0,0.021223157101594878
+Research doctorate,C5,meanings_attitudes,BF09,"Engineering, computing, and quantitative sciences",0,41,3,100,0.0,3.0,-3.0,1,41,0,0.017706894386537737
+Research doctorate,C5,meanings_attitudes,BF10,Humanities and arts,0,1,38,83,0.0,45.78313253012048,-45.78313253012048,1,1,1,0.010548788145171418
+Research doctorate,C5,meanings_attitudes,BF11,Interdisciplinary or other substantive field,1,24,2,38,4.166666666666667,5.2631578947368425,-1.0964912280701755,1,24,0,0.007786010297626523
+Research doctorate,C5,meanings_attitudes,FIELD_UNAVAILABLE,Field unavailable,0,397,34,758,0.0,4.485488126649076,-4.485488126649076,1,397,0,0.14504583699610699
+Research doctorate,C5,education_workforce,BF01,Psychology,0,877,13,1081,0.0,1.2025901942645698,-1.2025901942645698,1,877,0,0.24588722843149566
+Research doctorate,C5,education_workforce,BF02,Public and population health,1,317,1,562,0.31545741324921134,0.17793594306049823,0.13752147018871314,1,317,0,0.11038553309054376
+Research doctorate,C5,education_workforce,BF03,"Medicine, nursing, and clinical health professions",0,101,3,253,0.0,1.1857707509881423,-1.1857707509881423,1,101,0,0.044455607183222404
+Research doctorate,C5,education_workforce,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,1,437,0.0,0.2288329519450801,-0.2288329519450801,1,437,0,0.19829210096697225
+Research doctorate,C5,education_workforce,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C5,education_workforce,BF06,"Social work, counseling, and human services",0,92,22,327,0.0,6.72782874617737,-6.72782874617737,1,92,0,0.05261835991460505
+Research doctorate,C5,education_workforce,BF07,"Social sciences, policy, administration, business, justice, and communication",0,142,11,796,0.0,1.3819095477386936,-1.3819095477386936,1,142,0,0.11779480095441416
+Research doctorate,C5,education_workforce,BF08,Education,1,10,19,159,10.0,11.949685534591195,-1.949685534591195,1,10,0,0.021223157101594878
+Research doctorate,C5,education_workforce,BF09,"Engineering, computing, and quantitative sciences",0,41,0,100,0.0,0.0,0.0,1,41,0,0.017706894386537737
+Research doctorate,C5,education_workforce,BF10,Humanities and arts,0,1,1,83,0.0,1.2048192771084338,-1.2048192771084338,1,1,1,0.010548788145171418
+Research doctorate,C5,education_workforce,BF11,Interdisciplinary or other substantive field,0,24,1,38,0.0,2.6315789473684212,-2.6315789473684212,1,24,0,0.007786010297626523
+Research doctorate,C5,education_workforce,FIELD_UNAVAILABLE,Field unavailable,0,397,15,758,0.0,1.9788918205804749,-1.9788918205804749,1,397,0,0.14504583699610699
+Research doctorate,C5,measurement,BF01,Psychology,30,877,31,1081,3.420752565564424,2.8677150786308974,0.5530374869335268,1,877,0,0.24588722843149566
+Research doctorate,C5,measurement,BF02,Public and population health,6,317,17,562,1.8927444794952681,3.0249110320284696,-1.1321665525332016,1,317,0,0.11038553309054376
+Research doctorate,C5,measurement,BF03,"Medicine, nursing, and clinical health professions",0,101,4,253,0.0,1.5810276679841897,-1.5810276679841897,1,101,0,0.044455607183222404
+Research doctorate,C5,measurement,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",6,1142,11,437,0.5253940455341506,2.517162471395881,-1.9917684258617303,1,437,0,0.19829210096697225
+Research doctorate,C5,measurement,BF05,Chemical and physical sciences,2,91,32,134,2.197802197802198,23.880597014925375,-21.682794817123174,1,91,0,0.028255682531709153
+Research doctorate,C5,measurement,BF06,"Social work, counseling, and human services",0,92,2,327,0.0,0.6116207951070336,-0.6116207951070336,1,92,0,0.05261835991460505
+Research doctorate,C5,measurement,BF07,"Social sciences, policy, administration, business, justice, and communication",1,142,8,796,0.704225352112676,1.0050251256281406,-0.30079977351546466,1,142,0,0.11779480095441416
+Research doctorate,C5,measurement,BF08,Education,0,10,5,159,0.0,3.1446540880503147,-3.1446540880503147,1,10,0,0.021223157101594878
+Research doctorate,C5,measurement,BF09,"Engineering, computing, and quantitative sciences",7,41,22,100,17.073170731707318,22.0,-4.926829268292683,1,41,0,0.017706894386537737
+Research doctorate,C5,measurement,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C5,measurement,BF11,Interdisciplinary or other substantive field,2,24,1,38,8.333333333333334,2.6315789473684212,5.701754385964913,1,24,0,0.007786010297626523
+Research doctorate,C5,measurement,FIELD_UNAVAILABLE,Field unavailable,13,397,32,758,3.27455919395466,4.221635883905013,-0.9470766899503532,1,397,0,0.14504583699610699
+Research doctorate,C5,other_stated_objective,BF01,Psychology,0,877,0,1081,0.0,0.0,0.0,1,877,0,0.24588722843149566
+Research doctorate,C5,other_stated_objective,BF02,Public and population health,0,317,0,562,0.0,0.0,0.0,1,317,0,0.11038553309054376
+Research doctorate,C5,other_stated_objective,BF03,"Medicine, nursing, and clinical health professions",0,101,0,253,0.0,0.0,0.0,1,101,0,0.044455607183222404
+Research doctorate,C5,other_stated_objective,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,1142,1,437,0.0,0.2288329519450801,-0.2288329519450801,1,437,0,0.19829210096697225
+Research doctorate,C5,other_stated_objective,BF05,Chemical and physical sciences,0,91,0,134,0.0,0.0,0.0,1,91,0,0.028255682531709153
+Research doctorate,C5,other_stated_objective,BF06,"Social work, counseling, and human services",0,92,0,327,0.0,0.0,0.0,1,92,0,0.05261835991460505
+Research doctorate,C5,other_stated_objective,BF07,"Social sciences, policy, administration, business, justice, and communication",0,142,0,796,0.0,0.0,0.0,1,142,0,0.11779480095441416
+Research doctorate,C5,other_stated_objective,BF08,Education,0,10,0,159,0.0,0.0,0.0,1,10,0,0.021223157101594878
+Research doctorate,C5,other_stated_objective,BF09,"Engineering, computing, and quantitative sciences",0,41,1,100,0.0,1.0,-1.0,1,41,0,0.017706894386537737
+Research doctorate,C5,other_stated_objective,BF10,Humanities and arts,0,1,0,83,0.0,0.0,0.0,1,1,1,0.010548788145171418
+Research doctorate,C5,other_stated_objective,BF11,Interdisciplinary or other substantive field,0,24,0,38,0.0,0.0,0.0,1,24,0,0.007786010297626523
+Research doctorate,C5,other_stated_objective,FIELD_UNAVAILABLE,Field unavailable,0,397,0,758,0.0,0.0,0.0,1,397,0,0.14504583699610699
+Research doctorate,C5,multiple_no_dominant,BF01,Psychology,25,877,33,1081,2.8506271379703536,3.0527289546716005,-0.20210181670124688,1,877,0,0.24588722843149566
+Research doctorate,C5,multiple_no_dominant,BF02,Public and population health,32,317,39,562,10.094637223974763,6.93950177935943,3.155135444615333,1,317,0,0.11038553309054376
+Research doctorate,C5,multiple_no_dominant,BF03,"Medicine, nursing, and clinical health professions",1,101,9,253,0.9900990099009901,3.5573122529644268,-2.5672132430634367,1,101,0,0.044455607183222404
+Research doctorate,C5,multiple_no_dominant,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",18,1142,11,437,1.5761821366024518,2.517162471395881,-0.9409803347934291,1,437,0,0.19829210096697225
+Research doctorate,C5,multiple_no_dominant,BF05,Chemical and physical sciences,1,91,3,134,1.098901098901099,2.2388059701492535,-1.1399048712481548,1,91,0,0.028255682531709153
+Research doctorate,C5,multiple_no_dominant,BF06,"Social work, counseling, and human services",2,92,6,327,2.1739130434782608,1.834862385321101,0.33905065815715996,1,92,0,0.05261835991460505
+Research doctorate,C5,multiple_no_dominant,BF07,"Social sciences, policy, administration, business, justice, and communication",9,142,27,796,6.338028169014085,3.391959798994975,2.9460683700191095,1,142,0,0.11779480095441416
+Research doctorate,C5,multiple_no_dominant,BF08,Education,0,10,0,159,0.0,0.0,0.0,1,10,0,0.021223157101594878
+Research doctorate,C5,multiple_no_dominant,BF09,"Engineering, computing, and quantitative sciences",1,41,1,100,2.4390243902439024,1.0,1.4390243902439024,1,41,0,0.017706894386537737
+Research doctorate,C5,multiple_no_dominant,BF10,Humanities and arts,0,1,2,83,0.0,2.4096385542168677,-2.4096385542168677,1,1,1,0.010548788145171418
+Research doctorate,C5,multiple_no_dominant,BF11,Interdisciplinary or other substantive field,2,24,2,38,8.333333333333334,5.2631578947368425,3.0701754385964914,1,24,0,0.007786010297626523
+Research doctorate,C5,multiple_no_dominant,FIELD_UNAVAILABLE,Field unavailable,12,397,23,758,3.022670025188917,3.034300791556728,-0.011630766367811355,1,397,0,0.14504583699610699
+Research doctorate,C8,survey_questionnaire,BF01,Psychology,559,876,826,1072,63.81278538812786,77.05223880597015,-13.239453417842295,1,876,0,0.24755369170161393
+Research doctorate,C8,survey_questionnaire,BF02,Public and population health,269,317,400,562,84.85804416403785,71.17437722419929,13.683666939838567,1,317,0,0.11170415554708349
+Research doctorate,C8,survey_questionnaire,BF03,"Medicine, nursing, and clinical health professions",40,100,121,252,40.0,48.01587301587302,-8.015873015873016,1,100,0,0.0447324945990596
+Research doctorate,C8,survey_questionnaire,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",47,1142,36,436,4.115586690017513,8.256880733944953,-4.141294043927441,1,436,0,0.20053373999237514
+Research doctorate,C8,survey_questionnaire,BF05,Chemical and physical sciences,1,91,2,133,1.098901098901099,1.5037593984962405,-0.4048582995951417,1,91,0,0.02846613292667429
+Research doctorate,C8,survey_questionnaire,BF06,"Social work, counseling, and human services",74,92,204,326,80.43478260869566,62.576687116564415,17.858095492131234,1,92,0,0.05311983733638328
+Research doctorate,C8,survey_questionnaire,BF07,"Social sciences, policy, administration, business, justice, and communication",107,140,451,780,76.42857142857143,57.82051282051282,18.60805860805861,1,140,0,0.11691447452026942
+Research doctorate,C8,survey_questionnaire,BF08,Education,7,10,92,156,70.0,58.97435897435897,11.025641025641026,1,10,0,0.021095437793874697
+Research doctorate,C8,survey_questionnaire,BF09,"Engineering, computing, and quantitative sciences",12,41,28,99,29.26829268292683,28.282828282828284,0.9854644000985464,1,41,0,0.017791333079171433
+Research doctorate,C8,survey_questionnaire,BF10,Humanities and arts,1,1,3,42,100.0,7.142857142857143,92.85714285714286,1,1,1,0.00546448087431694
+Research doctorate,C8,survey_questionnaire,BF11,Interdisciplinary or other substantive field,21,24,22,37,87.5,59.45945945945946,28.04054054054054,1,24,0,0.007751937984496124
+Research doctorate,C8,survey_questionnaire,FIELD_UNAVAILABLE,Field unavailable,147,396,426,744,37.121212121212125,57.25806451612903,-20.13685239491691,1,396,0,0.14487228364468166
+Research doctorate,C8,interview_observation,BF01,Psychology,59,876,166,1072,6.735159817351598,15.485074626865671,-8.749914809514074,1,876,0,0.24755369170161393
+Research doctorate,C8,interview_observation,BF02,Public and population health,65,317,80,562,20.50473186119874,14.234875444839858,6.269856416358881,1,317,0,0.11170415554708349
+Research doctorate,C8,interview_observation,BF03,"Medicine, nursing, and clinical health professions",14,100,76,252,14.0,30.158730158730158,-16.158730158730158,1,100,0,0.0447324945990596
+Research doctorate,C8,interview_observation,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,1142,4,436,0.08756567425569177,0.9174311926605505,-0.8298655184048587,1,436,0,0.20053373999237514
+Research doctorate,C8,interview_observation,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02846613292667429
+Research doctorate,C8,interview_observation,BF06,"Social work, counseling, and human services",25,92,114,326,27.17391304347826,34.969325153374236,-7.795412109895972,1,92,0,0.05311983733638328
+Research doctorate,C8,interview_observation,BF07,"Social sciences, policy, administration, business, justice, and communication",42,140,251,780,30.0,32.17948717948718,-2.1794871794871793,1,140,0,0.11691447452026942
+Research doctorate,C8,interview_observation,BF08,Education,3,10,68,156,30.0,43.58974358974359,-13.58974358974359,1,10,0,0.021095437793874697
+Research doctorate,C8,interview_observation,BF09,"Engineering, computing, and quantitative sciences",2,41,3,99,4.878048780487805,3.0303030303030303,1.8477457501847745,1,41,0,0.017791333079171433
+Research doctorate,C8,interview_observation,BF10,Humanities and arts,1,1,8,42,100.0,19.047619047619047,80.95238095238095,1,1,1,0.00546448087431694
+Research doctorate,C8,interview_observation,BF11,Interdisciplinary or other substantive field,9,24,7,37,37.5,18.91891891891892,18.58108108108108,1,24,0,0.007751937984496124
+Research doctorate,C8,interview_observation,FIELD_UNAVAILABLE,Field unavailable,33,396,104,744,8.333333333333334,13.978494623655914,-5.645161290322581,1,396,0,0.14487228364468166
+Research doctorate,C8,behavioral_task,BF01,Psychology,368,876,156,1072,42.009132420091326,14.552238805970148,27.456893614121174,1,876,0,0.24755369170161393
+Research doctorate,C8,behavioral_task,BF02,Public and population health,8,317,9,562,2.5236593059936907,1.601423487544484,0.9222358184492069,1,317,0,0.11170415554708349
+Research doctorate,C8,behavioral_task,BF03,"Medicine, nursing, and clinical health professions",16,100,17,252,16.0,6.746031746031746,9.253968253968255,1,100,0,0.0447324945990596
+Research doctorate,C8,behavioral_task,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",533,1142,101,436,46.67250437828371,23.165137614678898,23.507366763604814,1,436,0,0.20053373999237514
+Research doctorate,C8,behavioral_task,BF05,Chemical and physical sciences,6,91,9,133,6.593406593406593,6.7669172932330826,-0.1735106998264893,1,91,0,0.02846613292667429
+Research doctorate,C8,behavioral_task,BF06,"Social work, counseling, and human services",1,92,1,326,1.0869565217391304,0.3067484662576687,0.7802080554814618,1,92,0,0.05311983733638328
+Research doctorate,C8,behavioral_task,BF07,"Social sciences, policy, administration, business, justice, and communication",4,140,15,780,2.857142857142857,1.9230769230769231,0.9340659340659341,1,140,0,0.11691447452026942
+Research doctorate,C8,behavioral_task,BF08,Education,0,10,0,156,0.0,0.0,0.0,1,10,0,0.021095437793874697
+Research doctorate,C8,behavioral_task,BF09,"Engineering, computing, and quantitative sciences",9,41,14,99,21.951219512195124,14.141414141414142,7.809805370780981,1,41,0,0.017791333079171433
+Research doctorate,C8,behavioral_task,BF10,Humanities and arts,0,1,0,42,0.0,0.0,0.0,1,1,1,0.00546448087431694
+Research doctorate,C8,behavioral_task,BF11,Interdisciplinary or other substantive field,2,24,2,37,8.333333333333334,5.405405405405405,2.9279279279279278,1,24,0,0.007751937984496124
+Research doctorate,C8,behavioral_task,FIELD_UNAVAILABLE,Field unavailable,115,396,94,744,29.04040404040404,12.634408602150538,16.405995438253502,1,396,0,0.14487228364468166
+Research doctorate,C8,biological_physiological,BF01,Psychology,234,876,95,1072,26.71232876712329,8.861940298507463,17.850388468615826,1,876,0,0.24755369170161393
+Research doctorate,C8,biological_physiological,BF02,Public and population health,22,317,46,562,6.94006309148265,8.185053380782918,-1.2449902893002682,1,317,0,0.11170415554708349
+Research doctorate,C8,biological_physiological,BF03,"Medicine, nursing, and clinical health professions",45,100,46,252,45.0,18.253968253968253,26.746031746031747,1,100,0,0.0447324945990596
+Research doctorate,C8,biological_physiological,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",852,1142,320,436,74.6059544658494,73.39449541284404,1.2114590530053504,1,436,0,0.20053373999237514
+Research doctorate,C8,biological_physiological,BF05,Chemical and physical sciences,44,91,57,133,48.35164835164835,42.857142857142854,5.4945054945054945,1,91,0,0.02846613292667429
+Research doctorate,C8,biological_physiological,BF06,"Social work, counseling, and human services",6,92,2,326,6.521739130434782,0.6134969325153374,5.908242197919445,1,92,0,0.05311983733638328
+Research doctorate,C8,biological_physiological,BF07,"Social sciences, policy, administration, business, justice, and communication",0,140,10,780,0.0,1.2820512820512822,-1.2820512820512822,1,140,0,0.11691447452026942
+Research doctorate,C8,biological_physiological,BF08,Education,1,10,1,156,10.0,0.6410256410256411,9.35897435897436,1,10,0,0.021095437793874697
+Research doctorate,C8,biological_physiological,BF09,"Engineering, computing, and quantitative sciences",16,41,28,99,39.02439024390244,28.282828282828284,10.741561961074156,1,41,0,0.017791333079171433
+Research doctorate,C8,biological_physiological,BF10,Humanities and arts,0,1,0,42,0.0,0.0,0.0,1,1,1,0.00546448087431694
+Research doctorate,C8,biological_physiological,BF11,Interdisciplinary or other substantive field,3,24,3,37,12.5,8.108108108108109,4.391891891891892,1,24,0,0.007751937984496124
+Research doctorate,C8,biological_physiological,FIELD_UNAVAILABLE,Field unavailable,160,396,162,744,40.4040404040404,21.774193548387096,18.62984685565331,1,396,0,0.14487228364468166
+Research doctorate,C8,neuroimaging_electrophysiology,BF01,Psychology,106,876,23,1072,12.100456621004566,2.1455223880597014,9.954934232944865,1,876,0,0.24755369170161393
+Research doctorate,C8,neuroimaging_electrophysiology,BF02,Public and population health,0,317,2,562,0.0,0.35587188612099646,-0.35587188612099646,1,317,0,0.11170415554708349
+Research doctorate,C8,neuroimaging_electrophysiology,BF03,"Medicine, nursing, and clinical health professions",7,100,6,252,7.0,2.380952380952381,4.619047619047619,1,100,0,0.0447324945990596
+Research doctorate,C8,neuroimaging_electrophysiology,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",198,1142,35,436,17.33800350262697,8.027522935779816,9.310480566847154,1,436,0,0.20053373999237514
+Research doctorate,C8,neuroimaging_electrophysiology,BF05,Chemical and physical sciences,2,91,4,133,2.197802197802198,3.007518796992481,-0.8097165991902834,1,91,0,0.02846613292667429
+Research doctorate,C8,neuroimaging_electrophysiology,BF06,"Social work, counseling, and human services",1,92,1,326,1.0869565217391304,0.3067484662576687,0.7802080554814618,1,92,0,0.05311983733638328
+Research doctorate,C8,neuroimaging_electrophysiology,BF07,"Social sciences, policy, administration, business, justice, and communication",2,140,2,780,1.4285714285714286,0.2564102564102564,1.1721611721611722,1,140,0,0.11691447452026942
+Research doctorate,C8,neuroimaging_electrophysiology,BF08,Education,0,10,0,156,0.0,0.0,0.0,1,10,0,0.021095437793874697
+Research doctorate,C8,neuroimaging_electrophysiology,BF09,"Engineering, computing, and quantitative sciences",13,41,6,99,31.70731707317073,6.0606060606060606,25.646711012564673,1,41,0,0.017791333079171433
+Research doctorate,C8,neuroimaging_electrophysiology,BF10,Humanities and arts,0,1,0,42,0.0,0.0,0.0,1,1,1,0.00546448087431694
+Research doctorate,C8,neuroimaging_electrophysiology,BF11,Interdisciplinary or other substantive field,0,24,1,37,0.0,2.7027027027027026,-2.7027027027027026,1,24,0,0.007751937984496124
+Research doctorate,C8,neuroimaging_electrophysiology,FIELD_UNAVAILABLE,Field unavailable,41,396,21,744,10.353535353535353,2.8225806451612905,7.530954708374063,1,396,0,0.14487228364468166
+Research doctorate,C8,genetic_genomic,BF01,Psychology,31,876,3,1072,3.538812785388128,0.2798507462686567,3.258962039119471,1,876,0,0.24755369170161393
+Research doctorate,C8,genetic_genomic,BF02,Public and population health,4,317,15,562,1.2618296529968454,2.6690391459074734,-1.4072094929106278,1,317,0,0.11170415554708349
+Research doctorate,C8,genetic_genomic,BF03,"Medicine, nursing, and clinical health professions",8,100,4,252,8.0,1.5873015873015872,6.412698412698413,1,100,0,0.0447324945990596
+Research doctorate,C8,genetic_genomic,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",142,1142,39,436,12.43432574430823,8.944954128440367,3.489371615867864,1,436,0,0.20053373999237514
+Research doctorate,C8,genetic_genomic,BF05,Chemical and physical sciences,1,91,5,133,1.098901098901099,3.7593984962406015,-2.6604973973395025,1,91,0,0.02846613292667429
+Research doctorate,C8,genetic_genomic,BF06,"Social work, counseling, and human services",0,92,0,326,0.0,0.0,0.0,1,92,0,0.05311983733638328
+Research doctorate,C8,genetic_genomic,BF07,"Social sciences, policy, administration, business, justice, and communication",1,140,8,780,0.7142857142857143,1.0256410256410255,-0.31135531135531136,1,140,0,0.11691447452026942
+Research doctorate,C8,genetic_genomic,BF08,Education,1,10,0,156,10.0,0.0,10.0,1,10,0,0.021095437793874697
+Research doctorate,C8,genetic_genomic,BF09,"Engineering, computing, and quantitative sciences",5,41,2,99,12.195121951219512,2.0202020202020203,10.174919931017492,1,41,0,0.017791333079171433
+Research doctorate,C8,genetic_genomic,BF10,Humanities and arts,0,1,1,42,0.0,2.380952380952381,-2.380952380952381,1,1,1,0.00546448087431694
+Research doctorate,C8,genetic_genomic,BF11,Interdisciplinary or other substantive field,0,24,0,37,0.0,0.0,0.0,1,24,0,0.007751937984496124
+Research doctorate,C8,genetic_genomic,FIELD_UNAVAILABLE,Field unavailable,31,396,15,744,7.828282828282828,2.0161290322580645,5.812153796024764,1,396,0,0.14487228364468166
+Research doctorate,C8,chemical_analytical,BF01,Psychology,57,876,8,1072,6.506849315068493,0.746268656716418,5.760580658352075,1,876,0,0.24755369170161393
+Research doctorate,C8,chemical_analytical,BF02,Public and population health,4,317,11,562,1.2618296529968454,1.9572953736654803,-0.695465720668635,1,317,0,0.11170415554708349
+Research doctorate,C8,chemical_analytical,BF03,"Medicine, nursing, and clinical health professions",27,100,23,252,27.0,9.126984126984127,17.873015873015873,1,100,0,0.0447324945990596
+Research doctorate,C8,chemical_analytical,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",536,1142,238,436,46.93520140105079,54.58715596330275,-7.651954562251964,1,436,0,0.20053373999237514
+Research doctorate,C8,chemical_analytical,BF05,Chemical and physical sciences,87,91,123,133,95.6043956043956,92.4812030075188,3.1231925968768075,1,91,0,0.02846613292667429
+Research doctorate,C8,chemical_analytical,BF06,"Social work, counseling, and human services",0,92,0,326,0.0,0.0,0.0,1,92,0,0.05311983733638328
+Research doctorate,C8,chemical_analytical,BF07,"Social sciences, policy, administration, business, justice, and communication",0,140,2,780,0.0,0.2564102564102564,-0.2564102564102564,1,140,0,0.11691447452026942
+Research doctorate,C8,chemical_analytical,BF08,Education,0,10,0,156,0.0,0.0,0.0,1,10,0,0.021095437793874697
+Research doctorate,C8,chemical_analytical,BF09,"Engineering, computing, and quantitative sciences",13,41,35,99,31.70731707317073,35.35353535353536,-3.646218280364622,1,41,0,0.017791333079171433
+Research doctorate,C8,chemical_analytical,BF10,Humanities and arts,0,1,0,42,0.0,0.0,0.0,1,1,1,0.00546448087431694
+Research doctorate,C8,chemical_analytical,BF11,Interdisciplinary or other substantive field,0,24,4,37,0.0,10.81081081081081,-10.81081081081081,1,24,0,0.007751937984496124
+Research doctorate,C8,chemical_analytical,FIELD_UNAVAILABLE,Field unavailable,103,396,116,744,26.01010101010101,15.591397849462366,10.418703160638644,1,396,0,0.14487228364468166
+Research doctorate,C8,health_records,BF01,Psychology,16,876,59,1072,1.82648401826484,5.503731343283582,-3.677247325018742,1,876,0,0.24755369170161393
+Research doctorate,C8,health_records,BF02,Public and population health,89,317,154,562,28.07570977917981,27.402135231316727,0.6735745478630848,1,317,0,0.11170415554708349
+Research doctorate,C8,health_records,BF03,"Medicine, nursing, and clinical health professions",6,100,51,252,6.0,20.238095238095237,-14.238095238095237,1,100,0,0.0447324945990596
+Research doctorate,C8,health_records,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",12,1142,28,436,1.0507880910683012,6.422018348623853,-5.371230257555552,1,436,0,0.20053373999237514
+Research doctorate,C8,health_records,BF05,Chemical and physical sciences,0,91,3,133,0.0,2.255639097744361,-2.255639097744361,1,91,0,0.02846613292667429
+Research doctorate,C8,health_records,BF06,"Social work, counseling, and human services",14,92,38,326,15.217391304347826,11.656441717791411,3.560949586556415,1,92,0,0.05311983733638328
+Research doctorate,C8,health_records,BF07,"Social sciences, policy, administration, business, justice, and communication",26,140,133,780,18.571428571428573,17.05128205128205,1.52014652014652,1,140,0,0.11691447452026942
+Research doctorate,C8,health_records,BF08,Education,0,10,5,156,0.0,3.2051282051282053,-3.2051282051282053,1,10,0,0.021095437793874697
+Research doctorate,C8,health_records,BF09,"Engineering, computing, and quantitative sciences",0,41,18,99,0.0,18.181818181818183,-18.181818181818183,1,41,0,0.017791333079171433
+Research doctorate,C8,health_records,BF10,Humanities and arts,0,1,3,42,0.0,7.142857142857143,-7.142857142857143,1,1,1,0.00546448087431694
+Research doctorate,C8,health_records,BF11,Interdisciplinary or other substantive field,3,24,1,37,12.5,2.7027027027027026,9.797297297297296,1,24,0,0.007751937984496124
+Research doctorate,C8,health_records,FIELD_UNAVAILABLE,Field unavailable,25,396,59,744,6.313131313131313,7.93010752688172,-1.6169762137504073,1,396,0,0.14487228364468166
+Research doctorate,C8,administrative_records,BF01,Psychology,2,876,8,1072,0.228310502283105,0.746268656716418,-0.5179581544333128,1,876,0,0.24755369170161393
+Research doctorate,C8,administrative_records,BF02,Public and population health,17,317,32,562,5.3627760252365935,5.693950177935943,-0.33117415269935,1,317,0,0.11170415554708349
+Research doctorate,C8,administrative_records,BF03,"Medicine, nursing, and clinical health professions",2,100,5,252,2.0,1.9841269841269842,0.015873015873015872,1,100,0,0.0447324945990596
+Research doctorate,C8,administrative_records,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,1142,5,436,0.08756567425569177,1.146788990825688,-1.0592233165699962,1,436,0,0.20053373999237514
+Research doctorate,C8,administrative_records,BF05,Chemical and physical sciences,0,91,0,133,0.0,0.0,0.0,1,91,0,0.02846613292667429
+Research doctorate,C8,administrative_records,BF06,"Social work, counseling, and human services",6,92,11,326,6.521739130434782,3.374233128834356,3.147506001600427,1,92,0,0.05311983733638328
+Research doctorate,C8,administrative_records,BF07,"Social sciences, policy, administration, business, justice, and communication",16,140,71,780,11.428571428571429,9.102564102564102,2.326007326007326,1,140,0,0.11691447452026942
+Research doctorate,C8,administrative_records,BF08,Education,0,10,1,156,0.0,0.6410256410256411,-0.6410256410256411,1,10,0,0.021095437793874697
+Research doctorate,C8,administrative_records,BF09,"Engineering, computing, and quantitative sciences",0,41,2,99,0.0,2.0202020202020203,-2.0202020202020203,1,41,0,0.017791333079171433
+Research doctorate,C8,administrative_records,BF10,Humanities and arts,0,1,1,42,0.0,2.380952380952381,-2.380952380952381,1,1,1,0.00546448087431694
+Research doctorate,C8,administrative_records,BF11,Interdisciplinary or other substantive field,1,24,1,37,4.166666666666667,2.7027027027027026,1.4639639639639639,1,24,0,0.007751937984496124
+Research doctorate,C8,administrative_records,FIELD_UNAVAILABLE,Field unavailable,9,396,20,744,2.272727272727273,2.6881720430107525,-0.41544477028348,1,396,0,0.14487228364468166
+Research doctorate,C8,documents_media_online,BF01,Psychology,12,876,24,1072,1.36986301369863,2.2388059701492535,-0.8689429564506236,1,876,0,0.24755369170161393
+Research doctorate,C8,documents_media_online,BF02,Public and population health,30,317,56,562,9.46372239747634,9.9644128113879,-0.5006904139115597,1,317,0,0.11170415554708349
+Research doctorate,C8,documents_media_online,BF03,"Medicine, nursing, and clinical health professions",5,100,25,252,5.0,9.920634920634921,-4.920634920634921,1,100,0,0.0447324945990596
+Research doctorate,C8,documents_media_online,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",6,1142,8,436,0.5253940455341506,1.834862385321101,-1.3094683397869502,1,436,0,0.20053373999237514
+Research doctorate,C8,documents_media_online,BF05,Chemical and physical sciences,0,91,1,133,0.0,0.7518796992481203,-0.7518796992481203,1,91,0,0.02846613292667429
+Research doctorate,C8,documents_media_online,BF06,"Social work, counseling, and human services",4,92,16,326,4.3478260869565215,4.9079754601226995,-0.5601493731661776,1,92,0,0.05311983733638328
+Research doctorate,C8,documents_media_online,BF07,"Social sciences, policy, administration, business, justice, and communication",8,140,90,780,5.714285714285714,11.538461538461538,-5.824175824175824,1,140,0,0.11691447452026942
+Research doctorate,C8,documents_media_online,BF08,Education,0,10,8,156,0.0,5.128205128205129,-5.128205128205129,1,10,0,0.021095437793874697
+Research doctorate,C8,documents_media_online,BF09,"Engineering, computing, and quantitative sciences",2,41,16,99,4.878048780487805,16.161616161616163,-11.283567381128357,1,41,0,0.017791333079171433
+Research doctorate,C8,documents_media_online,BF10,Humanities and arts,0,1,34,42,0.0,80.95238095238095,-80.95238095238095,1,1,1,0.00546448087431694
+Research doctorate,C8,documents_media_online,BF11,Interdisciplinary or other substantive field,1,24,3,37,4.166666666666667,8.108108108108109,-3.9414414414414414,1,24,0,0.007751937984496124
+Research doctorate,C8,documents_media_online,FIELD_UNAVAILABLE,Field unavailable,11,396,42,744,2.7777777777777777,5.645161290322581,-2.867383512544803,1,396,0,0.14487228364468166
+Research doctorate,C8,geospatial_market_environmental,BF01,Psychology,0,876,1,1072,0.0,0.09328358208955224,-0.09328358208955224,1,876,0,0.24755369170161393
+Research doctorate,C8,geospatial_market_environmental,BF02,Public and population health,18,317,41,562,5.678233438485805,7.295373665480427,-1.6171402269946227,1,317,0,0.11170415554708349
+Research doctorate,C8,geospatial_market_environmental,BF03,"Medicine, nursing, and clinical health professions",0,100,5,252,0.0,1.9841269841269842,-1.9841269841269842,1,100,0,0.0447324945990596
+Research doctorate,C8,geospatial_market_environmental,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,1142,3,436,0.17513134851138354,0.6880733944954128,-0.5129420459840293,1,436,0,0.20053373999237514
+Research doctorate,C8,geospatial_market_environmental,BF05,Chemical and physical sciences,0,91,3,133,0.0,2.255639097744361,-2.255639097744361,1,91,0,0.02846613292667429
+Research doctorate,C8,geospatial_market_environmental,BF06,"Social work, counseling, and human services",3,92,6,326,3.260869565217391,1.8404907975460123,1.420378767671379,1,92,0,0.05311983733638328
+Research doctorate,C8,geospatial_market_environmental,BF07,"Social sciences, policy, administration, business, justice, and communication",16,140,70,780,11.428571428571429,8.974358974358974,2.4542124542124544,1,140,0,0.11691447452026942
+Research doctorate,C8,geospatial_market_environmental,BF08,Education,1,10,1,156,10.0,0.6410256410256411,9.35897435897436,1,10,0,0.021095437793874697
+Research doctorate,C8,geospatial_market_environmental,BF09,"Engineering, computing, and quantitative sciences",0,41,8,99,0.0,8.080808080808081,-8.080808080808081,1,41,0,0.017791333079171433
+Research doctorate,C8,geospatial_market_environmental,BF10,Humanities and arts,0,1,0,42,0.0,0.0,0.0,1,1,1,0.00546448087431694
+Research doctorate,C8,geospatial_market_environmental,BF11,Interdisciplinary or other substantive field,0,24,1,37,0.0,2.7027027027027026,-2.7027027027027026,1,24,0,0.007751937984496124
+Research doctorate,C8,geospatial_market_environmental,FIELD_UNAVAILABLE,Field unavailable,7,396,21,744,1.7676767676767677,2.8225806451612905,-1.0549038774845227,1,396,0,0.14487228364468166
+Research doctorate,C8,simulated_model_data,BF01,Psychology,7,876,3,1072,0.7990867579908676,0.2798507462686567,0.5192360117222109,1,876,0,0.24755369170161393
+Research doctorate,C8,simulated_model_data,BF02,Public and population health,11,317,14,562,3.470031545741325,2.491103202846975,0.9789283428943498,1,317,0,0.11170415554708349
+Research doctorate,C8,simulated_model_data,BF03,"Medicine, nursing, and clinical health professions",6,100,5,252,6.0,1.9841269841269842,4.015873015873016,1,100,0,0.0447324945990596
+Research doctorate,C8,simulated_model_data,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",36,1142,27,436,3.1523642732049035,6.192660550458716,-3.040296277253812,1,436,0,0.20053373999237514
+Research doctorate,C8,simulated_model_data,BF05,Chemical and physical sciences,10,91,9,133,10.989010989010989,6.7669172932330826,4.2220936957779065,1,91,0,0.02846613292667429
+Research doctorate,C8,simulated_model_data,BF06,"Social work, counseling, and human services",1,92,1,326,1.0869565217391304,0.3067484662576687,0.7802080554814618,1,92,0,0.05311983733638328
+Research doctorate,C8,simulated_model_data,BF07,"Social sciences, policy, administration, business, justice, and communication",3,140,11,780,2.142857142857143,1.4102564102564104,0.7326007326007326,1,140,0,0.11691447452026942
+Research doctorate,C8,simulated_model_data,BF08,Education,0,10,0,156,0.0,0.0,0.0,1,10,0,0.021095437793874697
+Research doctorate,C8,simulated_model_data,BF09,"Engineering, computing, and quantitative sciences",12,41,21,99,29.26829268292683,21.21212121212121,8.056171470805618,1,41,0,0.017791333079171433
+Research doctorate,C8,simulated_model_data,BF10,Humanities and arts,0,1,1,42,0.0,2.380952380952381,-2.380952380952381,1,1,1,0.00546448087431694
+Research doctorate,C8,simulated_model_data,BF11,Interdisciplinary or other substantive field,0,24,2,37,0.0,5.405405405405405,-5.405405405405405,1,24,0,0.007751937984496124
+Research doctorate,C8,simulated_model_data,FIELD_UNAVAILABLE,Field unavailable,26,396,19,744,6.565656565656566,2.553763440860215,4.011893124796351,1,396,0,0.14487228364468166
+Masters,C3,mixed_methods,BF01,Psychology,3,369,10,533,0.8130081300813008,1.876172607879925,-1.0631644777986242,1,369,0,0.2894736842105263
+Masters,C3,mixed_methods,BF02,Public and population health,6,82,16,281,7.317073170731708,5.693950177935943,1.6231229927957642,1,82,0,0.11649550706033376
+Masters,C3,mixed_methods,BF03,"Medicine, nursing, and clinical health professions",0,17,3,117,0.0,2.5641025641025643,-2.5641025641025643,1,17,0,0.04300385109114249
+Masters,C3,mixed_methods,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,164,3,299,0.0,1.0033444816053512,-1.0033444816053512,1,164,0,0.14858793324775352
+Masters,C3,mixed_methods,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.03337612323491656
+Masters,C3,mixed_methods,BF06,"Social work, counseling, and human services",0,7,6,156,0.0,3.8461538461538463,-3.8461538461538463,1,7,0,0.05231065468549422
+Masters,C3,mixed_methods,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,13,380,0.0,3.4210526315789473,-3.4210526315789473,1,24,0,0.12965340179717585
+Masters,C3,mixed_methods,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C3,mixed_methods,BF09,"Engineering, computing, and quantitative sciences",0,15,1,74,0.0,1.3513513513513513,-1.3513513513513513,1,15,0,0.028562259306803596
+Masters,C3,mixed_methods,BF10,Humanities and arts,0,1,1,16,0.0,6.25,-6.25,1,1,1,0.0054557124518613605
+Masters,C3,mixed_methods,BF11,Interdisciplinary or other substantive field,0,5,3,35,0.0,8.571428571428571,-8.571428571428571,1,5,0,0.012836970474967908
+Masters,C3,mixed_methods,FIELD_UNAVAILABLE,Field unavailable,0,59,5,378,0.0,1.3227513227513228,-1.3227513227513228,1,59,0,0.1402439024390244
+Masters,C3,qualitative,BF01,Psychology,3,369,15,533,0.8130081300813008,2.8142589118198873,-2.0012507817385865,1,369,0,0.2894736842105263
+Masters,C3,qualitative,BF02,Public and population health,7,82,21,281,8.536585365853659,7.473309608540926,1.0632757573127332,1,82,0,0.11649550706033376
+Masters,C3,qualitative,BF03,"Medicine, nursing, and clinical health professions",0,17,8,117,0.0,6.837606837606837,-6.837606837606837,1,17,0,0.04300385109114249
+Masters,C3,qualitative,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,164,7,299,1.2195121951219512,2.3411371237458196,-1.1216249286238682,1,164,0,0.14858793324775352
+Masters,C3,qualitative,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.03337612323491656
+Masters,C3,qualitative,BF06,"Social work, counseling, and human services",1,7,44,156,14.285714285714286,28.205128205128204,-13.91941391941392,1,7,0,0.05231065468549422
+Masters,C3,qualitative,BF07,"Social sciences, policy, administration, business, justice, and communication",7,24,84,380,29.166666666666668,22.105263157894736,7.06140350877193,1,24,0,0.12965340179717585
+Masters,C3,qualitative,BF08,Education,0,0,19,33,,57.57575757575758,,0,0,0,0.0
+Masters,C3,qualitative,BF09,"Engineering, computing, and quantitative sciences",0,15,2,74,0.0,2.7027027027027026,-2.7027027027027026,1,15,0,0.028562259306803596
+Masters,C3,qualitative,BF10,Humanities and arts,0,1,9,16,0.0,56.25,-56.25,1,1,1,0.0054557124518613605
+Masters,C3,qualitative,BF11,Interdisciplinary or other substantive field,0,5,3,35,0.0,8.571428571428571,-8.571428571428571,1,5,0,0.012836970474967908
+Masters,C3,qualitative,FIELD_UNAVAILABLE,Field unavailable,1,59,47,378,1.694915254237288,12.433862433862434,-10.738947179625146,1,59,0,0.1402439024390244
+Masters,C3,single_case,BF01,Psychology,0,369,3,533,0.0,0.5628517823639775,-0.5628517823639775,1,369,0,0.2894736842105263
+Masters,C3,single_case,BF02,Public and population health,0,82,0,281,0.0,0.0,0.0,1,82,0,0.11649550706033376
+Masters,C3,single_case,BF03,"Medicine, nursing, and clinical health professions",0,17,1,117,0.0,0.8547008547008547,-0.8547008547008547,1,17,0,0.04300385109114249
+Masters,C3,single_case,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,164,1,299,0.0,0.33444816053511706,-0.33444816053511706,1,164,0,0.14858793324775352
+Masters,C3,single_case,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.03337612323491656
+Masters,C3,single_case,BF06,"Social work, counseling, and human services",0,7,0,156,0.0,0.0,0.0,1,7,0,0.05231065468549422
+Masters,C3,single_case,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,1,380,0.0,0.2631578947368421,-0.2631578947368421,1,24,0,0.12965340179717585
+Masters,C3,single_case,BF08,Education,0,0,1,33,,3.0303030303030303,,0,0,0,0.0
+Masters,C3,single_case,BF09,"Engineering, computing, and quantitative sciences",0,15,0,74,0.0,0.0,0.0,1,15,0,0.028562259306803596
+Masters,C3,single_case,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,single_case,BF11,Interdisciplinary or other substantive field,0,5,0,35,0.0,0.0,0.0,1,5,0,0.012836970474967908
+Masters,C3,single_case,FIELD_UNAVAILABLE,Field unavailable,0,59,1,378,0.0,0.26455026455026454,-0.26455026455026454,1,59,0,0.1402439024390244
+Masters,C3,computational_modeling,BF01,Psychology,1,369,1,533,0.27100271002710025,0.18761726078799248,0.08338544923910778,1,369,0,0.2894736842105263
+Masters,C3,computational_modeling,BF02,Public and population health,1,82,6,281,1.2195121951219512,2.1352313167259784,-0.9157191216040275,1,82,0,0.11649550706033376
+Masters,C3,computational_modeling,BF03,"Medicine, nursing, and clinical health professions",0,17,1,117,0.0,0.8547008547008547,-0.8547008547008547,1,17,0,0.04300385109114249
+Masters,C3,computational_modeling,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,164,2,299,1.2195121951219512,0.6688963210702341,0.5506158740517171,1,164,0,0.14858793324775352
+Masters,C3,computational_modeling,BF05,Chemical and physical sciences,2,8,4,96,25.0,4.166666666666667,20.833333333333332,1,8,0,0.03337612323491656
+Masters,C3,computational_modeling,BF06,"Social work, counseling, and human services",0,7,0,156,0.0,0.0,0.0,1,7,0,0.05231065468549422
+Masters,C3,computational_modeling,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,1,380,0.0,0.2631578947368421,-0.2631578947368421,1,24,0,0.12965340179717585
+Masters,C3,computational_modeling,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C3,computational_modeling,BF09,"Engineering, computing, and quantitative sciences",4,15,21,74,26.666666666666668,28.37837837837838,-1.7117117117117118,1,15,0,0.028562259306803596
+Masters,C3,computational_modeling,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,computational_modeling,BF11,Interdisciplinary or other substantive field,0,5,1,35,0.0,2.857142857142857,-2.857142857142857,1,5,0,0.012836970474967908
+Masters,C3,computational_modeling,FIELD_UNAVAILABLE,Field unavailable,2,59,7,378,3.389830508474576,1.8518518518518519,1.5379786566227245,1,59,0,0.1402439024390244
+Masters,C3,synthesis_characterization,BF01,Psychology,0,369,0,533,0.0,0.0,0.0,1,369,0,0.2894736842105263
+Masters,C3,synthesis_characterization,BF02,Public and population health,0,82,0,281,0.0,0.0,0.0,1,82,0,0.11649550706033376
+Masters,C3,synthesis_characterization,BF03,"Medicine, nursing, and clinical health professions",0,17,2,117,0.0,1.7094017094017093,-1.7094017094017093,1,17,0,0.04300385109114249
+Masters,C3,synthesis_characterization,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,164,14,299,1.2195121951219512,4.682274247491639,-3.4627620523696874,1,164,0,0.14858793324775352
+Masters,C3,synthesis_characterization,BF05,Chemical and physical sciences,1,8,34,96,12.5,35.416666666666664,-22.916666666666668,1,8,0,0.03337612323491656
+Masters,C3,synthesis_characterization,BF06,"Social work, counseling, and human services",0,7,0,156,0.0,0.0,0.0,1,7,0,0.05231065468549422
+Masters,C3,synthesis_characterization,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,1,380,0.0,0.2631578947368421,-0.2631578947368421,1,24,0,0.12965340179717585
+Masters,C3,synthesis_characterization,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C3,synthesis_characterization,BF09,"Engineering, computing, and quantitative sciences",0,15,3,74,0.0,4.054054054054054,-4.054054054054054,1,15,0,0.028562259306803596
+Masters,C3,synthesis_characterization,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,synthesis_characterization,BF11,Interdisciplinary or other substantive field,0,5,0,35,0.0,0.0,0.0,1,5,0,0.012836970474967908
+Masters,C3,synthesis_characterization,FIELD_UNAVAILABLE,Field unavailable,0,59,5,378,0.0,1.3227513227513228,-1.3227513227513228,1,59,0,0.1402439024390244
+Masters,C3,experimental_randomized,BF01,Psychology,39,369,58,533,10.56910569105691,10.881801125703564,-0.31269543464665417,1,369,0,0.2894736842105263
+Masters,C3,experimental_randomized,BF02,Public and population health,0,82,8,281,0.0,2.8469750889679717,-2.8469750889679717,1,82,0,0.11649550706033376
+Masters,C3,experimental_randomized,BF03,"Medicine, nursing, and clinical health professions",0,17,3,117,0.0,2.5641025641025643,-2.5641025641025643,1,17,0,0.04300385109114249
+Masters,C3,experimental_randomized,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,164,3,299,0.6097560975609756,1.0033444816053512,-0.39358838404437557,1,164,0,0.14858793324775352
+Masters,C3,experimental_randomized,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.03337612323491656
+Masters,C3,experimental_randomized,BF06,"Social work, counseling, and human services",0,7,2,156,0.0,1.2820512820512822,-1.2820512820512822,1,7,0,0.05231065468549422
+Masters,C3,experimental_randomized,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,8,380,0.0,2.1052631578947367,-2.1052631578947367,1,24,0,0.12965340179717585
+Masters,C3,experimental_randomized,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C3,experimental_randomized,BF09,"Engineering, computing, and quantitative sciences",0,15,1,74,0.0,1.3513513513513513,-1.3513513513513513,1,15,0,0.028562259306803596
+Masters,C3,experimental_randomized,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,experimental_randomized,BF11,Interdisciplinary or other substantive field,1,5,2,35,20.0,5.714285714285714,14.285714285714286,1,5,0,0.012836970474967908
+Masters,C3,experimental_randomized,FIELD_UNAVAILABLE,Field unavailable,3,59,8,378,5.084745762711864,2.1164021164021163,2.968343646309748,1,59,0,0.1402439024390244
+Masters,C3,experimental_nonrandomized,BF01,Psychology,129,369,106,533,34.959349593495936,19.887429643527206,15.07191994996873,1,369,0,0.2894736842105263
+Masters,C3,experimental_nonrandomized,BF02,Public and population health,1,82,12,281,1.2195121951219512,4.270462633451957,-3.050950438330006,1,82,0,0.11649550706033376
+Masters,C3,experimental_nonrandomized,BF03,"Medicine, nursing, and clinical health professions",10,17,29,117,58.8235294117647,24.786324786324787,34.03720462543992,1,17,0,0.04300385109114249
+Masters,C3,experimental_nonrandomized,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",150,164,217,299,91.46341463414635,72.5752508361204,18.88816379802594,1,164,0,0.14858793324775352
+Masters,C3,experimental_nonrandomized,BF05,Chemical and physical sciences,5,8,49,96,62.5,51.041666666666664,11.458333333333334,1,8,0,0.03337612323491656
+Masters,C3,experimental_nonrandomized,BF06,"Social work, counseling, and human services",0,7,3,156,0.0,1.9230769230769231,-1.9230769230769231,1,7,0,0.05231065468549422
+Masters,C3,experimental_nonrandomized,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,18,380,0.0,4.7368421052631575,-4.7368421052631575,1,24,0,0.12965340179717585
+Masters,C3,experimental_nonrandomized,BF08,Education,0,0,1,33,,3.0303030303030303,,0,0,0,0.0
+Masters,C3,experimental_nonrandomized,BF09,"Engineering, computing, and quantitative sciences",6,15,23,74,40.0,31.08108108108108,8.91891891891892,1,15,0,0.028562259306803596
+Masters,C3,experimental_nonrandomized,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,experimental_nonrandomized,BF11,Interdisciplinary or other substantive field,0,5,2,35,0.0,5.714285714285714,-5.714285714285714,1,5,0,0.012836970474967908
+Masters,C3,experimental_nonrandomized,FIELD_UNAVAILABLE,Field unavailable,34,59,111,378,57.6271186440678,29.365079365079364,28.262039278988432,1,59,0,0.1402439024390244
+Masters,C3,quasi_experimental,BF01,Psychology,0,369,5,533,0.0,0.9380863039399625,-0.9380863039399625,1,369,0,0.2894736842105263
+Masters,C3,quasi_experimental,BF02,Public and population health,2,82,9,281,2.4390243902439024,3.202846975088968,-0.7638225848450655,1,82,0,0.11649550706033376
+Masters,C3,quasi_experimental,BF03,"Medicine, nursing, and clinical health professions",0,17,1,117,0.0,0.8547008547008547,-0.8547008547008547,1,17,0,0.04300385109114249
+Masters,C3,quasi_experimental,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,164,1,299,0.0,0.33444816053511706,-0.33444816053511706,1,164,0,0.14858793324775352
+Masters,C3,quasi_experimental,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.03337612323491656
+Masters,C3,quasi_experimental,BF06,"Social work, counseling, and human services",0,7,0,156,0.0,0.0,0.0,1,7,0,0.05231065468549422
+Masters,C3,quasi_experimental,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,16,380,0.0,4.2105263157894735,-4.2105263157894735,1,24,0,0.12965340179717585
+Masters,C3,quasi_experimental,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C3,quasi_experimental,BF09,"Engineering, computing, and quantitative sciences",1,15,1,74,6.666666666666667,1.3513513513513513,5.315315315315315,1,15,0,0.028562259306803596
+Masters,C3,quasi_experimental,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,quasi_experimental,BF11,Interdisciplinary or other substantive field,0,5,0,35,0.0,0.0,0.0,1,5,0,0.012836970474967908
+Masters,C3,quasi_experimental,FIELD_UNAVAILABLE,Field unavailable,0,59,6,378,0.0,1.5873015873015872,-1.5873015873015872,1,59,0,0.1402439024390244
+Masters,C3,single_group_pre_post,BF01,Psychology,1,369,1,533,0.27100271002710025,0.18761726078799248,0.08338544923910778,1,369,0,0.2894736842105263
+Masters,C3,single_group_pre_post,BF02,Public and population health,3,82,10,281,3.658536585365854,3.5587188612099645,0.09981772415588924,1,82,0,0.11649550706033376
+Masters,C3,single_group_pre_post,BF03,"Medicine, nursing, and clinical health professions",0,17,6,117,0.0,5.128205128205129,-5.128205128205129,1,17,0,0.04300385109114249
+Masters,C3,single_group_pre_post,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,164,2,299,0.0,0.6688963210702341,-0.6688963210702341,1,164,0,0.14858793324775352
+Masters,C3,single_group_pre_post,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.03337612323491656
+Masters,C3,single_group_pre_post,BF06,"Social work, counseling, and human services",0,7,4,156,0.0,2.5641025641025643,-2.5641025641025643,1,7,0,0.05231065468549422
+Masters,C3,single_group_pre_post,BF07,"Social sciences, policy, administration, business, justice, and communication",1,24,7,380,4.166666666666667,1.8421052631578947,2.324561403508772,1,24,0,0.12965340179717585
+Masters,C3,single_group_pre_post,BF08,Education,0,0,1,33,,3.0303030303030303,,0,0,0,0.0
+Masters,C3,single_group_pre_post,BF09,"Engineering, computing, and quantitative sciences",0,15,0,74,0.0,0.0,0.0,1,15,0,0.028562259306803596
+Masters,C3,single_group_pre_post,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,single_group_pre_post,BF11,Interdisciplinary or other substantive field,0,5,1,35,0.0,2.857142857142857,-2.857142857142857,1,5,0,0.012836970474967908
+Masters,C3,single_group_pre_post,FIELD_UNAVAILABLE,Field unavailable,0,59,12,378,0.0,3.1746031746031744,-3.1746031746031744,1,59,0,0.1402439024390244
+Masters,C3,longitudinal_observational,BF01,Psychology,47,369,44,533,12.737127371273713,8.25515947467167,4.481967896602043,1,369,0,0.2894736842105263
+Masters,C3,longitudinal_observational,BF02,Public and population health,16,82,21,281,19.51219512195122,7.473309608540926,12.038885513410294,1,82,0,0.11649550706033376
+Masters,C3,longitudinal_observational,BF03,"Medicine, nursing, and clinical health professions",0,17,8,117,0.0,6.837606837606837,-6.837606837606837,1,17,0,0.04300385109114249
+Masters,C3,longitudinal_observational,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,164,3,299,0.6097560975609756,1.0033444816053512,-0.39358838404437557,1,164,0,0.14858793324775352
+Masters,C3,longitudinal_observational,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.03337612323491656
+Masters,C3,longitudinal_observational,BF06,"Social work, counseling, and human services",1,7,6,156,14.285714285714286,3.8461538461538463,10.43956043956044,1,7,0,0.05231065468549422
+Masters,C3,longitudinal_observational,BF07,"Social sciences, policy, administration, business, justice, and communication",5,24,28,380,20.833333333333332,7.368421052631579,13.464912280701755,1,24,0,0.12965340179717585
+Masters,C3,longitudinal_observational,BF08,Education,0,0,1,33,,3.0303030303030303,,0,0,0,0.0
+Masters,C3,longitudinal_observational,BF09,"Engineering, computing, and quantitative sciences",0,15,4,74,0.0,5.405405405405405,-5.405405405405405,1,15,0,0.028562259306803596
+Masters,C3,longitudinal_observational,BF10,Humanities and arts,1,1,0,16,100.0,0.0,100.0,1,1,1,0.0054557124518613605
+Masters,C3,longitudinal_observational,BF11,Interdisciplinary or other substantive field,0,5,2,35,0.0,5.714285714285714,-5.714285714285714,1,5,0,0.012836970474967908
+Masters,C3,longitudinal_observational,FIELD_UNAVAILABLE,Field unavailable,3,59,16,378,5.084745762711864,4.232804232804233,0.8519415299076316,1,59,0,0.1402439024390244
+Masters,C3,cross_sectional_observational,BF01,Psychology,145,369,287,533,39.295392953929536,53.84615384615385,-14.550760892224307,1,369,0,0.2894736842105263
+Masters,C3,cross_sectional_observational,BF02,Public and population health,46,82,171,281,56.09756097560975,60.854092526690394,-4.756531551080635,1,82,0,0.11649550706033376
+Masters,C3,cross_sectional_observational,BF03,"Medicine, nursing, and clinical health professions",7,17,53,117,41.1764705882353,45.2991452991453,-4.122674710910005,1,17,0,0.04300385109114249
+Masters,C3,cross_sectional_observational,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",5,164,40,299,3.048780487804878,13.377926421404682,-10.329145933599804,1,164,0,0.14858793324775352
+Masters,C3,cross_sectional_observational,BF05,Chemical and physical sciences,0,8,7,96,0.0,7.291666666666667,-7.291666666666667,1,8,0,0.03337612323491656
+Masters,C3,cross_sectional_observational,BF06,"Social work, counseling, and human services",5,7,89,156,71.42857142857143,57.05128205128205,14.377289377289378,1,7,0,0.05231065468549422
+Masters,C3,cross_sectional_observational,BF07,"Social sciences, policy, administration, business, justice, and communication",11,24,196,380,45.833333333333336,51.578947368421055,-5.745614035087719,1,24,0,0.12965340179717585
+Masters,C3,cross_sectional_observational,BF08,Education,0,0,8,33,,24.242424242424242,,0,0,0,0.0
+Masters,C3,cross_sectional_observational,BF09,"Engineering, computing, and quantitative sciences",4,15,17,74,26.666666666666668,22.972972972972972,3.6936936936936937,1,15,0,0.028562259306803596
+Masters,C3,cross_sectional_observational,BF10,Humanities and arts,0,1,6,16,0.0,37.5,-37.5,1,1,1,0.0054557124518613605
+Masters,C3,cross_sectional_observational,BF11,Interdisciplinary or other substantive field,4,5,21,35,80.0,60.0,20.0,1,5,0,0.012836970474967908
+Masters,C3,cross_sectional_observational,FIELD_UNAVAILABLE,Field unavailable,16,59,156,378,27.11864406779661,41.26984126984127,-14.15119720204466,1,59,0,0.1402439024390244
+Masters,C3,multiple_no_dominant,BF01,Psychology,1,369,3,533,0.27100271002710025,0.5628517823639775,-0.29184907233687724,1,369,0,0.2894736842105263
+Masters,C3,multiple_no_dominant,BF02,Public and population health,0,82,7,281,0.0,2.491103202846975,-2.491103202846975,1,82,0,0.11649550706033376
+Masters,C3,multiple_no_dominant,BF03,"Medicine, nursing, and clinical health professions",0,17,2,117,0.0,1.7094017094017093,-1.7094017094017093,1,17,0,0.04300385109114249
+Masters,C3,multiple_no_dominant,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,164,6,299,0.6097560975609756,2.0066889632107023,-1.3969328656497266,1,164,0,0.14858793324775352
+Masters,C3,multiple_no_dominant,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.03337612323491656
+Masters,C3,multiple_no_dominant,BF06,"Social work, counseling, and human services",0,7,2,156,0.0,1.2820512820512822,-1.2820512820512822,1,7,0,0.05231065468549422
+Masters,C3,multiple_no_dominant,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,7,380,0.0,1.8421052631578947,-1.8421052631578947,1,24,0,0.12965340179717585
+Masters,C3,multiple_no_dominant,BF08,Education,0,0,2,33,,6.0606060606060606,,0,0,0,0.0
+Masters,C3,multiple_no_dominant,BF09,"Engineering, computing, and quantitative sciences",0,15,1,74,0.0,1.3513513513513513,-1.3513513513513513,1,15,0,0.028562259306803596
+Masters,C3,multiple_no_dominant,BF10,Humanities and arts,0,1,0,16,0.0,0.0,0.0,1,1,1,0.0054557124518613605
+Masters,C3,multiple_no_dominant,BF11,Interdisciplinary or other substantive field,0,5,0,35,0.0,0.0,0.0,1,5,0,0.012836970474967908
+Masters,C3,multiple_no_dominant,FIELD_UNAVAILABLE,Field unavailable,0,59,4,378,0.0,1.0582010582010581,-1.0582010582010581,1,59,0,0.1402439024390244
+Masters,C4,molecular_cellular,BF01,Psychology,4,369,1,558,1.084010840108401,0.17921146953405018,0.9047993705743509,1,369,0,0.2707359813084112
+Masters,C4,molecular_cellular,BF02,Public and population health,2,85,5,296,2.3529411764705883,1.6891891891891893,0.6637519872813991,1,85,0,0.11127336448598131
+Masters,C4,molecular_cellular,BF03,"Medicine, nursing, and clinical health professions",3,17,7,128,17.647058823529413,5.46875,12.178308823529411,1,17,0,0.0423481308411215
+Masters,C4,molecular_cellular,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",51,166,118,319,30.72289156626506,36.990595611285265,-6.267704045020206,1,166,0,0.14164719626168223
+Masters,C4,molecular_cellular,BF05,Chemical and physical sciences,7,8,79,96,87.5,82.29166666666667,5.208333333333333,1,8,0,0.030373831775700934
+Masters,C4,molecular_cellular,BF06,"Social work, counseling, and human services",0,7,0,187,0.0,0.0,0.0,1,7,0,0.0566588785046729
+Masters,C4,molecular_cellular,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,7,434,0.0,1.6129032258064515,-1.6129032258064515,1,25,0,0.13405373831775702
+Masters,C4,molecular_cellular,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C4,molecular_cellular,BF09,"Engineering, computing, and quantitative sciences",2,15,20,75,13.333333333333334,26.666666666666668,-13.333333333333334,1,15,0,0.026285046728971962
+Masters,C4,molecular_cellular,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.028037383177570093
+Masters,C4,molecular_cellular,BF11,Interdisciplinary or other substantive field,0,6,2,37,0.0,5.405405405405405,-5.405405405405405,1,6,0,0.01255841121495327
+Masters,C4,molecular_cellular,FIELD_UNAVAILABLE,Field unavailable,13,59,37,441,22.033898305084747,8.390022675736962,13.643875629347784,1,59,0,0.14602803738317757
+Masters,C4,organism_nonhuman,BF01,Psychology,87,369,57,558,23.577235772357724,10.21505376344086,13.362182008916863,1,369,0,0.2707359813084112
+Masters,C4,organism_nonhuman,BF02,Public and population health,0,85,2,296,0.0,0.6756756756756757,-0.6756756756756757,1,85,0,0.11127336448598131
+Masters,C4,organism_nonhuman,BF03,"Medicine, nursing, and clinical health professions",4,17,11,128,23.529411764705884,8.59375,14.935661764705882,1,17,0,0.0423481308411215
+Masters,C4,organism_nonhuman,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",89,166,99,319,53.6144578313253,31.03448275862069,22.579975072704613,1,166,0,0.14164719626168223
+Masters,C4,organism_nonhuman,BF05,Chemical and physical sciences,1,8,3,96,12.5,3.125,9.375,1,8,0,0.030373831775700934
+Masters,C4,organism_nonhuman,BF06,"Social work, counseling, and human services",0,7,0,187,0.0,0.0,0.0,1,7,0,0.0566588785046729
+Masters,C4,organism_nonhuman,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,2,434,0.0,0.4608294930875576,-0.4608294930875576,1,25,0,0.13405373831775702
+Masters,C4,organism_nonhuman,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C4,organism_nonhuman,BF09,"Engineering, computing, and quantitative sciences",1,15,3,75,6.666666666666667,4.0,2.6666666666666665,1,15,0,0.026285046728971962
+Masters,C4,organism_nonhuman,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.028037383177570093
+Masters,C4,organism_nonhuman,BF11,Interdisciplinary or other substantive field,0,6,1,37,0.0,2.7027027027027026,-2.7027027027027026,1,6,0,0.01255841121495327
+Masters,C4,organism_nonhuman,FIELD_UNAVAILABLE,Field unavailable,13,59,62,441,22.033898305084747,14.058956916099774,7.9749413889849725,1,59,0,0.14602803738317757
+Masters,C4,individual_human,BF01,Psychology,272,369,477,558,73.71273712737127,85.48387096774194,-11.771133840370661,1,369,0,0.2707359813084112
+Masters,C4,individual_human,BF02,Public and population health,69,85,226,296,81.17647058823529,76.35135135135135,4.825119236883943,1,85,0,0.11127336448598131
+Masters,C4,individual_human,BF03,"Medicine, nursing, and clinical health professions",10,17,97,128,58.8235294117647,75.78125,-16.957720588235293,1,17,0,0.0423481308411215
+Masters,C4,individual_human,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",25,166,86,319,15.060240963855422,26.95924764890282,-11.8990066850474,1,166,0,0.14164719626168223
+Masters,C4,individual_human,BF05,Chemical and physical sciences,0,8,7,96,0.0,7.291666666666667,-7.291666666666667,1,8,0,0.030373831775700934
+Masters,C4,individual_human,BF06,"Social work, counseling, and human services",5,7,134,187,71.42857142857143,71.65775401069519,-0.22918258212375858,1,7,0,0.0566588785046729
+Masters,C4,individual_human,BF07,"Social sciences, policy, administration, business, justice, and communication",21,25,262,434,84.0,60.36866359447004,23.631336405529954,1,25,0,0.13405373831775702
+Masters,C4,individual_human,BF08,Education,0,0,24,35,,68.57142857142857,,0,0,0,0.0
+Masters,C4,individual_human,BF09,"Engineering, computing, and quantitative sciences",8,15,34,75,53.333333333333336,45.333333333333336,8.0,1,15,0,0.026285046728971962
+Masters,C4,individual_human,BF10,Humanities and arts,1,1,35,95,100.0,36.8421052631579,63.1578947368421,1,1,1,0.028037383177570093
+Masters,C4,individual_human,BF11,Interdisciplinary or other substantive field,5,6,27,37,83.33333333333333,72.97297297297297,10.36036036036036,1,6,0,0.01255841121495327
+Masters,C4,individual_human,FIELD_UNAVAILABLE,Field unavailable,32,59,247,441,54.23728813559322,56.00907029478458,-1.77178215919136,1,59,0,0.14602803738317757
+Masters,C4,dyad_family_group,BF01,Psychology,4,369,14,558,1.084010840108401,2.5089605734767026,-1.4249497333683014,1,369,0,0.2707359813084112
+Masters,C4,dyad_family_group,BF02,Public and population health,2,85,3,296,2.3529411764705883,1.0135135135135136,1.3394276629570747,1,85,0,0.11127336448598131
+Masters,C4,dyad_family_group,BF03,"Medicine, nursing, and clinical health professions",0,17,1,128,0.0,0.78125,-0.78125,1,17,0,0.0423481308411215
+Masters,C4,dyad_family_group,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,0,319,0.0,0.0,0.0,1,166,0,0.14164719626168223
+Masters,C4,dyad_family_group,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030373831775700934
+Masters,C4,dyad_family_group,BF06,"Social work, counseling, and human services",1,7,7,187,14.285714285714286,3.7433155080213902,10.542398777692895,1,7,0,0.0566588785046729
+Masters,C4,dyad_family_group,BF07,"Social sciences, policy, administration, business, justice, and communication",2,25,11,434,8.0,2.5345622119815667,5.465437788018433,1,25,0,0.13405373831775702
+Masters,C4,dyad_family_group,BF08,Education,0,0,8,35,,22.857142857142858,,0,0,0,0.0
+Masters,C4,dyad_family_group,BF09,"Engineering, computing, and quantitative sciences",0,15,0,75,0.0,0.0,0.0,1,15,0,0.026285046728971962
+Masters,C4,dyad_family_group,BF10,Humanities and arts,0,1,8,95,0.0,8.421052631578947,-8.421052631578947,1,1,1,0.028037383177570093
+Masters,C4,dyad_family_group,BF11,Interdisciplinary or other substantive field,0,6,0,37,0.0,0.0,0.0,1,6,0,0.01255841121495327
+Masters,C4,dyad_family_group,FIELD_UNAVAILABLE,Field unavailable,0,59,12,441,0.0,2.7210884353741496,-2.7210884353741496,1,59,0,0.14602803738317757
+Masters,C4,organization_program,BF01,Psychology,1,369,7,558,0.27100271002710025,1.2544802867383513,-0.983477576711251,1,369,0,0.2707359813084112
+Masters,C4,organization_program,BF02,Public and population health,7,85,17,296,8.235294117647058,5.743243243243243,2.4920508744038155,1,85,0,0.11127336448598131
+Masters,C4,organization_program,BF03,"Medicine, nursing, and clinical health professions",0,17,6,128,0.0,4.6875,-4.6875,1,17,0,0.0423481308411215
+Masters,C4,organization_program,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,5,319,0.0,1.567398119122257,-1.567398119122257,1,166,0,0.14164719626168223
+Masters,C4,organization_program,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030373831775700934
+Masters,C4,organization_program,BF06,"Social work, counseling, and human services",1,7,34,187,14.285714285714286,18.181818181818183,-3.896103896103896,1,7,0,0.0566588785046729
+Masters,C4,organization_program,BF07,"Social sciences, policy, administration, business, justice, and communication",2,25,38,434,8.0,8.755760368663594,-0.7557603686635944,1,25,0,0.13405373831775702
+Masters,C4,organization_program,BF08,Education,0,0,2,35,,5.714285714285714,,0,0,0,0.0
+Masters,C4,organization_program,BF09,"Engineering, computing, and quantitative sciences",1,15,0,75,6.666666666666667,0.0,6.666666666666667,1,15,0,0.026285046728971962
+Masters,C4,organization_program,BF10,Humanities and arts,0,1,6,95,0.0,6.315789473684211,-6.315789473684211,1,1,1,0.028037383177570093
+Masters,C4,organization_program,BF11,Interdisciplinary or other substantive field,1,6,2,37,16.666666666666668,5.405405405405405,11.26126126126126,1,6,0,0.01255841121495327
+Masters,C4,organization_program,FIELD_UNAVAILABLE,Field unavailable,0,59,36,441,0.0,8.16326530612245,-8.16326530612245,1,59,0,0.14602803738317757
+Masters,C4,community_jurisdiction_population,BF01,Psychology,1,369,2,558,0.27100271002710025,0.35842293906810035,-0.0874202290410001,1,369,0,0.2707359813084112
+Masters,C4,community_jurisdiction_population,BF02,Public and population health,5,85,40,296,5.882352941176471,13.513513513513514,-7.631160572337043,1,85,0,0.11127336448598131
+Masters,C4,community_jurisdiction_population,BF03,"Medicine, nursing, and clinical health professions",0,17,4,128,0.0,3.125,-3.125,1,17,0,0.0423481308411215
+Masters,C4,community_jurisdiction_population,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,166,6,319,0.6024096385542169,1.8808777429467085,-1.2784681043924917,1,166,0,0.14164719626168223
+Masters,C4,community_jurisdiction_population,BF05,Chemical and physical sciences,0,8,5,96,0.0,5.208333333333333,-5.208333333333333,1,8,0,0.030373831775700934
+Masters,C4,community_jurisdiction_population,BF06,"Social work, counseling, and human services",0,7,10,187,0.0,5.347593582887701,-5.347593582887701,1,7,0,0.0566588785046729
+Masters,C4,community_jurisdiction_population,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,75,434,0.0,17.28110599078341,-17.28110599078341,1,25,0,0.13405373831775702
+Masters,C4,community_jurisdiction_population,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C4,community_jurisdiction_population,BF09,"Engineering, computing, and quantitative sciences",2,15,14,75,13.333333333333334,18.666666666666668,-5.333333333333333,1,15,0,0.026285046728971962
+Masters,C4,community_jurisdiction_population,BF10,Humanities and arts,0,1,10,95,0.0,10.526315789473685,-10.526315789473685,1,1,1,0.028037383177570093
+Masters,C4,community_jurisdiction_population,BF11,Interdisciplinary or other substantive field,0,6,5,37,0.0,13.513513513513514,-13.513513513513514,1,6,0,0.01255841121495327
+Masters,C4,community_jurisdiction_population,FIELD_UNAVAILABLE,Field unavailable,0,59,30,441,0.0,6.802721088435374,-6.802721088435374,1,59,0,0.14602803738317757
+Masters,C4,texts_media_discourse,BF01,Psychology,0,369,0,558,0.0,0.0,0.0,1,369,0,0.2707359813084112
+Masters,C4,texts_media_discourse,BF02,Public and population health,0,85,2,296,0.0,0.6756756756756757,-0.6756756756756757,1,85,0,0.11127336448598131
+Masters,C4,texts_media_discourse,BF03,"Medicine, nursing, and clinical health professions",0,17,2,128,0.0,1.5625,-1.5625,1,17,0,0.0423481308411215
+Masters,C4,texts_media_discourse,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,3,319,0.0,0.9404388714733543,-0.9404388714733543,1,166,0,0.14164719626168223
+Masters,C4,texts_media_discourse,BF05,Chemical and physical sciences,0,8,2,96,0.0,2.0833333333333335,-2.0833333333333335,1,8,0,0.030373831775700934
+Masters,C4,texts_media_discourse,BF06,"Social work, counseling, and human services",0,7,2,187,0.0,1.0695187165775402,-1.0695187165775402,1,7,0,0.0566588785046729
+Masters,C4,texts_media_discourse,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,38,434,0.0,8.755760368663594,-8.755760368663594,1,25,0,0.13405373831775702
+Masters,C4,texts_media_discourse,BF08,Education,0,0,1,35,,2.857142857142857,,0,0,0,0.0
+Masters,C4,texts_media_discourse,BF09,"Engineering, computing, and quantitative sciences",0,15,4,75,0.0,5.333333333333333,-5.333333333333333,1,15,0,0.026285046728971962
+Masters,C4,texts_media_discourse,BF10,Humanities and arts,0,1,36,95,0.0,37.89473684210526,-37.89473684210526,1,1,1,0.028037383177570093
+Masters,C4,texts_media_discourse,BF11,Interdisciplinary or other substantive field,0,6,0,37,0.0,0.0,0.0,1,6,0,0.01255841121495327
+Masters,C4,texts_media_discourse,FIELD_UNAVAILABLE,Field unavailable,1,59,17,441,1.694915254237288,3.854875283446712,-2.159960029209424,1,59,0,0.14602803738317757
+Masters,C4,multiple_no_dominant,BF01,Psychology,0,369,0,558,0.0,0.0,0.0,1,369,0,0.2707359813084112
+Masters,C4,multiple_no_dominant,BF02,Public and population health,0,85,1,296,0.0,0.33783783783783783,-0.33783783783783783,1,85,0,0.11127336448598131
+Masters,C4,multiple_no_dominant,BF03,"Medicine, nursing, and clinical health professions",0,17,0,128,0.0,0.0,0.0,1,17,0,0.0423481308411215
+Masters,C4,multiple_no_dominant,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,2,319,0.0,0.6269592476489029,-0.6269592476489029,1,166,0,0.14164719626168223
+Masters,C4,multiple_no_dominant,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030373831775700934
+Masters,C4,multiple_no_dominant,BF06,"Social work, counseling, and human services",0,7,0,187,0.0,0.0,0.0,1,7,0,0.0566588785046729
+Masters,C4,multiple_no_dominant,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,1,434,0.0,0.2304147465437788,-0.2304147465437788,1,25,0,0.13405373831775702
+Masters,C4,multiple_no_dominant,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C4,multiple_no_dominant,BF09,"Engineering, computing, and quantitative sciences",1,15,0,75,6.666666666666667,0.0,6.666666666666667,1,15,0,0.026285046728971962
+Masters,C4,multiple_no_dominant,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.028037383177570093
+Masters,C4,multiple_no_dominant,BF11,Interdisciplinary or other substantive field,0,6,0,37,0.0,0.0,0.0,1,6,0,0.01255841121495327
+Masters,C4,multiple_no_dominant,FIELD_UNAVAILABLE,Field unavailable,0,59,0,441,0.0,0.0,0.0,1,59,0,0.14602803738317757
+Masters,C5,describe_distribution,BF01,Psychology,1,369,3,558,0.27100271002710025,0.5376344086021505,-0.26663169857505026,1,369,0,0.27065693430656934
+Masters,C5,describe_distribution,BF02,Public and population health,2,85,17,296,2.3529411764705883,5.743243243243243,-3.390302066772655,1,85,0,0.11124087591240876
+Masters,C5,describe_distribution,BF03,"Medicine, nursing, and clinical health professions",0,17,3,128,0.0,2.34375,-2.34375,1,17,0,0.042335766423357665
+Masters,C5,describe_distribution,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,166,2,319,0.6024096385542169,0.6269592476489029,-0.024549609094685954,1,166,0,0.1416058394160584
+Masters,C5,describe_distribution,BF05,Chemical and physical sciences,0,8,2,96,0.0,2.0833333333333335,-2.0833333333333335,1,8,0,0.030364963503649634
+Masters,C5,describe_distribution,BF06,"Social work, counseling, and human services",0,7,4,187,0.0,2.1390374331550803,-2.1390374331550803,1,7,0,0.05664233576642336
+Masters,C5,describe_distribution,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,5,434,0.0,1.152073732718894,-1.152073732718894,1,25,0,0.134014598540146
+Masters,C5,describe_distribution,BF08,Education,0,0,1,35,,2.857142857142857,,0,0,0,0.0
+Masters,C5,describe_distribution,BF09,"Engineering, computing, and quantitative sciences",0,15,1,75,0.0,1.3333333333333333,-1.3333333333333333,1,15,0,0.026277372262773723
+Masters,C5,describe_distribution,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.02802919708029197
+Masters,C5,describe_distribution,BF11,Interdisciplinary or other substantive field,0,6,1,37,0.0,2.7027027027027026,-2.7027027027027026,1,6,0,0.012554744525547445
+Masters,C5,describe_distribution,FIELD_UNAVAILABLE,Field unavailable,0,59,6,442,0.0,1.3574660633484164,-1.3574660633484164,1,59,0,0.14627737226277374
+Masters,C5,explain_causes,BF01,Psychology,169,369,283,558,45.799457994579946,50.7168458781362,-4.917387883556255,1,369,0,0.27065693430656934
+Masters,C5,explain_causes,BF02,Public and population health,20,85,91,296,23.529411764705884,30.743243243243242,-7.213831478537361,1,85,0,0.11124087591240876
+Masters,C5,explain_causes,BF03,"Medicine, nursing, and clinical health professions",1,17,19,128,5.882352941176471,14.84375,-8.961397058823529,1,17,0,0.042335766423357665
+Masters,C5,explain_causes,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",41,166,40,319,24.698795180722893,12.539184952978056,12.159610227744835,1,166,0,0.1416058394160584
+Masters,C5,explain_causes,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.030364963503649634
+Masters,C5,explain_causes,BF06,"Social work, counseling, and human services",2,7,62,187,28.571428571428573,33.155080213903744,-4.583651642475172,1,7,0,0.05664233576642336
+Masters,C5,explain_causes,BF07,"Social sciences, policy, administration, business, justice, and communication",8,25,160,434,32.0,36.866359447004605,-4.8663594470046085,1,25,0,0.134014598540146
+Masters,C5,explain_causes,BF08,Education,0,0,5,35,,14.285714285714286,,0,0,0,0.0
+Masters,C5,explain_causes,BF09,"Engineering, computing, and quantitative sciences",6,15,20,75,40.0,26.666666666666668,13.333333333333334,1,15,0,0.026277372262773723
+Masters,C5,explain_causes,BF10,Humanities and arts,1,1,11,95,100.0,11.578947368421053,88.42105263157895,1,1,1,0.02802919708029197
+Masters,C5,explain_causes,BF11,Interdisciplinary or other substantive field,2,6,19,37,33.333333333333336,51.351351351351354,-18.01801801801802,1,6,0,0.012554744525547445
+Masters,C5,explain_causes,FIELD_UNAVAILABLE,Field unavailable,18,59,128,442,30.508474576271187,28.959276018099548,1.549198558171639,1,59,0,0.14627737226277374
+Masters,C5,consequences_of_use,BF01,Psychology,140,369,141,558,37.94037940379404,25.268817204301076,12.671562199492962,1,369,0,0.27065693430656934
+Masters,C5,consequences_of_use,BF02,Public and population health,28,85,84,296,32.94117647058823,28.37837837837838,4.5627980922098565,1,85,0,0.11124087591240876
+Masters,C5,consequences_of_use,BF03,"Medicine, nursing, and clinical health professions",8,17,44,128,47.05882352941177,34.375,12.683823529411764,1,17,0,0.042335766423357665
+Masters,C5,consequences_of_use,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",68,166,124,319,40.963855421686745,38.87147335423197,2.092382067454772,1,166,0,0.1416058394160584
+Masters,C5,consequences_of_use,BF05,Chemical and physical sciences,0,8,6,96,0.0,6.25,-6.25,1,8,0,0.030364963503649634
+Masters,C5,consequences_of_use,BF06,"Social work, counseling, and human services",0,7,31,187,0.0,16.577540106951872,-16.577540106951872,1,7,0,0.05664233576642336
+Masters,C5,consequences_of_use,BF07,"Social sciences, policy, administration, business, justice, and communication",6,25,49,434,24.0,11.290322580645162,12.709677419354838,1,25,0,0.134014598540146
+Masters,C5,consequences_of_use,BF08,Education,0,0,3,35,,8.571428571428571,,0,0,0,0.0
+Masters,C5,consequences_of_use,BF09,"Engineering, computing, and quantitative sciences",1,15,15,75,6.666666666666667,20.0,-13.333333333333334,1,15,0,0.026277372262773723
+Masters,C5,consequences_of_use,BF10,Humanities and arts,0,1,10,95,0.0,10.526315789473685,-10.526315789473685,1,1,1,0.02802919708029197
+Masters,C5,consequences_of_use,BF11,Interdisciplinary or other substantive field,0,6,3,37,0.0,8.108108108108109,-8.108108108108109,1,6,0,0.012554744525547445
+Masters,C5,consequences_of_use,FIELD_UNAVAILABLE,Field unavailable,16,59,87,442,27.11864406779661,19.683257918552037,7.435386149244574,1,59,0,0.14627737226277374
+Masters,C5,characterize_substance_action,BF01,Psychology,13,369,7,558,3.5230352303523036,1.2544802867383513,2.2685549436139523,1,369,0,0.27065693430656934
+Masters,C5,characterize_substance_action,BF02,Public and population health,1,85,2,296,1.1764705882352942,0.6756756756756757,0.5007949125596184,1,85,0,0.11124087591240876
+Masters,C5,characterize_substance_action,BF03,"Medicine, nursing, and clinical health professions",3,17,8,128,17.647058823529413,6.25,11.397058823529411,1,17,0,0.042335766423357665
+Masters,C5,characterize_substance_action,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",38,166,62,319,22.89156626506024,19.435736677115987,3.4558295879442533,1,166,0,0.1416058394160584
+Masters,C5,characterize_substance_action,BF05,Chemical and physical sciences,6,8,37,96,75.0,38.541666666666664,36.458333333333336,1,8,0,0.030364963503649634
+Masters,C5,characterize_substance_action,BF06,"Social work, counseling, and human services",0,7,0,187,0.0,0.0,0.0,1,7,0,0.05664233576642336
+Masters,C5,characterize_substance_action,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,2,434,0.0,0.4608294930875576,-0.4608294930875576,1,25,0,0.134014598540146
+Masters,C5,characterize_substance_action,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C5,characterize_substance_action,BF09,"Engineering, computing, and quantitative sciences",1,15,4,75,6.666666666666667,5.333333333333333,1.3333333333333333,1,15,0,0.026277372262773723
+Masters,C5,characterize_substance_action,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.02802919708029197
+Masters,C5,characterize_substance_action,BF11,Interdisciplinary or other substantive field,0,6,2,37,0.0,5.405405405405405,-5.405405405405405,1,6,0,0.012554744525547445
+Masters,C5,characterize_substance_action,FIELD_UNAVAILABLE,Field unavailable,11,59,31,442,18.64406779661017,7.013574660633484,11.630493135976685,1,59,0,0.14627737226277374
+Masters,C5,intervene,BF01,Psychology,20,369,48,558,5.420054200542006,8.602150537634408,-3.1820963370924034,1,369,0,0.27065693430656934
+Masters,C5,intervene,BF02,Public and population health,7,85,32,296,8.235294117647058,10.81081081081081,-2.575516693163752,1,85,0,0.11124087591240876
+Masters,C5,intervene,BF03,"Medicine, nursing, and clinical health professions",3,17,19,128,17.647058823529413,14.84375,2.8033088235294117,1,17,0,0.042335766423357665
+Masters,C5,intervene,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",16,166,30,319,9.63855421686747,9.404388714733543,0.23416550213392756,1,166,0,0.1416058394160584
+Masters,C5,intervene,BF05,Chemical and physical sciences,2,8,0,96,25.0,0.0,25.0,1,8,0,0.030364963503649634
+Masters,C5,intervene,BF06,"Social work, counseling, and human services",1,7,41,187,14.285714285714286,21.925133689839573,-7.639419404125286,1,7,0,0.05664233576642336
+Masters,C5,intervene,BF07,"Social sciences, policy, administration, business, justice, and communication",4,25,28,434,16.0,6.451612903225806,9.548387096774194,1,25,0,0.134014598540146
+Masters,C5,intervene,BF08,Education,0,0,16,35,,45.714285714285715,,0,0,0,0.0
+Masters,C5,intervene,BF09,"Engineering, computing, and quantitative sciences",1,15,6,75,6.666666666666667,8.0,-1.3333333333333333,1,15,0,0.026277372262773723
+Masters,C5,intervene,BF10,Humanities and arts,0,1,5,95,0.0,5.2631578947368425,-5.2631578947368425,1,1,1,0.02802919708029197
+Masters,C5,intervene,BF11,Interdisciplinary or other substantive field,2,6,4,37,33.333333333333336,10.81081081081081,22.52252252252252,1,6,0,0.012554744525547445
+Masters,C5,intervene,FIELD_UNAVAILABLE,Field unavailable,8,59,81,442,13.559322033898304,18.32579185520362,-4.766469821305315,1,59,0,0.14627737226277374
+Masters,C5,organize_deliver_services,BF01,Psychology,8,369,19,558,2.168021680216802,3.4050179211469533,-1.2369962409301511,1,369,0,0.27065693430656934
+Masters,C5,organize_deliver_services,BF02,Public and population health,18,85,38,296,21.176470588235293,12.837837837837839,8.338632750397457,1,85,0,0.11124087591240876
+Masters,C5,organize_deliver_services,BF03,"Medicine, nursing, and clinical health professions",1,17,14,128,5.882352941176471,10.9375,-5.055147058823529,1,17,0,0.042335766423357665
+Masters,C5,organize_deliver_services,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,10,319,0.0,3.134796238244514,-3.134796238244514,1,166,0,0.1416058394160584
+Masters,C5,organize_deliver_services,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030364963503649634
+Masters,C5,organize_deliver_services,BF06,"Social work, counseling, and human services",3,7,21,187,42.857142857142854,11.229946524064172,31.627196333078686,1,7,0,0.05664233576642336
+Masters,C5,organize_deliver_services,BF07,"Social sciences, policy, administration, business, justice, and communication",4,25,55,434,16.0,12.672811059907835,3.327188940092166,1,25,0,0.134014598540146
+Masters,C5,organize_deliver_services,BF08,Education,0,0,4,35,,11.428571428571429,,0,0,0,0.0
+Masters,C5,organize_deliver_services,BF09,"Engineering, computing, and quantitative sciences",2,15,1,75,13.333333333333334,1.3333333333333333,12.0,1,15,0,0.026277372262773723
+Masters,C5,organize_deliver_services,BF10,Humanities and arts,0,1,10,95,0.0,10.526315789473685,-10.526315789473685,1,1,1,0.02802919708029197
+Masters,C5,organize_deliver_services,BF11,Interdisciplinary or other substantive field,1,6,1,37,16.666666666666668,2.7027027027027026,13.963963963963964,1,6,0,0.012554744525547445
+Masters,C5,organize_deliver_services,FIELD_UNAVAILABLE,Field unavailable,1,59,34,442,1.694915254237288,7.6923076923076925,-5.9973924380704045,1,59,0,0.14627737226277374
+Masters,C5,law_policy_economics,BF01,Psychology,0,369,1,558,0.0,0.17921146953405018,-0.17921146953405018,1,369,0,0.27065693430656934
+Masters,C5,law_policy_economics,BF02,Public and population health,0,85,10,296,0.0,3.3783783783783785,-3.3783783783783785,1,85,0,0.11124087591240876
+Masters,C5,law_policy_economics,BF03,"Medicine, nursing, and clinical health professions",0,17,0,128,0.0,0.0,0.0,1,17,0,0.042335766423357665
+Masters,C5,law_policy_economics,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,5,319,0.0,1.567398119122257,-1.567398119122257,1,166,0,0.1416058394160584
+Masters,C5,law_policy_economics,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.030364963503649634
+Masters,C5,law_policy_economics,BF06,"Social work, counseling, and human services",0,7,8,187,0.0,4.278074866310161,-4.278074866310161,1,7,0,0.05664233576642336
+Masters,C5,law_policy_economics,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,51,434,0.0,11.751152073732719,-11.751152073732719,1,25,0,0.134014598540146
+Masters,C5,law_policy_economics,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C5,law_policy_economics,BF09,"Engineering, computing, and quantitative sciences",0,15,2,75,0.0,2.6666666666666665,-2.6666666666666665,1,15,0,0.026277372262773723
+Masters,C5,law_policy_economics,BF10,Humanities and arts,0,1,12,95,0.0,12.631578947368421,-12.631578947368421,1,1,1,0.02802919708029197
+Masters,C5,law_policy_economics,BF11,Interdisciplinary or other substantive field,0,6,1,37,0.0,2.7027027027027026,-2.7027027027027026,1,6,0,0.012554744525547445
+Masters,C5,law_policy_economics,FIELD_UNAVAILABLE,Field unavailable,1,59,16,442,1.694915254237288,3.6199095022624435,-1.9249942480251554,1,59,0,0.14627737226277374
+Masters,C5,meanings_attitudes,BF01,Psychology,0,369,23,558,0.0,4.121863799283154,-4.121863799283154,1,369,0,0.27065693430656934
+Masters,C5,meanings_attitudes,BF02,Public and population health,3,85,6,296,3.5294117647058822,2.027027027027027,1.5023847376788553,1,85,0,0.11124087591240876
+Masters,C5,meanings_attitudes,BF03,"Medicine, nursing, and clinical health professions",0,17,8,128,0.0,6.25,-6.25,1,17,0,0.042335766423357665
+Masters,C5,meanings_attitudes,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,2,319,0.0,0.6269592476489029,-0.6269592476489029,1,166,0,0.1416058394160584
+Masters,C5,meanings_attitudes,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030364963503649634
+Masters,C5,meanings_attitudes,BF06,"Social work, counseling, and human services",0,7,9,187,0.0,4.81283422459893,-4.81283422459893,1,7,0,0.05664233576642336
+Masters,C5,meanings_attitudes,BF07,"Social sciences, policy, administration, business, justice, and communication",3,25,64,434,12.0,14.746543778801843,-2.7465437788018434,1,25,0,0.134014598540146
+Masters,C5,meanings_attitudes,BF08,Education,0,0,1,35,,2.857142857142857,,0,0,0,0.0
+Masters,C5,meanings_attitudes,BF09,"Engineering, computing, and quantitative sciences",0,15,3,75,0.0,4.0,-4.0,1,15,0,0.026277372262773723
+Masters,C5,meanings_attitudes,BF10,Humanities and arts,0,1,44,95,0.0,46.31578947368421,-46.31578947368421,1,1,1,0.02802919708029197
+Masters,C5,meanings_attitudes,BF11,Interdisciplinary or other substantive field,0,6,5,37,0.0,13.513513513513514,-13.513513513513514,1,6,0,0.012554744525547445
+Masters,C5,meanings_attitudes,FIELD_UNAVAILABLE,Field unavailable,2,59,19,442,3.389830508474576,4.298642533936651,-0.9088120254620753,1,59,0,0.14627737226277374
+Masters,C5,education_workforce,BF01,Psychology,0,369,4,558,0.0,0.7168458781362007,-0.7168458781362007,1,369,0,0.27065693430656934
+Masters,C5,education_workforce,BF02,Public and population health,0,85,1,296,0.0,0.33783783783783783,-0.33783783783783783,1,85,0,0.11124087591240876
+Masters,C5,education_workforce,BF03,"Medicine, nursing, and clinical health professions",0,17,7,128,0.0,5.46875,-5.46875,1,17,0,0.042335766423357665
+Masters,C5,education_workforce,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,4,319,0.0,1.2539184952978057,-1.2539184952978057,1,166,0,0.1416058394160584
+Masters,C5,education_workforce,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030364963503649634
+Masters,C5,education_workforce,BF06,"Social work, counseling, and human services",0,7,7,187,0.0,3.7433155080213902,-3.7433155080213902,1,7,0,0.05664233576642336
+Masters,C5,education_workforce,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,4,434,0.0,0.9216589861751152,-0.9216589861751152,1,25,0,0.134014598540146
+Masters,C5,education_workforce,BF08,Education,0,0,2,35,,5.714285714285714,,0,0,0,0.0
+Masters,C5,education_workforce,BF09,"Engineering, computing, and quantitative sciences",0,15,0,75,0.0,0.0,0.0,1,15,0,0.026277372262773723
+Masters,C5,education_workforce,BF10,Humanities and arts,0,1,3,95,0.0,3.1578947368421053,-3.1578947368421053,1,1,1,0.02802919708029197
+Masters,C5,education_workforce,BF11,Interdisciplinary or other substantive field,0,6,0,37,0.0,0.0,0.0,1,6,0,0.012554744525547445
+Masters,C5,education_workforce,FIELD_UNAVAILABLE,Field unavailable,0,59,11,442,0.0,2.48868778280543,-2.48868778280543,1,59,0,0.14627737226277374
+Masters,C5,measurement,BF01,Psychology,15,369,19,558,4.065040650406504,3.4050179211469533,0.6600227292595506,1,369,0,0.27065693430656934
+Masters,C5,measurement,BF02,Public and population health,4,85,11,296,4.705882352941177,3.7162162162162162,0.9896661367249603,1,85,0,0.11124087591240876
+Masters,C5,measurement,BF03,"Medicine, nursing, and clinical health professions",1,17,4,128,5.882352941176471,3.125,2.7573529411764706,1,17,0,0.042335766423357665
+Masters,C5,measurement,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,166,34,319,0.6024096385542169,10.658307210031348,-10.05589757147713,1,166,0,0.1416058394160584
+Masters,C5,measurement,BF05,Chemical and physical sciences,0,8,48,96,0.0,50.0,-50.0,1,8,0,0.030364963503649634
+Masters,C5,measurement,BF06,"Social work, counseling, and human services",0,7,1,187,0.0,0.5347593582887701,-0.5347593582887701,1,7,0,0.05664233576642336
+Masters,C5,measurement,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,8,434,0.0,1.8433179723502304,-1.8433179723502304,1,25,0,0.134014598540146
+Masters,C5,measurement,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C5,measurement,BF09,"Engineering, computing, and quantitative sciences",4,15,22,75,26.666666666666668,29.333333333333332,-2.6666666666666665,1,15,0,0.026277372262773723
+Masters,C5,measurement,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.02802919708029197
+Masters,C5,measurement,BF11,Interdisciplinary or other substantive field,1,6,1,37,16.666666666666668,2.7027027027027026,13.963963963963964,1,6,0,0.012554744525547445
+Masters,C5,measurement,FIELD_UNAVAILABLE,Field unavailable,1,59,20,442,1.694915254237288,4.524886877828054,-2.829971623590766,1,59,0,0.14627737226277374
+Masters,C5,other_stated_objective,BF01,Psychology,0,369,0,558,0.0,0.0,0.0,1,369,0,0.27065693430656934
+Masters,C5,other_stated_objective,BF02,Public and population health,0,85,0,296,0.0,0.0,0.0,1,85,0,0.11124087591240876
+Masters,C5,other_stated_objective,BF03,"Medicine, nursing, and clinical health professions",0,17,0,128,0.0,0.0,0.0,1,17,0,0.042335766423357665
+Masters,C5,other_stated_objective,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,166,1,319,0.0,0.31347962382445144,-0.31347962382445144,1,166,0,0.1416058394160584
+Masters,C5,other_stated_objective,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.030364963503649634
+Masters,C5,other_stated_objective,BF06,"Social work, counseling, and human services",0,7,0,187,0.0,0.0,0.0,1,7,0,0.05664233576642336
+Masters,C5,other_stated_objective,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,0,434,0.0,0.0,0.0,1,25,0,0.134014598540146
+Masters,C5,other_stated_objective,BF08,Education,0,0,0,35,,0.0,,0,0,0,0.0
+Masters,C5,other_stated_objective,BF09,"Engineering, computing, and quantitative sciences",0,15,0,75,0.0,0.0,0.0,1,15,0,0.026277372262773723
+Masters,C5,other_stated_objective,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.02802919708029197
+Masters,C5,other_stated_objective,BF11,Interdisciplinary or other substantive field,0,6,0,37,0.0,0.0,0.0,1,6,0,0.012554744525547445
+Masters,C5,other_stated_objective,FIELD_UNAVAILABLE,Field unavailable,0,59,1,442,0.0,0.22624434389140272,-0.22624434389140272,1,59,0,0.14627737226277374
+Masters,C5,multiple_no_dominant,BF01,Psychology,3,369,10,558,0.8130081300813008,1.7921146953405018,-0.979106565259201,1,369,0,0.27065693430656934
+Masters,C5,multiple_no_dominant,BF02,Public and population health,2,85,4,296,2.3529411764705883,1.3513513513513513,1.0015898251192368,1,85,0,0.11124087591240876
+Masters,C5,multiple_no_dominant,BF03,"Medicine, nursing, and clinical health professions",0,17,2,128,0.0,1.5625,-1.5625,1,17,0,0.042335766423357665
+Masters,C5,multiple_no_dominant,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,166,5,319,0.6024096385542169,1.567398119122257,-0.9649884805680402,1,166,0,0.1416058394160584
+Masters,C5,multiple_no_dominant,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.030364963503649634
+Masters,C5,multiple_no_dominant,BF06,"Social work, counseling, and human services",1,7,3,187,14.285714285714286,1.6042780748663101,12.681436210847975,1,7,0,0.05664233576642336
+Masters,C5,multiple_no_dominant,BF07,"Social sciences, policy, administration, business, justice, and communication",0,25,8,434,0.0,1.8433179723502304,-1.8433179723502304,1,25,0,0.134014598540146
+Masters,C5,multiple_no_dominant,BF08,Education,0,0,3,35,,8.571428571428571,,0,0,0,0.0
+Masters,C5,multiple_no_dominant,BF09,"Engineering, computing, and quantitative sciences",0,15,1,75,0.0,1.3333333333333333,-1.3333333333333333,1,15,0,0.026277372262773723
+Masters,C5,multiple_no_dominant,BF10,Humanities and arts,0,1,0,95,0.0,0.0,0.0,1,1,1,0.02802919708029197
+Masters,C5,multiple_no_dominant,BF11,Interdisciplinary or other substantive field,0,6,0,37,0.0,0.0,0.0,1,6,0,0.012554744525547445
+Masters,C5,multiple_no_dominant,FIELD_UNAVAILABLE,Field unavailable,1,59,8,442,1.694915254237288,1.8099547511312217,-0.11503949689393358,1,59,0,0.14627737226277374
+Masters,C8,survey_questionnaire,BF01,Psychology,232,369,420,543,62.87262872628726,77.34806629834254,-14.475437572055279,1,369,0,0.2784732824427481
+Masters,C8,survey_questionnaire,BF02,Public and population health,63,85,202,293,74.11764705882354,68.9419795221843,5.175667536639229,1,85,0,0.11541984732824427
+Masters,C8,survey_questionnaire,BF03,"Medicine, nursing, and clinical health professions",6,17,60,126,35.294117647058826,47.61904761904762,-12.324929971988796,1,17,0,0.04366412213740458
+Masters,C8,survey_questionnaire,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",7,165,40,316,4.242424242424242,12.658227848101266,-8.415803605677024,1,165,0,0.14687022900763358
+Masters,C8,survey_questionnaire,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.0317557251908397
+Masters,C8,survey_questionnaire,BF06,"Social work, counseling, and human services",6,7,109,175,85.71428571428571,62.285714285714285,23.428571428571427,1,7,0,0.055572519083969464
+Masters,C8,survey_questionnaire,BF07,"Social sciences, policy, administration, business, justice, and communication",17,24,217,414,70.83333333333333,52.41545893719807,18.417874396135264,1,24,0,0.13374045801526718
+Masters,C8,survey_questionnaire,BF08,Education,0,0,11,33,,33.333333333333336,,0,0,0,0.0
+Masters,C8,survey_questionnaire,BF09,"Engineering, computing, and quantitative sciences",5,15,16,74,33.333333333333336,21.62162162162162,11.711711711711711,1,15,0,0.02717557251908397
+Masters,C8,survey_questionnaire,BF10,Humanities and arts,1,1,3,34,100.0,8.823529411764707,91.17647058823529,1,1,1,0.010687022900763359
+Masters,C8,survey_questionnaire,BF11,Interdisciplinary or other substantive field,6,6,24,34,100.0,70.58823529411765,29.41176470588235,1,6,0,0.012213740458015267
+Masters,C8,survey_questionnaire,FIELD_UNAVAILABLE,Field unavailable,26,59,182,414,44.067796610169495,43.96135265700483,0.10644395316466061,1,59,0,0.14442748091603053
+Masters,C8,interview_observation,BF01,Psychology,8,369,42,543,2.168021680216802,7.734806629834254,-5.566784949617452,1,369,0,0.2784732824427481
+Masters,C8,interview_observation,BF02,Public and population health,13,85,44,293,15.294117647058824,15.017064846416382,0.27705280064244125,1,85,0,0.11541984732824427
+Masters,C8,interview_observation,BF03,"Medicine, nursing, and clinical health professions",1,17,11,126,5.882352941176471,8.73015873015873,-2.8478057889822597,1,17,0,0.04366412213740458
+Masters,C8,interview_observation,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",2,165,8,316,1.2121212121212122,2.5316455696202533,-1.319524357499041,1,165,0,0.14687022900763358
+Masters,C8,interview_observation,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.0317557251908397
+Masters,C8,interview_observation,BF06,"Social work, counseling, and human services",0,7,30,175,0.0,17.142857142857142,-17.142857142857142,1,7,0,0.055572519083969464
+Masters,C8,interview_observation,BF07,"Social sciences, policy, administration, business, justice, and communication",8,24,106,414,33.333333333333336,25.603864734299517,7.729468599033816,1,24,0,0.13374045801526718
+Masters,C8,interview_observation,BF08,Education,0,0,13,33,,39.39393939393939,,0,0,0,0.0
+Masters,C8,interview_observation,BF09,"Engineering, computing, and quantitative sciences",0,15,2,74,0.0,2.7027027027027026,-2.7027027027027026,1,15,0,0.02717557251908397
+Masters,C8,interview_observation,BF10,Humanities and arts,0,1,12,34,0.0,35.294117647058826,-35.294117647058826,1,1,1,0.010687022900763359
+Masters,C8,interview_observation,BF11,Interdisciplinary or other substantive field,0,6,7,34,0.0,20.58823529411765,-20.58823529411765,1,6,0,0.012213740458015267
+Masters,C8,interview_observation,FIELD_UNAVAILABLE,Field unavailable,1,59,45,414,1.694915254237288,10.869565217391305,-9.174649963154016,1,59,0,0.14442748091603053
+Masters,C8,behavioral_task,BF01,Psychology,137,369,108,543,37.12737127371274,19.88950276243094,17.237868511281796,1,369,0,0.2784732824427481
+Masters,C8,behavioral_task,BF02,Public and population health,1,85,0,293,1.1764705882352942,0.0,1.1764705882352942,1,85,0,0.11541984732824427
+Masters,C8,behavioral_task,BF03,"Medicine, nursing, and clinical health professions",6,17,13,126,35.294117647058826,10.317460317460318,24.976657329598506,1,17,0,0.04366412213740458
+Masters,C8,behavioral_task,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",72,165,60,316,43.63636363636363,18.9873417721519,24.649021864211736,1,165,0,0.14687022900763358
+Masters,C8,behavioral_task,BF05,Chemical and physical sciences,1,8,1,96,12.5,1.0416666666666667,11.458333333333334,1,8,0,0.0317557251908397
+Masters,C8,behavioral_task,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,behavioral_task,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,4,414,0.0,0.966183574879227,-0.966183574879227,1,24,0,0.13374045801526718
+Masters,C8,behavioral_task,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,behavioral_task,BF09,"Engineering, computing, and quantitative sciences",2,15,5,74,13.333333333333334,6.756756756756757,6.576576576576577,1,15,0,0.02717557251908397
+Masters,C8,behavioral_task,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,behavioral_task,BF11,Interdisciplinary or other substantive field,0,6,1,34,0.0,2.9411764705882355,-2.9411764705882355,1,6,0,0.012213740458015267
+Masters,C8,behavioral_task,FIELD_UNAVAILABLE,Field unavailable,19,59,63,414,32.20338983050848,15.217391304347826,16.98599852616065,1,59,0,0.14442748091603053
+Masters,C8,biological_physiological,BF01,Psychology,89,369,57,543,24.119241192411923,10.497237569060774,13.622003623351151,1,369,0,0.2784732824427481
+Masters,C8,biological_physiological,BF02,Public and population health,6,85,18,293,7.0588235294117645,6.143344709897611,0.9154788195141538,1,85,0,0.11541984732824427
+Masters,C8,biological_physiological,BF03,"Medicine, nursing, and clinical health professions",9,17,29,126,52.94117647058823,23.015873015873016,29.92530345471522,1,17,0,0.04366412213740458
+Masters,C8,biological_physiological,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",104,165,166,316,63.03030303030303,52.53164556962025,10.498657460682777,1,165,0,0.14687022900763358
+Masters,C8,biological_physiological,BF05,Chemical and physical sciences,4,8,19,96,50.0,19.791666666666668,30.208333333333332,1,8,0,0.0317557251908397
+Masters,C8,biological_physiological,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,biological_physiological,BF07,"Social sciences, policy, administration, business, justice, and communication",1,24,7,414,4.166666666666667,1.6908212560386473,2.475845410628019,1,24,0,0.13374045801526718
+Masters,C8,biological_physiological,BF08,Education,0,0,2,33,,6.0606060606060606,,0,0,0,0.0
+Masters,C8,biological_physiological,BF09,"Engineering, computing, and quantitative sciences",4,15,15,74,26.666666666666668,20.27027027027027,6.396396396396397,1,15,0,0.02717557251908397
+Masters,C8,biological_physiological,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,biological_physiological,BF11,Interdisciplinary or other substantive field,0,6,3,34,0.0,8.823529411764707,-8.823529411764707,1,6,0,0.012213740458015267
+Masters,C8,biological_physiological,FIELD_UNAVAILABLE,Field unavailable,19,59,63,414,32.20338983050848,15.217391304347826,16.98599852616065,1,59,0,0.14442748091603053
+Masters,C8,neuroimaging_electrophysiology,BF01,Psychology,32,369,17,543,8.672086720867208,3.130755064456722,5.541331656410486,1,369,0,0.2784732824427481
+Masters,C8,neuroimaging_electrophysiology,BF02,Public and population health,0,85,1,293,0.0,0.3412969283276451,-0.3412969283276451,1,85,0,0.11541984732824427
+Masters,C8,neuroimaging_electrophysiology,BF03,"Medicine, nursing, and clinical health professions",1,17,2,126,5.882352941176471,1.5873015873015872,4.295051353874883,1,17,0,0.04366412213740458
+Masters,C8,neuroimaging_electrophysiology,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",11,165,14,316,6.666666666666667,4.430379746835443,2.2362869198312234,1,165,0,0.14687022900763358
+Masters,C8,neuroimaging_electrophysiology,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.0317557251908397
+Masters,C8,neuroimaging_electrophysiology,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,neuroimaging_electrophysiology,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,0,414,0.0,0.0,0.0,1,24,0,0.13374045801526718
+Masters,C8,neuroimaging_electrophysiology,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,neuroimaging_electrophysiology,BF09,"Engineering, computing, and quantitative sciences",2,15,4,74,13.333333333333334,5.405405405405405,7.927927927927928,1,15,0,0.02717557251908397
+Masters,C8,neuroimaging_electrophysiology,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,neuroimaging_electrophysiology,BF11,Interdisciplinary or other substantive field,0,6,0,34,0.0,0.0,0.0,1,6,0,0.012213740458015267
+Masters,C8,neuroimaging_electrophysiology,FIELD_UNAVAILABLE,Field unavailable,8,59,13,414,13.559322033898304,3.140096618357488,10.419225415540817,1,59,0,0.14442748091603053
+Masters,C8,genetic_genomic,BF01,Psychology,7,369,3,543,1.897018970189702,0.5524861878453039,1.344532782344398,1,369,0,0.2784732824427481
+Masters,C8,genetic_genomic,BF02,Public and population health,2,85,2,293,2.3529411764705883,0.6825938566552902,1.670347319815298,1,85,0,0.11541984732824427
+Masters,C8,genetic_genomic,BF03,"Medicine, nursing, and clinical health professions",0,17,3,126,0.0,2.380952380952381,-2.380952380952381,1,17,0,0.04366412213740458
+Masters,C8,genetic_genomic,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",10,165,16,316,6.0606060606060606,5.063291139240507,0.9973149213655543,1,165,0,0.14687022900763358
+Masters,C8,genetic_genomic,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.0317557251908397
+Masters,C8,genetic_genomic,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,genetic_genomic,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,1,414,0.0,0.24154589371980675,-0.24154589371980675,1,24,0,0.13374045801526718
+Masters,C8,genetic_genomic,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,genetic_genomic,BF09,"Engineering, computing, and quantitative sciences",0,15,1,74,0.0,1.3513513513513513,-1.3513513513513513,1,15,0,0.02717557251908397
+Masters,C8,genetic_genomic,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,genetic_genomic,BF11,Interdisciplinary or other substantive field,0,6,0,34,0.0,0.0,0.0,1,6,0,0.012213740458015267
+Masters,C8,genetic_genomic,FIELD_UNAVAILABLE,Field unavailable,2,59,10,414,3.389830508474576,2.4154589371980677,0.9743715712765086,1,59,0,0.14442748091603053
+Masters,C8,chemical_analytical,BF01,Psychology,11,369,9,543,2.9810298102981028,1.6574585635359116,1.3235712467621914,1,369,0,0.2784732824427481
+Masters,C8,chemical_analytical,BF02,Public and population health,0,85,12,293,0.0,4.09556313993174,-4.09556313993174,1,85,0,0.11541984732824427
+Masters,C8,chemical_analytical,BF03,"Medicine, nursing, and clinical health professions",4,17,9,126,23.529411764705884,7.142857142857143,16.386554621848738,1,17,0,0.04366412213740458
+Masters,C8,chemical_analytical,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",71,165,137,316,43.03030303030303,43.35443037974684,-0.3241273494438051,1,165,0,0.14687022900763358
+Masters,C8,chemical_analytical,BF05,Chemical and physical sciences,6,8,88,96,75.0,91.66666666666667,-16.666666666666668,1,8,0,0.0317557251908397
+Masters,C8,chemical_analytical,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,chemical_analytical,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,11,414,0.0,2.657004830917874,-2.657004830917874,1,24,0,0.13374045801526718
+Masters,C8,chemical_analytical,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,chemical_analytical,BF09,"Engineering, computing, and quantitative sciences",3,15,18,74,20.0,24.324324324324323,-4.324324324324325,1,15,0,0.02717557251908397
+Masters,C8,chemical_analytical,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,chemical_analytical,BF11,Interdisciplinary or other substantive field,0,6,2,34,0.0,5.882352941176471,-5.882352941176471,1,6,0,0.012213740458015267
+Masters,C8,chemical_analytical,FIELD_UNAVAILABLE,Field unavailable,8,59,45,414,13.559322033898304,10.869565217391305,2.6897568165070007,1,59,0,0.14442748091603053
+Masters,C8,health_records,BF01,Psychology,2,369,15,543,0.5420054200542005,2.7624309392265194,-2.220425519172319,1,369,0,0.2784732824427481
+Masters,C8,health_records,BF02,Public and population health,13,85,51,293,15.294117647058824,17.406143344709896,-2.1120256976510743,1,85,0,0.11541984732824427
+Masters,C8,health_records,BF03,"Medicine, nursing, and clinical health professions",1,17,24,126,5.882352941176471,19.047619047619047,-13.165266106442576,1,17,0,0.04366412213740458
+Masters,C8,health_records,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,165,14,316,0.0,4.430379746835443,-4.430379746835443,1,165,0,0.14687022900763358
+Masters,C8,health_records,BF05,Chemical and physical sciences,0,8,4,96,0.0,4.166666666666667,-4.166666666666667,1,8,0,0.0317557251908397
+Masters,C8,health_records,BF06,"Social work, counseling, and human services",0,7,2,175,0.0,1.1428571428571428,-1.1428571428571428,1,7,0,0.055572519083969464
+Masters,C8,health_records,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,38,414,0.0,9.178743961352657,-9.178743961352657,1,24,0,0.13374045801526718
+Masters,C8,health_records,BF08,Education,0,0,1,33,,3.0303030303030303,,0,0,0,0.0
+Masters,C8,health_records,BF09,"Engineering, computing, and quantitative sciences",5,15,12,74,33.333333333333336,16.216216216216218,17.117117117117118,1,15,0,0.02717557251908397
+Masters,C8,health_records,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,health_records,BF11,Interdisciplinary or other substantive field,0,6,2,34,0.0,5.882352941176471,-5.882352941176471,1,6,0,0.012213740458015267
+Masters,C8,health_records,FIELD_UNAVAILABLE,Field unavailable,1,59,24,414,1.694915254237288,5.797101449275362,-4.102186195038074,1,59,0,0.14442748091603053
+Masters,C8,administrative_records,BF01,Psychology,0,369,2,543,0.0,0.3683241252302026,-0.3683241252302026,1,369,0,0.2784732824427481
+Masters,C8,administrative_records,BF02,Public and population health,2,85,6,293,2.3529411764705883,2.04778156996587,0.3051596065047179,1,85,0,0.11541984732824427
+Masters,C8,administrative_records,BF03,"Medicine, nursing, and clinical health professions",0,17,1,126,0.0,0.7936507936507936,-0.7936507936507936,1,17,0,0.04366412213740458
+Masters,C8,administrative_records,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,165,1,316,0.0,0.31645569620253167,-0.31645569620253167,1,165,0,0.14687022900763358
+Masters,C8,administrative_records,BF05,Chemical and physical sciences,0,8,0,96,0.0,0.0,0.0,1,8,0,0.0317557251908397
+Masters,C8,administrative_records,BF06,"Social work, counseling, and human services",0,7,5,175,0.0,2.857142857142857,-2.857142857142857,1,7,0,0.055572519083969464
+Masters,C8,administrative_records,BF07,"Social sciences, policy, administration, business, justice, and communication",1,24,23,414,4.166666666666667,5.555555555555555,-1.3888888888888888,1,24,0,0.13374045801526718
+Masters,C8,administrative_records,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,administrative_records,BF09,"Engineering, computing, and quantitative sciences",1,15,2,74,6.666666666666667,2.7027027027027026,3.963963963963964,1,15,0,0.02717557251908397
+Masters,C8,administrative_records,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,administrative_records,BF11,Interdisciplinary or other substantive field,0,6,0,34,0.0,0.0,0.0,1,6,0,0.012213740458015267
+Masters,C8,administrative_records,FIELD_UNAVAILABLE,Field unavailable,0,59,13,414,0.0,3.140096618357488,-3.140096618357488,1,59,0,0.14442748091603053
+Masters,C8,documents_media_online,BF01,Psychology,1,369,10,543,0.27100271002710025,1.8416206261510129,-1.5706179161239127,1,369,0,0.2784732824427481
+Masters,C8,documents_media_online,BF02,Public and population health,5,85,32,293,5.882352941176471,10.921501706484642,-5.0391487653081715,1,85,0,0.11541984732824427
+Masters,C8,documents_media_online,BF03,"Medicine, nursing, and clinical health professions",0,17,12,126,0.0,9.523809523809524,-9.523809523809524,1,17,0,0.04366412213740458
+Masters,C8,documents_media_online,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,165,35,316,0.6060606060606061,11.075949367088608,-10.469888761028,1,165,0,0.14687022900763358
+Masters,C8,documents_media_online,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.0317557251908397
+Masters,C8,documents_media_online,BF06,"Social work, counseling, and human services",1,7,46,175,14.285714285714286,26.285714285714285,-12.0,1,7,0,0.055572519083969464
+Masters,C8,documents_media_online,BF07,"Social sciences, policy, administration, business, justice, and communication",1,24,64,414,4.166666666666667,15.458937198067632,-11.292270531400966,1,24,0,0.13374045801526718
+Masters,C8,documents_media_online,BF08,Education,0,0,9,33,,27.272727272727273,,0,0,0,0.0
+Masters,C8,documents_media_online,BF09,"Engineering, computing, and quantitative sciences",3,15,10,74,20.0,13.513513513513514,6.486486486486487,1,15,0,0.02717557251908397
+Masters,C8,documents_media_online,BF10,Humanities and arts,0,1,25,34,0.0,73.52941176470588,-73.52941176470588,1,1,1,0.010687022900763359
+Masters,C8,documents_media_online,BF11,Interdisciplinary or other substantive field,0,6,2,34,0.0,5.882352941176471,-5.882352941176471,1,6,0,0.012213740458015267
+Masters,C8,documents_media_online,FIELD_UNAVAILABLE,Field unavailable,1,59,73,414,1.694915254237288,17.632850241545892,-15.937934987308605,1,59,0,0.14442748091603053
+Masters,C8,geospatial_market_environmental,BF01,Psychology,1,369,1,543,0.27100271002710025,0.1841620626151013,0.08684064741199898,1,369,0,0.2784732824427481
+Masters,C8,geospatial_market_environmental,BF02,Public and population health,0,85,9,293,0.0,3.0716723549488054,-3.0716723549488054,1,85,0,0.11541984732824427
+Masters,C8,geospatial_market_environmental,BF03,"Medicine, nursing, and clinical health professions",0,17,0,126,0.0,0.0,0.0,1,17,0,0.04366412213740458
+Masters,C8,geospatial_market_environmental,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",0,165,0,316,0.0,0.0,0.0,1,165,0,0.14687022900763358
+Masters,C8,geospatial_market_environmental,BF05,Chemical and physical sciences,0,8,1,96,0.0,1.0416666666666667,-1.0416666666666667,1,8,0,0.0317557251908397
+Masters,C8,geospatial_market_environmental,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,geospatial_market_environmental,BF07,"Social sciences, policy, administration, business, justice, and communication",1,24,27,414,4.166666666666667,6.521739130434782,-2.3550724637681157,1,24,0,0.13374045801526718
+Masters,C8,geospatial_market_environmental,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,geospatial_market_environmental,BF09,"Engineering, computing, and quantitative sciences",2,15,3,74,13.333333333333334,4.054054054054054,9.27927927927928,1,15,0,0.02717557251908397
+Masters,C8,geospatial_market_environmental,BF10,Humanities and arts,0,1,1,34,0.0,2.9411764705882355,-2.9411764705882355,1,1,1,0.010687022900763359
+Masters,C8,geospatial_market_environmental,BF11,Interdisciplinary or other substantive field,0,6,1,34,0.0,2.9411764705882355,-2.9411764705882355,1,6,0,0.012213740458015267
+Masters,C8,geospatial_market_environmental,FIELD_UNAVAILABLE,Field unavailable,0,59,10,414,0.0,2.4154589371980677,-2.4154589371980677,1,59,0,0.14442748091603053
+Masters,C8,simulated_model_data,BF01,Psychology,1,369,0,543,0.27100271002710025,0.0,0.27100271002710025,1,369,0,0.2784732824427481
+Masters,C8,simulated_model_data,BF02,Public and population health,1,85,4,293,1.1764705882352942,1.3651877133105803,-0.1887171250752861,1,85,0,0.11541984732824427
+Masters,C8,simulated_model_data,BF03,"Medicine, nursing, and clinical health professions",0,17,0,126,0.0,0.0,0.0,1,17,0,0.04366412213740458
+Masters,C8,simulated_model_data,BF04,"Biomedical, life, neuroscience, and pharmaceutical sciences",1,165,2,316,0.6060606060606061,0.6329113924050633,-0.02685078634445723,1,165,0,0.14687022900763358
+Masters,C8,simulated_model_data,BF05,Chemical and physical sciences,2,8,4,96,25.0,4.166666666666667,20.833333333333332,1,8,0,0.0317557251908397
+Masters,C8,simulated_model_data,BF06,"Social work, counseling, and human services",0,7,0,175,0.0,0.0,0.0,1,7,0,0.055572519083969464
+Masters,C8,simulated_model_data,BF07,"Social sciences, policy, administration, business, justice, and communication",0,24,1,414,0.0,0.24154589371980675,-0.24154589371980675,1,24,0,0.13374045801526718
+Masters,C8,simulated_model_data,BF08,Education,0,0,0,33,,0.0,,0,0,0,0.0
+Masters,C8,simulated_model_data,BF09,"Engineering, computing, and quantitative sciences",0,15,12,74,0.0,16.216216216216218,-16.216216216216218,1,15,0,0.02717557251908397
+Masters,C8,simulated_model_data,BF10,Humanities and arts,0,1,0,34,0.0,0.0,0.0,1,1,1,0.010687022900763359
+Masters,C8,simulated_model_data,BF11,Interdisciplinary or other substantive field,0,6,0,34,0.0,0.0,0.0,1,6,0,0.012213740458015267
+Masters,C8,simulated_model_data,FIELD_UNAVAILABLE,Field unavailable,2,59,7,414,3.389830508474576,1.6908212560386473,1.6990092524359288,1,59,0,0.14442748091603053

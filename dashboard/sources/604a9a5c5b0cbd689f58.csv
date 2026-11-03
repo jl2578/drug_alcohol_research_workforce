@@ -1,0 +1,25 @@
+degree_group,connection_clear,connection_label,specification,state,state_label,n,denominator_n,width_pct
+Research doctorate,1,NIDA/NIAAA connected,inclusive,research_likely_only,Research only,58,88,65.9090909090909
+Research doctorate,1,NIDA/NIAAA connected,inclusive,clinical_likely_only,Clinical care only,7,88,7.954545454545454
+Research doctorate,1,NIDA/NIAAA connected,inclusive,both,Both,5,88,5.681818181818182
+Research doctorate,1,NIDA/NIAAA connected,inclusive,neither,Other,18,88,20.454545454545453
+Research doctorate,1,NIDA/NIAAA connected,inclusive,unclassifiable,Instrument U,0,88,0.0
+Research doctorate,1,NIDA/NIAAA connected,inclusive,unscored,Unscored,0,88,0.0
+Research doctorate,0,Remaining observations,inclusive,research_likely_only,Research only,42,102,41.1764705882353
+Research doctorate,0,Remaining observations,inclusive,clinical_likely_only,Clinical care only,26,102,25.49019607843137
+Research doctorate,0,Remaining observations,inclusive,both,Both,5,102,4.901960784313726
+Research doctorate,0,Remaining observations,inclusive,neither,Other,28,102,27.45098039215686
+Research doctorate,0,Remaining observations,inclusive,unclassifiable,Instrument U,0,102,0.0
+Research doctorate,0,Remaining observations,inclusive,unscored,Unscored,1,102,0.9803921568627451
+Master's,1,NIDA/NIAAA connected,inclusive,research_likely_only,Research only,7,17,41.1764705882353
+Master's,1,NIDA/NIAAA connected,inclusive,clinical_likely_only,Clinical care only,3,17,17.647058823529413
+Master's,1,NIDA/NIAAA connected,inclusive,both,Both,3,17,17.647058823529413
+Master's,1,NIDA/NIAAA connected,inclusive,neither,Other,3,17,17.647058823529413
+Master's,1,NIDA/NIAAA connected,inclusive,unclassifiable,Instrument U,0,17,0.0
+Master's,1,NIDA/NIAAA connected,inclusive,unscored,Unscored,1,17,5.882352941176471
+Master's,0,Remaining observations,inclusive,research_likely_only,Research only,17,59,28.8135593220339
+Master's,0,Remaining observations,inclusive,clinical_likely_only,Clinical care only,17,59,28.8135593220339
+Master's,0,Remaining observations,inclusive,both,Both,3,59,5.084745762711864
+Master's,0,Remaining observations,inclusive,neither,Other,20,59,33.898305084745765
+Master's,0,Remaining observations,inclusive,unclassifiable,Instrument U,0,59,0.0
+Master's,0,Remaining observations,inclusive,unscored,Unscored,2,59,3.389830508474576

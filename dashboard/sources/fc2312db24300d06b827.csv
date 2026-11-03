@@ -1,0 +1,49 @@
+connection_definition,ownership,degree_target,outcome,population_n_before_outcome_eligibility,connected_n_before_outcome_eligibility,remaining_n_before_outcome_eligibility,eligible_connected_n,eligible_remaining_n,eligible_total_n,excluded_connected_states_json,excluded_remaining_states_json,clear_award_only_reclassified_usable_n,possible_award_additional_reclassified_usable_n,source_version
+PI_component,full,Research doctorate,C3,7964,3144,4820,3123,4583,7706,"{""known_inapplicable"": 17, ""undetermined"": 4}","{""known_inapplicable"": 234, ""undetermined"": 3}",91,3,v5_rev15_award_links_20261015
+primary_combined,full,Research doctorate,C3,7964,3236,4728,3214,4492,7706,"{""known_inapplicable"": 17, ""undetermined"": 5}","{""known_inapplicable"": 234, ""undetermined"": 2}",91,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Research doctorate,C3,7964,3239,4725,3217,4489,7706,"{""known_inapplicable"": 17, ""undetermined"": 5}","{""known_inapplicable"": 234, ""undetermined"": 2}",91,3,v5_rev15_award_links_20261015
+PI_component,full,Research doctorate,C4,7964,3144,4820,3143,4820,7963,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+primary_combined,full,Research doctorate,C4,7964,3236,4728,3235,4728,7963,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Research doctorate,C4,7964,3239,4725,3238,4725,7963,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+PI_component,full,Research doctorate,C5,7964,3144,4820,3143,4820,7963,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+primary_combined,full,Research doctorate,C5,7964,3236,4728,3235,4728,7963,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Research doctorate,C5,7964,3239,4725,3238,4725,7963,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+PI_component,full,Research doctorate,C8,7964,3144,4820,3139,4730,7869,"{""known_inapplicable"": 2, ""undetermined"": 3}","{""known_inapplicable"": 88, ""undetermined"": 2}",91,3,v5_rev15_award_links_20261015
+primary_combined,full,Research doctorate,C8,7964,3236,4728,3230,4639,7869,"{""known_inapplicable"": 2, ""undetermined"": 4}","{""known_inapplicable"": 88, ""undetermined"": 1}",91,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Research doctorate,C8,7964,3239,4725,3233,4636,7869,"{""known_inapplicable"": 2, ""undetermined"": 4}","{""known_inapplicable"": 88, ""undetermined"": 1}",91,3,v5_rev15_award_links_20261015
+PI_component,full,Masters,C3,3460,755,2705,748,2401,3149,"{""known_inapplicable"": 5, ""undetermined"": 2}","{""known_inapplicable"": 300, ""undetermined"": 4}",3,0,v5_rev15_award_links_20261015
+primary_combined,full,Masters,C3,3460,758,2702,751,2398,3149,"{""known_inapplicable"": 5, ""undetermined"": 2}","{""known_inapplicable"": 300, ""undetermined"": 4}",3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Masters,C3,3460,758,2702,751,2398,3149,"{""known_inapplicable"": 5, ""undetermined"": 2}","{""known_inapplicable"": 300, ""undetermined"": 4}",3,0,v5_rev15_award_links_20261015
+PI_component,full,Masters,C4,3460,755,2705,755,2704,3459,{},"{""undetermined"": 1}",3,0,v5_rev15_award_links_20261015
+primary_combined,full,Masters,C4,3460,758,2702,758,2701,3459,{},"{""undetermined"": 1}",3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Masters,C4,3460,758,2702,758,2701,3459,{},"{""undetermined"": 1}",3,0,v5_rev15_award_links_20261015
+PI_component,full,Masters,C5,3460,755,2705,755,2705,3460,{},{},3,0,v5_rev15_award_links_20261015
+primary_combined,full,Masters,C5,3460,758,2702,758,2702,3460,{},{},3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Masters,C5,3460,758,2702,758,2702,3460,{},{},3,0,v5_rev15_award_links_20261015
+PI_component,full,Masters,C8,3460,755,2705,753,2555,3308,"{""known_inapplicable"": 1, ""undetermined"": 1}","{""known_inapplicable"": 143, ""undetermined"": 7}",3,0,v5_rev15_award_links_20261015
+primary_combined,full,Masters,C8,3460,758,2702,756,2552,3308,"{""known_inapplicable"": 1, ""undetermined"": 1}","{""known_inapplicable"": 143, ""undetermined"": 7}",3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,full,Masters,C8,3460,758,2702,756,2552,3308,"{""known_inapplicable"": 1, ""undetermined"": 1}","{""known_inapplicable"": 143, ""undetermined"": 7}",3,0,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Research doctorate,C3,7389,3143,4246,3122,4031,7153,"{""known_inapplicable"": 17, ""undetermined"": 4}","{""known_inapplicable"": 212, ""undetermined"": 3}",91,3,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Research doctorate,C3,7389,3235,4154,3213,3940,7153,"{""known_inapplicable"": 17, ""undetermined"": 5}","{""known_inapplicable"": 212, ""undetermined"": 2}",91,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Research doctorate,C3,7389,3238,4151,3216,3937,7153,"{""known_inapplicable"": 17, ""undetermined"": 5}","{""known_inapplicable"": 212, ""undetermined"": 2}",91,3,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Research doctorate,C4,7389,3143,4246,3142,4246,7388,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Research doctorate,C4,7389,3235,4154,3234,4154,7388,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Research doctorate,C4,7389,3238,4151,3237,4151,7388,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Research doctorate,C5,7389,3143,4246,3142,4246,7388,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Research doctorate,C5,7389,3235,4154,3234,4154,7388,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Research doctorate,C5,7389,3238,4151,3237,4151,7388,"{""undetermined"": 1}",{},92,3,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Research doctorate,C8,7389,3143,4246,3138,4161,7299,"{""known_inapplicable"": 2, ""undetermined"": 3}","{""known_inapplicable"": 83, ""undetermined"": 2}",91,3,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Research doctorate,C8,7389,3235,4154,3229,4070,7299,"{""known_inapplicable"": 2, ""undetermined"": 4}","{""known_inapplicable"": 83, ""undetermined"": 1}",91,3,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Research doctorate,C8,7389,3238,4151,3232,4067,7299,"{""known_inapplicable"": 2, ""undetermined"": 4}","{""known_inapplicable"": 83, ""undetermined"": 1}",91,3,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Masters,C3,3391,755,2636,748,2367,3115,"{""known_inapplicable"": 5, ""undetermined"": 2}","{""known_inapplicable"": 265, ""undetermined"": 4}",3,0,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Masters,C3,3391,758,2633,751,2364,3115,"{""known_inapplicable"": 5, ""undetermined"": 2}","{""known_inapplicable"": 265, ""undetermined"": 4}",3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Masters,C3,3391,758,2633,751,2364,3115,"{""known_inapplicable"": 5, ""undetermined"": 2}","{""known_inapplicable"": 265, ""undetermined"": 4}",3,0,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Masters,C4,3391,755,2636,755,2635,3390,{},"{""undetermined"": 1}",3,0,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Masters,C4,3391,758,2633,758,2632,3390,{},"{""undetermined"": 1}",3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Masters,C4,3391,758,2633,758,2632,3390,{},"{""undetermined"": 1}",3,0,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Masters,C5,3391,755,2636,755,2636,3391,{},{},3,0,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Masters,C5,3391,758,2633,758,2633,3391,{},{},3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Masters,C5,3391,758,2633,758,2633,3391,{},{},3,0,v5_rev15_award_links_20261015
+PI_component,exclude_ever_for_profit,Masters,C8,3391,755,2636,753,2510,3263,"{""known_inapplicable"": 1, ""undetermined"": 1}","{""known_inapplicable"": 120, ""undetermined"": 6}",3,0,v5_rev15_award_links_20261015
+primary_combined,exclude_ever_for_profit,Masters,C8,3391,758,2633,756,2507,3263,"{""known_inapplicable"": 1, ""undetermined"": 1}","{""known_inapplicable"": 120, ""undetermined"": 6}",3,0,v5_rev15_award_links_20261015
+award_possible_sensitivity,exclude_ever_for_profit,Masters,C8,3391,758,2633,756,2507,3263,"{""known_inapplicable"": 1, ""undetermined"": 1}","{""known_inapplicable"": 120, ""undetermined"": 6}",3,0,v5_rev15_award_links_20261015

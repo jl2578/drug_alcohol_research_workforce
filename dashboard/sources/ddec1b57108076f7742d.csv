@@ -1,0 +1,9 @@
+fit_id,ownership,sample_type,degree_group,retained_flag,expected_cells,expected_clusters
+full__main__doctorate,full,main,Research doctorate,retained_full_main,4444,350
+full__main__masters,full,main,Masters,retained_full_main,3354,283
+full__common__doctorate,full,common,Research doctorate,retained_full_common,2440,196
+full__common__masters,full,common,Masters,retained_full_common,2440,196
+exclude_ever_for_profit__main__doctorate,exclude_ever_for_profit,main,Research doctorate,retained_noFP_main,4304,337
+exclude_ever_for_profit__main__masters,exclude_ever_for_profit,main,Masters,retained_noFP_main,3309,279
+exclude_ever_for_profit__common__doctorate,exclude_ever_for_profit,common,Research doctorate,retained_noFP_common,2408,193
+exclude_ever_for_profit__common__masters,exclude_ever_for_profit,common,Masters,retained_noFP_common,2408,193

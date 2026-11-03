@@ -1,0 +1,25 @@
+ownership_population,degree_group,measure,works
+exclude_ever_for_profit,Excluded other credential,connected,73
+exclude_ever_for_profit,Excluded other credential,incomplete_roles,268
+exclude_ever_for_profit,Excluded other credential,outside_frame,8
+exclude_ever_for_profit,Excluded other credential,works,1363
+exclude_ever_for_profit,Masters,connected,755
+exclude_ever_for_profit,Masters,incomplete_roles,752
+exclude_ever_for_profit,Masters,outside_frame,0
+exclude_ever_for_profit,Masters,works,3391
+exclude_ever_for_profit,Research doctorate,connected,3143
+exclude_ever_for_profit,Research doctorate,incomplete_roles,1319
+exclude_ever_for_profit,Research doctorate,outside_frame,0
+exclude_ever_for_profit,Research doctorate,works,7389
+full,Excluded other credential,connected,73
+full,Excluded other credential,incomplete_roles,316
+full,Excluded other credential,outside_frame,8
+full,Excluded other credential,works,1803
+full,Masters,connected,755
+full,Masters,incomplete_roles,782
+full,Masters,outside_frame,0
+full,Masters,works,3460
+full,Research doctorate,connected,3144
+full,Research doctorate,incomplete_roles,1349
+full,Research doctorate,outside_frame,0
+full,Research doctorate,works,7964

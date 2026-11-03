@@ -1,0 +1,8 @@
+field,assigned_records,agreement_n,comparable_n,excluded_n,exact_agreement,wilson_95_lower,wilson_95_upper,nominal_kappa,kappa_bootstrap_95_lower,kappa_bootstrap_95_upper,source,linear_weighted_kappa,weighted_bootstrap_95_lower,weighted_bootstrap_95_upper,kappa_interval_note,kappa_bootstrap_valid_n
+scope,200,191,200,0,0.955,0.9167032959981803,0.976147456998507,0.9116000392888713,0.8532566025332635,0.9605564497991568,original Tier1 A/B v1; initial_record_agreement.json,,,,,
+focus,200,185,199,1,0.9296482412060302,0.8853892694087233,0.9576336559546708,0.8844750373196221,0.823292767130121,0.9404019442405298,original Tier1 A/B v1; initial_record_agreement.json,0.9059645069830936,0.851283818059776,0.9528450709434271,,
+domain,200,109,110,90,0.990909090909091,0.9502943479206695,0.9983934246956784,0.9872271249419415,0.9586486355146243,1.0,original Tier1 A/B v1; initial_record_agreement.json,,,,,
+scope_jointly_definite,200,190,193,7,0.9844559585492227,0.9553033351151177,0.994699784757821,0.9681430536451168,,,original Tier1 A/B v1; newly added Wilson interval,,,,Not calculated for binary-scope companion; three-state kappa interval reported above.,
+focus_Core_vs_Shared_Peripheral,200,191,199,1,0.9597989949748744,0.92269130297867,0.9794911259189975,0.9129864451246175,0.8496715274248562,0.9674606202648935,original Tier1 A/B v1; newly completed binary summary,,,,,5000
+focus_status,200,199,200,0,0.995,0.9722262956021069,0.9991168312843989,0.0,,,original Tier1 A/B v1; status/applicability only,,,,,
+domain_status,200,195,200,0,0.975,0.942821659593358,0.9892752803482386,0.9492179565305707,,,original Tier1 A/B v1; status/applicability only,,,,,

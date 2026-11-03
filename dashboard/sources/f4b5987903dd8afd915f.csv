@@ -1,0 +1,73 @@
+field_code,field_label,field_definition,degree_group,distinct_works,denominator_distinct_works,share_of_all_works_percent,display_share_percent,cell_status,field_total_distinct_works,field_total_share_percent,degree_total_distinct_works,degree_total_share_percent
+BF01,Psychology,Psychology,Master's,927,13227,7.0083919256067135,7.0,observed_nonzero,3535,26.725636954713842,3460,26.158614954260226
+BF01,Psychology,Psychology,Research doctorate,1958,13227,14.80305435850911,14.8,observed_nonzero,3535,26.725636954713842,7964,60.210176154834805
+BF01,Psychology,Psychology,PsyD,635,13227,4.800786270507296,4.8,observed_nonzero,3535,26.725636954713842,807,6.1011567248809255
+BF01,Psychology,Psychology,DrPH,0,13227,0.0,0.0,genuine_zero,3535,26.725636954713842,186,1.4062145611249717
+BF01,Psychology,Psychology,Other named doctorate,11,13227,0.08316322673319725,<0.1,observed_nonzero,3535,26.725636954713842,781,5.904589098057005
+BF01,Psychology,Psychology,Other / unresolved credential,4,13227,0.030241173357526272,<0.1,observed_nonzero,3535,26.725636954713842,29,0.21924850684206548
+BF02,Public / population health,Public and population health,Master's,381,13227,2.8804717623043774,2.9,observed_nonzero,1483,11.211915022302865,3460,26.158614954260226
+BF02,Public / population health,Public and population health,Research doctorate,879,13227,6.645497845316398,6.6,observed_nonzero,1483,11.211915022302865,7964,60.210176154834805
+BF02,Public / population health,Public and population health,PsyD,0,13227,0.0,0.0,genuine_zero,1483,11.211915022302865,807,6.1011567248809255
+BF02,Public / population health,Public and population health,DrPH,173,13227,1.3079307477130113,1.3,observed_nonzero,1483,11.211915022302865,186,1.4062145611249717
+BF02,Public / population health,Public and population health,Other named doctorate,50,13227,0.37801466696907843,0.4,observed_nonzero,1483,11.211915022302865,781,5.904589098057005
+BF02,Public / population health,Public and population health,Other / unresolved credential,0,13227,0.0,0.0,genuine_zero,1483,11.211915022302865,29,0.21924850684206548
+BF03,Clinical health,"Medicine, nursing, and clinical health professions",Master's,145,13227,1.0962425342103275,1.1,observed_nonzero,838,6.335525818401754,3460,26.158614954260226
+BF03,Clinical health,"Medicine, nursing, and clinical health professions",Research doctorate,355,13227,2.6839041354804567,2.7,observed_nonzero,838,6.335525818401754,7964,60.210176154834805
+BF03,Clinical health,"Medicine, nursing, and clinical health professions",PsyD,0,13227,0.0,0.0,genuine_zero,838,6.335525818401754,807,6.1011567248809255
+BF03,Clinical health,"Medicine, nursing, and clinical health professions",DrPH,5,13227,0.03780146669690784,<0.1,observed_nonzero,838,6.335525818401754,186,1.4062145611249717
+BF03,Clinical health,"Medicine, nursing, and clinical health professions",Other named doctorate,333,13227,2.5175776820140623,2.5,observed_nonzero,838,6.335525818401754,781,5.904589098057005
+BF03,Clinical health,"Medicine, nursing, and clinical health professions",Other / unresolved credential,0,13227,0.0,0.0,genuine_zero,838,6.335525818401754,29,0.21924850684206548
+BF04,Biomedical / life sciences,"Biomedical, life, neuroscience, and pharmaceutical sciences",Master's,485,13227,3.6667422696000607,3.7,observed_nonzero,2068,15.634686625841082,3460,26.158614954260226
+BF04,Biomedical / life sciences,"Biomedical, life, neuroscience, and pharmaceutical sciences",Research doctorate,1579,13227,11.937703182883496,11.9,observed_nonzero,2068,15.634686625841082,7964,60.210176154834805
+BF04,Biomedical / life sciences,"Biomedical, life, neuroscience, and pharmaceutical sciences",PsyD,0,13227,0.0,0.0,genuine_zero,2068,15.634686625841082,807,6.1011567248809255
+BF04,Biomedical / life sciences,"Biomedical, life, neuroscience, and pharmaceutical sciences",DrPH,0,13227,0.0,0.0,genuine_zero,2068,15.634686625841082,186,1.4062145611249717
+BF04,Biomedical / life sciences,"Biomedical, life, neuroscience, and pharmaceutical sciences",Other named doctorate,2,13227,0.015120586678763136,<0.1,observed_nonzero,2068,15.634686625841082,781,5.904589098057005
+BF04,Biomedical / life sciences,"Biomedical, life, neuroscience, and pharmaceutical sciences",Other / unresolved credential,2,13227,0.015120586678763136,<0.1,observed_nonzero,2068,15.634686625841082,29,0.21924850684206548
+BF05,Chemical / physical sciences,Chemical and physical sciences,Master's,104,13227,0.786270507295683,0.8,observed_nonzero,329,2.487336508656536,3460,26.158614954260226
+BF05,Chemical / physical sciences,Chemical and physical sciences,Research doctorate,225,13227,1.7010660013608527,1.7,observed_nonzero,329,2.487336508656536,7964,60.210176154834805
+BF05,Chemical / physical sciences,Chemical and physical sciences,PsyD,0,13227,0.0,0.0,genuine_zero,329,2.487336508656536,807,6.1011567248809255
+BF05,Chemical / physical sciences,Chemical and physical sciences,DrPH,0,13227,0.0,0.0,genuine_zero,329,2.487336508656536,186,1.4062145611249717
+BF05,Chemical / physical sciences,Chemical and physical sciences,Other named doctorate,0,13227,0.0,0.0,genuine_zero,329,2.487336508656536,781,5.904589098057005
+BF05,Chemical / physical sciences,Chemical and physical sciences,Other / unresolved credential,0,13227,0.0,0.0,genuine_zero,329,2.487336508656536,29,0.21924850684206548
+BF06,Social work / counseling,"Social work, counseling, and human services",Master's,194,13227,1.4666969078400243,1.5,observed_nonzero,658,4.974673017313072,3460,26.158614954260226
+BF06,Social work / counseling,"Social work, counseling, and human services",Research doctorate,419,13227,3.167762909200877,3.2,observed_nonzero,658,4.974673017313072,7964,60.210176154834805
+BF06,Social work / counseling,"Social work, counseling, and human services",PsyD,8,13227,0.060482346715052544,<0.1,observed_nonzero,658,4.974673017313072,807,6.1011567248809255
+BF06,Social work / counseling,"Social work, counseling, and human services",DrPH,0,13227,0.0,0.0,genuine_zero,658,4.974673017313072,186,1.4062145611249717
+BF06,Social work / counseling,"Social work, counseling, and human services",Other named doctorate,26,13227,0.19656762682392076,0.2,observed_nonzero,658,4.974673017313072,781,5.904589098057005
+BF06,Social work / counseling,"Social work, counseling, and human services",Other / unresolved credential,11,13227,0.08316322673319725,<0.1,observed_nonzero,658,4.974673017313072,29,0.21924850684206548
+BF07,Social sciences / policy,"Social sciences, policy, administration, business, justice, and communication",Master's,459,13227,3.4701746427761395,3.5,observed_nonzero,1540,11.642851742647615,3460,26.158614954260226
+BF07,Social sciences / policy,"Social sciences, policy, administration, business, justice, and communication",Research doctorate,938,13227,7.091555152339911,7.1,observed_nonzero,1540,11.642851742647615,7964,60.210176154834805
+BF07,Social sciences / policy,"Social sciences, policy, administration, business, justice, and communication",PsyD,50,13227,0.37801466696907843,0.4,observed_nonzero,1540,11.642851742647615,807,6.1011567248809255
+BF07,Social sciences / policy,"Social sciences, policy, administration, business, justice, and communication",DrPH,2,13227,0.015120586678763136,<0.1,observed_nonzero,1540,11.642851742647615,186,1.4062145611249717
+BF07,Social sciences / policy,"Social sciences, policy, administration, business, justice, and communication",Other named doctorate,86,13227,0.6501852271868148,0.7,observed_nonzero,1540,11.642851742647615,781,5.904589098057005
+BF07,Social sciences / policy,"Social sciences, policy, administration, business, justice, and communication",Other / unresolved credential,5,13227,0.03780146669690784,<0.1,observed_nonzero,1540,11.642851742647615,29,0.21924850684206548
+BF08,Education,Education,Master's,35,13227,0.26461026687835487,0.3,observed_nonzero,334,2.5251379753534438,3460,26.158614954260226
+BF08,Education,Education,Research doctorate,169,13227,1.277689574355485,1.3,observed_nonzero,334,2.5251379753534438,7964,60.210176154834805
+BF08,Education,Education,PsyD,4,13227,0.030241173357526272,<0.1,observed_nonzero,334,2.5251379753534438,807,6.1011567248809255
+BF08,Education,Education,DrPH,0,13227,0.0,0.0,genuine_zero,334,2.5251379753534438,186,1.4062145611249717
+BF08,Education,Education,Other named doctorate,125,13227,0.945036667422696,0.9,observed_nonzero,334,2.5251379753534438,781,5.904589098057005
+BF08,Education,Education,Other / unresolved credential,1,13227,0.007560293339381568,<0.1,observed_nonzero,334,2.5251379753534438,29,0.21924850684206548
+BF09,Engineering / computing,"Engineering, computing, and quantitative sciences",Master's,90,13227,0.6804264005443411,0.7,observed_nonzero,232,1.7539880547365239,3460,26.158614954260226
+BF09,Engineering / computing,"Engineering, computing, and quantitative sciences",Research doctorate,141,13227,1.0660013608528012,1.1,observed_nonzero,232,1.7539880547365239,7964,60.210176154834805
+BF09,Engineering / computing,"Engineering, computing, and quantitative sciences",PsyD,0,13227,0.0,0.0,genuine_zero,232,1.7539880547365239,807,6.1011567248809255
+BF09,Engineering / computing,"Engineering, computing, and quantitative sciences",DrPH,0,13227,0.0,0.0,genuine_zero,232,1.7539880547365239,186,1.4062145611249717
+BF09,Engineering / computing,"Engineering, computing, and quantitative sciences",Other named doctorate,1,13227,0.007560293339381568,<0.1,observed_nonzero,232,1.7539880547365239,781,5.904589098057005
+BF09,Engineering / computing,"Engineering, computing, and quantitative sciences",Other / unresolved credential,0,13227,0.0,0.0,genuine_zero,232,1.7539880547365239,29,0.21924850684206548
+BF10,Humanities / arts,Humanities and arts,Master's,96,13227,0.7257881605806306,0.7,observed_nonzero,206,1.557420427912603,3460,26.158614954260226
+BF10,Humanities / arts,Humanities and arts,Research doctorate,84,13227,0.6350646405080517,0.6,observed_nonzero,206,1.557420427912603,7964,60.210176154834805
+BF10,Humanities / arts,Humanities and arts,PsyD,0,13227,0.0,0.0,genuine_zero,206,1.557420427912603,807,6.1011567248809255
+BF10,Humanities / arts,Humanities and arts,DrPH,0,13227,0.0,0.0,genuine_zero,206,1.557420427912603,186,1.4062145611249717
+BF10,Humanities / arts,Humanities and arts,Other named doctorate,26,13227,0.19656762682392076,0.2,observed_nonzero,206,1.557420427912603,781,5.904589098057005
+BF10,Humanities / arts,Humanities and arts,Other / unresolved credential,0,13227,0.0,0.0,genuine_zero,206,1.557420427912603,29,0.21924850684206548
+BF11,Interdisciplinary / other,Interdisciplinary or other substantive field,Master's,43,13227,0.3250926135934074,0.3,observed_nonzero,134,1.01307930747713,3460,26.158614954260226
+BF11,Interdisciplinary / other,Interdisciplinary or other substantive field,Research doctorate,62,13227,0.4687381870416572,0.5,observed_nonzero,134,1.01307930747713,7964,60.210176154834805
+BF11,Interdisciplinary / other,Interdisciplinary or other substantive field,PsyD,16,13227,0.12096469343010509,0.1,observed_nonzero,134,1.01307930747713,807,6.1011567248809255
+BF11,Interdisciplinary / other,Interdisciplinary or other substantive field,DrPH,0,13227,0.0,0.0,genuine_zero,134,1.01307930747713,186,1.4062145611249717
+BF11,Interdisciplinary / other,Interdisciplinary or other substantive field,Other named doctorate,13,13227,0.09828381341196038,<0.1,observed_nonzero,134,1.01307930747713,781,5.904589098057005
+BF11,Interdisciplinary / other,Interdisciplinary or other substantive field,Other / unresolved credential,0,13227,0.0,0.0,genuine_zero,134,1.01307930747713,29,0.21924850684206548
+Unavailable,Field unavailable,Field classification unavailable,Master's,501,13227,3.7877069630301654,3.8,observed_nonzero,1870,14.137748544643532,3460,26.158614954260226
+Unavailable,Field unavailable,Field classification unavailable,Research doctorate,1155,13227,8.732138806985711,8.7,observed_nonzero,1870,14.137748544643532,7964,60.210176154834805
+Unavailable,Field unavailable,Field classification unavailable,PsyD,94,13227,0.7106675739018674,0.7,observed_nonzero,1870,14.137748544643532,807,6.1011567248809255
+Unavailable,Field unavailable,Field classification unavailable,DrPH,6,13227,0.04536176003628941,<0.1,observed_nonzero,1870,14.137748544643532,186,1.4062145611249717
+Unavailable,Field unavailable,Field classification unavailable,Other named doctorate,108,13227,0.8165116806532093,0.8,observed_nonzero,1870,14.137748544643532,781,5.904589098057005
+Unavailable,Field unavailable,Field classification unavailable,Other / unresolved credential,6,13227,0.04536176003628941,<0.1,observed_nonzero,1870,14.137748544643532,29,0.21924850684206548

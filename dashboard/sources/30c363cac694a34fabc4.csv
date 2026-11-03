@@ -1,0 +1,7 @@
+Unit field,Jointly coded units and records,Exact agreement,Jaccard or kappa,Bootstrap 95% interval
+Substance roles,48 units; 47 records,37/48,Mean unit Jaccard 0.799,0.679–0.900
+Stated purposes,23 units; 23 records,18/23,Mean unit Jaccard 0.891,0.800–0.972
+Unrelated therapeutic indication,23 units; 23 records,23/23,Nominal kappa 1.000,Withheld
+Substance labels,23 units; 23 records,23/23,Mean unit Jaccard 1.000,1.000–1.000
+Primary substance,5 units; 5 records,5/5,Nominal kappa 1.000,Withheld
+Assignment basis,14 units; 14 records,14/14,Kappa not estimable,Withheld

@@ -1,0 +1,24 @@
+metric,numerator_n,denominator_n,estimate,wilson_95_lower,wilson_95_upper,base_rule,note,status,sparse_base_under_20
+focus_status_agreement,199,200,0.995,0.9722262956021069,0.9991168312843989,All fixed reference records; model operational states retained,,estimated,False
+focus_exact_jointly_coded,184,199,0.9246231155778895,0.879371671476229,0.9537913366314528,Jointly coded focus 1–3; noncoded pairs excluded,,estimated,False
+focus_correct_delivery_reference_coded,184,199,0.9246231155778895,0.879371671476229,0.9537913366314528,All human-coded focus records; model noncoded/missing/failure is nonmatch,,estimated,False
+focus_binary_exact_jointly_coded,190,199,0.9547738693467337,0.9162958276873201,0.976026683954635,"Jointly coded focus, Core=1 versus Shared/Peripheral=2 or 3",,estimated,False
+focus_Core_precision,68,74,0.918918918918919,0.8341805755644218,0.9623101498061737,Model Core among jointly coded focus records,Descriptive outcome-use companion; excludes human or model noncoded focus,estimated,False
+focus_Core_sensitivity,68,71,0.9577464788732394,0.882975839595153,0.9855267393795246,Human Core among jointly coded focus records,Conditional outcome-use companion; not the scope sensitivity metric,estimated,False
+focus_Core_specificity,122,128,0.953125,0.9015024775490568,0.9783421558280763,Human Shared/Peripheral among jointly coded focus records,Conditional outcome-use companion,estimated,False
+domain_status_agreement,189,200,0.945,0.9042130012276914,0.9690146582965411,All fixed records; reference/model scope uncertainty kept separate from nonapplicability,"Largely reflects scope/applicability concordance, not category correctness",estimated,False
+domain_exact_jointly_in_scope,109,112,0.9732142857142857,0.9241945450432856,0.9908491800540711,Jointly in-scope records with valid derived domains,,estimated,False
+domain_delivery_reference_in,112,112,1.0,0.9668386529330562,1.0,"All human-in records; model exclusions, uncertainty or operational failures are nondelivery",,estimated,False
+domain_correct_delivery_reference_in,109,112,0.9732142857142857,0.9241945450432856,0.9908491800540711,All human-in records; wrong domain or model nondelivery is nonmatch,,estimated,False
+focus_human_coded,199,200,0.995,0.9722262956021069,0.9991168312843989,All fixed reference records,,estimated,False
+focus_human_cannot_determine,1,200,0.005,0.0008831687156009814,0.02777370439789293,All fixed reference records,,estimated,False
+focus_human_not_applicable,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_human_missing,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_human_invalid,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_human_unresolved_failure,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_model_coded,200,200,1.0,0.9811546736227335,1.0,All fixed reference records,,estimated,False
+focus_model_cannot_determine,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_model_not_applicable,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_model_missing,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_model_invalid,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False
+focus_model_unresolved_failure,0,200,0.0,0.0,0.018845326377266575,All fixed reference records,,estimated,False

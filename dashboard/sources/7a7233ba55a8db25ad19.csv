@@ -1,0 +1,13 @@
+comparison_family,observed_disposition,event_n,unique_record_n,note
+domain_category,coded_category_disagreement,3,3,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+domain_status,downstream_scope_status_difference,11,11,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+record_focus,coded_category_disagreement,15,15,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+record_focus,status_disagreement,1,1,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+record_scope,false_inclusion,6,6,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+record_scope,model_uncertainty_reference_out,1,1,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+record_scope,reference_uncertainty_model_definite,4,4,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+unit_field,coded_category_or_set_disagreement,12,5,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+unit_field,status_disagreement,6,1,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+unit_reduced_eligibility,conditional_unit_eligibility_disagreement,5,5,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+unit_segmentation,possible_unnecessary_split,1,1,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.
+unit_segmentation,unmatched_reference_research_part,3,3,Families and fields overlap; event counts are not independent errors or a prevalence estimate. All explanations await author review.

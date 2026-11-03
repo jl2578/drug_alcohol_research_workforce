@@ -1,0 +1,9 @@
+ownership,degree_group,population,outcome,category,rows,PIs,institutions,institution_years,funded_rows,resolved_unfunded_rows,funding_switcher_PIs,positive_qualifying_PIs,positive_qualifying_switcher_PIs,committee_only_PIs,zero_all_topic_participation_rows,zero_qualifying_participation_rows,internal_no_clear_appearance_rows,all_topic_PI_work_participations,qualifying_PI_work_participations,unknown_historical_ownership_rows,cross_unit_retained_PIs,different_degree_windows
+full,Research doctorate,primary_risk_set,count,,21803,3354,199,1868,12848,8955,1500,1713,795,868,6589,17778,5382,30598,5058,51,0,Research doctorate t-5..t-1; Masters t-2..t-1
+full,Masters,primary_risk_set,count,,8565,1129,138,1234,3539,5026,647,425,256,145,5270,7667,1715,5240,1109,0,0,Research doctorate t-5..t-1; Masters t-2..t-1
+exclude_ever_for_profit,Research doctorate,primary_risk_set,count,,21803,3354,199,1868,12848,8955,1500,1713,795,868,6589,17778,5382,30598,5058,51,0,Research doctorate t-5..t-1; Masters t-2..t-1
+exclude_ever_for_profit,Masters,primary_risk_set,count,,8565,1129,138,1234,3539,5026,647,425,256,145,5270,7667,1715,5240,1109,0,0,Research doctorate t-5..t-1; Masters t-2..t-1
+full,Research doctorate,headline,count,,10809,1713,166,1087,7136,3673,747,1713,747,350,2730,6784,2224,16881,5058,26,0,Research doctorate t-5..t-1; Masters t-2..t-1
+full,Masters,headline,count,,2247,425,96,410,1166,1081,210,425,210,49,889,1349,324,2416,1109,0,0,Research doctorate t-5..t-1; Masters t-2..t-1
+full,Research doctorate,common_final,count,,1272,229,56,224,908,364,103,229,103,15,352,639,156,1930,898,0,0,Research doctorate t-5..t-1; Masters t-2..t-1
+full,Masters,common_final,count,,1272,229,56,224,718,554,127,229,127,15,501,737,156,1378,687,0,0,Research doctorate t-5..t-1; Masters t-2..t-1

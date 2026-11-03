@@ -1,0 +1,15 @@
+Window,Sequential restriction,Removed works,Retained works,Retained opioid works
+3,Start: all adopted works,0,"13,227","2,047"
+3,Retain 2014–2017 and selected post years,"6,266","6,961","1,133"
+3,Exclude NIAAA-only connections,485,"6,476","1,112"
+3,Require approved institution,0,"6,476","1,112"
+3,Require named-degree metadata,16,"6,460","1,112"
+3,Require primary-eligible BF01–BF10 field,737,"5,723",977
+3,Exclude completion-year holds,1,"5,722",977
+4,Start: all adopted works,0,"13,227","2,047"
+4,Retain 2014–2017 and selected post years,"7,353","5,874",890
+4,Exclude NIAAA-only connections,407,"5,467",874
+4,Require approved institution,0,"5,467",874
+4,Require named-degree metadata,15,"5,452",874
+4,Require primary-eligible BF01–BF10 field,637,"4,815",764
+4,Exclude completion-year holds,1,"4,814",764

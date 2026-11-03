@@ -1,0 +1,9 @@
+field,definition,unit
+mean_funded_works_per_year,"For each PI, funded qualifying participations divided by funded eligible years; average PIs equally.",qualifying PI-work participations per eligible PI-year
+mean_paired_difference_works_per_year,Mean across the same PIs of funded annual count minus unfunded annual count.,qualifying PI-work participations per eligible PI-year
+mean_funded_percent,"Mean equally across eligible PIs of funded category count divided by that PI's funded outcome-eligible participations, times 100.",percent
+mean_paired_difference_pp,Mean across the same eligible PIs of funded minus unfunded category percentages.,percentage points
+PIs,"PIs with both funding states for counts; for content, PIs with positive outcome-eligible participation counts in both states.",distinct PIs
+PI_years,Eligible annual panel rows of the retained paired PI sample; zero counts included.,PI x institution x year x degree rows
+ownership,Full and whole-institution historical-ever-for-profit exclusion; unknown retained; inputs identical here.,analysis branch
+inference,No inferential intervals or tests; no causal interpretation.,descriptive disposition

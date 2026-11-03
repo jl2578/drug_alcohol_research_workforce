@@ -1,0 +1,97 @@
+panel,degree_group,degree_label,specification,destination,destination_label,state,state_label,n,denominator_n,width_pct,bar_order_top_to_bottom
+single_degree,Master's,Master's,conservative,scientific_rd,Scientific R&D services,research_likely_only,Research only,5,57,8.771929824561404,1
+single_degree,Master's,Master's,conservative,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,57,0.0,1
+single_degree,Master's,Master's,conservative,scientific_rd,Scientific R&D services,both,Both,0,57,0.0,1
+single_degree,Master's,Master's,conservative,scientific_rd,Scientific R&D services,neither,Other,1,57,1.7543859649122806,1
+single_degree,Master's,Master's,conservative,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,57,0.0,1
+single_degree,Master's,Master's,conservative,scientific_rd,Scientific R&D services,unscored,Unscored,0,57,0.0,1
+single_degree,Master's,Master's,inclusive,scientific_rd,Scientific R&D services,research_likely_only,Research only,5,57,8.771929824561404,2
+single_degree,Master's,Master's,inclusive,scientific_rd,Scientific R&D services,clinical_likely_only,Clinical care only,0,57,0.0,2
+single_degree,Master's,Master's,inclusive,scientific_rd,Scientific R&D services,both,Both,0,57,0.0,2
+single_degree,Master's,Master's,inclusive,scientific_rd,Scientific R&D services,neither,Other,1,57,1.7543859649122806,2
+single_degree,Master's,Master's,inclusive,scientific_rd,Scientific R&D services,unclassifiable,Instrument U,0,57,0.0,2
+single_degree,Master's,Master's,inclusive,scientific_rd,Scientific R&D services,unscored,Unscored,0,57,0.0,2
+single_degree,Master's,Master's,conservative,hospitals,Hospitals,research_likely_only,Research only,1,57,1.7543859649122806,3
+single_degree,Master's,Master's,conservative,hospitals,Hospitals,clinical_likely_only,Clinical care only,8,57,14.035087719298245,3
+single_degree,Master's,Master's,conservative,hospitals,Hospitals,both,Both,0,57,0.0,3
+single_degree,Master's,Master's,conservative,hospitals,Hospitals,neither,Other,3,57,5.2631578947368425,3
+single_degree,Master's,Master's,conservative,hospitals,Hospitals,unclassifiable,Instrument U,0,57,0.0,3
+single_degree,Master's,Master's,conservative,hospitals,Hospitals,unscored,Unscored,0,57,0.0,3
+single_degree,Master's,Master's,inclusive,hospitals,Hospitals,research_likely_only,Research only,2,57,3.508771929824561,4
+single_degree,Master's,Master's,inclusive,hospitals,Hospitals,clinical_likely_only,Clinical care only,2,57,3.508771929824561,4
+single_degree,Master's,Master's,inclusive,hospitals,Hospitals,both,Both,6,57,10.526315789473685,4
+single_degree,Master's,Master's,inclusive,hospitals,Hospitals,neither,Other,2,57,3.508771929824561,4
+single_degree,Master's,Master's,inclusive,hospitals,Hospitals,unclassifiable,Instrument U,0,57,0.0,4
+single_degree,Master's,Master's,inclusive,hospitals,Hospitals,unscored,Unscored,0,57,0.0,4
+single_degree,Master's,Master's,conservative,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,57,0.0,5
+single_degree,Master's,Master's,conservative,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,9,57,15.789473684210526,5
+single_degree,Master's,Master's,conservative,health_practitioners,Offices of health practitioners,both,Both,0,57,0.0,5
+single_degree,Master's,Master's,conservative,health_practitioners,Offices of health practitioners,neither,Other,0,57,0.0,5
+single_degree,Master's,Master's,conservative,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,57,0.0,5
+single_degree,Master's,Master's,conservative,health_practitioners,Offices of health practitioners,unscored,Unscored,0,57,0.0,5
+single_degree,Master's,Master's,inclusive,health_practitioners,Offices of health practitioners,research_likely_only,Research only,0,57,0.0,6
+single_degree,Master's,Master's,inclusive,health_practitioners,Offices of health practitioners,clinical_likely_only,Clinical care only,9,57,15.789473684210526,6
+single_degree,Master's,Master's,inclusive,health_practitioners,Offices of health practitioners,both,Both,0,57,0.0,6
+single_degree,Master's,Master's,inclusive,health_practitioners,Offices of health practitioners,neither,Other,0,57,0.0,6
+single_degree,Master's,Master's,inclusive,health_practitioners,Offices of health practitioners,unclassifiable,Instrument U,0,57,0.0,6
+single_degree,Master's,Master's,inclusive,health_practitioners,Offices of health practitioners,unscored,Unscored,0,57,0.0,6
+single_degree,Master's,Master's,conservative,other_health_social,Other health and social care,research_likely_only,Research only,0,57,0.0,7
+single_degree,Master's,Master's,conservative,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,5,57,8.771929824561404,7
+single_degree,Master's,Master's,conservative,other_health_social,Other health and social care,both,Both,0,57,0.0,7
+single_degree,Master's,Master's,conservative,other_health_social,Other health and social care,neither,Other,2,57,3.508771929824561,7
+single_degree,Master's,Master's,conservative,other_health_social,Other health and social care,unclassifiable,Instrument U,0,57,0.0,7
+single_degree,Master's,Master's,conservative,other_health_social,Other health and social care,unscored,Unscored,0,57,0.0,7
+single_degree,Master's,Master's,inclusive,other_health_social,Other health and social care,research_likely_only,Research only,0,57,0.0,8
+single_degree,Master's,Master's,inclusive,other_health_social,Other health and social care,clinical_likely_only,Clinical care only,5,57,8.771929824561404,8
+single_degree,Master's,Master's,inclusive,other_health_social,Other health and social care,both,Both,0,57,0.0,8
+single_degree,Master's,Master's,inclusive,other_health_social,Other health and social care,neither,Other,2,57,3.508771929824561,8
+single_degree,Master's,Master's,inclusive,other_health_social,Other health and social care,unclassifiable,Instrument U,0,57,0.0,8
+single_degree,Master's,Master's,inclusive,other_health_social,Other health and social care,unscored,Unscored,0,57,0.0,8
+single_degree,Master's,Master's,conservative,government,Government and public programs,research_likely_only,Research only,0,57,0.0,9
+single_degree,Master's,Master's,conservative,government,Government and public programs,clinical_likely_only,Clinical care only,2,57,3.508771929824561,9
+single_degree,Master's,Master's,conservative,government,Government and public programs,both,Both,0,57,0.0,9
+single_degree,Master's,Master's,conservative,government,Government and public programs,neither,Other,5,57,8.771929824561404,9
+single_degree,Master's,Master's,conservative,government,Government and public programs,unclassifiable,Instrument U,0,57,0.0,9
+single_degree,Master's,Master's,conservative,government,Government and public programs,unscored,Unscored,0,57,0.0,9
+single_degree,Master's,Master's,inclusive,government,Government and public programs,research_likely_only,Research only,0,57,0.0,10
+single_degree,Master's,Master's,inclusive,government,Government and public programs,clinical_likely_only,Clinical care only,2,57,3.508771929824561,10
+single_degree,Master's,Master's,inclusive,government,Government and public programs,both,Both,0,57,0.0,10
+single_degree,Master's,Master's,inclusive,government,Government and public programs,neither,Other,5,57,8.771929824561404,10
+single_degree,Master's,Master's,inclusive,government,Government and public programs,unclassifiable,Instrument U,0,57,0.0,10
+single_degree,Master's,Master's,inclusive,government,Government and public programs,unscored,Unscored,0,57,0.0,10
+single_degree,Master's,Master's,conservative,professional_services,Consulting and other professional services,research_likely_only,Research only,1,57,1.7543859649122806,11
+single_degree,Master's,Master's,conservative,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,0,57,0.0,11
+single_degree,Master's,Master's,conservative,professional_services,Consulting and other professional services,both,Both,0,57,0.0,11
+single_degree,Master's,Master's,conservative,professional_services,Consulting and other professional services,neither,Other,2,57,3.508771929824561,11
+single_degree,Master's,Master's,conservative,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,57,0.0,11
+single_degree,Master's,Master's,conservative,professional_services,Consulting and other professional services,unscored,Unscored,0,57,0.0,11
+single_degree,Master's,Master's,inclusive,professional_services,Consulting and other professional services,research_likely_only,Research only,1,57,1.7543859649122806,12
+single_degree,Master's,Master's,inclusive,professional_services,Consulting and other professional services,clinical_likely_only,Clinical care only,0,57,0.0,12
+single_degree,Master's,Master's,inclusive,professional_services,Consulting and other professional services,both,Both,0,57,0.0,12
+single_degree,Master's,Master's,inclusive,professional_services,Consulting and other professional services,neither,Other,2,57,3.508771929824561,12
+single_degree,Master's,Master's,inclusive,professional_services,Consulting and other professional services,unclassifiable,Instrument U,0,57,0.0,12
+single_degree,Master's,Master's,inclusive,professional_services,Consulting and other professional services,unscored,Unscored,0,57,0.0,12
+single_degree,Master's,Master's,conservative,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,1,57,1.7543859649122806,13
+single_degree,Master's,Master's,conservative,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,0.0,13
+single_degree,Master's,Master's,conservative,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,57,0.0,13
+single_degree,Master's,Master's,conservative,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,2,57,3.508771929824561,13
+single_degree,Master's,Master's,conservative,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,57,0.0,13
+single_degree,Master's,Master's,conservative,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,57,0.0,13
+single_degree,Master's,Master's,inclusive,manufacturing,"Pharmaceutical, device and instrument manufacturing",research_likely_only,Research only,1,57,1.7543859649122806,14
+single_degree,Master's,Master's,inclusive,manufacturing,"Pharmaceutical, device and instrument manufacturing",clinical_likely_only,Clinical care only,0,57,0.0,14
+single_degree,Master's,Master's,inclusive,manufacturing,"Pharmaceutical, device and instrument manufacturing",both,Both,0,57,0.0,14
+single_degree,Master's,Master's,inclusive,manufacturing,"Pharmaceutical, device and instrument manufacturing",neither,Other,2,57,3.508771929824561,14
+single_degree,Master's,Master's,inclusive,manufacturing,"Pharmaceutical, device and instrument manufacturing",unclassifiable,Instrument U,0,57,0.0,14
+single_degree,Master's,Master's,inclusive,manufacturing,"Pharmaceutical, device and instrument manufacturing",unscored,Unscored,0,57,0.0,14
+single_degree,Master's,Master's,conservative,other_industries,Other industries,research_likely_only,Research only,1,57,1.7543859649122806,15
+single_degree,Master's,Master's,conservative,other_industries,Other industries,clinical_likely_only,Clinical care only,1,57,1.7543859649122806,15
+single_degree,Master's,Master's,conservative,other_industries,Other industries,both,Both,0,57,0.0,15
+single_degree,Master's,Master's,conservative,other_industries,Other industries,neither,Other,8,57,14.035087719298245,15
+single_degree,Master's,Master's,conservative,other_industries,Other industries,unclassifiable,Instrument U,0,57,0.0,15
+single_degree,Master's,Master's,conservative,other_industries,Other industries,unscored,Unscored,0,57,0.0,15
+single_degree,Master's,Master's,inclusive,other_industries,Other industries,research_likely_only,Research only,1,57,1.7543859649122806,16
+single_degree,Master's,Master's,inclusive,other_industries,Other industries,clinical_likely_only,Clinical care only,1,57,1.7543859649122806,16
+single_degree,Master's,Master's,inclusive,other_industries,Other industries,both,Both,0,57,0.0,16
+single_degree,Master's,Master's,inclusive,other_industries,Other industries,neither,Other,8,57,14.035087719298245,16
+single_degree,Master's,Master's,inclusive,other_industries,Other industries,unclassifiable,Instrument U,0,57,0.0,16
+single_degree,Master's,Master's,inclusive,other_industries,Other industries,unscored,Unscored,0,57,0.0,16

@@ -1,0 +1,15 @@
+lag_years,baseline,post,step,criterion,entering_works,removed_works,retained_works,retained_opioid_works,retained_approved_institutions
+3,2014-2017,2021-2023,0,All adopted works,13227,0,13227,2047,545
+3,2014-2017,2021-2023,1,Retain baseline 2014-2017 and selected post window,13227,6266,6961,1133,466
+3,2014-2017,2021-2023,2,Exclude NIAAA-only connections from primary pair,6961,485,6476,1112,464
+3,2014-2017,2021-2023,3,Require approved RQ2 institution identity,6476,0,6476,1112,464
+3,2014-2017,2021-2023,4,Require nonempty adopted named-degree metadata,6476,16,6460,1112,462
+3,2014-2017,2021-2023,5,Require primary-inference-eligible BF01-BF10 field,6460,737,5723,977,421
+3,2014-2017,2021-2023,6,Exclude unresolved completion-year holds,5723,1,5722,977,421
+4,2014-2017,2022-2023,0,All adopted works,13227,0,13227,2047,545
+4,2014-2017,2022-2023,1,Retain baseline 2014-2017 and selected post window,13227,7353,5874,890,440
+4,2014-2017,2022-2023,2,Exclude NIAAA-only connections from primary pair,5874,407,5467,874,438
+4,2014-2017,2022-2023,3,Require approved RQ2 institution identity,5467,0,5467,874,438
+4,2014-2017,2022-2023,4,Require nonempty adopted named-degree metadata,5467,15,5452,874,436
+4,2014-2017,2022-2023,5,Require primary-inference-eligible BF01-BF10 field,5452,637,4815,764,395
+4,2014-2017,2022-2023,6,Exclude unresolved completion-year holds,4815,1,4814,764,395

@@ -1,0 +1,10 @@
+metric,label,numerator_n,denominator_n,estimate,wilson_95_lower,wilson_95_upper,numerator_definition,denominator_definition,excluded_from_200_n,status,sparse_base_under_20,note,reader,scope_status
+adjudicated_reference_in_scope,adjudicated_reference in_scope,112,200,0.56,0.4907167533465867,0.6270218074881414,adjudicated_reference in state in_scope,All 200 reference records,0,estimated,False,,adjudicated_reference,in_scope
+adjudicated_reference_out_of_scope,adjudicated_reference out_of_scope,84,200,0.42,0.35373599161616726,0.4892792606041954,adjudicated_reference in state out_of_scope,All 200 reference records,0,estimated,False,,adjudicated_reference,out_of_scope
+adjudicated_reference_undetermined,adjudicated_reference undetermined,4,200,0.02,0.0078044264163494685,0.050287086905826436,adjudicated_reference in state undetermined,All 200 reference records,0,estimated,False,,adjudicated_reference,undetermined
+model_in_scope,model in_scope,120,200,0.6,0.53083672039262,0.6653942143319266,model in state in_scope,All 200 reference records,0,estimated,False,,model,in_scope
+model_out_of_scope,model out_of_scope,79,200,0.395,0.32984101013207967,0.46411650840714636,model in state out_of_scope,All 200 reference records,0,estimated,False,,model,out_of_scope
+model_undetermined,model undetermined,1,200,0.005,0.0008831687156009814,0.02777370439789293,model in state undetermined,All 200 reference records,0,estimated,False,,model,undetermined
+model_missing,model missing,0,200,0.0,0.0,0.018845326377266575,model in state missing,All 200 reference records,0,estimated,False,,model,missing
+model_invalid,model invalid,0,200,0.0,0.0,0.018845326377266575,model in state invalid,All 200 reference records,0,estimated,False,,model,invalid
+model_unresolved_failure,model unresolved_failure,0,200,0.0,0.0,0.018845326377266575,model in state unresolved_failure,All 200 reference records,0,estimated,False,,model,unresolved_failure

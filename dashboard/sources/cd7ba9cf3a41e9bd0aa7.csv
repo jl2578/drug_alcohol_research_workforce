@@ -1,0 +1,3 @@
+degree_group,population,connection_definition,numerator_n,denominator_n,reach_probability,reach_percent,unit,interval_status
+Research doctorate,both advisor and committee role fields parsed; all ownership,primary_combined,2784,6615,0.42086167800453517,42.08616780045352,distinct adopted works,not_added_observed_descriptive
+Masters,both advisor and committee role fields parsed; all ownership,primary_combined,661,2678,0.24682598954443616,24.682598954443616,distinct adopted works,not_added_observed_descriptive

@@ -1,0 +1,201 @@
+outcome,institution_id,institution_name,early_eligible_works,late_eligible_works,profile_supported,held_out_supported
+C3,U142832,Adler University,37,38,1,1
+C3,U110468,Alliant International University-San Diego,104,73,1,1
+C3,U104151,Arizona State University Campus Immersion,64,62,1,1
+C3,U196079,Binghamton University,28,54,1,1
+C3,U164988,Boston University,66,125,1,1
+C3,U110583,California State University-Long Beach,90,32,1,1
+C3,U110592,California State University-Los Angeles,43,29,1,1
+C3,U413413,Capella University,119,91,1,1
+C3,U190150,Columbia University in the City of New York,35,49,1,1
+C3,U190576,CUNY Graduate School and University Center,52,37,1,1
+C3,U134097,Florida State University,38,42,1,1
+C3,U166027,Harvard University,21,64,1,1
+C3,U151351,Indiana University-Bloomington,40,54,1,1
+C3,U204796,Ohio State University-Main Campus,48,26,1,1
+C3,U120698,Palo Alto University,31,82,1,1
+C3,U214777,Pennsylvania State University-Main Campus,67,39,1,1
+C3,U243780,Purdue University-Main Campus,54,75,1,1
+C3,U186380,Rutgers University-New Brunswick,39,66,1,1
+C3,U122409,San Diego State University,39,55,1,1
+C3,U216339,Temple University,54,45,1,1
+C3,U143978,The Chicago School at Chicago,55,77,1,1
+C3,U228796,The University of Texas at El Paso,28,47,1,1
+C3,U196060,University at Albany,42,45,1,1
+C3,U196088,University at Buffalo,49,65,1,1
+C3,U100663,University of Alabama at Birmingham,27,44,1,1
+C3,U104179,University of Arizona,31,88,1,1
+C3,U110653,University of California-Irvine,32,40,1,1
+C3,U110662,University of California-Los Angeles,67,76,1,1
+C3,U110680,University of California-San Diego,58,80,1,1
+C3,U201885,University of Cincinnati-Main Campus,34,61,1,1
+C3,U134130,University of Florida,34,68,1,1
+C3,U145600,University of Illinois Chicago,38,61,1,1
+C3,U157085,University of Kentucky,66,12,1,1
+C3,U163259,"University of Maryland, Baltimore",33,43,1,1
+C3,U163286,University of Maryland-College Park,45,41,1,1
+C3,U170976,University of Michigan-Ann Arbor,33,59,1,1
+C3,U174066,University of Minnesota-Twin Cities,72,69,1,1
+C3,U199120,University of North Carolina at Chapel Hill,99,121,1,1
+C3,U215293,University of Pittsburgh-Pittsburgh Campus,37,68,1,1
+C3,U217484,University of Rhode Island,25,53,1,1
+C3,U218663,University of South Carolina-Columbia,39,40,1,1
+C3,U137351,University of South Florida,48,63,1,1
+C3,U123961,University of Southern California,57,85,1,1
+C3,U236948,University of Washington-Seattle Campus,109,130,1,1
+C3,U234030,Virginia Commonwealth University,86,25,1,1
+C3,U199847,Wake Forest University,41,42,1,1
+C3,U125231,Walden University,106,288,1,1
+C3,U236939,Washington State University,30,46,1,1
+C3,U238032,West Virginia University,33,69,1,1
+C3,U130794,Yale University,71,86,1,1
+C5,U142832,Adler University,39,38,1,1
+C5,U110468,Alliant International University-San Diego,117,84,1,1
+C5,U104151,Arizona State University Campus Immersion,68,65,1,1
+C5,U196079,Binghamton University,29,57,1,1
+C5,U164988,Boston University,72,144,1,1
+C5,U110583,California State University-Long Beach,105,35,1,1
+C5,U110592,California State University-Los Angeles,46,36,1,1
+C5,U413413,Capella University,120,91,1,1
+C5,U190150,Columbia University in the City of New York,35,53,1,1
+C5,U190576,CUNY Graduate School and University Center,57,40,1,1
+C5,U134097,Florida State University,38,43,1,1
+C5,U166027,Harvard University,23,71,1,1
+C5,U151351,Indiana University-Bloomington,41,57,1,1
+C5,U204796,Ohio State University-Main Campus,50,27,1,1
+C5,U120698,Palo Alto University,34,86,1,1
+C5,U214777,Pennsylvania State University-Main Campus,69,39,1,1
+C5,U243780,Purdue University-Main Campus,56,78,1,1
+C5,U186380,Rutgers University-New Brunswick,42,69,1,1
+C5,U122409,San Diego State University,40,60,1,1
+C5,U216339,Temple University,59,52,1,1
+C5,U143978,The Chicago School at Chicago,57,85,1,1
+C5,U228796,The University of Texas at El Paso,30,48,1,1
+C5,U196060,University at Albany,45,46,1,1
+C5,U196088,University at Buffalo,50,69,1,1
+C5,U100663,University of Alabama at Birmingham,28,45,1,1
+C5,U104179,University of Arizona,31,90,1,1
+C5,U110653,University of California-Irvine,33,45,1,1
+C5,U110662,University of California-Los Angeles,72,77,1,1
+C5,U110680,University of California-San Diego,60,83,1,1
+C5,U201885,University of Cincinnati-Main Campus,35,61,1,1
+C5,U134130,University of Florida,35,69,1,1
+C5,U145600,University of Illinois Chicago,38,61,1,1
+C5,U157085,University of Kentucky,67,12,1,1
+C5,U163259,"University of Maryland, Baltimore",33,44,1,1
+C5,U163286,University of Maryland-College Park,48,45,1,1
+C5,U170976,University of Michigan-Ann Arbor,33,59,1,1
+C5,U174066,University of Minnesota-Twin Cities,73,70,1,1
+C5,U199120,University of North Carolina at Chapel Hill,101,123,1,1
+C5,U215293,University of Pittsburgh-Pittsburgh Campus,38,69,1,1
+C5,U217484,University of Rhode Island,27,53,1,1
+C5,U218663,University of South Carolina-Columbia,40,41,1,1
+C5,U137351,University of South Florida,54,64,1,1
+C5,U123961,University of Southern California,58,104,1,1
+C5,U236948,University of Washington-Seattle Campus,111,135,1,1
+C5,U234030,Virginia Commonwealth University,86,25,1,1
+C5,U199847,Wake Forest University,41,45,1,1
+C5,U125231,Walden University,107,295,1,1
+C5,U236939,Washington State University,31,46,1,1
+C5,U238032,West Virginia University,34,69,1,1
+C5,U130794,Yale University,75,91,1,1
+C4,U142832,Adler University,39,38,1,1
+C4,U110468,Alliant International University-San Diego,117,84,1,1
+C4,U104151,Arizona State University Campus Immersion,68,65,1,1
+C4,U196079,Binghamton University,29,57,1,1
+C4,U164988,Boston University,72,144,1,1
+C4,U110583,California State University-Long Beach,105,35,1,1
+C4,U110592,California State University-Los Angeles,46,36,1,1
+C4,U413413,Capella University,120,91,1,1
+C4,U190150,Columbia University in the City of New York,35,53,1,1
+C4,U190576,CUNY Graduate School and University Center,57,40,1,1
+C4,U134097,Florida State University,38,43,1,1
+C4,U166027,Harvard University,23,71,1,1
+C4,U151351,Indiana University-Bloomington,41,57,1,1
+C4,U204796,Ohio State University-Main Campus,50,27,1,1
+C4,U120698,Palo Alto University,34,86,1,1
+C4,U214777,Pennsylvania State University-Main Campus,69,39,1,1
+C4,U243780,Purdue University-Main Campus,56,78,1,1
+C4,U186380,Rutgers University-New Brunswick,42,69,1,1
+C4,U122409,San Diego State University,40,60,1,1
+C4,U216339,Temple University,59,52,1,1
+C4,U143978,The Chicago School at Chicago,57,85,1,1
+C4,U228796,The University of Texas at El Paso,30,48,1,1
+C4,U196060,University at Albany,45,46,1,1
+C4,U196088,University at Buffalo,50,69,1,1
+C4,U100663,University of Alabama at Birmingham,28,45,1,1
+C4,U104179,University of Arizona,31,90,1,1
+C4,U110653,University of California-Irvine,33,45,1,1
+C4,U110662,University of California-Los Angeles,72,77,1,1
+C4,U110680,University of California-San Diego,60,83,1,1
+C4,U201885,University of Cincinnati-Main Campus,35,61,1,1
+C4,U134130,University of Florida,35,69,1,1
+C4,U145600,University of Illinois Chicago,38,61,1,1
+C4,U157085,University of Kentucky,67,12,1,1
+C4,U163259,"University of Maryland, Baltimore",33,44,1,1
+C4,U163286,University of Maryland-College Park,48,45,1,1
+C4,U170976,University of Michigan-Ann Arbor,33,59,1,1
+C4,U174066,University of Minnesota-Twin Cities,73,70,1,1
+C4,U199120,University of North Carolina at Chapel Hill,101,123,1,1
+C4,U215293,University of Pittsburgh-Pittsburgh Campus,38,69,1,1
+C4,U217484,University of Rhode Island,27,53,1,1
+C4,U218663,University of South Carolina-Columbia,40,41,1,1
+C4,U137351,University of South Florida,54,64,1,1
+C4,U123961,University of Southern California,58,104,1,1
+C4,U236948,University of Washington-Seattle Campus,111,135,1,1
+C4,U234030,Virginia Commonwealth University,86,25,1,1
+C4,U199847,Wake Forest University,41,45,1,1
+C4,U125231,Walden University,107,295,1,1
+C4,U236939,Washington State University,31,46,1,1
+C4,U238032,West Virginia University,34,69,1,1
+C4,U130794,Yale University,75,91,1,1
+C8,U142832,Adler University,38,38,1,not_in_scope
+C8,U110468,Alliant International University-San Diego,114,83,1,not_in_scope
+C8,U104151,Arizona State University Campus Immersion,66,65,1,not_in_scope
+C8,U196079,Binghamton University,28,55,1,not_in_scope
+C8,U164988,Boston University,71,141,1,not_in_scope
+C8,U110583,California State University-Long Beach,90,31,1,not_in_scope
+C8,U110592,California State University-Los Angeles,46,34,1,not_in_scope
+C8,U413413,Capella University,120,91,1,not_in_scope
+C8,U190150,Columbia University in the City of New York,35,52,1,not_in_scope
+C8,U190576,CUNY Graduate School and University Center,56,39,1,not_in_scope
+C8,U134097,Florida State University,38,42,1,not_in_scope
+C8,U166027,Harvard University,22,69,1,not_in_scope
+C8,U151351,Indiana University-Bloomington,40,57,1,not_in_scope
+C8,U204796,Ohio State University-Main Campus,49,27,1,not_in_scope
+C8,U120698,Palo Alto University,32,86,1,not_in_scope
+C8,U214777,Pennsylvania State University-Main Campus,68,39,1,not_in_scope
+C8,U243780,Purdue University-Main Campus,55,77,1,not_in_scope
+C8,U186380,Rutgers University-New Brunswick,41,67,1,not_in_scope
+C8,U122409,San Diego State University,40,59,1,not_in_scope
+C8,U216339,Temple University,57,47,1,not_in_scope
+C8,U143978,The Chicago School at Chicago,57,79,1,not_in_scope
+C8,U228796,The University of Texas at El Paso,30,48,1,not_in_scope
+C8,U196060,University at Albany,44,46,1,not_in_scope
+C8,U196088,University at Buffalo,50,66,1,not_in_scope
+C8,U100663,University of Alabama at Birmingham,28,45,1,not_in_scope
+C8,U104179,University of Arizona,30,90,1,not_in_scope
+C8,U110653,University of California-Irvine,33,43,1,not_in_scope
+C8,U110662,University of California-Los Angeles,69,77,1,not_in_scope
+C8,U110680,University of California-San Diego,58,80,1,not_in_scope
+C8,U201885,University of Cincinnati-Main Campus,35,61,1,not_in_scope
+C8,U134130,University of Florida,35,69,1,not_in_scope
+C8,U145600,University of Illinois Chicago,38,61,1,not_in_scope
+C8,U157085,University of Kentucky,66,12,1,not_in_scope
+C8,U163259,"University of Maryland, Baltimore",33,44,1,not_in_scope
+C8,U163286,University of Maryland-College Park,46,41,1,not_in_scope
+C8,U170976,University of Michigan-Ann Arbor,33,59,1,not_in_scope
+C8,U174066,University of Minnesota-Twin Cities,73,69,1,not_in_scope
+C8,U199120,University of North Carolina at Chapel Hill,100,123,1,not_in_scope
+C8,U215293,University of Pittsburgh-Pittsburgh Campus,37,69,1,not_in_scope
+C8,U217484,University of Rhode Island,27,52,1,not_in_scope
+C8,U218663,University of South Carolina-Columbia,40,40,1,not_in_scope
+C8,U137351,University of South Florida,53,64,1,not_in_scope
+C8,U123961,University of Southern California,58,98,1,not_in_scope
+C8,U236948,University of Washington-Seattle Campus,111,133,1,not_in_scope
+C8,U234030,Virginia Commonwealth University,86,25,1,not_in_scope
+C8,U199847,Wake Forest University,41,43,1,not_in_scope
+C8,U125231,Walden University,107,295,1,not_in_scope
+C8,U236939,Washington State University,31,46,1,not_in_scope
+C8,U238032,West Virginia University,34,69,1,not_in_scope
+C8,U130794,Yale University,75,88,1,not_in_scope

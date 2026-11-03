@@ -1,0 +1,25 @@
+sample,lag_years,period,start_year,end_year,nida_connected,group,works,opioid_works,years,works_per_year,opioid_works_per_year,opioid_share_pct,complete_label_works,incomplete_label_works,incomplete_observed_opioid_works,incomplete_without_observed_opioid_works,upper_share_pct_if_unresolved_positive,approved_institutions,complete_role_works
+Full descriptive pair,2,baseline,2014,2017,0,No identified NIDA/NIAAA connection,2579,263,4,644.75,65.75,10.19775106630477,2525,54,1,53,12.252811167119038,364,2049
+Full descriptive pair,2,baseline,2014,2017,1,NIDA-connected (including dual),883,121,4,220.75,30.25,13.703284258210646,840,43,1,42,18.459796149490373,132,774
+Full descriptive pair,2,post,2020,2023,0,No identified NIDA/NIAAA connection,3028,699,4,757.0,174.75,23.08454425363276,2978,50,1,49,24.702774108322323,418,2642
+Full descriptive pair,2,post,2020,2023,1,NIDA-connected (including dual),1000,287,4,250.0,71.75,28.7,956,44,2,42,32.9,138,924
+Primary metadata-eligible pair,2,baseline,2014,2017,0,No identified NIDA/NIAAA connection,2209,222,4,552.25,55.5,10.049796287913082,2165,44,0,44,12.041647804436396,315,1963
+Primary metadata-eligible pair,2,baseline,2014,2017,1,NIDA-connected (including dual),803,107,4,200.75,26.75,13.325031133250311,767,36,1,35,17.68368617683686,123,761
+Primary metadata-eligible pair,2,post,2020,2023,0,No identified NIDA/NIAAA connection,2687,612,4,671.75,153.0,22.776330480089317,2646,41,1,40,24.26497953107555,383,2466
+Primary metadata-eligible pair,2,post,2020,2023,1,NIDA-connected (including dual),909,260,4,227.25,65.0,28.6028602860286,868,41,2,39,32.893289328932894,128,866
+Full descriptive pair,3,baseline,2014,2017,0,No identified NIDA/NIAAA connection,2579,263,4,644.75,65.75,10.19775106630477,2525,54,1,53,12.252811167119038,364,2049
+Full descriptive pair,3,baseline,2014,2017,1,NIDA-connected (including dual),883,121,4,220.75,30.25,13.703284258210646,840,43,1,42,18.459796149490373,132,774
+Full descriptive pair,3,post,2021,2023,0,No identified NIDA/NIAAA connection,2256,502,3,752.0,167.33333333333334,22.25177304964539,2215,41,1,40,24.02482269503546,385,1996
+Full descriptive pair,3,post,2021,2023,1,NIDA-connected (including dual),758,226,3,252.66666666666666,75.33333333333333,29.815303430079155,723,35,2,33,34.1688654353562,129,707
+Primary metadata-eligible pair,3,baseline,2014,2017,0,No identified NIDA/NIAAA connection,2209,222,4,552.25,55.5,10.049796287913082,2165,44,0,44,12.041647804436396,315,1963
+Primary metadata-eligible pair,3,baseline,2014,2017,1,NIDA-connected (including dual),803,107,4,200.75,26.75,13.325031133250311,767,36,1,35,17.68368617683686,123,761
+Primary metadata-eligible pair,3,post,2021,2023,0,No identified NIDA/NIAAA connection,2016,444,3,672.0,148.0,22.023809523809526,1982,34,1,33,23.660714285714285,351,1858
+Primary metadata-eligible pair,3,post,2021,2023,1,NIDA-connected (including dual),694,204,3,231.33333333333334,68.0,29.394812680115272,661,33,2,31,33.861671469740635,118,666
+Full descriptive pair,4,baseline,2014,2017,0,No identified NIDA/NIAAA connection,2579,263,4,644.75,65.75,10.19775106630477,2525,54,1,53,12.252811167119038,364,2049
+Full descriptive pair,4,baseline,2014,2017,1,NIDA-connected (including dual),883,121,4,220.75,30.25,13.703284258210646,840,43,1,42,18.459796149490373,132,774
+Full descriptive pair,4,post,2022,2023,0,No identified NIDA/NIAAA connection,1491,330,2,745.5,165.0,22.132796780684103,1462,29,0,29,24.077800134138162,331,1320
+Full descriptive pair,4,post,2022,2023,1,NIDA-connected (including dual),514,160,2,257.0,80.0,31.1284046692607,492,22,1,21,35.21400778210117,112,486
+Primary metadata-eligible pair,4,baseline,2014,2017,0,No identified NIDA/NIAAA connection,2209,222,4,552.25,55.5,10.049796287913082,2165,44,0,44,12.041647804436396,315,1963
+Primary metadata-eligible pair,4,baseline,2014,2017,1,NIDA-connected (including dual),803,107,4,200.75,26.75,13.325031133250311,767,36,1,35,17.68368617683686,123,761
+Primary metadata-eligible pair,4,post,2022,2023,0,No identified NIDA/NIAAA connection,1332,291,2,666.0,145.5,21.846846846846848,1309,23,0,23,23.573573573573572,299,1227
+Primary metadata-eligible pair,4,post,2022,2023,1,NIDA-connected (including dual),470,144,2,235.0,72.0,30.638297872340427,449,21,1,20,34.8936170212766,101,454

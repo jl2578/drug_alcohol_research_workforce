@@ -1,0 +1,73 @@
+panel,degree_group,degree_label,specification,destination,destination_label,state,state_label,n,denominator_n,width_pct,bar_order_top_to_bottom
+A,PhD/ScD and equivalent,Research doctorate,conservative,,,research_likely_only,Research only,91,190,47.89473684210526,1
+A,PhD/ScD and equivalent,Research doctorate,conservative,,,clinical_likely_only,Clinical care only,43,190,22.63157894736842,1
+A,PhD/ScD and equivalent,Research doctorate,conservative,,,both,Both,0,190,0.0,1
+A,PhD/ScD and equivalent,Research doctorate,conservative,,,neither,Other,55,190,28.94736842105263,1
+A,PhD/ScD and equivalent,Research doctorate,conservative,,,unclassifiable,Instrument U,0,190,0.0,1
+A,PhD/ScD and equivalent,Research doctorate,conservative,,,unscored,Unscored,1,190,0.5263157894736842,1
+A,PhD/ScD and equivalent,Research doctorate,inclusive,,,research_likely_only,Research only,100,190,52.63157894736842,2
+A,PhD/ScD and equivalent,Research doctorate,inclusive,,,clinical_likely_only,Clinical care only,33,190,17.36842105263158,2
+A,PhD/ScD and equivalent,Research doctorate,inclusive,,,both,Both,10,190,5.2631578947368425,2
+A,PhD/ScD and equivalent,Research doctorate,inclusive,,,neither,Other,46,190,24.210526315789473,2
+A,PhD/ScD and equivalent,Research doctorate,inclusive,,,unclassifiable,Instrument U,0,190,0.0,2
+A,PhD/ScD and equivalent,Research doctorate,inclusive,,,unscored,Unscored,1,190,0.5263157894736842,2
+B,General master's,General master's,conservative,,,research_likely_only,Research only,18,63,28.571428571428573,1
+B,General master's,General master's,conservative,,,clinical_likely_only,Clinical care only,21,63,33.333333333333336,1
+B,General master's,General master's,conservative,,,both,Both,0,63,0.0,1
+B,General master's,General master's,conservative,,,neither,Other,22,63,34.92063492063492,1
+B,General master's,General master's,conservative,,,unclassifiable,Instrument U,0,63,0.0,1
+B,General master's,General master's,conservative,,,unscored,Unscored,2,63,3.1746031746031744,1
+B,General master's,General master's,inclusive,,,research_likely_only,Research only,22,63,34.92063492063492,2
+B,General master's,General master's,inclusive,,,clinical_likely_only,Clinical care only,15,63,23.80952380952381,2
+B,General master's,General master's,inclusive,,,both,Both,6,63,9.523809523809524,2
+B,General master's,General master's,inclusive,,,neither,Other,18,63,28.571428571428573,2
+B,General master's,General master's,inclusive,,,unclassifiable,Instrument U,0,63,0.0,2
+B,General master's,General master's,inclusive,,,unscored,Unscored,2,63,3.1746031746031744,2
+C,PsyD,PsyD,conservative,,,research_likely_only,Research only,1,24,4.166666666666667,1
+C,PsyD,PsyD,conservative,,,clinical_likely_only,Clinical care only,19,24,79.16666666666667,1
+C,PsyD,PsyD,conservative,,,both,Both,0,24,0.0,1
+C,PsyD,PsyD,conservative,,,neither,Other,4,24,16.666666666666668,1
+C,PsyD,PsyD,conservative,,,unclassifiable,Instrument U,0,24,0.0,1
+C,PsyD,PsyD,conservative,,,unscored,Unscored,0,24,0.0,1
+C,PsyD,PsyD,inclusive,,,research_likely_only,Research only,1,24,4.166666666666667,2
+C,PsyD,PsyD,inclusive,,,clinical_likely_only,Clinical care only,19,24,79.16666666666667,2
+C,PsyD,PsyD,inclusive,,,both,Both,0,24,0.0,2
+C,PsyD,PsyD,inclusive,,,neither,Other,4,24,16.666666666666668,2
+C,PsyD,PsyD,inclusive,,,unclassifiable,Instrument U,0,24,0.0,2
+C,PsyD,PsyD,inclusive,,,unscored,Unscored,0,24,0.0,2
+D,Other named doctorate,Other named doctorate,conservative,,,research_likely_only,Research only,3,17,17.647058823529413,1
+D,Other named doctorate,Other named doctorate,conservative,,,clinical_likely_only,Clinical care only,10,17,58.8235294117647,1
+D,Other named doctorate,Other named doctorate,conservative,,,both,Both,0,17,0.0,1
+D,Other named doctorate,Other named doctorate,conservative,,,neither,Other,4,17,23.529411764705884,1
+D,Other named doctorate,Other named doctorate,conservative,,,unclassifiable,Instrument U,0,17,0.0,1
+D,Other named doctorate,Other named doctorate,conservative,,,unscored,Unscored,0,17,0.0,1
+D,Other named doctorate,Other named doctorate,inclusive,,,research_likely_only,Research only,4,17,23.529411764705884,2
+D,Other named doctorate,Other named doctorate,inclusive,,,clinical_likely_only,Clinical care only,8,17,47.05882352941177,2
+D,Other named doctorate,Other named doctorate,inclusive,,,both,Both,2,17,11.764705882352942,2
+D,Other named doctorate,Other named doctorate,inclusive,,,neither,Other,3,17,17.647058823529413,2
+D,Other named doctorate,Other named doctorate,inclusive,,,unclassifiable,Instrument U,0,17,0.0,2
+D,Other named doctorate,Other named doctorate,inclusive,,,unscored,Unscored,0,17,0.0,2
+E,Field-specific master's,Field-specific master's,conservative,,,research_likely_only,Research only,2,13,15.384615384615385,1
+E,Field-specific master's,Field-specific master's,conservative,,,clinical_likely_only,Clinical care only,5,13,38.46153846153846,1
+E,Field-specific master's,Field-specific master's,conservative,,,both,Both,0,13,0.0,1
+E,Field-specific master's,Field-specific master's,conservative,,,neither,Other,5,13,38.46153846153846,1
+E,Field-specific master's,Field-specific master's,conservative,,,unclassifiable,Instrument U,0,13,0.0,1
+E,Field-specific master's,Field-specific master's,conservative,,,unscored,Unscored,1,13,7.6923076923076925,1
+E,Field-specific master's,Field-specific master's,inclusive,,,research_likely_only,Research only,2,13,15.384615384615385,2
+E,Field-specific master's,Field-specific master's,inclusive,,,clinical_likely_only,Clinical care only,5,13,38.46153846153846,2
+E,Field-specific master's,Field-specific master's,inclusive,,,both,Both,0,13,0.0,2
+E,Field-specific master's,Field-specific master's,inclusive,,,neither,Other,5,13,38.46153846153846,2
+E,Field-specific master's,Field-specific master's,inclusive,,,unclassifiable,Instrument U,0,13,0.0,2
+E,Field-specific master's,Field-specific master's,inclusive,,,unscored,Unscored,1,13,7.6923076923076925,2
+F,all_observations,All observations,conservative,,,research_likely_only,Research only,115,307,37.45928338762215,1
+F,all_observations,All observations,conservative,,,clinical_likely_only,Clinical care only,98,307,31.921824104234528,1
+F,all_observations,All observations,conservative,,,both,Both,0,307,0.0,1
+F,all_observations,All observations,conservative,,,neither,Other,90,307,29.315960912052116,1
+F,all_observations,All observations,conservative,,,unclassifiable,Instrument U,0,307,0.0,1
+F,all_observations,All observations,conservative,,,unscored,Unscored,4,307,1.3029315960912051,1
+F,all_observations,All observations,inclusive,,,research_likely_only,Research only,129,307,42.01954397394137,2
+F,all_observations,All observations,inclusive,,,clinical_likely_only,Clinical care only,80,307,26.058631921824105,2
+F,all_observations,All observations,inclusive,,,both,Both,18,307,5.863192182410423,2
+F,all_observations,All observations,inclusive,,,neither,Other,76,307,24.7557003257329,2
+F,all_observations,All observations,inclusive,,,unclassifiable,Instrument U,0,307,0.0,2
+F,all_observations,All observations,inclusive,,,unscored,Unscored,4,307,1.3029315960912051,2

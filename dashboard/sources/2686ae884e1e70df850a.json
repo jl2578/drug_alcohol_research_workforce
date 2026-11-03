@@ -1,0 +1,162 @@
+{
+  "version": "rq4_displays_2_3_20261016_v1",
+  "input_index": "config/current_dataset_release.json",
+  "unit": "Unweighted GOID-linked employment observations; person reconciliation pending",
+  "specifications": [
+    "inclusive",
+    "no_hospital_override",
+    "conservative"
+  ],
+  "states": [
+    {
+      "key": "research_likely_only",
+      "label": "Research only",
+      "color": "#2563A6",
+      "hatch": ""
+    },
+    {
+      "key": "clinical_likely_only",
+      "label": "Clinical care only",
+      "color": "#D77B26",
+      "hatch": ""
+    },
+    {
+      "key": "both",
+      "label": "Both",
+      "color": "#7857A6",
+      "hatch": ""
+    },
+    {
+      "key": "neither",
+      "label": "Other",
+      "color": "#A7ADB4",
+      "hatch": ""
+    },
+    {
+      "key": "unclassifiable",
+      "label": "Instrument U",
+      "color": "#B44A56",
+      "hatch": "xx"
+    },
+    {
+      "key": "unscored",
+      "label": "Unscored",
+      "color": "#F2F2F2",
+      "hatch": "///"
+    }
+  ],
+  "threshold": 3,
+  "degree_order": [
+    "PhD/ScD and equivalent",
+    "General master's",
+    "PsyD",
+    "Other named doctorate",
+    "Field-specific master's"
+  ],
+  "degree_labels": [
+    "Research doctorate",
+    "General master's",
+    "PsyD",
+    "Other named doctorate",
+    "Field-specific master's"
+  ],
+  "observed_degree_n": [
+    190,
+    63,
+    24,
+    17,
+    13
+  ],
+  "scored_degree_n": [
+    189,
+    61,
+    24,
+    17,
+    12
+  ],
+  "outside_university_definition": "Known retained NAICS other than 611310; unknown industry remains separate; academic affiliation does not exclude a hospital job",
+  "display3_groups": [
+    "Research doctorate",
+    "Master's"
+  ],
+  "display3_observed_n": [
+    190,
+    76
+  ],
+  "display3_outside_n": [
+    120,
+    57
+  ],
+  "display3_destinations": [
+    {
+      "key": "scientific_rd",
+      "label": "Scientific R&D services",
+      "details": [
+        "Scientific research and development services"
+      ]
+    },
+    {
+      "key": "hospitals",
+      "label": "Hospitals",
+      "details": [
+        "Hospitals"
+      ]
+    },
+    {
+      "key": "health_practitioners",
+      "label": "Offices of health practitioners",
+      "details": [
+        "Offices of physicians and other health practitioners"
+      ]
+    },
+    {
+      "key": "other_health_social",
+      "label": "Other health and social care",
+      "details": [
+        "Outpatient care centers",
+        "Other ambulatory, residential care and social assistance"
+      ]
+    },
+    {
+      "key": "government",
+      "label": "Government and public programs",
+      "details": [
+        "Public health and other human resource programs",
+        "Other government (general, economic, national security)",
+        "Justice, public order and safety"
+      ]
+    },
+    {
+      "key": "professional_services",
+      "label": "Consulting and other professional services",
+      "details": [
+        "Management, scientific and technical consulting",
+        "Other professional services"
+      ]
+    },
+    {
+      "key": "manufacturing",
+      "label": "Pharmaceutical, device and instrument manufacturing",
+      "details": [
+        "Pharmaceutical, medical device and instrument manufacturing"
+      ]
+    },
+    {
+      "key": "other_industries",
+      "label": "Other industries",
+      "details": [
+        "Other educational services",
+        "Information, finance and insurance",
+        "Religious, grantmaking, civic and professional organizations",
+        "All other industries"
+      ]
+    }
+  ],
+  "destination_grouping_rationale": "Eight mutually exclusive shared categories keep both degree panels readable while preserving scientific R&D services, hospitals and health-practitioner offices separately. Government functions are pooled, as are non-R&D consulting/professional services and the remaining industries. Manufacturing includes nonmedical instrument establishments, so its label does not imply exclusively medical manufacture. The full detailed classification is retained in SM5.",
+  "outside_definition_label_caveat": "NAICS 611310 is the approved main exclusion. Junior colleges are separately coded 611210 and remain in this main definition; other educational services may therefore include college teaching. An SM sensitivity additionally excludes 611210. Do not equate the main subset with no academic employment or affiliation.",
+  "occupation_reporting_rule": "Named occupations require n >= 5 within the displayed degree-by-role or degree-by-destination breakdown; pool smaller cells, retain unavailable separately. Detailed individual small cells remain private. This rule does not suppress RC-RMI states or common destination rows.",
+  "plot_font": "DejaVu Sans",
+  "main_manuscript_editing": false,
+  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability.",
+  "scored_input_scope": "Underlying individual scored records are withheld. Supplied aggregate plot data reproduce the displayed summaries."
+}

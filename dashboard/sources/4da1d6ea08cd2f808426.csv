@@ -1,0 +1,10 @@
+Step,Removed at this step,Records remaining
+"Combined exports, with distinct identifiers",—,"1,295,931"
+Remove non-English records,28,"1,295,903"
+Restrict completion years to 2010–2023,"150,024","1,145,879"
+Recheck U.S. institution location,0,"1,145,879"
+"Remove specialist, mixed-level or unrecognized degree classifications","1,100","1,144,779"
+Exclude unresolved institutional assignments,81,"1,144,698"
+Exclude specified records after institutional closure,6,"1,144,692"
+Consolidate matching title–author–year records,"1,597","1,143,095"
+Consolidate remaining same-author records with related titles,388,"1,142,707"
