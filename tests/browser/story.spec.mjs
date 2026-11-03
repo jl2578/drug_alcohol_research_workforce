@@ -72,6 +72,7 @@ test('funding page shows reach counts and the log-scale rate ratios', async ({pa
 test('careers panels keep occupations, roles and destinations separate', async ({page}) => {
   await page.goto('careers.html');
   await settled(page);
+  await expect(page.locator('#careers-sample')).toHaveText('Total n = 307: employment was linked for 307 of 325 authors selected by stratified random sampling of in-scope records (Supplement S4.1). By degree: research doctorate 190, general master’s 63, PsyD 24, other named doctorate 17, field-specific master’s 13. Counts and percentages are unweighted.');
   await expect(page.locator('#jobs')).toContainText('19-1042.00');
   await expect(page.locator('#jobs')).toContainText('69 · 36.3%');
   await expect(page.locator('#jobs .stack')).toHaveCount(0);

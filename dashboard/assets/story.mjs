@@ -410,7 +410,12 @@ async function careers() {
     const rd = (await bases).find(r => r.degree_group === 'Research doctorate');
     const roles = (await roleRows).rows.filter(r => r.degree_group === 'PhD/ScD and equivalent');
     const st = stateRows(roles, 'joint_state'), N = num(roles[0].denominator);
-    return el('p', {class: 'lead'}, `Of ${whole(N)} sampled research-doctorate authors, ${Math.round(share(num(rd.university_n), num(rd.observed_n)))}% worked at colleges and universities and ${Math.round(share(num(rd.outside_n), num(rd.observed_n)))}% elsewhere. ${Math.round(share(st.research_likely_only[0] + st.both[0], N))}% held jobs whose occupation and industry suggest research.`);
+    // One denominator per degree group; all_observations is the released total.
+    const degreeBases = new Map((await roleRows).rows.map(r => [r.degree_group, [r.degree_label.replace("'", '’'), num(r.denominator)]]));
+    const total = degreeBases.get('all_observations')[1];
+    const groups = [...degreeBases].filter(([g]) => g !== 'all_observations').map(([, b]) => b).sort((a, b) => b[1] - a[1]);
+    return [el('p', {class: 'lead'}, `Of ${whole(N)} sampled research-doctorate authors, ${Math.round(share(num(rd.university_n), num(rd.observed_n)))}% worked at colleges and universities and ${Math.round(share(num(rd.outside_n), num(rd.observed_n)))}% elsewhere. ${Math.round(share(st.research_likely_only[0] + st.both[0], N))}% held jobs whose occupation and industry suggest research.`),
+      el('p', {class: 'sub', id: 'careers-sample'}, `Total n = ${whole(total)}: employment was linked for ${whole(total)} of 325 authors selected by stratified random sampling of in-scope records (Supplement S4.1). By degree: ${groups.map(([label, n]) => `${label === 'PsyD' ? label : label[0].toLowerCase() + label.slice(1)} ${whole(n)}`).join(', ')}. Counts and percentages are unweighted.`)];
   });
 
   // Panel 1: occupations and industries by degree
