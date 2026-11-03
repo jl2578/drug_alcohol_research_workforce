@@ -324,20 +324,14 @@ async function funding() {
   const reachRows = client.load('funding_reach', {ownership: ['full'], connection_definition: ['combined_clear'], institute: ['NIDA/NIAAA']});
   const countRows = client.load('institutional_count_associations', {ownership: ['full']});
 
-  panel(document.getElementById('funding-lead'), async () => {
-    const r = Object.fromEntries((await reachRows).rows.map(x => [x.population, x]));
-    const rr = (await countRows).rows.find(x => x.degree_target === 'Research doctorate');
-    return [el('p', {class: 'lead'}, `${Math.round(num(r['Research doctorate'].value))}% of research-doctorate works and ${Math.round(num(r.Masters.value))}% of master’s works had an identified connection to NIDA or NIAAA funding through an advisor, committee member or award.`),
-      el('p', {class: 'sub'}, `Institutions with more preceding NIDA/NIAAA funding produced more in-scope research-doctorate works: going from one to four funded projects per year was associated with about ${Math.round(100 * (num(rr.value) - 1))}% more works.`)];
-  });
-
   panel(reachBox, async () => {
     const r = Object.fromEntries((await reachRows).rows.map(x => [x.population, x]));
     const order = [['Research doctorate', 'Research doctorate'], ['Masters', 'Master’s'], ['Other credentials', 'Other credentials'], ['All credentials', 'All credentials']];
     return [barRows(order.map(([key, label]) => {
       const x = r[key], p = num(x.value);
       return {label, frac: Math.min(1, p / 50), value: `${f1(p)}% · ${whole(x.numerator)} of ${whole(x.denominator)}`, title: `${label}: ${whole(x.numerator)} of ${whole(x.denominator)} works (${f1(p)}%)`};
-    })), el('p', {class: 'note'}, 'Bars run from 0 to 50%. “Other credentials” are PsyD, DrPH, other named doctorates and unresolved credentials. ',
+    })), el('p', {class: 'sub', id: 'reach-explanation'}, `${Math.round(num(r['Research doctorate'].value))}% of research-doctorate works and ${Math.round(num(r.Masters.value))}% of master’s works had an identified connection to NIDA or NIAAA funding through an advisor, committee member or award.`),
+    el('p', {class: 'note'}, 'Bars run from 0 to 50%. “Other credentials” are PsyD, DrPH, other named doctorates and unresolved credentials. ',
       el('a', {href: 'data/funding_reach.csv', download: true}, 'Download (CSV)'))];
   });
 
@@ -359,7 +353,9 @@ async function funding() {
           el('span', {class: 'value'}, el('strong', {}, fmt3(v)), ` (${fmt3(l)} to ${fmt3(u)})`)));
     });
     const familywise = order.map(([key, label]) => { const r = rows.find(row => row.degree_target === key); return `${label} ${fmt3(r.lower_familywise)} to ${fmt3(r.upper_familywise)}`; }).join('; ');
+    const rd = rows.find(row => row.degree_target === 'Research doctorate');
     return [el('div', {class: 'rows'}, axisRow(ticks, 'Rate ratio (95% CI)'), marks),
+      el('p', {class: 'sub', id: 'counts-explanation'}, `Institutions with more preceding NIDA/NIAAA funding produced more in-scope research-doctorate works: going from one to four funded projects per year was associated with about ${Math.round(100 * (num(rd.value) - 1))}% more works.`),
       el('p', {class: 'note'}, `The last row is a ratio of rate ratios, not a difference: below 1 means the master’s association was weaker. Intervals are pointwise; simultaneous intervals for the three estimates: ${familywise}. `,
         el('a', {href: 'data/institutional_count_associations.csv', download: true}, 'Download (CSV)'))];
   });
