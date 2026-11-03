@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Explore released evidence on research content, NIH funding connections and employment in the U.S. drug and alcohol research workforce.">
+  <meta name="description" content="Who trains in U.S. drug and alcohol research, what they study, and where they go: released study evidence on research content, NIH funding connections and employment.">
   <meta name="color-scheme" content="light">
-  <title>Research workforce · Evidence explorer</title>
-  <link rel="stylesheet" href="assets/dashboard.css">
+  <title>Drug and alcohol research workforce</title>
+  <link rel="stylesheet" href="assets/story.css">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -187,61 +187,44 @@
   ]
 }
   </script>
-  <script type="module" src="assets/dashboard.mjs"></script>
+  <script type="module" src="assets/story.mjs"></script>
 </head>
-<body>
-  <a class="skip-link" href="#explorer">Skip to the explorer</a>
-  <header class="masthead">
-    <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">rw</span><span>Drug &amp; alcohol<br> <strong>research workforce</strong></span></a>
-    <div class="masthead-right"><span class="edition">U.S. STUDY · RELEASED EVIDENCE</span><a class="text-link" href="../training_workforce_evidence/TABLES.html">Source catalog <span aria-hidden="true">↗</span></a></div>
+<body data-page="overview">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Main">
+      <a class="brand" href="./">Drug &amp; alcohol research workforce</a>
+      <a href="./" aria-current="page">Overview</a>
+      <a href="content.html">Research content</a>
+      <a href="funding.html">NIH connections</a>
+      <a href="careers.html">Careers</a>
+      <a href="data.html">Data &amp; methods</a>
+    </nav>
   </header>
+  <main id="main">
+    <section class="intro">
+      <h1>Who trains in U.S. drug and alcohol research, what they study, and where they go</h1>
+      <p class="lead">13,227 in-scope dissertations and theses completed 2010–2023, linked to NIH drug and alcohol funding and, for a sample of authors, to later employment.</p>
+      <p class="sub"><strong style="color:var(--ink);font-weight:600">In scope</strong> means at least one research aim, judged from the title and abstract, substantively concerns drugs or alcohol, the substances studied by NIDA and NIAAA, through their use, addiction, exposure or pharmacology, substance-related care, services, policy or education, or research on the body’s own related systems.</p>
+    </section>
 
-  <div class="workspace">
-    <aside class="sidebar" aria-label="Explore the evidence">
-      <p class="eyebrow sidebar-title">EXPLORE BY TOPIC</p>
-      <nav id="topic-nav" aria-label="Evidence topics"></nav>
-      <div class="sidebar-note"><span class="small-rule"></span><p>Follow the evidence from training and research content to funding connections and employment.</p></div>
-      <div class="sidebar-resources">
-        <p class="eyebrow">STUDY MATERIALS</p>
-        <a href="../training_workforce_evidence/supplement/Supplement_S1_S4.pdf">Read the supplement <span aria-hidden="true">↗</span></a>
-        <a href="../training_workforce_evidence/TABLES.html">Browse all source tables <span aria-hidden="true">↗</span></a>
-        <a href="downloads/proquest_v5_reproducibility.zip" download>Download reader workflow <span aria-hidden="true">↓</span></a>
-      </div>
-    </aside>
+    <section id="findings" class="cards" aria-label="Key findings" aria-live="polite">
+      <p class="status">Loading the key findings…</p>
+    </section>
 
-    <main id="explorer">
-      <section class="intro" aria-labelledby="page-title">
-        <p class="eyebrow">EVIDENCE EXPLORER</p>
-        <h1 id="page-title">Explore the<br class="desktop-break"> research workforce.</h1>
-        <p class="intro-copy">Research content, NIH funding connections and employment offer complementary perspectives on the U.S. drug and alcohol research workforce.</p>
-        <div class="intro-meta"><span class="live-dot" aria-hidden="true"></span>Released study data<span class="meta-divider" aria-hidden="true">/</span>Jesse Liss &amp; Maria Davradou</div>
-      </section>
-
-      <section class="exploration-panel" aria-labelledby="view-title">
-        <div class="view-selector"><label for="dataset-select">CHOOSE A VIEW</label><select id="dataset-select" aria-label="Choose an evidence view"><option value="">Loading views…</option></select></div>
-        <div class="view-header"><span class="kind-label" id="view-kind">STUDY EVIDENCE</span><h2 id="view-title">Loading the evidence explorer</h2><p id="view-description">The explorer loads the released data for the selected view.</p></div>
-        <div class="filter-area">
-          <div class="section-heading"><h3>Refine the selection</h3><span class="subtle">Your applied selection stays visible until you apply changes.</span></div>
-          <div id="filters" class="filters"></div>
-          <div id="catalog-search-wrap" class="catalog-search" hidden><label for="catalog-search">Search table titles, descriptions or identifiers</label><input id="catalog-search" type="search" placeholder="Find a source table…" autocomplete="off"></div>
-          <div class="filter-actions"><button id="apply-filters" class="button button-primary" type="button">Apply selection <span aria-hidden="true">→</span></button><button id="reset-filters" class="button button-quiet" type="button">Reset filters</button><p id="status" role="status" aria-live="polite">Loading verified datasets…</p></div>
+    <section class="card" aria-labelledby="who-title">
+      <div class="controls" style="justify-content:space-between">
+        <div class="card-head">
+          <h2 id="who-title">Who is in the study</h2>
+          <p class="sub" id="composition-lead"></p>
         </div>
-        <div id="error-panel" role="alert" class="error-panel" hidden></div>
-        <div class="result-toolbar"><p id="selection-summary"></p><div class="download-actions"><button id="share-link" class="button button-outline" type="button">Copy view link</button><button id="download-csv" class="button button-outline" type="button">Download selection <span aria-hidden="true">↓</span></button></div></div>
-
-        <section id="chart-section" class="chart-section" aria-labelledby="chart-title"><div class="chart-heading"><h3 id="chart-title">Selected evidence</h3><p id="chart-subtitle"></p></div><div id="chart"><div class="empty-state">The chart will appear when the selected data have loaded.</div></div></section>
-
-        <section id="table-section" class="table-section" aria-labelledby="table-heading">
-          <div class="section-heading table-heading"><div><p class="eyebrow">BEHIND THE CHART</p><h3 id="table-heading">The selected values</h3></div><a id="full-csv" class="text-link" href="#" download>Full dataset CSV <span aria-hidden="true">↓</span></a></div>
-          <div class="table-scroll" tabindex="0" role="region" aria-label="Selected evidence table"><table><caption id="table-caption">Values from the released dataset. Display rounding does not alter the download.</caption><thead id="table-head"></thead><tbody id="table-body"></tbody></table></div>
-          <div class="pagination"><p id="page-label"></p><div><button id="page-prev" class="button button-outline" type="button" aria-label="Previous table page">← Previous</button><button id="page-next" class="button button-outline" type="button" aria-label="Next table page">Next →</button></div></div>
-        </section>
-
-        <div class="context-panels"><details class="context-panel"><summary>Definitions &amp; interpretation <span aria-hidden="true">+</span></summary><div id="definitions" class="context-body"></div></details><details class="context-panel"><summary>Sources &amp; reproduction <span aria-hidden="true">+</span></summary><div id="sources" class="context-body"></div></details></div>
-      </section>
-      <footer class="page-footer"><p id="preview-note"><strong>Pinned v9 evidence.</strong> This interface uses released study data. Source packages and the author-frozen supplement are preserved unchanged.</p><p>Values describe the populations and measures defined for each view. An unavailable result is not zero.</p></footer>
-    </main>
-  </div>
-  <noscript><p class="noscript">Enable JavaScript to explore the data, or use the <a href="../training_workforce_evidence/TABLES.html">source table catalog</a>.</p></noscript>
+        <div id="composition-controls"></div>
+      </div>
+      <div id="composition" aria-live="polite"><p class="status">Loading the numbers…</p></div>
+      <p class="note">Counts are distinct works. “Field unavailable” means the work’s training field could not be assigned. <a href="data/population_composition.csv" download>Download (CSV)</a></p>
+    </section>
+  </main>
+  <footer class="page-footer">Liss &amp; Davradou · Data: <a href="https://doi.org/10.5281/zenodo.23897503">doi.org/10.5281/zenodo.23897503</a> · <a href="data.html">All data and methods</a> · <a href="explore.html">Full data explorer</a></footer>
+  <noscript><p class="page-footer">Enable JavaScript to see the charts, or use the <a href="../training_workforce_evidence/TABLES.html">source table catalog</a>.</p></noscript>
 </body>
 </html>

@@ -4,6 +4,9 @@ The interactive dashboard, datasets and static-data loader are available locally
 
 Using Python 3.11 or newer, run `python -B -m http.server 8123 --bind 127.0.0.1 --protocol HTTP/1.1` from the repository root, then open **http://127.0.0.1:8123/dashboard/**. See the [interface guide](../docs/dashboard_interface.md).
 
+- **Front pages** (`index.html`, `content.html`, `funding.html`, `careers.html`, `data.html`): one question per page, answer first, at most two controls per chart. They read the same datasets below.
+- **Full explorer** (`explore.html`): all 26 datasets with every filter, interval, status column and selection download.
+
 - [Dataset index](metadata/index.json): 26 datasets supporting 25 included views. Fetch this small index first.
 - [Build receipt](metadata/build.json): output checksums, row counts, pinned inputs and transformation-code provenance.
 - [Ordinary source-table index](metadata/source_exports.json): all 246 released entries, restored with the evidence package's existing export code (242 CSV files and 4 JSON files).

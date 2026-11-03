@@ -10,7 +10,7 @@ async function loaded(page) {
   await expect(page.locator('#download-csv')).toBeEnabled();
 }
 async function openView(page,id) {
-  await page.goto('./');
+  await page.goto('explore.html');
   await loaded(page);
   if (id!=='population_composition') {
     await page.locator('#dataset-select').selectOption(id);
@@ -70,14 +70,14 @@ test('award timing and match scenarios are explicit, required and uniquely label
   expect(labels.length).toBeGreaterThan(0);
   expect(new Set(labels).size).toBe(labels.length);
   for(const label of labels){expect(label).toMatch(/3.*year|year.*3/i);expect(label).toMatch(/clear/i);}
-  await page.goto('?dataset=award_search_capture&mechanism_group=all_mechanisms&completion_period=all&measure=search_capture');
+  await page.goto('explore.html?dataset=award_search_capture&mechanism_group=all_mechanisms&completion_period=all&measure=search_capture');
   await expect(page.locator('#error-panel')).toBeVisible();
   await expect(page.locator('#error-panel')).toContainText(/choose|select|required|scenario/i);
   await expect(page.locator('#table-body tr')).toHaveCount(0);
 });
 
 test('pagination keeps the full-selection scale and chart/table records agree',async({page})=>{
-  await page.goto('?dataset=institution_profiles&outcome=C3&institution_id=U100663&institution_id=U104151&institution_id=U104179');
+  await page.goto('explore.html?dataset=institution_profiles&outcome=C3&institution_id=U100663&institution_id=U104151&institution_id=U104179');
   await loaded(page);
   const scale=await page.locator('#chart').getAttribute('data-scale');
   expect(scale).toBeTruthy();
@@ -158,7 +158,7 @@ test('catalog has one source-download column and recognizable source filenames',
 });
 
 test('selection CSV preserves exact chart/table tokens and all pages',async({page})=>{
-  await page.goto('?dataset=institution_profiles&outcome=C3&institution_id=U100663&institution_id=U104151&institution_id=U104179');
+  await page.goto('explore.html?dataset=institution_profiles&outcome=C3&institution_id=U100663&institution_id=U104151&institution_id=U104179');
   await loaded(page);
   const visible=await rowTokens(page,'.chart-row');
   const pending=page.waitForEvent('download');await page.locator('#download-csv').click();
@@ -181,7 +181,7 @@ test('selection CSV preserves exact chart/table tokens and all pages',async({pag
 
 test('transport failure is distinct from missing data and Retry recovers the initial load',async({page})=>{
   await page.route('**/dashboard/metadata/index.json',route=>route.abort('connectionfailed'));
-  await page.goto('./');
+  await page.goto('explore.html');
   await expect(page.locator('#error-panel')).toContainText(/network|load|connection/i);
   await expect(page.locator('#error-panel')).not.toContainText('This selection is unavailable');
   await expect(page.locator('#dataset-select option')).toHaveCount(26);
@@ -192,7 +192,7 @@ test('transport failure is distinct from missing data and Retry recovers the ini
 
 test('navigation remains usable after a failed first load',async({page})=>{
   await page.route('**/dashboard/metadata/filters/population_composition.json',route=>route.abort('connectionfailed'));
-  await page.goto('./');
+  await page.goto('explore.html');
   await expect(page.locator('#error-panel')).toBeVisible();
   await page.locator('#dataset-select').selectOption('table_catalog');await loaded(page);
   await expect(page.locator('#view-title')).toHaveText('Complete evidence catalog');
@@ -205,7 +205,7 @@ test('Back restores a prior applied view and invalid links recover explicitly',a
   await page.goBack();await loaded(page);
   expect(page.url()).toBe(priorURL);
   await expect(page.locator('#dataset-select')).toHaveValue('employment_roles');
-  await page.goto('?dataset=institution_benchmark&outcome=C3&institution_id=U100663');
+  await page.goto('explore.html?dataset=institution_benchmark&outcome=C3&institution_id=U100663');
   await expect(page.locator('#error-panel')).toBeVisible();
   await expect(page.locator('#table-body tr')).toHaveCount(0);
   await page.locator('#dataset-select').selectOption('population_composition');await loaded(page);

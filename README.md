@@ -33,7 +33,7 @@ Licensed ProQuest source records/text, identifying linkage files and individual 
 
 There is no blanket license over the repository. Original software is MIT licensed; original documentation, codebooks, instrument judgments and display expression use CC BY 4.0 within the authors' stated rights. Empirical and third-party material retains its source-specific status. Consult each component's licenses, notices and manifests.
 
-Dashboard data preparation takes place outside the three preserved component folders. The generated datasets use released evidence and the released scorer. The interactive dashboard is available locally at `dashboard/index.html`; GitHub Pages deployment remains pending.
+Dashboard data preparation takes place outside the three preserved component folders. The generated datasets use released evidence and the released scorer. The interactive dashboard is available locally: plain-language front pages start at `dashboard/index.html`, and the full data explorer is `dashboard/explore.html`. GitHub Pages deployment remains pending.
 
 The [dashboard view-to-table map](docs/dashboard_view_map.md) identifies the released sources, supported filters, denominators and remaining definition/data gaps. Its [machine-readable companion](docs/dashboard_view_map.json) records exact fields and source checksums. The [build guide](docs/dashboard_build.md) describes the implemented exports and browser loading rules.
 

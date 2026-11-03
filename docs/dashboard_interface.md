@@ -8,7 +8,15 @@ python -B -m http.server 8123 --bind 127.0.0.1 --protocol HTTP/1.1
 
 Open **http://127.0.0.1:8123/dashboard/** in a browser. Keep the server running while exploring; Ctrl+C in its terminal stops it. Opening the HTML directly with a `file:` URL does not provide the HTTP data loading required by the interface. The [`--protocol` option](https://docs.python.org/3.11/library/http.server.html#command-line-interface) was added in Python 3.11. HTTP/1.1 avoids the response failures observed with the earlier local preview command on this Windows machine; this is a measured local workaround, not a finding about every Python server.
 
-The interface is buildless HTML/CSS/JavaScript. It uses no third-party runtime, CDN, tracking, retrieval or model service. All 26 datasets are accessible through eight topic sections. Mixed result families use tables, the instrument uses score cards, and comparable numerical views use charts with saved intervals where available.
+The interface is buildless HTML/CSS/JavaScript. It uses no third-party runtime, CDN, tracking, retrieval or model service.
+
+## Front pages and the full explorer
+
+`dashboard/` opens on five front pages that answer the paper's questions first: an overview (`index.html`), research content (`content.html`, mirroring Figure 3 plus an institution comparison), NIH connections (`funding.html`, Figure 4), careers (`careers.html`, Figure 5, with occupations and industries, research or clinical likelihood, and destinations outside universities as separate panels) and data and methods (`data.html`). Each chart has at most two controls and updates immediately. The pages fix the paper's primary choices (fitted equal-period profiles, primary population, full ownership, clear advisor/committee-or-award connections, inclusive scoring and observed bases) and link to the explorer for every alternative.
+
+The front pages are presentation only (`assets/story.mjs`, `assets/story.css`). They read the released datasets through the shared data client and two verbatim restored source tables (`observation_bases.csv` for the university, outside and unknown-industry split, and `destination_classification.csv` for the NAICS codes that define each destination). They never refit, reweight, rebase or pool an estimate. A pair whose saved contrast is stored in the opposite direction is shown with its sign flipped and bounds swapped. Headline sentences are computed from the loaded rows, so they follow the data rather than hard-coded text. Named occupations keep the release's five-author rule.
+
+The full explorer is `explore.html`. All 26 datasets are accessible there through eight topic sections. Mixed result families use tables, the instrument uses score cards, and comparable numerical views use charts with saved intervals where available.
 
 ## Controls and consistency
 
@@ -38,7 +46,7 @@ python -B -m unittest discover -s tests -p "test_*.py"
 python -B scripts/build_dashboard.py --check
 ```
 
-The repository includes Chromium browser and axe accessibility regressions in `tests/browser/dashboard.spec.mjs`. Use Node.js 22.12 or newer for the locked test dependencies. Install the pinned development dependencies and browser once, then run:
+The repository includes Chromium browser and axe accessibility regressions in `tests/browser/dashboard.spec.mjs` (full explorer) and `tests/browser/story.spec.mjs` (front pages: released counts, comparison direction, separate career panels, load retry, and axe plus phone-width checks for every page). Use Node.js 22.12 or newer for the locked test dependencies. Install the pinned development dependencies and browser once, then run:
 
 ```text
 npm ci

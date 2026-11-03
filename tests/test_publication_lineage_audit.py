@@ -89,8 +89,9 @@ class LineageAudit(unittest.TestCase):
     def test_asset_membership_excludes_mockups_and_synthetic_study_sources(self):
         build = json.loads((self.root/'metadata/build.json').read_text(encoding='utf-8'))
         actual = {p.relative_to(self.root).as_posix() for p in self.root.rglob('*') if p.is_file()}
-        ui_assets = {'data-client.mjs', 'dashboard.css', 'dashboard.mjs', 'view-specs.mjs', 'ui-model.mjs'}
-        allowed = set(build['files']) | {'metadata/build.json', 'README.md', '.gitkeep', 'index.html'} | {'assets/' + name for name in ui_assets}
+        ui_assets = {'data-client.mjs', 'dashboard.css', 'dashboard.mjs', 'view-specs.mjs', 'ui-model.mjs', 'story.css', 'story.mjs'}
+        pages = {'index.html', 'content.html', 'funding.html', 'careers.html', 'data.html', 'explore.html'}
+        allowed = set(build['files']) | {'metadata/build.json', 'README.md', '.gitkeep'} | pages | {'assets/' + name for name in ui_assets}
         self.assertEqual(actual,allowed)
         self.assertEqual({p.name for p in (self.root/'assets').iterdir()},ui_assets)
         for dataset, entry in self.index['datasets'].items():
