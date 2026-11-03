@@ -53,6 +53,6 @@ Keep the three deferred extensions out of operational controls and URL states. R
 
 ## Implementation handoff
 
-Next define the dataset contract and build exports for the included views. The benchmark will be a new documented dashboard derivation from released fitted points; it will not be inserted into the evidence package or supplement. Validate selection invariance, fixed roster membership, missing-input behavior and chart/table/download agreement during implementation.
+The [dataset contract](dashboard_data_contract.md) now defines the included exports. Next implement the adapters. The benchmark will be a new documented dashboard derivation from released fitted points; it will not be inserted into the evidence package or supplement. Validate selection invariance, fixed roster membership, missing-input behavior and chart/table/download agreement during implementation.
 
 The three source packages, the frozen Word/PDF supplement, and the original synthetic prototype remain unchanged. The `dashboard/` folder still contains only `.gitkeep`. Nothing has been uploaded or published.

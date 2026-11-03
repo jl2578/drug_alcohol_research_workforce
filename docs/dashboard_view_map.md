@@ -831,7 +831,7 @@ Scope is resolved: 25 mapped views are included in preparation; the observed ins
 
 ## Next step
 
-The first-release definitions and deferrals are settled in [dashboard_scope.md](dashboard_scope.md). Next define the data contract, then implement deterministic exports for the included views. This map does not generate the RC-RMI lookup, construct new employment intersections, calculate funding bands, or modify the prototype. Preserve the complete catalog as the download route for evidence not charted initially.
+The first-release definitions and deferrals are settled in [dashboard_scope.md](dashboard_scope.md), and the [data contract](dashboard_data_contract.md) specifies the included datasets. Next implement deterministic exports. This map does not generate the RC-RMI lookup, construct new employment intersections, calculate funding bands, or modify the prototype. Preserve the complete catalog as the download route for evidence not charted initially.
 
 ## Mapping checks
 

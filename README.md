@@ -38,3 +38,5 @@ Dashboard development will take place outside the three preserved component fold
 The [dashboard view-to-table map](docs/dashboard_view_map.md) identifies the released sources, supported filters, denominators and remaining definition/data gaps. Its [machine-readable companion](docs/dashboard_view_map.json) records exact fields and source checksums. These are preparation documents; the dashboard folder remains an empty placeholder.
 
 [First-release scope decisions](docs/dashboard_scope.md) adopt fitted institutional profiles and a fixed equal-institution reference, and defer the three extensions requiring new aggregates. Dataset and interface implementation remain pending.
+
+The [data contract](docs/dashboard_data_contract.md) and [machine-readable specifications](docs/dashboard_data_contract.json) define the rows, keys, measures, statuses and provenance for those datasets. Run `python -B scripts/validate_data_contract.py` to check the contract against the released sources without producing exports.
