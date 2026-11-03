@@ -66,8 +66,9 @@ test('funding page shows reach counts and the log-scale rate ratios', async ({pa
   await expect(page.locator('#reach')).toContainText('40.6% · 3,236 of 7,964');
   await expect(page.locator('#counts')).toContainText('1.155 (1.036 to 1.289)');
   await expect(page.locator('#counts')).toContainText('Master’s ÷ research doctorate');
-  await expect(page.locator('#counts-explanation')).toContainText('associated with about 16% more works');
-  await expect(page.locator('#reach-explanation')).toHaveText('41% of research-doctorate works and 22% of master’s works had an identified connection to NIDA or NIAAA funding through an advisor, committee member or award.');
+  await expect(page.locator('#counts-explanation')).toHaveText('Going from one to four NIDA/NIAAA-funded projects per year was associated with about 16% more in-scope research-doctorate works. Rate ratios, log scale; above 1 means more works.');
+  await expect(page.locator('#reach-explanation')).toHaveCount(0);
+  await expect(page.locator('#connected')).toContainText('n = 3,214 connected, 4,492 remaining.');
   await expect(page.locator('main > .intro')).not.toContainText('Institutions with more');
   await page.getByRole('button', {name: 'Master’s'}).click();
   await expect(page.locator('#connected-lead')).toContainText('For master’s works');

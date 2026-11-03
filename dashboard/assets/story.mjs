@@ -330,8 +330,7 @@ async function funding() {
     return [barRows(order.map(([key, label]) => {
       const x = r[key], p = num(x.value);
       return {label, frac: Math.min(1, p / 50), value: `${f1(p)}% · ${whole(x.numerator)} of ${whole(x.denominator)}`, title: `${label}: ${whole(x.numerator)} of ${whole(x.denominator)} works (${f1(p)}%)`};
-    })), el('p', {class: 'sub', id: 'reach-explanation'}, `${Math.round(num(r['Research doctorate'].value))}% of research-doctorate works and ${Math.round(num(r.Masters.value))}% of master’s works had an identified connection to NIDA or NIAAA funding through an advisor, committee member or award.`),
-    el('p', {class: 'note'}, 'Bars run from 0 to 50%. “Other credentials” are PsyD, DrPH, other named doctorates and unresolved credentials. ',
+    })), el('p', {class: 'note'}, '“Other credentials” are PsyD, DrPH, other named doctorates and unresolved credentials. ',
       el('a', {href: 'data/funding_reach.csv', download: true}, 'Download (CSV)'))];
   });
 
@@ -352,11 +351,10 @@ async function funding() {
             el('div', {class: 'mark-a', style: `top:6px;left:${x(v).toFixed(2)}%`})),
           el('span', {class: 'value'}, el('strong', {}, fmt3(v)), ` (${fmt3(l)} to ${fmt3(u)})`)));
     });
-    const familywise = order.map(([key, label]) => { const r = rows.find(row => row.degree_target === key); return `${label} ${fmt3(r.lower_familywise)} to ${fmt3(r.upper_familywise)}`; }).join('; ');
     const rd = rows.find(row => row.degree_target === 'Research doctorate');
     return [el('div', {class: 'rows'}, axisRow(ticks, 'Rate ratio (95% CI)'), marks),
-      el('p', {class: 'sub', id: 'counts-explanation'}, `Institutions with more preceding NIDA/NIAAA funding produced more in-scope research-doctorate works: going from one to four funded projects per year was associated with about ${Math.round(100 * (num(rd.value) - 1))}% more works.`),
-      el('p', {class: 'note'}, `The last row is a ratio of rate ratios, not a difference: below 1 means the master’s association was weaker. Intervals are pointwise; simultaneous intervals for the three estimates: ${familywise}. `,
+      el('p', {class: 'sub', id: 'counts-explanation'}, `Going from one to four NIDA/NIAAA-funded projects per year was associated with about ${Math.round(100 * (num(rd.value) - 1))}% more in-scope research-doctorate works. Rate ratios, log scale; above 1 means more works.`),
+      el('p', {class: 'note'}, 'The last row is a ratio of rate ratios: below 1 means a weaker association for master’s works. ',
         el('a', {href: 'data/institutional_count_associations.csv', download: true}, 'Download (CSV)'))];
   });
 
@@ -391,7 +389,7 @@ async function funding() {
     return [el('ul', {class: 'legend'}, el('li', {}, el('span', {class: 'swatch', style: 'background:var(--blue)'}), 'More common among connected works'),
       el('li', {}, el('span', {class: 'swatch', style: 'background:var(--red)'}), 'Less common among connected works')),
     el('div', {class: 'rows'}, axisRow(ticks, 'Connected vs remaining'), rows),
-    el('p', {class: 'note'}, `Differences in percentage points between connected and remaining works, each share using its own base. Descriptive, with no intervals. Works with this dimension coded: ${whole(first.connected.denominator)} connected and ${whole(first.remaining.denominator)} remaining. `,
+    el('p', {class: 'note'}, `Percentage-point differences, connected minus remaining. Descriptive; no intervals. n = ${whole(first.connected.denominator)} connected, ${whole(first.remaining.denominator)} remaining. `,
       el('a', {href: 'data/funding_content_profiles.csv', download: true}, 'Download (CSV)'))];
   });
   draw();
