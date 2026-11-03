@@ -15,6 +15,7 @@ import zipfile
 from dashboard_common import (REPO, canonical_json, code_provenance, csv_bytes, csv_cell,
                               finalize, load_context, protected_hashes, require, sha256, source_export_path)
 from dashboard_filters import compile_filters, validate_selection
+from dashboard_dictionary import dictionary
 
 MAX_SHARD_ROWS = 1500
 MAX_SHARD_BYTES = 1_000_000
@@ -82,6 +83,8 @@ def dataset_outputs(stage, dataset, payload, ctx, code):
     validate_selection(filters, {})
     filter_file = write_json(stage, 'metadata/filters/' + dataset + '.json', filters)
     csv_file = write(stage, 'data/' + dataset + '.csv', csv_bytes(rows, fields))
+    dictionary_file = write_json(stage, 'metadata/dictionaries/' + dataset + '.csv-metadata.json',
+                                 dictionary(dataset, rows, fields, contract, ctx))
     # CSV and browser JSON derive from these exact canonical records.
     parsed = list(csv.DictReader(io.StringIO((stage / csv_file['path']).read_text(encoding='utf-8'), newline='')))
     require(parsed == [{k: csv_cell(v) for k, v in r.items()} for r in rows], 'CSV round-trip mismatch')
@@ -119,11 +122,14 @@ def dataset_outputs(stage, dataset, payload, ctx, code):
         'filter_contract': contract['filter_contract'], 'adapter_metadata': payload.get('metadata', {}),
         'contract_path': 'docs/dashboard_data_contract.json', 'source_snapshot': 'ZENODO_SOURCE.json',
         'specification_sha256': sha256(canonical_json(contract).encode('utf-8')),
+        'data_dictionary': dictionary_file['path'],
+        'data_dictionary_sha256': dictionary_file['sha256'],
         'csv': csv_file['path'], 'json': json_file['path'], 'filters': filter_file['path']}
     require(set(ctx.contract['shared_contract']['required_manifest_fields']) <= set(metadata), 'Incomplete output manifest')
     manifest_file = write_json(stage, 'metadata/datasets/' + dataset + '.json', metadata)
     return {'row_count': len(rows), 'csv': csv_file['path'], 'json': json_file['path'],
             'filters': filter_file['path'], 'manifest': manifest_file['path'], 'view_ids': contract['view_ids'],
+            'data_dictionary': dictionary_file['path'],
             'shards': len(shards), 'csv_bytes': csv_file['bytes']}
 
 

@@ -63,4 +63,4 @@ python -m unittest test_scorer
 
 ## The supplement
 
-The author-supplied final Word and PDF files are frozen release assets. Their hashes are recorded in MANIFEST.csv and SHA256SUMS.txt. The source and builder are not included, because rebuilding a document does not re-estimate anything.
+The supplement is supplied in Word and PDF formats. MANIFEST.csv and SHA256SUMS.txt record their hashes for integrity checks.

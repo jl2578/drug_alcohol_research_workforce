@@ -1,10 +1,10 @@
 # Dashboard view-to-table map
 
-Step 2 source map, updated with the [Step 3 first-release decisions](dashboard_scope.md) on 2 November 2026. The sources remain the finalized `2026-11-02-local-v9` upload set. Data export and dashboard implementation remain pending.
+Source map with the [first-release decisions](dashboard_scope.md), refreshed to the verified published `2026-11-02-local-v9` Zenodo release on 2 November 2026. Data exports are implemented; the visual dashboard remains pending.
 
 The [machine-readable map](dashboard_view_map.json) records exact table IDs, source files and checksums, source column names, observed filter levels, and interpretation rules. Source-specific filter levels do not imply that every combination is available.
 
-All three packages and the frozen supplement remain byte-identical. `dashboard/` still contains only `.gitkeep`. The mapping documentation lives here so the dashboard folder stays empty.
+All three packages and the frozen supplement match the published archive contents byte for byte. The generated datasets, source downloads and static-data client are in `dashboard/`; mapping documentation remains separate in `docs/`.
 
 ## Readiness
 

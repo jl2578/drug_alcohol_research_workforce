@@ -1,6 +1,6 @@
 # Data and code availability
 
-This is an unpublished candidate associated with the authors' Zenodo draft. DOI `10.5281/zenodo.23897503` is reserved and will be registered on publication. No public availability or tested public download is asserted yet. This is the package's own statement; it does not replace the availability text in the main manuscript.
+This study-evidence component accompanies the combined Zenodo record, DOI `10.5281/zenodo.23897503`, together with the ProQuest reader and RC-RMI scorer. This document describes the shared materials, exclusions and file-specific reuse terms.
 
 ## What is shared
 
@@ -42,7 +42,7 @@ The authors grant no commercial-use rights in source-constrained derived data an
 
 ## Attribution
 
-The study-evidence deposit creators are Jesse Liss and Maria Davradou, in citation order. Their supplied affiliations and the reserved DOI are recorded in [CITATION.cff](CITATION.cff). Retain the separate software and source attributions below and in the license notices.
+The study-evidence deposit creators are Jesse Liss and Maria Davradou, in citation order. Their affiliations and the combined-record DOI are recorded in [CITATION.cff](CITATION.cff). Retain the separate software and source attributions below and in the license notices.
 
 NIH funding data come from [NIH RePORTER](https://reporter.nih.gov/) and its [API](https://api.reporter.nih.gov/?urls.primaryName=V2.0), with an official comparison recorded on 29 September 2026. Institution names come from [IPEDS](https://nces.ed.gov/ipeds/use-the-data), and real dollars use NIH's BRDPI. Exact sources and vintages are in the provenance tables in [data/nih_funding_rebuild.zip](data/nih_funding_rebuild.zip).
 

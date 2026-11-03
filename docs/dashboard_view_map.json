@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "prepared_date": "2026-11-02",
-  "scope": "Step 2 source mapping with Step 3 first-release decisions applied. No dashboard datasets or application generated.",
+  "scope": "Source mapping and first-release scope, refreshed to the verified published release on 2026-11-02. Data exports are implemented; the visual interface remains pending.",
   "evidence_version": "2026-11-02-local-v9",
   "record_doi": "10.5281/zenodo.23897503",
   "source_components": [
@@ -9,19 +9,19 @@
       "archive": "study_evidence_v9.zip",
       "directory": "training_workforce_evidence",
       "files": 110,
-      "sha256": "0a9f7f991bcc8bb626c5b8dbe941682aa005f559b4e3938bffe6b97e330176d8"
+      "sha256": "d5f641c93cd2c31b1912e4c91ab04d2629de14352745de36d8ae4a142ff57ac6"
     },
     {
       "archive": "proquest_v5_reproducibility.zip",
       "directory": "proquest_v5_reproducibility",
       "files": 41,
-      "sha256": "b3f4e26aad5ebc713fe214aea41973f73ce2f00febf1725a047e4b055bd7ba49"
+      "sha256": "b736a46376508abe01a19563a08b5f8d14ec5d76c33a869377c2f245de4ff6f0"
     },
     {
       "archive": "rc_rmi_scorer.zip",
       "directory": "rc_rmi_scorer",
       "files": 19,
-      "sha256": "8e34e6609aaeb312a6340345513f55fd9ce1437c6e52f94ac4f037309fd40f44"
+      "sha256": "b3d3f5a2e4562fc7bb76a9693afad1a84c6ee4dbf80a062d24c0d2b9e8530e84"
     }
   ],
   "readiness_meanings": {
@@ -4905,7 +4905,7 @@
         "source_sha256"
       ],
       "restored_table_sha256": "ab210af19af240761fbcd96a12c7c5f2a73084c8ca556ecf69afcc270240c925",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep3-other-rq3-reach-content-data-na38-t4-d-observed-counts-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5018,7 +5018,7 @@
         "source_version"
       ],
       "restored_table_sha256": "fb01473f88897ad566335bdb29d4bb53308b62a27a888a50694ed279300e7ec2",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep3-other-rq3-reach-content-data-na39-t4-d-observed-coverage-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5104,7 +5104,7 @@
         "source_sha256"
       ],
       "restored_table_sha256": "6594247a1b76589ee52d49b8a5275d90c81c9ff7b649ffafd8df5c6f071a631f",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep3-other-rq3-reach-content-data-na40-t4-d-award-possible-sensitivity-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5239,7 +5239,7 @@
         "source_sha256"
       ],
       "restored_table_sha256": "acac7db0e86870cc8119ce33f7ed15bae87268b5036199634bda48cfe848687d",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep3-other-rq3-reach-content-data-na41-t4-d-pi-component-profiles-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5674,7 +5674,7 @@
         "precedence_rule"
       ],
       "restored_table_sha256": "8e6daacb885f6b97c33aefa9f58da7def7e2289530efbb04cfe8ac7bda5711c0",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-destination-classification-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {}
@@ -5705,7 +5705,7 @@
         "pct_scored_within_destination"
       ],
       "restored_table_sha256": "ac493578da8786d79a07293c88011bbbf269d6c44523e40b34d7bbcbd3aed9b0",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-destination-role-profiles-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5799,7 +5799,7 @@
         "outside_hospital_affirmative_academic_affiliation_n"
       ],
       "restored_table_sha256": "06019a81165f5d60225cda8334507c87550ab95d3c2b83b2cf31b04dfcb8e72d",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-observation-bases-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5834,7 +5834,7 @@
         "pct_outside"
       ],
       "restored_table_sha256": "603e17f9224b49b86f3e5d81aada371be6cf45b44ff56e629717f2f25dc9ba31",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-occupation-by-destination-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5909,7 +5909,7 @@
         "pct_outside"
       ],
       "restored_table_sha256": "6de076b214e86d558a06fef75f5a2f57fc2fb17d8180c4d2de066d39f4423400",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-occupation-by-destination-and-role-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -5986,7 +5986,7 @@
         "pct_outside"
       ],
       "restored_table_sha256": "adfe69b4e727127fcd8159d50ebe94802cd0758e4ec3333257bf1cc86ce810e7",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-occupation-by-role-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -6039,7 +6039,7 @@
         "pct_scored_outside"
       ],
       "restored_table_sha256": "b11991fbbaa97aa17266c55497df419e9710c2edc0e8cdf9b90fc79c54cab395",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-outside-role-profiles-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {
@@ -6098,7 +6098,7 @@
         "academic_employer_signal_n"
       ],
       "restored_table_sha256": "44657a862f0566043d793e688178ab0036c81079d7d915c610add8a553efefbd",
-      "container_sha256": "69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c",
+      "container_sha256": "ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a",
       "catalog_anchor": "table-dep4-rc-rmi-evidence-employment-outside-university-20261016-sensitivity-definition-bases-csv",
       "rights_scope": "Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license",
       "filter_levels": {}
@@ -6790,7 +6790,7 @@
       "bytes": 1361344
     },
     "training_workforce_evidence/code/table_restore.csv": {
-      "sha256": "7824c853c16051a0ba68ff39c791422521893883e390f6be79444895e70c7ef2",
+      "sha256": "8d5bbc5311859f8bd76399cec54fc121a3eb1c1e7fe88e6c0b4e6ef41e8011ae",
       "bytes": 42979
     },
     "training_workforce_evidence/data/TABLE_INDEX.csv": {

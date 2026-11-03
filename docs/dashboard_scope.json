@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "decision_date": "2026-11-02",
-  "status": "First-release scope resolved; implementation and numerical export pending",
+  "status": "First-release scope resolved and data implemented; visual interface pending",
   "evidence_version": "2026-11-02-local-v9",
   "record_doi": "10.5281/zenodo.23897503",
-  "scope": "Step 3 only; records definitions and deferrals without generating dashboard data or changing source packages.",
+  "scope": "Scientific definitions and deferrals from Step 3, applied to the verified published release. Source packages and supplement are preserved exactly as published.",
   "institution_profiles": {
     "view_id": "institution_profiles",
     "first_release": "include",

@@ -2,7 +2,7 @@
   "documentation_version": "2026-11-02",
   "result_status": "adopted_scope_and_completed_current_content",
   "codebook_revision": 15,
-  "codebook_file": "../../reader/config/coding/dissertation_codebook_v5_rev15_reproduction.md",
+  "codebook_file": "supplement/codebook_v5_rev15.md",
   "adoption_note": "Aim-level substance-related and endogenous-system inclusion rules.",
   "stage_models": {
     "scope_full": "gpt_5_2025_08_07",
@@ -88,5 +88,10 @@
   },
   "distribution_note": "Contains aggregate coding metadata. Licensed source text, record identifiers and private provenance files are not distributed.",
   "codebook_distribution_note": "The reproduction codebook supports a new reader-run analysis; byte identity with every original prompt is not established.",
-  "scope_resolution": "Nineteen records with failed model scope assessments received author assessments: 3 in scope and 16 out of scope. These dispositions are included in adopted_scope_counts."
+  "scope_resolution": "Nineteen records with failed model scope assessments received author assessments: 3 in scope and 16 out of scope. These dispositions are included in adopted_scope_counts.",
+  "codebook_path_base": "evidence_component_root",
+  "counts_file_base": "directory containing this metadata in the verification restore output",
+  "counts_restored_path": "DEP1/methods/sm1_coding/population_accounting.csv",
+  "counts_restored_path_base": "verification_restore_output",
+  "counts_table_id": "DEP1_population_accounting"
 }

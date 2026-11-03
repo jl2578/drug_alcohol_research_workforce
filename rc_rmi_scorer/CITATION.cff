@@ -1,8 +1,7 @@
 # Component citation metadata for the combined study-evidence deposit.
-# Creator order and affiliations supplied by the authors; no ORCIDs inferred.
-# No date-released before publication. Rights remain scoped by the supplied notices.
+# Rights remain scoped by the supplied notices.
 cff-version: "1.2.0"
-message: "Please cite the combined study-evidence deposit and identify this RC-RMI scorer component and version. The shared Zenodo DOI is reserved for an unpublished draft and is not a component-specific DOI."
+message: "Please cite the combined study-evidence deposit and identify this RC-RMI scorer component and version. The shared Zenodo DOI identifies the combined record. Consult Zenodo for publication status and the release date."
 type: "software"
 title: "RC-RMI scorer"
 version: "rc-rmi-standalone-2026-10-30-local-v6"
@@ -16,5 +15,5 @@ authors:
 identifiers:
   - type: "doi"
     value: "10.5281/zenodo.23897503"
-    description: "Reserved DOI of the combined Zenodo record containing the study evidence, ProQuest reader, and RC-RMI scorer; not a component-specific DOI."
+    description: "DOI of the combined Zenodo record containing the study evidence, ProQuest reader, and RC-RMI scorer; not a component-specific DOI."
 abstract: "Self-contained Python implementation of the fixed RC-RMI occupation–industry instrument, with recorded component judgments, scales, combination rules, crosswalk, synthetic examples and full-domain checks. It reproduces frozen rule application under three specifications, not empirical employment matching or individual-duty validation."

@@ -1,7 +1,7 @@
 {
   "version": "0.3.0-rc2",
   "date": "2026-10-29",
-  "status": "prepared_for_combined_zenodo_draft",
+  "status": "component_of_combined_zenodo_record",
   "intended_reader_environment": "authorized ProQuest TDM Studio Workbench; local execution is maintainer QA only",
   "license": "MIT AND CC-BY-4.0",
   "license_scope": {
@@ -10,7 +10,7 @@
     "third_party_inputs": "not bundled; source terms apply"
   },
   "license_policy": "LICENSES/README.md",
-  "final_v5_population_counts": "Historical adopted counts are documented in SM1; a fresh search is not required to match them",
+  "final_v5_population_counts": "Current study counts are documented in Supplement S1; a fresh search is not required to match them",
   "production_model_availability": "not verified by authenticated calls for this package; check both snapshots in the authorized TDM environment",
   "current_frozen_configuration": "config/coding/reviewer_single_pass_v15_freeze.json",
   "scope_rules_revision": 15,
@@ -158,7 +158,7 @@
     }
   },
   "adaptations": {
-    "src/coding/extract_v5_rev13_pilot_from_xml.py": "plain_text() now closes its HTML parser after feeding text. Without this flush, text whose final segment contains an ampersand with no following space or semicolon (for example a title ending \"AT&T\" or an abstract ending \"Q&A\") was returned empty or truncated. Production inputs were unaffected: worker 1 records passed the XML evidence-hash check or used documented reference replacements, and worker 2 used the frozen reference.",
+    "src/coding/extract_v5_rev13_pilot_from_xml.py": "plain_text() now closes its HTML parser after feeding text. Without this flush, text whose final segment contains an ampersand with no following space or semicolon (for example a title ending \"AT&T\" or an abstract ending \"Q&A\") was returned empty or truncated.",
     "src/coding/run_v5_rev14_hybrid_production.py": "Portable worker assignments and search-derived roster; integrated HTTP 400 record handling for both model invokers. One scope response evaluates every aim and S1–S5 field; content returns C1–C9 for its fixed targets. Full scope dependencies and the configuration identity are pinned.",
     "src/coding/run_v5_rev14_scope_compare.py": "Live HTTP 400 handling now calls the inlined public production runner classifier before the unchanged original error branches; no separate adapter installation is needed.",
     "src/coding/run_v5_rev14_pilot.py": "Live HTTP 400 handling now calls the inlined public production runner classifier before the unchanged original error branches; no separate adapter installation is needed.",
@@ -209,7 +209,7 @@
   "archive": {
     "record_scope": "Combined study-evidence, ProQuest reader and RC-RMI scorer record",
     "record_doi": "10.5281/zenodo.23897503",
-    "doi_status": "reserved; unpublished",
+    "doi_status": "Consult the parent Zenodo record for publication status and the release date.",
     "component": "ProQuest reader",
     "component_version": "0.3.0-rc2",
     "upload_filename": "proquest_v5_reproducibility.zip",

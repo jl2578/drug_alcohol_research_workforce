@@ -1,23 +1,23 @@
 {
-  "source": "Finalized combined Zenodo upload set",
+  "source": "Verified published combined Zenodo record",
   "record_doi": "10.5281/zenodo.23897503",
   "record_version": "2026-11-02-local-v9",
   "prepared_date": "2026-11-02",
   "source_upload_files": [
     {
       "file": "CITATION.cff",
-      "bytes": 1212,
-      "sha256": "ef2489bb6be1aca809a445dd0b59e6583e2426b65befdd288312cf80ec1e972a"
+      "bytes": 1187,
+      "sha256": "3fea5632592e56d4a9ea2deb4058d98fdf12b98e9ccef6b8bc539752a49c3b67"
     },
     {
       "file": "proquest_v5_reproducibility.zip",
-      "bytes": 168898,
-      "sha256": "b3f4e26aad5ebc713fe214aea41973f73ce2f00febf1725a047e4b055bd7ba49"
+      "bytes": 168166,
+      "sha256": "b736a46376508abe01a19563a08b5f8d14ec5d76c33a869377c2f245de4ff6f0"
     },
     {
       "file": "rc_rmi_scorer.zip",
-      "bytes": 51049,
-      "sha256": "8e34e6609aaeb312a6340345513f55fd9ce1437c6e52f94ac4f037309fd40f44"
+      "bytes": 50971,
+      "sha256": "b3d3f5a2e4562fc7bb76a9693afad1a84c6ee4dbf80a062d24c0d2b9e8530e84"
     },
     {
       "file": "README.md",
@@ -27,12 +27,12 @@
     {
       "file": "SHA256SUMS.txt",
       "bytes": 425,
-      "sha256": "8a44ed3088995038d50e4503ea073bf30fe72b963d116d79e56d5dab18642a2d"
+      "sha256": "e2ae0ff4b80a58af44e99864cb4a75e0517dab4587ef90964270f715ef2b6e2f"
     },
     {
       "file": "study_evidence_v9.zip",
-      "bytes": 6519846,
-      "sha256": "0a9f7f991bcc8bb626c5b8dbe941682aa005f559b4e3938bffe6b97e330176d8"
+      "bytes": 6476500,
+      "sha256": "d5f641c93cd2c31b1912e4c91ab04d2629de14352745de36d8ae4a142ff57ac6"
     }
   ],
   "components": [
@@ -40,20 +40,29 @@
       "archive": "study_evidence_v9.zip",
       "directory": "training_workforce_evidence",
       "files": 110,
-      "sha256": "0a9f7f991bcc8bb626c5b8dbe941682aa005f559b4e3938bffe6b97e330176d8"
+      "sha256": "d5f641c93cd2c31b1912e4c91ab04d2629de14352745de36d8ae4a142ff57ac6"
     },
     {
       "archive": "proquest_v5_reproducibility.zip",
       "directory": "proquest_v5_reproducibility",
       "files": 41,
-      "sha256": "b3f4e26aad5ebc713fe214aea41973f73ce2f00febf1725a047e4b055bd7ba49"
+      "sha256": "b736a46376508abe01a19563a08b5f8d14ec5d76c33a869377c2f245de4ff6f0"
     },
     {
       "archive": "rc_rmi_scorer.zip",
       "directory": "rc_rmi_scorer",
       "files": 19,
-      "sha256": "8e34e6609aaeb312a6340345513f55fd9ce1437c6e52f94ac4f037309fd40f44"
+      "sha256": "b3d3f5a2e4562fc7bb76a9693afad1a84c6ee4dbf80a062d24c0d2b9e8530e84"
     }
   ],
-  "note": "Source archive checksums describe the Zenodo upload files, not the expanded Git tree. Component contents are preserved byte for byte. Dashboard is an empty placeholder."
+  "note": "Author-approved published release, verified against all six public Zenodo downloads. Archive hashes identify the published ZIP containers; all 170 expanded component files match their archive entries byte for byte. Dashboard output checksums and transformation provenance are recorded separately in dashboard/metadata/build.json.",
+  "publication": {
+    "status": "published",
+    "publication_date": "2026-11-02",
+    "doi_url": "https://doi.org/10.5281/zenodo.23897503",
+    "record_url": "https://zenodo.org/records/23897503",
+    "verified_at_utc": "2026-11-03T00:52:11.773682+00:00",
+    "all_six_downloads_match": true,
+    "verification": "docs/published_release_verification.json"
+  }
 }

@@ -160,6 +160,16 @@ def build(ctx):
                        source_interval_reason=src["interval_reason"])
             row["source_category_counts_all_groups_json"] = src["category_counts_all_groups_json"]
             row["category_counts_all_groups_json"] = _structured(src["category_counts_all_groups_json"])
+            # A difference of differences has four subgroup counts, not one
+            # numerator. Its saved estimate remains available independently.
+            for field in ("numerator", "counts"):
+                row[field + "_status"] = "available" if row[field] is not None else "not_applicable"
+                row[field + "_reason"] = None if row[field] is not None else "no_single_numerator_for_difference_of_differences; subgroup counts retained in category_counts_all_groups_json"
+            for field in ("denominator", "bases"):
+                row[field + "_status"] = "available" if row[field] is not None else "unavailable"
+                row[field + "_reason"] = None if row[field] is not None else "not_provided_in_released_source"
+            row["category_counts_all_groups_json_status"] = "available" if row["category_counts_all_groups_json"] is not None else "not_applicable"
+            row["category_counts_all_groups_json_reason"] = None if row["category_counts_all_groups_json"] is not None else "two_group_contrast_counts_retained_in_numerator"
             _point(row, src["estimate_percent_or_pp"])
             if src["point_status"] != "complete":
                 row.update(value=None, value_status="unavailable",

@@ -1,6 +1,6 @@
 # RC-RMI scorer
 
-This package provides a standalone scorer for the fixed RC-RMI occupation–industry instrument. Component version `rc-rmi-standalone-2026-10-30-local-v6`. It is prepared for the combined study-evidence Zenodo record, whose DOI `10.5281/zenodo.23897503` is reserved and will be registered on publication. This scorer has no separate DOI. Python 3.10 or later is sufficient; there are no third-party dependencies, network requests, paid APIs or hidden repository inputs.
+This package provides a standalone scorer for the fixed RC-RMI occupation–industry instrument. Component version `rc-rmi-standalone-2026-10-30-local-v6`. It is a component of the combined study-evidence Zenodo record, DOI `10.5281/zenodo.23897503`. This scorer has no separate DOI. Python 3.10 or later is sufficient; there are no third-party dependencies, network requests, paid APIs or hidden repository inputs.
 
 ## Run
 
@@ -33,9 +33,9 @@ See [data dictionary](DATA_DICTIONARY.md), [attribution](NOTICE.md) and [reprodu
 
 ## Archive and citation
 
-Creators, in citation order: **Jesse Liss; Maria Davradou**. Their supplied affiliations and this component version are recorded in [CITATION.cff](CITATION.cff). Cite the combined record and identify the RC-RMI scorer component/version when referring specifically to this instrument implementation. The shared DOI identifies the whole deposit, not a separate scorer publication. No public release date is asserted by this draft.
+Creators, in citation order: **Jesse Liss; Maria Davradou**. Their supplied affiliations and this component version are recorded in [CITATION.cff](CITATION.cff). Cite the combined record and identify the RC-RMI scorer component/version when referring specifically to this instrument implementation. The shared DOI identifies the whole deposit, not a separate scorer publication. Consult Zenodo for publication status and the release date.
 
-The record is prepared as three coordinated ZIP files:
+The record contains three coordinated ZIP files:
 
 - `study_evidence_v9.zip` — the supplement, aggregate evidence, result catalog and study-verification code; extracts as `training_workforce_evidence/`.
 - `proquest_v5_reproducibility.zip` — the reader-run search/coding workflow; extracts as `proquest_v5_reproducibility/`.

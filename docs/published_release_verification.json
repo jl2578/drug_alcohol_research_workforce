@@ -1,0 +1,74 @@
+{
+  "record_doi": "10.5281/zenodo.23897503",
+  "record_url": "https://zenodo.org/records/23897503",
+  "api_url": "https://zenodo.org/api/records/23897503",
+  "publication_date": "2026-11-02",
+  "verified_at_utc": "2026-11-03T00:52:11.773682+00:00",
+  "status": "published",
+  "doi_resolution_http_status": 200,
+  "deposit_version_from_files": "2026-11-02-local-v9",
+  "api_version_field_present": false,
+  "ordered_creators": [
+    {
+      "name": "Liss, Jesse",
+      "affiliation": "Rutgers University–Newark",
+      "orcid": "0000-0003-0062-2638"
+    },
+    {
+      "name": "Davradou, Maria",
+      "affiliation": "Rutgers, The State University of New Jersey",
+      "orcid": "0009-0003-3886-0022"
+    }
+  ],
+  "files": [
+    {
+      "file": "CITATION.cff",
+      "bytes": 1187,
+      "sha256": "3fea5632592e56d4a9ea2deb4058d98fdf12b98e9ccef6b8bc539752a49c3b67",
+      "zenodo_api_checksum": "md5:1b82ccc0f7e2e2effac9e5d37df6b317",
+      "download_url": "https://zenodo.org/api/records/23897503/files/CITATION.cff/content",
+      "byte_identical_to_approved_upload": true
+    },
+    {
+      "file": "README.md",
+      "bytes": 5932,
+      "sha256": "a0057e92b1821ae39aea528e0d9342cce9879383cceec07943558d5cb6ca36d2",
+      "zenodo_api_checksum": "md5:417c1cfa32073a8788bf7f4a4e693343",
+      "download_url": "https://zenodo.org/api/records/23897503/files/README.md/content",
+      "byte_identical_to_approved_upload": true
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "bytes": 425,
+      "sha256": "e2ae0ff4b80a58af44e99864cb4a75e0517dab4587ef90964270f715ef2b6e2f",
+      "zenodo_api_checksum": "md5:8a13182fd0bb0ccc5987af2076302c12",
+      "download_url": "https://zenodo.org/api/records/23897503/files/SHA256SUMS.txt/content",
+      "byte_identical_to_approved_upload": true
+    },
+    {
+      "file": "proquest_v5_reproducibility.zip",
+      "bytes": 168166,
+      "sha256": "b736a46376508abe01a19563a08b5f8d14ec5d76c33a869377c2f245de4ff6f0",
+      "zenodo_api_checksum": "md5:a6eca185769e42cd60c07a5e3f2ecb7d",
+      "download_url": "https://zenodo.org/api/records/23897503/files/proquest_v5_reproducibility.zip/content",
+      "byte_identical_to_approved_upload": true
+    },
+    {
+      "file": "rc_rmi_scorer.zip",
+      "bytes": 50971,
+      "sha256": "b3d3f5a2e4562fc7bb76a9693afad1a84c6ee4dbf80a062d24c0d2b9e8530e84",
+      "zenodo_api_checksum": "md5:3f3f02418625a97352af827b30155143",
+      "download_url": "https://zenodo.org/api/records/23897503/files/rc_rmi_scorer.zip/content",
+      "byte_identical_to_approved_upload": true
+    },
+    {
+      "file": "study_evidence_v9.zip",
+      "bytes": 6476500,
+      "sha256": "d5f641c93cd2c31b1912e4c91ab04d2629de14352745de36d8ae4a142ff57ac6",
+      "zenodo_api_checksum": "md5:cf1d07f37159aed27285363d319a80aa",
+      "download_url": "https://zenodo.org/api/records/23897503/files/study_evidence_v9.zip/content",
+      "byte_identical_to_approved_upload": true
+    }
+  ],
+  "verification_scope": "Anonymous public DOI, record page, API and six file downloads; API MD5 and deposited SHA256SUMS checked. No remote writes."
+}

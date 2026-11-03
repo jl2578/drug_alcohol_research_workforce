@@ -384,18 +384,19 @@
     "no_care_ceiling_violations": 0,
     "interpretation": "mechanical scale-functioning over possible occupation-industry pairs; not worker counts, prevalence, independent clinical validity or person-level scoring application"
   },
-  "remaining_discrepancies": [
+  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability.",
+  "source_and_validation_limitations": [
     {
       "issue": "O*NET construction vintage",
-      "finding": "Actual local task statements and task ratings are named 30.3; unversioned occupation descriptions cannot be assigned a unique release. Candidate sources.csv declares 31.0, August 2026; no O*NET 31.0 cache exists locally. Do not resolve historical use by downloading a new release."
+      "finding": "Retained task statements and ratings match O*NET 30.3; retained occupation descriptions match both 30.3 and 31.0. The legacy source register identifies 31.0. Retained-file identity does not establish which task version historical reviewers used. The companion RC-RMI scorer NOTICE.md documents source identity and attribution."
     },
     {
       "issue": "Reviewer expertise",
-      "finding": "Initial A/B and adjudication evidence are available; reviewer qualifications/expertise are not established by the inspected files. Author confirmation remains needed."
+      "finding": "Initial A/B and adjudication evidence are available; reviewer qualifications and expertise are not documented in the supplied evidence."
     },
     {
-      "issue": "SDR construct-source citation mismatch",
-      "finding": "construct_sources.csv SRC02 cites a 2021 InfoBrief about 2019 SDR, while its prose names the 2023 Table 45 materials actually retained. Use matching 2023 SDR/NSF 25-321 source citations for the reproduced comparison; preserve original register."
+      "issue": "SDR comparison sources",
+      "finding": "The reproduced comparisons use 2023 SDR Tables 45-2 and 45-1, NCSES NSF 25-321 (published 2025), as identified in SDR_sources. These are the sources for the reported comparisons."
     },
     {
       "issue": "SDR development exposure",
@@ -403,20 +404,19 @@
     },
     {
       "issue": "SDR reviewer scope",
-      "finding": "Crosswalk contains 93 rows, of which 23 claim independent human review; 8 new high-confidence and 4 precedent-accepted rows do not. Do not claim all mappings were independently double-reviewed."
+      "finding": "The crosswalk contains 93 rows, of which 23 are documented as independently human reviewed. The 8 new high-confidence and 4 precedent-accepted rows are outside that documented subset; independent double review is not established for every mapping."
     },
     {
       "issue": "SDR weighting language",
-      "finding": "Spearman uses one equally weighted category observation; the descriptive least-squares slope is weighted by All-employed counts. Blanket equal-weight language for both statistics would misdescribe the code."
+      "finding": "Spearman uses one equally weighted category observation; the descriptive least-squares slope is weighted by All-employed counts."
     },
     {
       "issue": "Machine benchmark provenance",
-      "finding": "configuration.json embeds a 231-occupation total versus 303 final instrument occupations. It records 10 usable/12 recorded runs and 1,151 responses but response-level payloads are unavailable. Machine aggregates must remain historical and cannot be represented as recomputed response-level evidence."
+      "finding": "The historical configuration records 231 occupations versus 303 final instrument occupations, 10 usable of 12 recorded runs, and 1,151 responses. Response-level payloads are unavailable, so the supplied machine aggregates are historical summaries rather than recomputed response-level evidence."
     },
     {
       "issue": "Current application",
-      "finding": "These aggregate checks do not certify current employment person counts, scores, no-hospital-override application or role profiles."
+      "finding": "These aggregate instrument checks do not independently validate employment person counts, applied scores, application of the no-hospital-override rule, or role profiles."
     }
-  ],
-  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability."
+  ]
 }

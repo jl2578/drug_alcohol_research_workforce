@@ -1,7 +1,7 @@
 {
   "version": "rq4_displays_2_3_20261016_v1",
   "input_index": "config/current_dataset_release.json",
-  "unit": "Unweighted GOID-linked employment observations; person reconciliation pending",
+  "unit": "Unweighted GOID-linked employment observations; unique-person status has not been established",
   "specifications": [
     "inclusive",
     "no_hospital_override",

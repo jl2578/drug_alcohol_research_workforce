@@ -2,7 +2,24 @@
 // Static-data client. It never runs ProQuest retrieval, model calls or scoring.
 function require(ok, message) { if (!ok) throw new Error(message); }
 
-export function validateSelection(spec, selection = {}) {
+// The released tuple specification is immutable. Build its inverted index once,
+// rather than reconstructing every row for every selector on every change.
+const tupleIndexes = new WeakMap();
+function tupleIndex(spec) {
+  if (tupleIndexes.has(spec)) return tupleIndexes.get(spec);
+  const fields = new Map(spec.fields.map((field, column) => [field, {
+    column, values:new Map(spec.domains[field].map((value, i) => [value, i])),
+    postings:spec.domains[field].map(() => []),
+  }]));
+  spec.tuples.forEach((tuple, row) => {
+    for (const entry of fields.values()) entry.postings[tuple[entry.column]].push(row);
+  });
+  const index = {fields, all:spec.tuples.map((_, i) => i)};
+  tupleIndexes.set(spec,index);
+  return index;
+}
+function normalizeSelection(spec, selection) {
+  const index = tupleIndex(spec);
   const filters = Object.create(null), virtual = Object.create(null);
   for (const [rawKey, rawValues] of Object.entries(selection)) {
     const key = Object.hasOwn(spec.aliases, rawKey) ? spec.aliases[rawKey] : rawKey;
@@ -13,16 +30,35 @@ export function validateSelection(spec, selection = {}) {
       require(values.length === 1 && spec.virtual_filters[key].values.includes(values[0]), `Invalid virtual selector: ${key}`);
       virtual[key] = values[0];
     } else {
-      require(spec.fields.includes(key), `Unknown or forbidden selector: ${key}`);
-      require(values.every(v => spec.domains[key].includes(v)), `Unknown selector value: ${key}`);
+      require(index.fields.has(key), `Unknown or forbidden selector: ${key}`);
+      require(values.every(v => index.fields.get(key).values.has(v)), `Unknown selector value: ${key}`);
       filters[key] = values;
     }
   }
-  const matches = spec.tuples.map(t => Object.fromEntries(spec.fields.map((f, i) => [f, spec.domains[f][t[i]]])))
-    .filter(r => Object.entries(filters).every(([k, vs]) => vs.includes(r[k])));
+  return {filters, virtual};
+}
+function matchingRows(spec, filters) {
+  const index = tupleIndex(spec);
+  const constraints = Object.entries(filters).map(([key, values]) => {
+    const entry = index.fields.get(key);
+    return new Set(values.flatMap(value => entry.postings[entry.values.get(value)]));
+  }).sort((a,b) => a.size-b.size);
+  if (!constraints.length) return index.all;
+  const remaining = constraints.slice(1);
+  return [...constraints[0]].filter(row => remaining.every(set => set.has(row)));
+}
+function checkWitnesses(spec, filters, matches) {
   require(matches.length > 0, 'Unsupported combination');
-  for (const [key, values] of Object.entries(filters))
-    require(values.every(v => matches.some(r => r[key] === v)), `Unsupported value within combination: ${key}`);
+  const index = tupleIndex(spec);
+  for (const [key, values] of Object.entries(filters)) {
+    const entry = index.fields.get(key), seen = new Set(matches.map(i => spec.tuples[i][entry.column]));
+    require(values.every(v => seen.has(entry.values.get(v))), `Unsupported value within combination: ${key}`);
+  }
+}
+export function validateSelection(spec, selection = {}) {
+  const {filters, virtual} = normalizeSelection(spec,selection);
+  const matches = matchingRows(spec,filters);
+  checkWitnesses(spec,filters,matches);
   return {filters, virtual, matching_tuple_count: matches.length};
 }
 
@@ -37,18 +73,21 @@ export function validateQuery(spec, query) {
 
 export function availableOptions(spec, selection = {}, field) {
   require(spec.fields.includes(field), 'Unknown filter');
-  const rest = Object.fromEntries(Object.entries(selection).filter(([k]) => (spec.aliases[k] ?? k) !== field));
-  const normalized = validateSelection(spec, rest).filters;
-  const witnesses = new Map(), col = spec.fields.indexOf(field);
-  for (const tuple of spec.tuples) {
-    const row = Object.fromEntries(spec.fields.map((f, i) => [f, spec.domains[f][tuple[i]]]));
-    if (!Object.entries(normalized).every(([k, vs]) => vs.includes(row[k]))) continue;
-    const candidate = spec.domains[field][tuple[col]];
-    if (!witnesses.has(candidate)) witnesses.set(candidate, new Map(Object.keys(normalized).map(k => [k, new Set()])));
-    for (const key of Object.keys(normalized)) witnesses.get(candidate).get(key).add(row[key]);
+  const rest = Object.fromEntries(Object.entries(selection).filter(([k]) => (Object.hasOwn(spec.aliases,k) ? spec.aliases[k] : k) !== field));
+  const normalized = normalizeSelection(spec,rest).filters, matches = matchingRows(spec,normalized);
+  checkWitnesses(spec,normalized,matches);
+  const index = tupleIndex(spec), witnesses = new Map(), col = index.fields.get(field).column;
+  const constraints = Object.entries(normalized).map(([key,values]) => {
+    const entry = index.fields.get(key);
+    return {column:entry.column, values:values.map(value => entry.values.get(value))};
+  });
+  for (const row of matches) {
+    const tuple = spec.tuples[row], candidate = tuple[col];
+    if (!witnesses.has(candidate)) witnesses.set(candidate,constraints.map(() => new Set()));
+    constraints.forEach((entry,i) => witnesses.get(candidate)[i].add(tuple[entry.column]));
   }
-  return spec.domains[field].filter(v => typeof v === 'string' && witnesses.has(v) &&
-    Object.entries(normalized).every(([k, values]) => values.every(value => witnesses.get(v).get(k).has(value))));
+  return spec.domains[field].filter((value,i) => typeof value === 'string' && witnesses.has(i) &&
+    constraints.every((entry,j) => entry.values.every(v => witnesses.get(i)[j].has(v))));
 }
 
 export function toCSV(rows, fields) {
@@ -61,17 +100,48 @@ export function decodeShard(part, columns) {
     Object.hasOwn(part.dictionaries, String(i)) && values[i] !== null ? part.dictionaries[String(i)][values[i]] : values[i]])));
 }
 
-export function createDataClient(baseURL, fetcher = globalThis.fetch) {
+export class NetworkError extends Error {
+  constructor(path, {status=null, attempts=1, cause} = {}) {
+    super(`Could not load ${path}${status ? ` (HTTP ${status})` : ''} after ${attempts} attempt${attempts === 1 ? '' : 's'}`, {cause});
+    this.name = 'NetworkError';
+    this.path = path; this.status = status; this.attempts = attempts;
+  }
+}
+
+export function createDataClient(baseURL, fetcher = globalThis.fetch, {retryAttempts=3, retryDelayMs=150, timeoutMs=10000} = {}) {
+  require(Number.isInteger(retryAttempts) && retryAttempts >= 1 && retryAttempts <= 5, 'Retries must allow 1–5 attempts');
+  require(Number.isFinite(retryDelayMs) && retryDelayMs >= 0 && Number.isFinite(timeoutMs) && timeoutMs > 0, 'Invalid request timing');
   const base = new URL(baseURL, globalThis.location?.href ?? import.meta.url);
   const cache = new Map();
+  async function request(path,url) {
+    for (let attempt=1; attempt<=retryAttempts; attempt++) {
+      const controller = new AbortController();
+      let timer, status=null;
+      try {
+        const response = await Promise.race([
+          (async () => {
+            const response = await fetcher(url,{signal:controller.signal});
+            status = response.status;
+            if (!response.ok) throw new Error(`HTTP ${status}`);
+            return await response.json();
+          })(),
+          new Promise((_,reject) => {timer=setTimeout(() => {
+            controller.abort(); reject(new Error('Request timed out'));
+          },timeoutMs);}),
+        ]);
+        return response;
+      } catch (cause) {
+        // A successful header followed by a truncated/failed body is retryable too.
+        const transient = status == null || status < 400 || status === 408 || status === 429 || status >= 500;
+        if (attempt === retryAttempts || !transient) throw new NetworkError(path,{status,attempts:attempt,cause});
+      } finally {clearTimeout(timer);}
+      if (retryDelayMs) await new Promise(resolve => setTimeout(resolve,retryDelayMs * attempt));
+    }
+  }
   async function read(path) {
     require(!path.startsWith('/') && !path.includes('..'), 'Unsafe data path');
     const url = new URL(path, base).href;
-    if (!cache.has(url)) cache.set(url, (async () => {
-      const response = await fetcher(url);
-      require(response.ok, `Cannot load ${path}: ${response.status}`);
-      return response.json();
-    })().catch(error => { cache.delete(url); throw error; }));
+    if (!cache.has(url)) cache.set(url, request(path,url).catch(error => { cache.delete(url); throw error; }));
     return cache.get(url);
   }
   async function load(dataset, selection = {}, {includeUnsupported = false} = {}) {
@@ -96,5 +166,6 @@ export function createDataClient(baseURL, fetcher = globalThis.fetch) {
             csv: () => toCSV(rows, manifest.columns)};
   }
   return {index: () => read('metadata/index.json'), load,
+          metadata: async dataset => { const i = await read('metadata/index.json'); require(Object.hasOwn(i.datasets,dataset),'Unknown dataset'); return read(i.datasets[dataset].manifest); },
           filters: async dataset => { const i = await read('metadata/index.json'); require(Object.hasOwn(i.datasets, dataset), 'Unknown dataset'); return read(i.datasets[dataset].filters); }};
 }

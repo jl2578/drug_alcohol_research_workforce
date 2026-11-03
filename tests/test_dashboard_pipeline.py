@@ -5,7 +5,9 @@ import io
 import json
 from pathlib import Path
 import sys
+import tempfile
 import unittest
+from unittest.mock import patch
 
 sys.dont_write_bytecode = True
 REPO = Path(__file__).resolve().parents[1]
@@ -34,6 +36,25 @@ class FilterTests(unittest.TestCase):
         encoded = encode_shard(rows, list(rows[0]))
         self.assertTrue(encoded['dictionaries'])
         self.assertEqual(decode_shard(encoded, list(rows[0])), rows)
+
+    def test_interface_only_edits_do_not_change_data_provenance(self):
+        import dashboard_common
+        with tempfile.TemporaryDirectory(prefix='.dashboard-build-test-', dir=REPO) as temp:
+            root = Path(temp).resolve()
+            self.assertTrue(root.is_relative_to(REPO.resolve()))
+            (root/'scripts').mkdir()
+            (root/'dashboard/assets').mkdir(parents=True)
+            (root/'scripts/build_dashboard.py').write_text('# pipeline\n')
+            client = root/'dashboard/assets/data-client.mjs'
+            interface = root/'dashboard/assets/dashboard.mjs'
+            client.write_text('// shared data client\n')
+            interface.write_text('// first presentation\n')
+            with patch.object(dashboard_common, 'REPO', root):
+                before = dashboard_common.code_provenance()['transformation_code_sha256']
+                interface.write_text('// revised presentation\n')
+                self.assertEqual(dashboard_common.code_provenance()['transformation_code_sha256'], before)
+                client.write_text('// changed selection logic\n')
+                self.assertNotEqual(dashboard_common.code_provenance()['transformation_code_sha256'], before)
 
 
 class ArtifactTests(unittest.TestCase):

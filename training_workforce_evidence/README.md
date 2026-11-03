@@ -2,7 +2,7 @@
 
 This package accompanies **Linking research content, NIH funding, and employment broadens scientific workforce evaluation: An application to U.S. drug and alcohol research**. It holds the S1–S4 scientific supplement, complete deposited tables and figures, aggregate data, and the code that checks them.
 
-Study-evidence component version `2026-11-02-local-v9`. Creators: **Jesse Liss and Maria Davradou**, in citation order. The shared Zenodo DOI **`10.5281/zenodo.23897503`** identifies the combined record containing this evidence package, the ProQuest reader and the RC-RMI scorer. The DOI was reserved during preparation; no separate component DOI is assigned.
+Study-evidence component version `2026-11-02-local-v9`. Creators: **Jesse Liss and Maria Davradou**, in citation order. The shared Zenodo DOI **`10.5281/zenodo.23897503`** identifies the combined record containing this evidence package, the ProQuest reader and the RC-RMI scorer.
 
 ## What to read
 
@@ -69,8 +69,8 @@ Download the other ZIP components from the same Zenodo record. They remain indep
 - `proquest_v5_reproducibility.zip` extracts to `proquest_v5_reproducibility/`: saved query, codebook, prompts, notebook and workflow for a new authorized ProQuest TDM Studio search/coding run (version `0.3.0-rc2`).
 - `rc_rmi_scorer.zip` extracts to `rc_rmi_scorer/`: the standalone RC-RMI occupation–industry scorer (version `rc-rmi-standalone-2026-10-30-local-v6`).
 
-This evidence ZIP is `study_evidence_v9.zip`, extracting to `training_workforce_evidence/`. Cite the combined record and identify the component/version used. The legacy navigation anchor is retained for existing references.
+This evidence ZIP is `study_evidence_v9.zip`, extracting to `training_workforce_evidence/`. Cite the combined record and identify the component/version used.
 
 ## Files and citation
 
-[MANIFEST.csv](MANIFEST.csv) lists every file with its size, hash and reuse terms. From this folder, `sha256sum -c SHA256SUMS.txt` checks them (`shasum -a 256 -c SHA256SUMS.txt` on macOS). [CITATION.cff](CITATION.cff) records the confirmed creators, affiliations, version and reserved DOI. The actual public release date will be added on publication.
+[MANIFEST.csv](MANIFEST.csv) lists every file with its size, hash and reuse terms. From this folder, `sha256sum -c SHA256SUMS.txt` checks them (`shasum -a 256 -c SHA256SUMS.txt` on macOS). [CITATION.cff](CITATION.cff) records the creators, affiliations, component version and combined-record DOI. The Zenodo record supplies the publication date.

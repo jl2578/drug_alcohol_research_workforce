@@ -9,8 +9,8 @@ Python 3.10 or later is sufficient; the build uses only the standard library. Ru
 ```text
 python -B scripts/validate_data_contract.py
 python -B scripts/build_dashboard.py
-python -B -m unittest discover -s tests -p "test_dashboard_*.py"
-node --test tests/dashboard_client.test.mjs
+python -B -m unittest discover -s tests -p "test_*.py"
+node --test tests/dashboard_client.test.mjs tests/publication_links.test.mjs
 python -B scripts/build_dashboard.py --check
 ```
 
@@ -18,7 +18,7 @@ Node 18 or later is needed only for the browser-client tests. No Python package 
 
 The build creates files in a temporary directory, validates them, then updates only its managed output paths under `dashboard/`. It refuses to overwrite an existing unmanaged file. `--check` regenerates into a temporary directory and compares every output byte without replacing outputs. A normal rebuild works from a downloaded repository ZIP; a strict `--check` also expects the recorded Git provenance to be available and unchanged.
 
-When changing build code, run the tests, commit that code locally, regenerate the datasets, and then commit the generated files. This lets manifests name the exact transformation commit without a self-referential output commit. File hashes also identify the exact code. No timestamp or absolute machine path is embedded in generated artifacts. Code changes, contract changes, or a different source snapshot require a new build and verification.
+When changing build code, run the tests, commit that code locally, regenerate the datasets, and then commit the generated files. This lets manifests name the exact transformation commit without a self-referential output commit. File hashes also identify the exact code. Dataset provenance covers the Python data-build scripts and shared data-client module; presentation-only interface scripts are validated separately and do not change the scientific data manifests. No timestamp or absolute machine path is embedded in generated artifacts. Code changes, contract changes, or a different source snapshot require a new build and verification.
 
 ## Files and provenance
 
@@ -83,4 +83,4 @@ The RC-RMI build invokes the released scorer for all three specifications, verif
 
 Employment by training field/content, observed institutional period profiles and funding-band comparisons remain deferred. They have no exports or operational selectors. The initial dashboard can be built from the completed datasets without those extensions.
 
-All three preserved component folders remain the authoritative pinned inputs. A newer archive elsewhere is not automatically adopted. Reconcile any changed submission/deposit package separately before publication, including its supplement, citation metadata and source checksums.
+All three preserved component folders now match the author-approved published Zenodo release byte for byte. The DOI and all six public downloads were verified on November 2, 2026; see [the verification record](published_release_verification.json). The supplement was copied exactly from the published archive, without editing or re-export. Future archive changes must be reconciled explicitly, with source pins and derived outputs refreshed together.

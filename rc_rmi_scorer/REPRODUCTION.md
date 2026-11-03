@@ -11,4 +11,4 @@ A specification range is neither a confidence interval nor calibrated bounds on 
 
 ## Archive identity
 
-This self-contained component is supplied as `rc_rmi_scorer.zip` within the combined Zenodo record, reserved DOI `10.5281/zenodo.23897503`. The DOI identifies the whole deposit. [CITATION.cff](CITATION.cff) records the component identity and ordered creators; the record remains unpublished until the authors publish the draft.
+This self-contained component is supplied as `rc_rmi_scorer.zip` within the combined Zenodo record, DOI `10.5281/zenodo.23897503`. The DOI identifies the whole deposit. [CITATION.cff](CITATION.cff) records the component identity and ordered creators. Consult Zenodo for publication status and the release date.

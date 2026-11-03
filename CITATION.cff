@@ -1,6 +1,6 @@
 # DOI identifies the combined record; component identity is retained separately.
 cff-version: "1.2.0"
-message: "Please cite this combined record containing the study evidence, ProQuest reader and RC-RMI scorer. The DOI was reserved during package preparation; consult Zenodo for current publication status."
+message: "Please cite this combined record containing the study evidence, ProQuest reader and RC-RMI scorer. Consult the Zenodo record for publication status and the release date."
 type: "dataset"
 title: "Linking research content, NIH funding, and employment broadens scientific workforce evaluation: An application to U.S. drug and alcohol research — Supplement and evidence"
 version: "2026-11-02-local-v9"

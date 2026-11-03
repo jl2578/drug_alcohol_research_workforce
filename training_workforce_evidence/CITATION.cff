@@ -1,6 +1,6 @@
 # DOI identifies the combined record; component identity is retained separately.
 cff-version: "1.2.0"
-message: "Study-evidence component of the combined Zenodo record. Cite the combined record and identify component version 2026-11-02-local-v9. The record DOI was reserved during preparation; no separate component DOI is assigned."
+message: "Study-evidence component of the combined Zenodo record. Cite the combined record and identify component version 2026-11-02-local-v9."
 type: "dataset"
 title: "Linking research content, NIH funding, and employment broadens scientific workforce evaluation: An application to U.S. drug and alcohol research — Supplement and evidence"
 version: "2026-11-02-local-v9"

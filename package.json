@@ -1,0 +1,13 @@
+{
+  "name": "drug-alcohol-research-workforce-dashboard",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:browser": "playwright test",
+    "test:model": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@axe-core/playwright": "^4.11.0"
+  }
+}

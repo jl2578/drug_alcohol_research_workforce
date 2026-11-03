@@ -1,5 +1,4 @@
 {
-  "documentation_date": "2026-10-02",
   "collection": "ProQuest Dissertations & Theses Global",
   "query_file": "all_topic_query.txt",
   "date_field": "Date Published",
@@ -37,7 +36,6 @@
   "topical_roster_identifiers_mapped": 21054,
   "topical_roster_distinct_works": 21051,
   "topical_roster_comparison_exclusions": 19,
-  "v5_qualifying_subset_checked": false,
   "deduplication": {
     "within": "resolved institution, completion year and degree level",
     "work_key": "normalized title-author-year",
@@ -58,7 +56,6 @@
     "additional_works": 6,
     "topical_roster_count_change": 0
   },
-  "source_processor": "src/university_frame/process_university_frame_v2.py",
   "degree_classification": {
     "reviewed_topical_pair_crosswalk": 176,
     "fallback": "Degree-only doctor/master strings or normalized MA/MS/MSc",
@@ -84,6 +81,19 @@
   },
   "comparison_unit": "ownership-resolved analysis unit including approved joint units; distinct from School Code x field family",
   "roster_links_to_nonroster_survivors": 15,
-  "topical_only_work_rule": "Reviewed record-to-work ledger required for 19 records without frame link; no automatic exclusion or one-record-one-work assumption; unresolved links block final count",
-  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability."
+  "distribution_note": "Public-methods derivative: private source locations and fingerprints are omitted; aggregate values, rules and stated limitations are retained. Historical execution metadata does not establish rerun capability.",
+  "original_frame_documentation_date": "2026-10-02",
+  "documentation_version": "2026-11-02",
+  "population_scope": "The frame and topical_roster_* counts describe the original all-topic comparison frame. Current adopted in-scope work accounting is reported separately below.",
+  "topical_roster_exclusion_note": "The original topical roster contains 19 records without a retained comparison-frame link. Frame linkage does not determine scientific inclusion. Adopted in-scope work counts use the completed work mapping summarized in current_adopted_work_accounting.",
+  "current_adopted_work_accounting": {
+    "in_scope_record_identifiers": 13229,
+    "scientific_works": 13227,
+    "extra_identifiers_consolidated": 2,
+    "other_record_losses_or_unassigned_work_keys": 0,
+    "linked_to_retained_all_topic_comparison": 13219,
+    "outside_retained_all_topic_comparison": 8
+  },
+  "current_adopted_work_accounting_source": "../sm1_coding/coding_metadata.json#adopted_work_accounting",
+  "source_processor_note": "The original frame was constructed with the university-frame processor; the supplied aggregate checks do not rerun source-record processing."
 }

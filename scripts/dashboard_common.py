@@ -138,7 +138,10 @@ def source_export_path(key):
 
 
 def code_provenance():
-    files = sorted((REPO / 'scripts').glob('*.py')) + sorted((REPO / 'dashboard/assets').glob('*.mjs'))
+    # Only the data pipeline and shared decoder/selection client define these
+    # artifacts. Presentation-only UI modules have their own interface checks;
+    # editing them must not change otherwise identical dataset provenance.
+    files = sorted((REPO / 'scripts').glob('*.py')) + [REPO / 'dashboard/assets/data-client.mjs']
     hashes = {p.relative_to(REPO).as_posix(): sha256(p.read_bytes()) for p in files}
     args = ['git', 'log', '-1', '--format=%H', '--', *hashes]
     try:

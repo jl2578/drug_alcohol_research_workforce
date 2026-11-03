@@ -1,6 +1,6 @@
 path,bytes,sha256,role,rights_scope
 .gitattributes,8,705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da,metadata,Repository configuration
-CITATION.cff,1387,0b896225cbbed9362710657fdbd715fa4de0f8042910e32fa1dafcf4c3c3f79f,metadata,Citation metadata
+CITATION.cff,1282,fba059548b1b0da2b490ed064edad7a818648b3316500c08ae6b3f100343b88a,metadata,Citation metadata
 code/check_count_tables.py,2300,396e9477ef3d297016ea11979176a20a9b3936f077c9be66980383374999501a,code,MIT original software
 code/check_employment.py,4779,bf1e31d3873f8fa10fb25f33631f7b73a3fe73db78da1dff97f8f6ef4454a8b9,code,MIT original software
 code/check_inputs.zip,30296,a86de962467a337df37924cf97bbd8db619f83f3f42446841643e756242ee8ec,code,Machine catalogs and dictionaries: CC BY 4.0 for original expression only; empirical values under the source-use notice
@@ -14,9 +14,9 @@ code/fit_count_models.py,21257,6117ebc61c963f7a19fb2fd7d2cd09d5ae8a0f4ffccae8f2a
 code/rebuild_rq2_points.py,2887,7661ee73becd64b68e8e438768084913e362f490f73a60e6c574f01b779e0a7e,code,MIT original software
 code/requirements.txt,209,f077fee92f14ec83f819bb002f1e7bd592752804a3ffdc6ec9ef5f74768970c5,code,MIT original software
 code/table_access.py,18317,761990d44f8755ce75df1017eec7d9d4fcc81429a7a2c3973827ca9e4a9b4fc5,code,MIT original software
-code/table_restore.csv,42979,7824c853c16051a0ba68ff39c791422521893883e390f6be79444895e70c7ef2,lookup,CC BY 4.0 for original expression only; empirical and source rights separate
+code/table_restore.csv,42979,8d5bbc5311859f8bd76399cec54fc121a3eb1c1e7fe88e6c0b4e6ef41e8011ae,lookup,CC BY 4.0 for original expression only; empirical and source rights separate
 code/verify_all.py,22432,a75d1af0b6b7b7bb4687a2e475ae5f4fba8d6d9af3a886e1acefe8fcbf99e5d1,code,MIT original software
-data/additional_results.zip,379301,69a9763a5f2a4c08fef6e36a1a0aae0ae980e9642bed0026aead0948fe36407c,data,Mixed by table; see data/TABLE_INDEX.csv
+data/additional_results.zip,379742,ec3f29c3cbccb644c8765b010588b6e99829081d3d5a7b23ca71972d2137a91a,data,Mixed by table; see data/TABLE_INDEX.csv
 data/catalog_displays.json,90888,a0fe74b614cec7e1e14ad34d842e0f26eafad2f384604ef616b403cd47cbb772,lookup,CC BY 4.0 for original expression only; empirical and source rights separate
 data/destination_connection.csv,29460,917d92fff4341eebef5602baeafbfbf3aa3b97ca508e7cf1b32a4ed583d99a4e,data,Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license
 data/destination_gap_contrast.csv,897,0b844dfc2a4708a58506f823f5e28a15ea9dbbadc76181577f2748841ed29a29,data,Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license
@@ -80,7 +80,7 @@ data/results.csv,1929730,746a12ec4c26ae112f3b6fe7667a02d46ef9feeabd1d8b28b776730
 data/rq2_estimates.csv,14964352,7f58a8cd0007fc55a12e09008a787621722da8fa850236d94f1ec719ccaa0f62,data,Empirical results: source-use notice in DATA_AVAILABILITY.md; no blanket data license
 data/TABLE_INDEX.csv,88894,6880583a33956a4098cf3b087160f495a599351395d62919dcb9356b2b7f91d4,lookup,CC BY 4.0 for original expression only; empirical and source rights separate
 data/validation.csv,83199,89096a28852ae652344a8933e85f9e5f64751a196be727041a4237832dc564e8,data,Mixed by table; see data/TABLE_INDEX.csv
-DATA_AVAILABILITY.md,6195,12919bd004d077833c8d16f0d03c77fe379311f4ed6d7e311939ee28a10f5b9f,read,CC BY 4.0 for original expression only; empirical and source rights separate
+DATA_AVAILABILITY.md,6060,201c2f952fdf35439e28263d9e1a04e829c6568cd0b88f85318fb0f1a7cf589f,read,CC BY 4.0 for original expression only; empirical and source rights separate
 DATA_DICTIONARY.csv,556643,9efe64effe1a55ff403d5420f9b20bf05dee8a2c938b8196c83facd6d03f37d7,lookup,CC BY 4.0 for original expression only; empirical and source rights separate
 DATA_NOTES.md,42831,cb83b616f9e03d7c20ee7a5d4ace8b17367785241d1b63448674405d96dffc0f,read,CC BY 4.0 for original expression only; empirical and source rights separate
 DISPLAY_MAP.csv,39986,492369123ceedee34d4d09b3fc3205276ba1d0658efae9fc7ceb56e523b1525d,lookup,CC BY 4.0 for original expression only; empirical and source rights separate
@@ -101,9 +101,9 @@ figures/DEP4_paired_outside_research_doctorate.pdf,30402,7aa06de77838742eaec1283
 figures/DEP4_roles_destinations_funding.pdf,42210,a06abe536a0f5af99a4d43d8ec47e65079d2fb6304445b42791bdf163b7f16dc,figure,CC BY 4.0 for original display expression only; empirical values separate
 LICENSE-CC-BY-4.0.txt,17023,d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744,metadata,License text
 LICENSE-MIT.txt,1091,15c50af67d7988d291a7c94fc2b5ecde81ad4eb23ac0401cbd008284a151ae56,metadata,License text
-README.md,6502,b6746c27d012705ce38f667db6143a85c24ac8930d5f7b124fca945ce503a9cc,read,CC BY 4.0 for original expression only; empirical and source rights separate
-REPRODUCTION.md,6338,8caf43e66f28b43994b1d82f284d13b8d272ab9600f067060b777a04f47a0167,read,CC BY 4.0 for original expression only; empirical and source rights separate
+README.md,6275,1a7292027d22daa212e2a6066411d406392a01570cb3231d6860860c2623bb7c,read,CC BY 4.0 for original expression only; empirical and source rights separate
+REPRODUCTION.md,6162,1ce4a0a7ccb85a7eb57f487af4248e68dbc6945a39d2bd1e479cb8066f19dd1f,read,CC BY 4.0 for original expression only; empirical and source rights separate
 supplement/codebook_v5_rev15.md,81480,560e701919570ee57007e7c7d770762fe193f8d2967e7de10da54d8b71fa9bc9,read,CC BY 4.0 for original expression only; empirical and third-party rights separate
-supplement/Supplement_S1_S4.docx,981112,3e3bf4559feecffbd96a7896c6f8b4d1b3bfbfeca58789dac079472e65f139a2,read,CC BY 4.0 for original expression only; empirical and third-party rights separate
-supplement/Supplement_S1_S4.pdf,1400650,07cd10f47945746713356f54d78cafa2c51134d395604681a1c1e998b8a3783b,read,CC BY 4.0 for original expression only; empirical and third-party rights separate
+supplement/Supplement_S1_S4.docx,974626,d151cda216d73b37db7fe4c0cae9df37872a99e38a391942579803a86d896e08,read,CC BY 4.0 for original expression only; empirical and third-party rights separate
+supplement/Supplement_S1_S4.pdf,1922299,1300e6f419c06eacfef7fc4b23e72432c69bf101a301c48fdfe2ae7d0678cd47,read,CC BY 4.0 for original expression only; empirical and third-party rights separate
 TABLES.html,1361344,bd6eaa152521d05774362771927253356732f94c026ea3a39adbf69b799a412a,lookup,CC BY 4.0 for original expression only; empirical and source rights separate

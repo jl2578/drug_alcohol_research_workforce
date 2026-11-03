@@ -1,8 +1,8 @@
 {
   "version": "rc-rmi-standalone-2026-10-30-local-v6",
-  "status": "prepared component of unpublished combined Zenodo draft",
+  "status": "component of combined Zenodo record",
   "files": {
-    "CITATION.cff": "a35511dd904263d743bcdd4f961e40f0207b6aa6eabb8aaff991e04f967fec5d",
+    "CITATION.cff": "afe8ccc892c73acc6abbabb60726f4086b3c68a2ec869577571cd814ad1cf8f3",
     "data/combination_rules.csv": "fd9ac49eb92b16fdfa419a38df96dfb48c532142b511fa6b9988e921de347c03",
     "data/constructs_and_scales.csv": "68ef4f71413442ca2d615513845559812f8865cb910b9ff4b386ccf07f716217",
     "data/industry_decisions.csv": "a948fb676383a79dbdc029df113879ce77e3948d593d6f5c072d0a83aae67f9d",
@@ -16,15 +16,15 @@
     "LICENSE": "15c50af67d7988d291a7c94fc2b5ecde81ad4eb23ac0401cbd008284a151ae56",
     "LICENSE-CC-BY-4.0.txt": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744",
     "NOTICE.md": "924ee670665f8a0d8f822070ba048bdd6b49c10655a7b004881852d8e1f8f758",
-    "README.md": "282a66103a4a9b65ce5dc8c594d21c9d4545476fea20722a526c0712315b3455",
-    "REPRODUCTION.md": "c9da57f2706c07b76e98228228331b0bcd8620b24f365942745cb32a0a63f582",
+    "README.md": "485dbe30ade76ab43f0d0024e30eee5972613561f1658f9fbffbe6421fef3758",
+    "REPRODUCTION.md": "8358f489a340fe5ec2426882e829f2c31b72dbd7322ea8a0923f044612a5583c",
     "scorer.py": "fa27fac4d229de14132eef9746bd5d9355d257e1765e7bea71f0da5cb3484303",
     "test_scorer.py": "a65577853cb3b758f9e271329394dff05ff4e1841f085d11f74bcb6fa715d1f3"
   },
   "archive": {
     "doi": "10.5281/zenodo.23897503",
     "doi_scope": "combined study-evidence record; not a component-specific DOI",
-    "publication_status": "reserved; unpublished",
+    "publication_status": "Consult the parent Zenodo record for publication status and the release date.",
     "upload_filename": "rc_rmi_scorer.zip",
     "extracted_folder": "rc_rmi_scorer"
   }

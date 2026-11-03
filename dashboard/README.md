@@ -1,6 +1,8 @@
 # Dashboard data
 
-The datasets and static-data loader are prepared locally. The visual dashboard and GitHub Pages deployment remain to be built.
+The interactive dashboard, datasets and static-data loader are available locally. GitHub Pages deployment remains pending.
+
+Using Python 3.11 or newer, run `python -B -m http.server 8123 --bind 127.0.0.1 --protocol HTTP/1.1` from the repository root, then open **http://127.0.0.1:8123/dashboard/**. See the [interface guide](../docs/dashboard_interface.md).
 
 - [Dataset index](metadata/index.json): 26 datasets supporting 25 included views. Fetch this small index first.
 - [Build receipt](metadata/build.json): output checksums, row counts, pinned inputs and transformation-code provenance.
@@ -8,6 +10,6 @@ The datasets and static-data loader are prepared locally. The visual dashboard a
 - [ProQuest reader workflow ZIP](downloads/proquest_v5_reproducibility.zip): all 41 pinned reader files. Retrieval and model calls run separately with authorized inputs.
 - [Build and integration guide](../docs/dashboard_build.md): commands, JSON decoding, filters and scientific constraints.
 
-Every dataset has a full CSV in `data/`, a JSON shard manifest at the matching `.json` path, and a provenance/definitions manifest in `metadata/datasets/`. Browser JSON uses exact string dictionaries and column arrays to reduce repeated text; decoding restores the same canonical records as the CSV. Files are split by dataset and into bounded shards.
+Every dataset has a full CSV in `data/`, a JSON shard manifest at the matching `.json` path, and a provenance/definitions manifest in `metadata/datasets/`. Each manifest links a CSVW column dictionary in `metadata/dictionaries/`, including source bindings, status meanings and counts of nonempty values. Browser JSON uses exact string dictionaries and column arrays to reduce repeated text; decoding restores the same canonical records as the CSV. Files are split by dataset and into bounded shards. Selection CSV downloads omit only columns empty for the whole selected subset; the full canonical CSV retains all source columns.
 
-These files derive from the pinned [three-package snapshot](../ZENODO_SOURCE.json). The supplement and all source-package files remain unchanged. Reuse terms remain source-specific; consult each dataset manifest and its linked notices. The RC-RMI lookup enumerates potential occupation–industry combinations, not observed workers.
+These files derive from the verified published [three-package snapshot](../ZENODO_SOURCE.json), aligned to Zenodo on November 2, 2026. The supplement and all source-package files are preserved byte for byte from the published ZIP contents. Reuse terms remain source-specific; consult each dataset manifest and its linked notices. The RC-RMI lookup enumerates potential occupation–industry combinations, not observed workers.

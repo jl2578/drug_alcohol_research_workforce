@@ -1,6 +1,6 @@
 # First-release dashboard scope
 
-Step 3 decisions, 2 November 2026. These resolve the scope questions in the [view-to-table map](dashboard_view_map.md). The [machine-readable decisions](dashboard_scope.json) pin the source versions, institution roster and benchmark definition. No dashboard data or interface is generated in this step.
+Step 3 decisions, 2 November 2026. These resolve the scope questions in the [view-to-table map](dashboard_view_map.md). The [machine-readable decisions](dashboard_scope.json) pin the source versions, institution roster and benchmark definition. These definitions are implemented by the data build, with sources aligned to the verified published release. The local interface implements this scope; GitHub Pages deployment remains pending. See the [interface guide](dashboard_interface.md).
 
 ## Decisions
 
@@ -12,7 +12,7 @@ Step 3 decisions, 2 November 2026. These resolve the scope questions in the [vie
 | Employment by training field/content | Deferred until reviewed joint aggregates exist. Existing margins cannot supply these intersections. |
 | Funding-band comparisons | Deferred until the funding measure, bands and joint comparison populations are defined and validated. |
 
-The other mapped views retain their source-specific controls and limitations. There are 25 views in preparation scope and three deferred extensions. This is a build scope, not a claim that 25 views are already operational.
+The other mapped views retain their source-specific controls and limitations. The 25 included preparation views are represented by 26 dashboard datasets. The three deferred extensions remain unavailable.
 
 ## Institution profiles
 
@@ -53,6 +53,6 @@ Keep the three deferred extensions out of operational controls and URL states. R
 
 ## Implementation handoff
 
-The [dataset contract](dashboard_data_contract.md) now defines the included exports. Next implement the adapters. The benchmark will be a new documented dashboard derivation from released fitted points; it will not be inserted into the evidence package or supplement. Validate selection invariance, fixed roster membership, missing-input behavior and chart/table/download agreement during implementation.
+The [dataset contract](dashboard_data_contract.md) defines the implemented exports. The benchmark is a documented dashboard derivation from released fitted points; it is not inserted into the evidence package or supplement. Regression checks cover selection invariance, fixed roster membership, missing-input behavior and chart/table/download agreement. See the [interface guide](dashboard_interface.md) for local preview and release checks.
 
-The three source packages, the frozen Word/PDF supplement, and the original synthetic prototype remain unchanged. The `dashboard/` folder still contains only `.gitkeep`. Nothing has been uploaded or published.
+The dashboard uses the three checksum-pinned packages aligned to the published Zenodo deposit. Interface development leaves those packages and the frozen Word/PDF supplement unchanged. The `dashboard/` folder contains the real-data interface, generated data and metadata. The earlier synthetic prototype is not part of the dashboard assets. GitHub/Pages publication is a separate pending step.
