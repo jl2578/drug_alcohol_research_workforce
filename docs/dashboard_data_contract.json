@@ -1,7 +1,7 @@
 {
   "contract_version": "1.0.0",
   "created_date": "2026-11-02",
-  "stage": "Step 4: specification only; no empirical exports, benchmark calculation or site build.",
+  "stage": "Step 5 implemented: deterministic exports and validation; see dashboard/metadata/build.json for output state and checksums.",
   "evidence_version": "2026-11-02-local-v9",
   "record_doi": "10.5281/zenodo.23897503",
   "input_documents": {
@@ -199,7 +199,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/population_composition.csv",
         "json": "dashboard/data/population_composition.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -324,7 +324,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/content_observed.csv",
         "json": "dashboard/data/content_observed.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -435,7 +435,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/content_observed_difference.csv",
         "json": "dashboard/data/content_observed_difference.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -558,7 +558,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/content_fitted.csv",
         "json": "dashboard/data/content_fitted.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -705,7 +705,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/content_fitted_contrasts.csv",
         "json": "dashboard/data/content_fitted_contrasts.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -835,7 +835,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/content_temporal_changes.csv",
         "json": "dashboard/data/content_temporal_changes.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -965,7 +965,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/institution_profiles.csv",
         "json": "dashboard/data/institution_profiles.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1070,7 +1070,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/institution_benchmark.csv",
         "json": "dashboard/data/institution_benchmark.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1159,7 +1159,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/funding_reach.csv",
         "json": "dashboard/data/funding_reach.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1271,7 +1271,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/funding_content_profiles.csv",
         "json": "dashboard/data/funding_content_profiles.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1406,7 +1406,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/funding_content_contrasts.csv",
         "json": "dashboard/data/funding_content_contrasts.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1511,7 +1511,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/institutional_count_associations.csv",
         "json": "dashboard/data/institutional_count_associations.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1605,7 +1605,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/within_pi_participation.csv",
         "json": "dashboard/data/within_pi_participation.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1698,7 +1698,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/award_frame_disposition.csv",
         "json": "dashboard/data/award_frame_disposition.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1841,7 +1841,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/award_search_capture.csv",
         "json": "dashboard/data/award_search_capture.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -1940,7 +1940,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/employment_roles.csv",
         "json": "dashboard/data/employment_roles.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2052,7 +2052,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/employment_occupations.csv",
         "json": "dashboard/data/employment_occupations.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2157,7 +2157,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/outside_destinations.csv",
         "json": "dashboard/data/outside_destinations.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2273,7 +2273,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/outside_roles.csv",
         "json": "dashboard/data/outside_roles.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2377,7 +2377,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/employment_connection_profiles.csv",
         "json": "dashboard/data/employment_connection_profiles.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2495,7 +2495,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/destination_connection.csv",
         "json": "dashboard/data/destination_connection.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2603,7 +2603,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/destination_saved_contrasts.csv",
         "json": "dashboard/data/destination_saved_contrasts.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2711,7 +2711,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/employment_sensitivities.csv",
         "json": "dashboard/data/employment_sensitivities.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2865,7 +2865,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/outside_occupation_breakdowns.csv",
         "json": "dashboard/data/outside_occupation_breakdowns.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -2918,7 +2918,7 @@
           "soc_code_canonical",
           "naics_code_canonical"
         ],
-        "combination_rule": "Allow the full canonical 303×68 domain under inclusive,no_hospital_override,conservative, after future generation passes the frozen fingerprints. Noncanonical input uses the exact released crosswalk; no guessed mapping.",
+        "combination_rule": "Allow the full canonical 303×68 domain under inclusive,no_hospital_override,conservative, only after generation passes the frozen fingerprints. Noncanonical input uses the exact released crosswalk; no guessed mapping.",
         "category_selection_rule": "Selectors retrieve a pair; there is no denominator or renormalization.",
         "forbidden": [
           "person",
@@ -2931,7 +2931,7 @@
       "transformation": {
         "id": "rc_rmi_domain_v1",
         "steps": [
-          "Later invoke scorer domain once for each of the three declared implemented specifications.",
+          "Invoke scorer domain once for each of the three declared implemented specifications.",
           "Start each run from recorded component inputs and the released operation order; do not feed resolved scores back as bases.",
           "Verify all pair counts and expected_domain_fingerprints before browser output.",
           "Preserve canonical codes as strings and all output score/joint-class fields."
@@ -2953,14 +2953,14 @@
         "Clinical gate and frozen rules must retain scorer behavior; do not regenerate logic in browser ad hoc.",
         "Key fields must exist and be nonblank; do not invent a key from row position. source_key is a structured ordered key array, not an empty scalar."
       ],
-      "build_status": "Contract only; lookup was not generated.",
+      "build_status": "Implemented by scripts/build_dashboard.py; output receipt in dashboard/metadata/build.json.",
       "source_key_encoding": "Where source_key is used: ordered array of exact string values for that primary source key, serialized as compact UTF-8 JSON. This avoids delimiter collisions and retains empty pooled-code values. source_table_id distinguishes heterogeneous table families.",
       "allowed_blank_key_fields": [],
       "contract_version": "1.0.0",
       "planned_outputs": {
         "csv": "dashboard/data/rc_rmi_lookup.csv",
         "json": "dashboard/data/rc_rmi_lookup.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",
@@ -3036,7 +3036,7 @@
       "planned_outputs": {
         "csv": "dashboard/data/table_catalog.csv",
         "json": "dashboard/data/table_catalog.json",
-        "status": "not_generated"
+        "status": "generated_by_build_dashboard"
       },
       "provenance_rule": "Record each source table ID and source record key, or all contributing source keys for a derived row; resolve hashes, component version, rights and download route through source_registry.",
       "reuse_rule": "Retain the applicable source notices for every contributing source. Transformation does not grant broader rights. See source_registry and file_registry.",

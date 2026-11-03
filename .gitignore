@@ -7,3 +7,4 @@ __pycache__/
 Thumbs.db
 /verification-output/
 /readable-tables/
+/.dashboard-build-*/

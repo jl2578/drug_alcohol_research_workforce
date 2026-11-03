@@ -2,7 +2,7 @@
 """Check the dashboard specification against released sources; write no exports.
 
 Run from any directory: python -B scripts/validate_data_contract.py
-This validates inputs and declarations, not the as-yet unbuilt output datasets.
+This validates inputs and declarations; test_dashboard_pipeline.py validates generated outputs.
 """
 import csv
 import hashlib
@@ -63,7 +63,7 @@ def main():
         ids.add(d['id']); covered.update(d['view_ids'])
         require(d['output_key'] and len(d['output_key']) == len(set(d['output_key'])), 'Invalid output key: ' + d['id'])
         require(d['transformation']['id'] and d['transformation']['steps'], 'Missing transformation: ' + d['id'])
-        require(d['planned_outputs']['status'] == 'not_generated', 'Unexpected output-state assertion')
+        require(d['planned_outputs']['status'] == 'generated_by_build_dashboard', 'Unexpected output-state declaration')
         for s in d['primary_sources'] + d['support_sources']:
             require(s['table_id'] in cached, 'Missing registered source: ' + s['table_id'])
         for s in d['primary_sources']:

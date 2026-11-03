@@ -2,7 +2,7 @@
 
 Data, code, and supplementary materials for **Linking research content, NIH funding, and employment broadens scientific workforce evaluation: An application to U.S. drug and alcohol research**, by Jesse Liss and Maria Davradou.
 
-This repository contains the three expanded components from the finalized combined Zenodo upload set, version `2026-11-02-local-v9`. The component files are preserved byte for byte. [ZENODO_SOURCE.json](ZENODO_SOURCE.json) records the source archives and checksums.
+This repository contains the three expanded components from a pinned snapshot of the combined Zenodo upload set, version `2026-11-02-local-v9`. The component files are preserved byte for byte. [ZENODO_SOURCE.json](ZENODO_SOURCE.json) records the source archives and checksums.
 
 ## Start here
 
@@ -11,7 +11,7 @@ This repository contains the three expanded components from the finalized combin
 | [training_workforce_evidence](training_workforce_evidence/README.md) | Frozen S1–S4 supplement, aggregate and institutional data, saved results, figures, table catalog, and verification/export code |
 | [proquest_v5_reproducibility](proquest_v5_reproducibility/README.md) | ProQuest TDM Studio reader workflow, saved query, codebook, prompts, schemas, notebook and synthetic tests |
 | [rc_rmi_scorer](rc_rmi_scorer/README.md) | RC-RMI occupation–industry instrument, scoring rules, crosswalk and standalone scorer |
-| dashboard/ | Reserved for the future GitHub Pages dashboard; currently contains only an empty `.gitkeep` placeholder |
+| [dashboard](dashboard/README.md) | Generated CSV/JSON datasets, source-table downloads, filter definitions and static-data loader; visual interface pending |
 
 For the evidence, start with the [table catalog](training_workforce_evidence/TABLES.html), [data notes](training_workforce_evidence/DATA_NOTES.md), and [reproduction guide](training_workforce_evidence/REPRODUCTION.md). Download or clone the repository and open `TABLES.html` in a browser to use the interactive catalog. GitHub Pages has not been configured as part of this preparation.
 
@@ -33,10 +33,12 @@ Licensed ProQuest source records/text, identifying linkage files and individual 
 
 There is no blanket license over the repository. Original software is MIT licensed; original documentation, codebooks, instrument judgments and display expression use CC BY 4.0 within the authors' stated rights. Empirical and third-party material retains its source-specific status. Consult each component's licenses, notices and manifests.
 
-Dashboard development will take place outside the three preserved component folders. No dashboard data, synthetic mock-up or application has been added yet.
+Dashboard data preparation takes place outside the three preserved component folders. The generated datasets use released evidence and the released scorer. The visual interface and GitHub Pages deployment remain pending.
 
-The [dashboard view-to-table map](docs/dashboard_view_map.md) identifies the released sources, supported filters, denominators and remaining definition/data gaps. Its [machine-readable companion](docs/dashboard_view_map.json) records exact fields and source checksums. These are preparation documents; the dashboard folder remains an empty placeholder.
+The [dashboard view-to-table map](docs/dashboard_view_map.md) identifies the released sources, supported filters, denominators and remaining definition/data gaps. Its [machine-readable companion](docs/dashboard_view_map.json) records exact fields and source checksums. The [build guide](docs/dashboard_build.md) describes the implemented exports and browser loading rules.
 
-[First-release scope decisions](docs/dashboard_scope.md) adopt fitted institutional profiles and a fixed equal-institution reference, and defer the three extensions requiring new aggregates. Dataset and interface implementation remain pending.
+[First-release scope decisions](docs/dashboard_scope.md) adopt fitted institutional profiles and a fixed equal-institution reference, and defer the three extensions requiring new aggregates. The included datasets are implemented; the interface remains to be connected.
 
 The [data contract](docs/dashboard_data_contract.md) and [machine-readable specifications](docs/dashboard_data_contract.json) define the rows, keys, measures, statuses and provenance for those datasets. Run `python -B scripts/validate_data_contract.py` to check the contract against the released sources without producing exports.
+
+Build all 26 datasets with `python -B scripts/build_dashboard.py`. See the [dataset index](dashboard/metadata/index.json), [build receipt](dashboard/metadata/build.json), and [verification commands](docs/dashboard_build.md#rebuild). The frozen reader workflow is [downloadable separately](dashboard/downloads/proquest_v5_reproducibility.zip). No GitHub push or Pages deployment is part of this local preparation.

@@ -1,6 +1,6 @@
 # Dashboard data contract
 
-Version 1.0.0 · 2 November 2026. This specifies the included views in the [scope decisions](dashboard_scope.md). No dashboard exports are produced here. The [JSON contract](dashboard_data_contract.json) contains exact source keys, field bindings, transformations, checksums, reuse notices and download routes.
+Version 1.0.0 · 2 November 2026. This specifies the included views in the [scope decisions](dashboard_scope.md). The specification is implemented by the [Step 5 build](dashboard_build.md); its [receipt](../dashboard/metadata/build.json) records generated outputs. The [JSON contract](dashboard_data_contract.json) contains exact source keys, field bindings, transformations, checksums, reuse notices and download routes.
 
 ## Shared rules
 
@@ -537,7 +537,7 @@ Version 1.0.0 · 2 November 2026. This specifies the included views in the [scop
 
 **Base and weighting:** numerator: Not applicable: instrument lookup. Denominator: Not applicable: not a sampled-person percentage. Weighting: None: deterministic rule application to each potential pair.
 
-**Filters:** specification, soc_code_canonical, naics_code_canonical. Allow the full canonical 303×68 domain under inclusive,no_hospital_override,conservative, after future generation passes the frozen fingerprints. Noncanonical input uses the exact released crosswalk; no guessed mapping.
+**Filters:** specification, soc_code_canonical, naics_code_canonical. Allow the full canonical 303×68 domain under inclusive,no_hospital_override,conservative, only after generation passes the frozen fingerprints. Noncanonical input uses the exact released crosswalk; no guessed mapping.
 
 **Uncertainty:** not_applicable. Preserve the source-specific field bindings and statuses in the JSON contract.
 
@@ -581,10 +581,10 @@ Version 1.0.0 · 2 November 2026. This specifies the included views in the [scop
 
 The JSON contract is authoritative for field bindings and source-specific selectors. Its shared_contract defines numeric serialization, row IDs, separate support/value/interval states, manifest fields and validation gates. Source registry entries retain the exact restored-table hash, container hash, component version, rights notice, existing source download and ordinary-table export command.
 
-The proposed dashboard/data filenames are future outputs, not existing downloads. Existing source containers and table-catalog links remain usable locally. The three deferred views have no export contract in this version.
+The dashboard/data paths are generated downloads. Matching JSON paths are shard manifests decoded by the static-data client. Existing source containers and table-catalog links remain usable locally. The three deferred views have no export contract in this version.
 
 ## Validation and next step
 
 Run `python -B scripts/validate_data_contract.py` from the repository root to check the specification against the released sources. This reads and verifies source keys/hashes without generating datasets.
 
-Next implement deterministic adapters and validate their actual outputs against this contract. The 170 package files, frozen supplement and dashboard placeholder remain unchanged.
+The deterministic adapters and CSV/JSON verification are implemented in Step 5. See the [build guide](dashboard_build.md) for commands and loader behavior. All 170 package files, including the frozen supplement, remain unchanged.
