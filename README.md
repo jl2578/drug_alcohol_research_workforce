@@ -27,6 +27,10 @@ Run outputs outside the preserved component folders. Run reader synthetic tests 
 
 Use [CITATION.cff](CITATION.cff) for the combined record and identify the component version used. The shared DOI is [10.5281/zenodo.23897503](https://doi.org/10.5281/zenodo.23897503). The record was published on November 2, 2026. Its DOI resolves publicly, and all six deposited downloads were verified byte for byte against the approved release; see the [verification record](docs/published_release_verification.json). The three components retain their own versions and citation metadata.
 
+## Funding
+
+The study was supported in part by the National Institute on Drug Abuse of the National Institutes of Health under award R25DA061485; ProQuest text and data mining costs were covered through Rutgers University’s institutional license. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
 ## Access and reuse
 
 Licensed ProQuest source records/text, identifying linkage files and individual employment records are excluded. See the [data availability statement](training_workforce_evidence/DATA_AVAILABILITY.md) for the released materials and reproduction limits.
