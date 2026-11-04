@@ -43,6 +43,7 @@ test('overview states the released reach, role and composition counts', async ({
   await expect(page.locator('#findings')).toContainText('3,236 of 7,964 research-doctorate works');
   await expect(page.locator('#findings')).toContainText('110 of 190 authors');
   await expect(page.locator('#composition-lead')).toHaveText('Research doctorates make up 60% of the 13,227 works; master’s theses 26%.');
+  expect(await page.locator('.org-logo').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true);
   await page.getByRole('button', {name: 'By field'}).click();
   await expect(page.locator('#composition .row').first()).toContainText('Psychology');
 });
