@@ -35,7 +35,7 @@ The study was supported in part by the National Institute on Drug Abuse of the N
 
 Licensed ProQuest source records/text, identifying linkage files and individual employment records are excluded. See the [data availability statement](training_workforce_evidence/DATA_AVAILABILITY.md) for the released materials and reproduction limits.
 
-There is no blanket license over the repository. Original software is MIT licensed; original documentation, codebooks, instrument judgments and display expression use CC BY 4.0 within the authors' stated rights. Empirical and third-party material retains its source-specific status. Consult each component's licenses, notices and manifests.
+There is no blanket license over the repository. Original software is MIT licensed; original documentation, codebooks, instrument judgments and display expression use CC BY 4.0 within the authors' stated rights. Empirical and third-party material retains its source-specific status. The Rutgers Addiction Research Center logo (`dashboard/assets/rarc-logo.png`) is a Rutgers University mark; it is not covered by the MIT or CC BY 4.0 licenses and may not be reused without Rutgers’ permission. Consult each component's licenses, notices and manifests.
 
 Dashboard data preparation takes place outside the three preserved component folders. The generated datasets use released evidence and the released scorer. The interactive dashboard is available locally: plain-language front pages start at `dashboard/index.html`, and the full data explorer is `dashboard/explore.html`. GitHub Pages deployment remains pending.
 
