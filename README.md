@@ -1,4 +1,4 @@
-# Drug and alcohol research workforce
+# Drug and alcohol research-trained workforce
 
 Data, code, and supplementary materials for **Linking research content, NIH funding, and employment broadens scientific workforce evaluation: An application to U.S. drug and alcohol research**, by Jesse Liss and Maria Davradou.
 
